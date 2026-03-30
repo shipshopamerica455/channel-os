@@ -1,0 +1,959 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Genius Junkie — Mockup</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #fff;
+      color: #111;
+    }
+
+    /* ── NAV ── */
+    nav {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 48px;
+      height: 64px;
+      border-bottom: 1px solid #eee;
+      position: sticky;
+      top: 0;
+      background: #fff;
+      z-index: 100;
+    }
+
+    .nav-logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 800;
+      font-size: 18px;
+      text-decoration: none;
+      color: #111;
+    }
+
+    .nav-logo img {
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 28px;
+      list-style: none;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: #444;
+      font-size: 14px;
+      font-weight: 500;
+      transition: color .15s;
+    }
+
+    .nav-links a:hover { color: #111; }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+
+    .btn-subscribe {
+      background: #e91e8c;
+      color: #fff;
+      border: none;
+      border-radius: 100px;
+      padding: 9px 20px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: opacity .15s;
+    }
+
+    .btn-subscribe:hover { opacity: .88; }
+
+    .btn-signin {
+      font-size: 14px;
+      font-weight: 500;
+      color: #444;
+      background: none;
+      border: none;
+      cursor: pointer;
+    }
+
+    /* ── HERO ── */
+    .hero {
+      background: linear-gradient(135deg, #fff8f0 0%, #ffeef8 100%);
+      padding: 64px 48px 56px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 40px;
+    }
+
+    .hero-text { max-width: 560px; }
+
+    .hero-badge {
+      display: inline-block;
+      background: #fde8f4;
+      color: #c0166f;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      border-radius: 100px;
+      padding: 4px 12px;
+      margin-bottom: 16px;
+    }
+
+    .hero h1 {
+      font-size: 42px;
+      font-weight: 800;
+      line-height: 1.15;
+      margin-bottom: 16px;
+      color: #111;
+    }
+
+    .hero h1 span { color: #e91e8c; }
+
+    .hero p {
+      font-size: 17px;
+      color: #555;
+      line-height: 1.65;
+      margin-bottom: 28px;
+    }
+
+    .hero-cta {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .btn-primary {
+      background: #e91e8c;
+      color: #fff;
+      border: none;
+      border-radius: 100px;
+      padding: 13px 28px;
+      font-size: 15px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: opacity .15s;
+    }
+
+    .btn-primary:hover { opacity: .88; }
+
+    .btn-secondary {
+      background: #fff;
+      color: #333;
+      border: 1.5px solid #ddd;
+      border-radius: 100px;
+      padding: 13px 28px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .hero-stats {
+      display: flex;
+      gap: 28px;
+      margin-top: 36px;
+      flex-wrap: wrap;
+    }
+
+    .stat {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .stat-num {
+      font-size: 22px;
+      font-weight: 800;
+      color: #e91e8c;
+    }
+
+    .stat-label {
+      font-size: 12px;
+      color: #888;
+      margin-top: 2px;
+    }
+
+    .hero-visual {
+      flex-shrink: 0;
+      background: #fff;
+      border-radius: 20px;
+      box-shadow: 0 8px 40px rgba(0,0,0,.10);
+      padding: 24px;
+      width: 300px;
+    }
+
+    .hero-visual-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      margin-bottom: 14px;
+    }
+
+    .mini-card {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 0;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .mini-card:last-child { border-bottom: none; }
+
+    .mini-thumb {
+      width: 44px;
+      height: 44px;
+      border-radius: 8px;
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+    }
+
+    .mini-card-text { font-size: 13px; font-weight: 600; color: #222; line-height: 1.3; }
+    .mini-card-sub { font-size: 11px; color: #999; margin-top: 2px; }
+
+    /* ── CATEGORIES ── */
+    .categories {
+      padding: 40px 48px 0;
+    }
+
+    .section-label {
+      font-size: 12px;
+      font-weight: 700;
+      color: #e91e8c;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      margin-bottom: 16px;
+    }
+
+    .cat-pills {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .pill {
+      background: #f5f5f5;
+      border: none;
+      border-radius: 100px;
+      padding: 8px 18px;
+      font-size: 13px;
+      font-weight: 600;
+      color: #444;
+      cursor: pointer;
+      transition: all .15s;
+    }
+
+    .pill:hover, .pill.active {
+      background: #e91e8c;
+      color: #fff;
+    }
+
+    /* ── MAIN LAYOUT ── */
+    .main-layout {
+      display: grid;
+      grid-template-columns: 1fr 340px;
+      gap: 48px;
+      padding: 40px 48px 64px;
+      max-width: 1300px;
+    }
+
+    /* ── FEATURED ── */
+    .featured-card {
+      background: #111;
+      border-radius: 20px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      margin-bottom: 40px;
+      position: relative;
+    }
+
+    .featured-img {
+      height: 280px;
+      background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .featured-img-overlay {
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, transparent 40%, rgba(0,0,0,.7));
+    }
+
+    .featured-img-text {
+      position: relative;
+      z-index: 2;
+      text-align: center;
+      padding: 24px;
+    }
+
+    .featured-img-text .big-emoji { font-size: 64px; display: block; margin-bottom: 12px; }
+
+    .featured-img-text h3 {
+      color: #fff;
+      font-size: 22px;
+      font-weight: 800;
+      text-shadow: 0 2px 8px rgba(0,0,0,.4);
+    }
+
+    .featured-badge {
+      position: absolute;
+      top: 16px;
+      left: 16px;
+      background: #e91e8c;
+      color: #fff;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+      border-radius: 100px;
+      padding: 4px 10px;
+      z-index: 3;
+    }
+
+    .featured-body { padding: 28px; }
+
+    .featured-body .tag {
+      font-size: 11px;
+      font-weight: 700;
+      color: #e91e8c;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      margin-bottom: 10px;
+    }
+
+    .featured-body h2 {
+      font-size: 26px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.25;
+      margin-bottom: 12px;
+    }
+
+    .featured-body p {
+      font-size: 14px;
+      color: #aaa;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    .featured-meta {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .avatar {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #e91e8c, #ff6b35);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 700;
+      flex-shrink: 0;
+    }
+
+    .meta-text { font-size: 12px; color: #777; }
+    .meta-text strong { color: #bbb; }
+
+    /* ── ARTICLE GRID ── */
+    .grid-label {
+      font-size: 18px;
+      font-weight: 800;
+      margin-bottom: 24px;
+    }
+
+    .article-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 24px;
+    }
+
+    .article-card {
+      border: 1px solid #eee;
+      border-radius: 16px;
+      overflow: hidden;
+      transition: box-shadow .2s, transform .2s;
+      cursor: pointer;
+    }
+
+    .article-card:hover {
+      box-shadow: 0 8px 32px rgba(0,0,0,.08);
+      transform: translateY(-2px);
+    }
+
+    .card-thumb {
+      height: 160px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 36px;
+      position: relative;
+    }
+
+    .card-thumb .thumb-tag {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: rgba(0,0,0,.55);
+      color: #fff;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      border-radius: 100px;
+      padding: 3px 8px;
+    }
+
+    .card-body { padding: 16px; }
+
+    .card-body h3 {
+      font-size: 15px;
+      font-weight: 700;
+      color: #111;
+      line-height: 1.35;
+      margin-bottom: 8px;
+    }
+
+    .card-body p {
+      font-size: 13px;
+      color: #777;
+      line-height: 1.5;
+      margin-bottom: 12px;
+    }
+
+    .card-meta {
+      font-size: 11px;
+      color: #bbb;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    /* ── SIDEBAR ── */
+    .sidebar { }
+
+    .author-card {
+      background: linear-gradient(135deg, #fff8f0, #ffeef8);
+      border-radius: 20px;
+      padding: 28px;
+      text-align: center;
+      margin-bottom: 28px;
+    }
+
+    .author-avatar {
+      width: 72px;
+      height: 72px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, #e91e8c, #ff6b35);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      font-weight: 800;
+      color: #fff;
+      margin: 0 auto 14px;
+      border: 3px solid #fff;
+      box-shadow: 0 4px 16px rgba(233,30,140,.25);
+    }
+
+    .author-name { font-size: 17px; font-weight: 800; margin-bottom: 4px; }
+    .author-handle { font-size: 13px; color: #e91e8c; font-weight: 600; margin-bottom: 12px; }
+    .author-bio { font-size: 13px; color: #666; line-height: 1.6; margin-bottom: 20px; }
+
+    .author-card .btn-subscribe { width: 100%; padding: 11px; font-size: 14px; }
+
+    .sidebar-section {
+      margin-bottom: 28px;
+    }
+
+    .sidebar-section-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #111;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 2px solid #f0f0f0;
+    }
+
+    .popular-list { list-style: none; }
+
+    .popular-item {
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+      padding: 12px 0;
+      border-bottom: 1px solid #f5f5f5;
+      cursor: pointer;
+    }
+
+    .popular-item:last-child { border-bottom: none; }
+
+    .popular-num {
+      font-size: 20px;
+      font-weight: 800;
+      color: #f0e0ea;
+      min-width: 28px;
+      line-height: 1;
+      margin-top: 2px;
+    }
+
+    .popular-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: #222;
+      line-height: 1.4;
+    }
+
+    .popular-sub { font-size: 11px; color: #bbb; margin-top: 3px; }
+
+    .freebie-card {
+      background: #111;
+      border-radius: 16px;
+      padding: 24px;
+      color: #fff;
+      text-align: center;
+    }
+
+    .freebie-emoji { font-size: 40px; margin-bottom: 12px; display: block; }
+    .freebie-card h4 { font-size: 16px; font-weight: 800; margin-bottom: 8px; }
+    .freebie-card p { font-size: 13px; color: #aaa; line-height: 1.5; margin-bottom: 16px; }
+
+    .btn-freebie {
+      background: #e91e8c;
+      color: #fff;
+      border: none;
+      border-radius: 100px;
+      padding: 10px 20px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      width: 100%;
+    }
+
+    /* ── BANNER STRIP ── */
+    .banner-strip {
+      background: linear-gradient(90deg, #e91e8c, #ff6b35);
+      padding: 20px 48px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .banner-strip p {
+      color: #fff;
+      font-size: 15px;
+      font-weight: 600;
+    }
+
+    .banner-strip span { opacity: .8; font-weight: 400; margin-left: 8px; font-size: 14px; }
+
+    .btn-banner {
+      background: #fff;
+      color: #e91e8c;
+      border: none;
+      border-radius: 100px;
+      padding: 10px 22px;
+      font-size: 14px;
+      font-weight: 700;
+      cursor: pointer;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    /* ── FOOTER ── */
+    footer {
+      background: #111;
+      color: #aaa;
+      padding: 48px;
+    }
+
+    .footer-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 40px;
+      margin-bottom: 40px;
+    }
+
+    .footer-brand { max-width: 260px; }
+
+    .footer-logo {
+      font-size: 20px;
+      font-weight: 800;
+      color: #fff;
+      margin-bottom: 10px;
+    }
+
+    .footer-brand p { font-size: 13px; line-height: 1.6; }
+
+    .footer-col h5 { font-size: 13px; font-weight: 700; color: #fff; margin-bottom: 14px; }
+    .footer-col ul { list-style: none; }
+    .footer-col li { margin-bottom: 8px; }
+    .footer-col a { color: #888; font-size: 13px; text-decoration: none; transition: color .15s; }
+    .footer-col a:hover { color: #fff; }
+
+    .footer-bottom {
+      border-top: 1px solid #222;
+      padding-top: 24px;
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      color: #555;
+    }
+
+    /* ── COMPARISON BANNER ── */
+    .comparison-note {
+      background: #fffbf0;
+      border-top: 3px solid #f5a623;
+      padding: 12px 48px;
+      font-size: 13px;
+      color: #7a5a00;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- COMPARISON NOTE -->
+  <div class="comparison-note">
+    ✨ <strong>Mockup Preview</strong> — Redesign concept for Genius Junkie. Scroll to explore all improvements.
+  </div>
+
+  <!-- NAV -->
+  <nav>
+    <a href="#" class="nav-logo">
+      <div style="width:36px;height:36px;border-radius:50%;background:linear-gradient(135deg,#e91e8c,#ff6b35);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:800;font-size:14px;">GJ</div>
+      Genius Junkie
+    </a>
+    <ul class="nav-links">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Tutorials</a></li>
+      <li><a href="#">Design Help</a></li>
+      <li><a href="#">Free Resources</a></li>
+      <li><a href="#">Templates</a></li>
+      <li><a href="#">About</a></li>
+    </ul>
+    <div class="nav-right">
+      <button class="btn-signin">Sign in</button>
+      <button class="btn-subscribe">Get Free Templates →</button>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-text">
+      <span class="hero-badge">For Etsy Sellers & Small Business Owners</span>
+      <h1>Master <span>Canva</span> & Sell More on Etsy</h1>
+      <p>Step-by-step tutorials, free templates, and design tips that help Etsy sellers create professional graphics — even with zero design experience.</p>
+      <div class="hero-cta">
+        <button class="btn-primary">Get Free Canva Templates 🎨</button>
+        <button class="btn-secondary">Browse Tutorials</button>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-num">1,000+</span>
+          <span class="stat-label">Etsy sellers learning</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">50+</span>
+          <span class="stat-label">Free tutorials</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">100%</span>
+          <span class="stat-label">Free to start</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-visual">
+      <div class="hero-visual-title">Latest Tutorials</div>
+      <div class="mini-card">
+        <div class="mini-thumb" style="background:#fde8f4;">🖨️</div>
+        <div>
+          <div class="mini-card-text">Fix Blurry Canva Prints</div>
+          <div class="mini-card-sub">2-Minute Fix · Canva Tutorial</div>
+        </div>
+      </div>
+      <div class="mini-card">
+        <div class="mini-thumb" style="background:#e8f4fd;">✂️</div>
+        <div>
+          <div class="mini-card-text">Stop Text Cut-Offs When Printing</div>
+          <div class="mini-card-sub">Print Tips · Quick Guide</div>
+        </div>
+      </div>
+      <div class="mini-card">
+        <div class="mini-thumb" style="background:#f4fde8;">🎨</div>
+        <div>
+          <div class="mini-card-text">Change Imported Image Colors</div>
+          <div class="mini-card-sub">Color Fix · Step by Step</div>
+        </div>
+      </div>
+      <div class="mini-card">
+        <div class="mini-thumb" style="background:#fdf4e8;">💼</div>
+        <div>
+          <div class="mini-card-text">Design Business Cards in 15 Min</div>
+          <div class="mini-card-sub">Free Template Included</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CATEGORY PILLS -->
+  <div class="categories">
+    <div class="section-label">Browse by Topic</div>
+    <div class="cat-pills">
+      <button class="pill active">All</button>
+      <button class="pill">Print & Quality</button>
+      <button class="pill">Colors & Branding</button>
+      <button class="pill">Etsy Templates</button>
+      <button class="pill">Design Tips</button>
+      <button class="pill">Free Resources</button>
+      <button class="pill">Business Cards</button>
+    </div>
+  </div>
+
+  <!-- MAIN CONTENT -->
+  <div class="main-layout">
+    <!-- CONTENT -->
+    <div>
+      <!-- FEATURED -->
+      <div class="featured-card">
+        <div class="featured-img">
+          <div class="featured-img-overlay"></div>
+          <div class="featured-img-text">
+            <span class="big-emoji">🎨</span>
+            <h3>Canva Color Fix — Change Any Image Color</h3>
+          </div>
+          <div class="featured-badge">Featured Tutorial</div>
+        </div>
+        <div class="featured-body">
+          <div class="tag">Canva Tutorial</div>
+          <h2>Canva Color Fix: Change Imported Images & Logos Easily!</h2>
+          <p>Struggling to change imported image colors in Canva? Discover why it's tricky & learn the genius fix using SVGs or Canva's built-in tools to match your brand perfectly.</p>
+          <div class="featured-meta">
+            <div class="avatar">AW</div>
+            <div class="meta-text">
+              <strong>Annieth Woollery</strong> · 21 Mar 2026 · 4 min read
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- GRID -->
+      <div class="grid-label">Latest Tutorials</div>
+      <div class="article-grid">
+
+        <div class="article-card">
+          <div class="card-thumb" style="background:linear-gradient(135deg,#1a1a2e,#16213e);">
+            🖨️
+            <span class="thumb-tag">Print Quality</span>
+          </div>
+          <div class="card-body">
+            <h3>Fix Blurry Canva Prints: Your 2-Minute Guide!</h3>
+            <p>The common cause of blurry prints and the exact settings to fix it in Canva forever.</p>
+            <div class="card-meta">Annieth Woollery · 21 Mar 2026</div>
+          </div>
+        </div>
+
+        <div class="article-card">
+          <div class="card-thumb" style="background:linear-gradient(135deg,#0f3460,#533483);">
+            ✂️
+            <span class="thumb-tag">Print Tips</span>
+          </div>
+          <div class="card-body">
+            <h3>Canva Printing Hack: Stop Text Cut-Offs & Print Perfectly!</h3>
+            <p>Never lose important text to the print margins again with this quick bleed setup.</p>
+            <div class="card-meta">Annieth Woollery · 21 Mar 2026</div>
+          </div>
+        </div>
+
+        <div class="article-card">
+          <div class="card-thumb" style="background:linear-gradient(135deg,#e91e8c,#ff6b35);">
+            📋
+            <span class="thumb-tag">Etsy Tools</span>
+          </div>
+          <div class="card-body">
+            <h3>Etsy Price List in Canva: Create a Professional Price Guide in 3 Minutes</h3>
+            <p>Step-by-step tutorial + free template to build a polished price list.</p>
+            <div class="card-meta">Annieth Woollery · 17 Mar 2026</div>
+          </div>
+        </div>
+
+        <div class="article-card">
+          <div class="card-thumb" style="background:linear-gradient(135deg,#11998e,#38ef7d);">
+            ⚡
+            <span class="thumb-tag">Productivity</span>
+          </div>
+          <div class="card-body">
+            <h3>How to Design Faster in Canva (10 Time-Saving Tips)</h3>
+            <p>Cut your design time in half with these 10 keyboard shortcuts and workflow tricks.</p>
+            <div class="card-meta">Annieth Woollery · 15 Mar 2026</div>
+          </div>
+        </div>
+
+        <div class="article-card">
+          <div class="card-thumb" style="background:linear-gradient(135deg,#f7971e,#ffd200);">
+            💼
+            <span class="thumb-tag">Business Cards</span>
+          </div>
+          <div class="card-body">
+            <h3>Save £200: Design Professional Business Cards in Canva (Free DIY Tutorial)</h3>
+            <p>Stop paying designers. Make stunning cards yourself with this free step-by-step guide.</p>
+            <div class="card-meta">Annieth Woollery · 17 Mar 2026</div>
+          </div>
+        </div>
+
+        <div class="article-card">
+          <div class="card-thumb" style="background:linear-gradient(135deg,#8e2de2,#4a00e0);">
+            🤖
+            <span class="thumb-tag">AI Tips</span>
+          </div>
+          <div class="card-body">
+            <h3>Canva AI Hack: Auto-Write Viral Social Media Captions!</h3>
+            <p>Use Canva's built-in AI to write scroll-stopping captions in seconds.</p>
+            <div class="card-meta">Annieth Woollery · 21 Mar 2026</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+
+      <!-- AUTHOR -->
+      <div class="author-card">
+        <div class="author-avatar">AW</div>
+        <div class="author-name">Annieth Woollery</div>
+        <div class="author-handle">@GeniusJunkie</div>
+        <div class="author-bio">Canva expert & Etsy seller helping 1,000+ small business owners design beautiful graphics — without hiring a designer or breaking the budget.</div>
+        <button class="btn-subscribe">Subscribe for Free Templates</button>
+      </div>
+
+      <!-- FREEBIE -->
+      <div class="sidebar-section">
+        <div class="freebie-card">
+          <span class="freebie-emoji">🎁</span>
+          <h4>10 Free Etsy Templates</h4>
+          <p>Professional Canva templates ready to customise and sell. Join 1,000+ sellers already using them.</p>
+          <button class="btn-freebie">Get Instant Access →</button>
+        </div>
+      </div>
+
+      <!-- POPULAR -->
+      <div class="sidebar-section">
+        <div class="sidebar-section-title">Most Popular</div>
+        <ul class="popular-list">
+          <li class="popular-item">
+            <span class="popular-num">01</span>
+            <div>
+              <div class="popular-title">Fix Blurry Canva Prints: Your 2-Minute Guide</div>
+              <div class="popular-sub">4.2k views · Print Quality</div>
+            </div>
+          </li>
+          <li class="popular-item">
+            <span class="popular-num">02</span>
+            <div>
+              <div class="popular-title">FREE Canva Templates for Etsy Sellers</div>
+              <div class="popular-sub">3.8k views · Free Resources</div>
+            </div>
+          </li>
+          <li class="popular-item">
+            <span class="popular-num">03</span>
+            <div>
+              <div class="popular-title">Stop Text Cut-Offs & Print Perfectly</div>
+              <div class="popular-sub">2.1k views · Print Tips</div>
+            </div>
+          </li>
+          <li class="popular-item">
+            <span class="popular-num">04</span>
+            <div>
+              <div class="popular-title">Design Business Cards in Canva (Free)</div>
+              <div class="popular-sub">1.9k views · Business Cards</div>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+    </aside>
+  </div>
+
+  <!-- BANNER STRIP -->
+  <div class="banner-strip">
+    <p>🎨 Join 1,000+ Etsy sellers getting free Canva templates every week. <span>No spam. Unsubscribe anytime.</span></p>
+    <button class="btn-banner">Get Free Templates →</button>
+  </div>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-top">
+      <div class="footer-brand">
+        <div class="footer-logo">Genius Junkie</div>
+        <p>Canva tutorials, free templates, and design tips for Etsy sellers and small business owners. Created by Annieth Woollery.</p>
+      </div>
+      <div class="footer-col">
+        <h5>Tutorials</h5>
+        <ul>
+          <li><a href="#">Print Quality</a></li>
+          <li><a href="#">Color & Branding</a></li>
+          <li><a href="#">Design Tips</a></li>
+          <li><a href="#">AI in Canva</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Free Resources</h5>
+        <ul>
+          <li><a href="#">Etsy Templates</a></li>
+          <li><a href="#">Business Card Templates</a></li>
+          <li><a href="#">Canva Checklist</a></li>
+          <li><a href="#">Price List Template</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h5>Company</h5>
+        <ul>
+          <li><a href="#">About Annieth</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Disclaimer</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Genius Junkie. All rights reserved.</span>
+      <span>Built with ❤️ for Etsy sellers everywhere.</span>
+    </div>
+  </footer>
+
+</body>
+</html>

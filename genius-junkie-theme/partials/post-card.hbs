@@ -1,0 +1,29 @@
+<article class="post-card {{post_class}}">
+  <a href="{{url}}" class="post-card-link" tabindex="-1" aria-hidden="true">
+    <div class="card-thumb" style="{{#if feature_image}}background-image:url({{img_url feature_image size="m"}});background-size:cover;background-position:center;{{else}}background:linear-gradient(135deg,var(--thumb-from,#1a1a2e),var(--thumb-to,#0f3460));{{/if}}">
+      {{#unless feature_image}}
+        <span class="card-thumb-emoji">{{#primary_tag}}{{name}}{{/primary_tag}}</span>
+      {{/unless}}
+      {{#primary_tag}}
+        <span class="thumb-tag">{{name}}</span>
+      {{/primary_tag}}
+    </div>
+  </a>
+  <div class="card-body">
+    <a href="{{url}}" class="card-title-link">
+      <h3 class="card-title">{{title}}</h3>
+    </a>
+    {{#if custom_excerpt}}
+      <p class="card-excerpt">{{custom_excerpt}}</p>
+    {{else if excerpt}}
+      <p class="card-excerpt">{{excerpt characters="100"}}</p>
+    {{/if}}
+    <div class="card-meta">
+      <span>{{primary_author.name}}</span>
+      <span class="card-meta-dot">·</span>
+      <time datetime="{{date format="YYYY-MM-DD"}}">{{date format="D MMM YYYY"}}</time>
+      <span class="card-meta-dot">·</span>
+      <span>{{reading_time}}</span>
+    </div>
+  </div>
+</article>

@@ -1,0 +1,104 @@
+{{!< default}}
+
+<article class="post-full {{post_class}}">
+
+  {{! ── POST HEADER ── }}
+  <header class="post-header">
+    {{#primary_tag}}
+      <a href="{{url}}" class="post-tag-label">{{name}}</a>
+    {{/primary_tag}}
+    <h1 class="post-title">{{title}}</h1>
+    {{#if custom_excerpt}}
+      <p class="post-excerpt">{{custom_excerpt}}</p>
+    {{/if}}
+    <div class="post-meta">
+      {{#primary_author}}
+        <a href="{{url}}" class="post-author-link">
+          <div class="avatar avatar--sm" style="{{#if profile_image}}background-image:url({{img_url profile_image size="xs"}});background-size:cover;{{/if}}">
+            {{#unless profile_image}}{{name.[0]}}{{/unless}}
+          </div>
+          <span class="post-author-name">{{name}}</span>
+        </a>
+      {{/primary_author}}
+      <span class="post-meta-sep">·</span>
+      <time datetime="{{date format="YYYY-MM-DD"}}">{{date format="D MMM YYYY"}}</time>
+      <span class="post-meta-sep">·</span>
+      <span>{{reading_time}}</span>
+    </div>
+  </header>
+
+  {{! ── FEATURE IMAGE ── }}
+  {{#if feature_image}}
+    <figure class="post-feature-image">
+      <img
+        src="{{img_url feature_image size="l"}}"
+        srcset="{{img_url feature_image size="s"}} 300w,
+                {{img_url feature_image size="m"}} 600w,
+                {{img_url feature_image size="l"}} 1000w,
+                {{img_url feature_image size="xl"}} 2000w"
+        sizes="(max-width: 800px) 100vw, 800px"
+        alt="{{#if feature_image_alt}}{{feature_image_alt}}{{else}}{{title}}{{/if}}"
+        loading="eager"
+      />
+      {{#if feature_image_caption}}
+        <figcaption>{{feature_image_caption}}</figcaption>
+      {{/if}}
+    </figure>
+  {{/if}}
+
+  {{! ── POST CONTENT ── }}
+  <div class="post-content gh-content">
+    {{content}}
+  </div>
+
+  {{! ── TAGS ── }}
+  {{#if tags}}
+    <footer class="post-tags">
+      <span class="post-tags-label">Topics:</span>
+      {{#foreach tags}}
+        <a href="{{url}}" class="tag-pill">{{name}}</a>
+      {{/foreach}}
+    </footer>
+  {{/if}}
+
+  {{! ── AUTHOR BIO ── }}
+  {{#primary_author}}
+    <div class="post-author-bio">
+      <div class="author-avatar author-avatar--lg" style="{{#if profile_image}}background-image:url({{img_url profile_image size="s"}});background-size:cover;{{/if}}">
+        {{#unless profile_image}}{{name.[0]}}{{/unless}}
+      </div>
+      <div class="author-bio-text">
+        <div class="author-name">{{name}}</div>
+        {{#if bio}}<p class="author-bio">{{bio}}</p>{{/if}}
+        <a href="{{url}}" class="author-more-link">More posts by {{name}} →</a>
+      </div>
+    </div>
+  {{/primary_author}}
+
+  {{! ── MEMBERSHIP CTA ── }}
+  {{#unless @member}}
+    <div class="post-subscribe-cta">
+      <span class="post-subscribe-emoji">🎨</span>
+      <h3>Want more free Canva tips?</h3>
+      <p>Join 1,000+ Etsy sellers getting weekly tutorials and free templates — straight to your inbox.</p>
+      <a href="#/portal/signup" class="btn-primary">Get Free Templates →</a>
+    </div>
+  {{/unless}}
+
+</article>
+
+{{! ── RELATED POSTS ── }}
+{{#get "posts" filter="tags:[{{primary_tag.slug}}]+id:-{{id}}" limit="3"}}
+  {{#if posts}}
+    <section class="related-posts">
+      <div class="related-posts-inner">
+        <h2 class="related-posts-title">More Tutorials You'll Love</h2>
+        <div class="post-grid post-grid--related">
+          {{#foreach posts}}
+            {{> post-card}}
+          {{/foreach}}
+        </div>
+      </div>
+    </section>
+  {{/if}}
+{{/get}}

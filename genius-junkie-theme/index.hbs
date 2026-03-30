@@ -1,0 +1,177 @@
+{{!< default}}
+
+{{! ── HERO ── }}
+<section class="hero">
+  <div class="hero-text">
+    <span class="hero-badge">For Etsy Sellers &amp; Small Business Owners</span>
+    <h1>{{@custom.hero_heading}}</h1>
+    <p>{{@custom.hero_subheading}}</p>
+    <div class="hero-cta">
+      <a href="{{@custom.hero_cta_url}}" class="btn-primary">{{@custom.hero_cta_label}}</a>
+      <a href="/tutorials/" class="btn-secondary">Browse Tutorials</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat">
+        <span class="stat-num">{{@custom.hero_stat_1_num}}</span>
+        <span class="stat-label">{{@custom.hero_stat_1_label}}</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">{{@custom.hero_stat_2_num}}</span>
+        <span class="stat-label">{{@custom.hero_stat_2_label}}</span>
+      </div>
+      <div class="stat">
+        <span class="stat-num">{{@custom.hero_stat_3_num}}</span>
+        <span class="stat-label">{{@custom.hero_stat_3_label}}</span>
+      </div>
+    </div>
+  </div>
+
+  {{! Mini preview card — latest 4 posts }}
+  <div class="hero-visual" aria-hidden="true">
+    <div class="hero-visual-title">Latest Tutorials</div>
+    {{#get "posts" limit="4"}}
+      {{#foreach posts}}
+        <div class="mini-card">
+          <div class="mini-thumb" style="{{#if feature_image}}background-image:url({{img_url feature_image size="xs"}});background-size:cover;background-position:center;{{else}}background:linear-gradient(135deg,var(--accent),#ff6b35);{{/if}}">
+            {{#unless feature_image}}📌{{/unless}}
+          </div>
+          <div>
+            <div class="mini-card-text">{{title}}</div>
+            <div class="mini-card-sub">{{#primary_tag}}{{name}} · {{/primary_tag}}{{reading_time}}</div>
+          </div>
+        </div>
+      {{/foreach}}
+    {{/get}}
+  </div>
+</section>
+
+{{! ── CATEGORY PILLS ── }}
+<div class="categories">
+  <div class="section-label">Browse by Topic</div>
+  <div class="cat-pills">
+    <a href="/" class="pill {{#unless tag}}active{{/unless}}">All</a>
+    {{#get "tags" limit="8" order="count.posts desc" filter="visibility:public"}}
+      {{#foreach tags}}
+        <a href="{{url}}" class="pill">{{name}}</a>
+      {{/foreach}}
+    {{/get}}
+  </div>
+</div>
+
+{{! ── MAIN LAYOUT ── }}
+<div class="main-layout">
+  <div class="posts-area">
+
+    {{! Featured post (most recent) }}
+    {{#get "posts" limit="1"}}
+      {{#foreach posts}}
+        <article class="featured-card {{post_class}}">
+          <a href="{{url}}" class="featured-img-link">
+            <div class="featured-img" style="{{#if feature_image}}background-image:url({{img_url feature_image size="l"}});background-size:cover;background-position:center;{{else}}background:linear-gradient(135deg,#1a1a2e,#16213e,#0f3460);{{/if}}">
+              <div class="featured-img-overlay"></div>
+              {{#unless feature_image}}
+                <div class="featured-img-text">
+                  <span class="big-emoji">🎨</span>
+                  <h3>{{title}}</h3>
+                </div>
+              {{/unless}}
+              <span class="featured-badge">Featured Tutorial</span>
+            </div>
+          </a>
+          <div class="featured-body">
+            {{#primary_tag}}<div class="featured-tag">{{name}}</div>{{/primary_tag}}
+            <h2><a href="{{url}}">{{title}}</a></h2>
+            {{#if custom_excerpt}}
+              <p>{{custom_excerpt}}</p>
+            {{else if excerpt}}
+              <p>{{excerpt characters="160"}}</p>
+            {{/if}}
+            <div class="featured-meta">
+              {{#primary_author}}
+                <div class="avatar" style="{{#if profile_image}}background-image:url({{img_url profile_image size="xs"}});background-size:cover;{{/if}}">
+                  {{#unless profile_image}}{{name.[0]}}{{/unless}}
+                </div>
+                <div class="meta-text">
+                  <strong>{{name}}</strong> · <time datetime="{{../date format="YYYY-MM-DD"}}">{{../date format="D MMM YYYY"}}</time> · {{../reading_time}}
+                </div>
+              {{/primary_author}}
+            </div>
+          </div>
+        </article>
+      {{/foreach}}
+    {{/get}}
+
+    {{! Post grid — skip featured (offset 1) }}
+    <h2 class="grid-label">Latest Tutorials</h2>
+    <div class="post-grid">
+      {{#get "posts" limit="12" offset="1"}}
+        {{#foreach posts}}
+          {{> post-card}}
+        {{/foreach}}
+      {{/get}}
+    </div>
+
+    {{pagination}}
+
+  </div>
+
+  {{! ── SIDEBAR ── }}
+  <aside class="sidebar">
+
+    {{! Author card }}
+    {{#get "authors" limit="1"}}
+      {{#foreach authors}}
+        <div class="author-card">
+          <div class="author-avatar" style="{{#if profile_image}}background-image:url({{img_url profile_image size="s"}});background-size:cover;{{/if}}">
+            {{#unless profile_image}}<span>{{name.[0]}}</span>{{/unless}}
+          </div>
+          <div class="author-name">{{name}}</div>
+          {{#if twitter}}<div class="author-handle">@{{twitter}}</div>{{/if}}
+          {{#if bio}}<div class="author-bio">{{bio}}</div>{{/if}}
+          <a href="#/portal/signup" class="btn-subscribe">Subscribe for Free Templates</a>
+        </div>
+      {{/foreach}}
+    {{/get}}
+
+    {{! Freebie CTA }}
+    <div class="sidebar-section">
+      <div class="freebie-card">
+        <span class="freebie-emoji">🎁</span>
+        <h4>10 Free Etsy Templates</h4>
+        <p>Professional Canva templates ready to customise and sell. Join 1,000+ sellers already using them.</p>
+        <a href="#/portal/signup" class="btn-freebie">Get Instant Access →</a>
+      </div>
+    </div>
+
+    {{! Popular posts }}
+    <div class="sidebar-section">
+      <div class="sidebar-section-title">Most Popular</div>
+      <ul class="popular-list">
+        {{#get "posts" limit="5" order="reading_time desc"}}
+          {{#foreach posts}}
+            <li class="popular-item">
+              <span class="popular-num">0{{@index}}</span>
+              <div>
+                <a href="{{url}}" class="popular-title">{{title}}</a>
+                <div class="popular-sub">{{reading_time}}{{#primary_tag}} · {{name}}{{/primary_tag}}</div>
+              </div>
+            </li>
+          {{/foreach}}
+        {{/get}}
+      </ul>
+    </div>
+
+    {{! Tag cloud }}
+    <div class="sidebar-section">
+      <div class="sidebar-section-title">Topics</div>
+      <div class="tag-cloud">
+        {{#get "tags" limit="10" order="count.posts desc" filter="visibility:public"}}
+          {{#foreach tags}}
+            <a href="{{url}}" class="tag-pill">{{name}}</a>
+          {{/foreach}}
+        {{/get}}
+      </div>
+    </div>
+
+  </aside>
+</div>

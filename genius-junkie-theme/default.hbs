@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{@site.locale}}" class="{{body_class}}">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{meta_title}}</title>
+  <meta name="description" content="{{meta_description}}" />
+  <link rel="canonical" href="{{canonical_url}}" />
+  {{ghost_head}}
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="{{asset "css/screen.css"}}" />
+  <style>
+    :root {
+      --accent: {{@custom.accent_color}};
+    }
+  </style>
+</head>
+<body class="{{body_class}}">
+
+  {{> navigation}}
+
+  <main id="site-main">
+    {{{body}}}
+  </main>
+
+  {{> footer}}
+
+  {{> subscribe-popup}}
+
+  {{ghost_foot}}
+  <script src="{{asset "js/main.js"}}"></script>
+  <script>
+    GJ.init({ popupDelay: {{@custom.popup_delay_seconds}} });
+  </script>
+
+</body>
+</html>

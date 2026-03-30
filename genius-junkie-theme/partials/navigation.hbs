@@ -1,0 +1,40 @@
+<header class="site-header">
+  <nav class="nav-inner">
+
+    <a href="{{@site.url}}" class="nav-logo">
+      {{#if @site.icon}}
+        <img src="{{img_url @site.icon}}" alt="{{@site.title}}" width="36" height="36" />
+      {{else}}
+        <span class="nav-logo-initials" aria-hidden="true">GJ</span>
+      {{/if}}
+      <span class="nav-logo-name">{{@site.title}}</span>
+    </a>
+
+    <ul class="nav-links" role="list">
+      {{navigation}}
+    </ul>
+
+    <div class="nav-right">
+      {{#if @member}}
+        <a href="/account/" class="btn-signin">My Account</a>
+      {{else}}
+        <a href="#/portal/signin" class="btn-signin">Sign in</a>
+        <a href="#/portal/signup" class="btn-subscribe">Get Free Templates →</a>
+      {{/if}}
+    </div>
+
+    <button class="nav-burger" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
+      <span></span><span></span><span></span>
+    </button>
+
+  </nav>
+
+  <div class="mobile-nav" id="mobile-nav" hidden>
+    <ul role="list">
+      {{navigation}}
+      {{#unless @member}}
+        <li><a href="#/portal/signup" class="mobile-subscribe">Get Free Templates →</a></li>
+      {{/unless}}
+    </ul>
+  </div>
+</header>

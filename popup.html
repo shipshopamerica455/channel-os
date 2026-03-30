@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { width: 220px; padding: 15px; font-family: sans-serif; }
+        h3 { margin-top: 0; font-size: 16px; color: #333; }
+        button { width: 100%; padding: 10px; cursor: pointer; background: #007bff; color: white; border: none; border-radius: 6px; margin-bottom: 8px; font-weight: bold; }
+        #export { background: #4CAF50; }
+        .hint { font-size: 11px; color: #777; margin-top: 10px; line-height: 1.4; }
+    </style>
+</head>
+<body>
+    <h3>Kimi Controls</h3>
+    <button id="wideModeBtn">Toggle Wide Mode</button>
+    <button id="export">Export All Chats</button>
+    <div class="hint">Use the "+" button in the Kimi sidebar to create folders.</div>
+
+    <script>
+        document.getElementById('wideModeBtn').addEventListener('click', () => {
+            chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
+                chrome.tabs.sendMessage(tabs[0].id, {action: "toggleWide"});
+            });
+        });
+
+        document.getElementById('export').addEventListener('click', () => {
+            chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
+                chrome.tabs.sendMessage(tabs[0].id, {action: "exportChats"});
+            });
+        });
+    </script>
+</body>
+</html>

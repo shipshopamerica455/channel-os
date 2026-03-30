@@ -1,0 +1,31 @@
+{{! Only show to non-members }}
+{{#unless @member}}
+<div class="popup-overlay" id="subscribe-popup" aria-modal="true" role="dialog" aria-labelledby="popup-title" hidden>
+  <div class="popup-card">
+    <button class="popup-close" id="popup-close" aria-label="Close">&times;</button>
+    <span class="popup-emoji">🎨</span>
+    <h2 class="popup-title" id="popup-title">Free Canva Templates!</h2>
+    <p class="popup-sub">Join 1,000+ Etsy sellers and get:</p>
+    <ul class="popup-list">
+      <li>✅ 10 Professional Etsy Templates</li>
+      <li>✅ Weekly Canva Tips &amp; Tutorials</li>
+      <li>✅ Exclusive Print Deals</li>
+    </ul>
+    <form data-members-form="subscribe" class="popup-form">
+      <input
+        type="email"
+        data-members-email
+        placeholder="Enter your email"
+        required
+        class="popup-input"
+      />
+      <button type="submit" class="popup-btn">Get Free Access →</button>
+      <p class="popup-disclaimer">🔒 No spam. Unsubscribe anytime.</p>
+    </form>
+    <div class="popup-success" hidden>
+      <span>🎉</span>
+      <p>You're in! Check your inbox for your free templates.</p>
+    </div>
+  </div>
+</div>
+{{/unless}}

@@ -1,0 +1,39 @@
+{{!< default}}
+
+{{#author}}
+<header class="archive-header author-header">
+  <div class="author-header-inner">
+    <div class="author-avatar author-avatar--xl" style="{{#if profile_image}}background-image:url({{img_url profile_image size="s"}});background-size:cover;{{/if}}">
+      {{#unless profile_image}}{{name.[0]}}{{/unless}}
+    </div>
+    <div class="author-header-text">
+      <h1 class="archive-title">{{name}}</h1>
+      {{#if twitter}}<div class="author-handle">@{{twitter}}</div>{{/if}}
+      {{#if bio}}<p class="author-bio">{{bio}}</p>{{/if}}
+      <p class="archive-count">{{count.posts}} tutorials published</p>
+    </div>
+  </div>
+</header>
+{{/author}}
+
+<div class="archive-layout">
+  <div class="posts-area">
+    <div class="post-grid">
+      {{#foreach posts}}
+        {{> post-card}}
+      {{/foreach}}
+    </div>
+    {{pagination}}
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-section">
+      <div class="freebie-card">
+        <span class="freebie-emoji">🎁</span>
+        <h4>10 Free Etsy Templates</h4>
+        <p>Professional Canva templates ready to customise. Join 1,000+ sellers.</p>
+        <a href="#/portal/signup" class="btn-freebie">Get Instant Access →</a>
+      </div>
+    </div>
+  </aside>
+</div>

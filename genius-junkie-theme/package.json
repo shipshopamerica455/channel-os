@@ -1,0 +1,86 @@
+{
+  "name": "genius-junkie",
+  "description": "Genius Junkie — Canva tutorials and free templates for Etsy sellers",
+  "version": "1.0.0",
+  "engines": {
+    "ghost": ">=5.0.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ghost-theme"
+  ],
+  "config": {
+    "posts_per_page": 12,
+    "image_sizes": {
+      "xxs": { "width": 30 },
+      "xs":  { "width": 100 },
+      "s":   { "width": 300 },
+      "m":   { "width": 600 },
+      "l":   { "width": 1000 },
+      "xl":  { "width": 2000 }
+    },
+    "card_assets": true,
+    "custom": {
+      "hero_heading": {
+        "type": "text",
+        "default": "Master Canva & Sell More on Etsy",
+        "description": "Main headline in the hero section"
+      },
+      "hero_subheading": {
+        "type": "text",
+        "default": "Step-by-step tutorials, free templates, and design tips that help Etsy sellers create professional graphics — even with zero design experience.",
+        "description": "Subheading text in the hero section"
+      },
+      "hero_cta_label": {
+        "type": "text",
+        "default": "Get Free Canva Templates 🎨",
+        "description": "Primary CTA button text"
+      },
+      "hero_cta_url": {
+        "type": "text",
+        "default": "#/portal/signup",
+        "description": "Primary CTA button URL"
+      },
+      "hero_stat_1_num": {
+        "type": "text",
+        "default": "1,000+",
+        "description": "Hero stat 1 number"
+      },
+      "hero_stat_1_label": {
+        "type": "text",
+        "default": "Etsy sellers learning",
+        "description": "Hero stat 1 label"
+      },
+      "hero_stat_2_num": {
+        "type": "text",
+        "default": "50+",
+        "description": "Hero stat 2 number"
+      },
+      "hero_stat_2_label": {
+        "type": "text",
+        "default": "Free tutorials",
+        "description": "Hero stat 2 label"
+      },
+      "hero_stat_3_num": {
+        "type": "text",
+        "default": "100%",
+        "description": "Hero stat 3 number"
+      },
+      "hero_stat_3_label": {
+        "type": "text",
+        "default": "Free to start",
+        "description": "Hero stat 3 label"
+      },
+      "popup_delay_seconds": {
+        "type": "text",
+        "default": "30",
+        "description": "Seconds before the email signup popup appears (set to 0 to disable)"
+      },
+      "accent_color": {
+        "type": "color",
+        "default": "#e91e8c",
+        "description": "Brand accent color"
+      }
+    }
+  }
+}

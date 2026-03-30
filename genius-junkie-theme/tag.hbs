@@ -1,0 +1,48 @@
+{{!< default}}
+
+<header class="archive-header">
+  {{#tag}}
+    {{#if feature_image}}
+      <div class="archive-cover" style="background-image:url({{img_url feature_image size="l"}});"></div>
+    {{/if}}
+    <div class="archive-header-inner">
+      <span class="hero-badge">Topic</span>
+      <h1 class="archive-title">{{name}}</h1>
+      {{#if description}}<p class="archive-desc">{{description}}</p>{{/if}}
+      <p class="archive-count">{{count.posts}} tutorials</p>
+    </div>
+  {{/tag}}
+</header>
+
+<div class="archive-layout">
+  <div class="posts-area">
+    <div class="post-grid">
+      {{#foreach posts}}
+        {{> post-card}}
+      {{/foreach}}
+    </div>
+    {{pagination}}
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-section">
+      <div class="sidebar-section-title">Other Topics</div>
+      <div class="tag-cloud">
+        {{#get "tags" limit="12" order="count.posts desc" filter="visibility:public"}}
+          {{#foreach tags}}
+            <a href="{{url}}" class="tag-pill {{#if (eq slug ../tag.slug)}}tag-pill--active{{/if}}">{{name}}</a>
+          {{/foreach}}
+        {{/get}}
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <div class="freebie-card">
+        <span class="freebie-emoji">🎁</span>
+        <h4>10 Free Etsy Templates</h4>
+        <p>Professional Canva templates ready to customise. Join 1,000+ sellers.</p>
+        <a href="#/portal/signup" class="btn-freebie">Get Instant Access →</a>
+      </div>
+    </div>
+  </aside>
+</div>
