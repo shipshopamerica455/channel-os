@@ -9,3 +9,14 @@ services:
       - type: rewrite
         source: /*
         destination: /index.html
+
+  - type: web
+    name: channel-os-app
+    env: static
+    rootDir: channel-os
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
