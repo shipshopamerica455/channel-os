@@ -12,7 +12,7 @@ import {
 import { generateVideoIdeas, generateContentClusters } from '../utils/claudeApi';
 import { groupIdeasIntoClusters, deduplicateIdeas, checkStrategyFit } from '../utils/strategyEngine';
 import { formatAnalyticsForClaude } from '../utils/analyticsParser';
-import { VideoIdea, IdeaStatus, StrategyFit } from '../types';
+import { VideoIdea, IdeaStatus, StrategyFit, VideoType } from '../types';
 
 const STATUS_LABELS: Record<IdeaStatus, string> = {
   backlog: 'Backlog',
@@ -47,6 +47,7 @@ export default function IdeaLab() {
   const [error, setError] = useState('');
   const [filterStatus, setFilterStatus] = useState<IdeaStatus | 'all'>('all');
   const [filterFit, setFilterFit] = useState<StrategyFit | 'all'>('all');
+  const [filterVideoType, setFilterVideoType] = useState<VideoType | 'all'>('all');
   const [clusters, setClusters] = useState<{ clusterName: string; pillar: string; description: string; videoIdeas: string[]; seriesPotential: boolean; seriesName: string | null }[]>([]);
 
   // Manual idea form
@@ -54,10 +55,12 @@ export default function IdeaLab() {
   const [manualHook, setManualHook] = useState('');
   const [manualFormat, setManualFormat] = useState('');
   const [manualCluster, setManualCluster] = useState('');
+  const [manualVideoType, setManualVideoType] = useState<VideoType>('long-form');
 
   const visibleIdeas = ideas.filter((idea) => {
     if (filterStatus !== 'all' && idea.status !== filterStatus) return false;
     if (filterFit !== 'all' && idea.strategyFit !== filterFit) return false;
+    if (filterVideoType !== 'all' && idea.videoType !== filterVideoType) return false;
     return true;
   });
 
@@ -90,6 +93,7 @@ export default function IdeaLab() {
         channelId: state.selectedChannel,
         createdAt: new Date().toISOString(),
         status: 'backlog',
+        videoType: (idea.videoType === 'short' ? 'short' : 'long-form') as VideoType,
         aiGenerated: true,
         repurposingIdeas: idea.repurposingIdeas ?? [],
       }));
@@ -139,6 +143,7 @@ export default function IdeaLab() {
       hook: manualHook.trim(),
       angle: '',
       format: manualFormat.trim() || channel.strategy.contentFormats[0],
+      videoType: manualVideoType,
       cluster: manualCluster.trim() || 'Unclustered',
       thumbnailConcept: '',
       repurposingIdeas: [],
@@ -154,6 +159,7 @@ export default function IdeaLab() {
     setManualHook('');
     setManualFormat('');
     setManualCluster('');
+    setManualVideoType('long-form');
     setTab('backlog');
   }
 
@@ -224,6 +230,26 @@ export default function IdeaLab() {
           <div className="space-y-4">
             {/* Filters */}
             <div className="flex items-center gap-3 flex-wrap">
+              {/* Format type toggle */}
+              <div className="flex items-center gap-1 p-1 rounded-lg bg-[#141414] border border-[#1E1E1E]">
+                {(['all', 'long-form', 'short'] as const).map((t) => (
+                  <button
+                    key={t}
+                    onClick={() => setFilterVideoType(t)}
+                    className="px-3 py-1 rounded-md text-xs font-medium transition-all"
+                    style={
+                      filterVideoType === t
+                        ? { background: t === 'short' ? '#7c3aed22' : t === 'long-form' ? '#0369a122' : '#1E1E1E',
+                            color: t === 'short' ? '#a78bfa' : t === 'long-form' ? '#38bdf8' : '#ccc',
+                            border: `1px solid ${t === 'short' ? '#7c3aed44' : t === 'long-form' ? '#0369a144' : '#3A3A3A'}` }
+                        : { background: 'transparent', color: '#444', border: '1px solid transparent' }
+                    }
+                  >
+                    {t === 'all' ? 'All' : t === 'long-form' ? '🎬 Long-form' : '⚡ Short'}
+                  </button>
+                ))}
+              </div>
+
               <FilterGroup
                 label="Status"
                 options={['all', ...Object.keys(STATUS_LABELS)] as ('all' | IdeaStatus)[]}
@@ -365,6 +391,29 @@ export default function IdeaLab() {
           <div className="max-w-xl">
             <div className="bg-[#111] border border-[#1E1E1E] rounded-xl p-6 space-y-4">
               <h3 className="text-sm font-semibold text-white">Add Video Idea Manually</h3>
+
+              {/* Long / Short toggle */}
+              <Field label="Video Type">
+                <div className="flex gap-2">
+                  {(['long-form', 'short'] as VideoType[]).map((t) => (
+                    <button
+                      key={t}
+                      onClick={() => setManualVideoType(t)}
+                      className="flex-1 py-2.5 rounded-lg text-sm font-medium transition-all border"
+                      style={
+                        manualVideoType === t
+                          ? t === 'long-form'
+                            ? { background: '#0369a115', borderColor: '#0369a140', color: '#38bdf8' }
+                            : { background: '#7c3aed15', borderColor: '#7c3aed40', color: '#a78bfa' }
+                          : { background: 'transparent', borderColor: '#2A2A2A', color: '#444' }
+                      }
+                    >
+                      {t === 'long-form' ? '🎬 Long-form' : '⚡ Short'}
+                    </button>
+                  ))}
+                </div>
+              </Field>
+
               <Field label="Title *">
                 <input
                   value={manualTitle}
@@ -461,6 +510,7 @@ function IdeaCard({
         <div className="flex items-start gap-3">
           <div className="flex-1 min-w-0">
             <div className="flex items-center gap-2 flex-wrap mb-1">
+              <VideoTypeBadge type={idea.videoType ?? 'long-form'} />
               <FitBadge fit={idea.strategyFit} />
               <PriorityBadge priority={idea.priority} />
               {idea.aiGenerated && (
@@ -566,6 +616,22 @@ function IdeaCard({
         </div>
       )}
     </div>
+  );
+}
+
+function VideoTypeBadge({ type }: { type: string }) {
+  const isShort = type === 'short';
+  return (
+    <span
+      className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-[10px] font-semibold uppercase tracking-wider"
+      style={
+        isShort
+          ? { background: '#7c3aed18', color: '#a78bfa', border: '1px solid #7c3aed30' }
+          : { background: '#0369a118', color: '#38bdf8', border: '1px solid #0369a130' }
+      }
+    >
+      {isShort ? '⚡ Short' : '🎬 Long-form'}
+    </span>
   );
 }
 

@@ -10,7 +10,7 @@ import {
 } from '../components/Layout';
 import { generateMarketingPlan } from '../utils/claudeApi';
 import { buildPromotionChecklist } from '../utils/strategyEngine';
-import { ContentPlanItem, ProductionStatus, PromotionTask } from '../types';
+import { ContentPlanItem, ProductionStatus, PromotionTask, VideoType } from '../types';
 
 const MONTHS = [
   'January', 'February', 'March', 'April', 'May', 'June',
@@ -45,6 +45,7 @@ export default function MarketingPlanner() {
   const [newTitle, setNewTitle] = useState('');
   const [newWeek, setNewWeek] = useState<1 | 2 | 3 | 4>(1);
   const [newFormat, setNewFormat] = useState('');
+  const [newVideoType, setNewVideoType] = useState<VideoType>('long-form');
 
   const planItems = state.contentPlan.filter(
     (p) => p.channelId === state.selectedChannel && p.month === viewMonth && p.year === viewYear
@@ -93,6 +94,7 @@ export default function MarketingPlanner() {
       month: viewMonth,
       year: viewYear,
       format: newFormat || channel.strategy.contentFormats[0],
+      videoType: newVideoType,
       status: 'planned',
       promotionChecklist: buildPromotionChecklist(state.selectedChannel),
     };
@@ -100,6 +102,7 @@ export default function MarketingPlanner() {
     setNewTitle('');
     setNewWeek(1);
     setNewFormat('');
+    setNewVideoType('long-form');
     setShowAddForm(false);
   }
 
@@ -206,6 +209,25 @@ export default function MarketingPlanner() {
             {showAddForm && (
               <div className="bg-[#111] border border-[#1E1E1E] rounded-xl p-5 space-y-3">
                 <h3 className="text-sm font-semibold text-white">Add Video to Plan</h3>
+                {/* Long / Short toggle */}
+                <div className="flex gap-2">
+                  {(['long-form', 'short'] as VideoType[]).map((t) => (
+                    <button
+                      key={t}
+                      onClick={() => setNewVideoType(t)}
+                      className="flex-1 py-2 rounded-lg text-xs font-medium transition-all border"
+                      style={
+                        newVideoType === t
+                          ? t === 'long-form'
+                            ? { background: '#0369a115', borderColor: '#0369a140', color: '#38bdf8' }
+                            : { background: '#7c3aed15', borderColor: '#7c3aed40', color: '#a78bfa' }
+                          : { background: 'transparent', borderColor: '#2A2A2A', color: '#444' }
+                      }
+                    >
+                      {t === 'long-form' ? '🎬 Long-form' : '⚡ Short'}
+                    </button>
+                  ))}
+                </div>
                 <div className="flex gap-3">
                   <input
                     value={newTitle}
@@ -554,6 +576,18 @@ function CalendarCard({
         className="w-full h-0.5 rounded-full mb-2"
         style={{ background: STATUS_COLORS[item.status] }}
       />
+      <div className="flex items-center gap-1.5 mb-1.5">
+        <span
+          className="text-[9px] font-semibold uppercase tracking-wider px-1.5 py-0.5 rounded"
+          style={
+            item.videoType === 'short'
+              ? { background: '#7c3aed18', color: '#a78bfa' }
+              : { background: '#0369a118', color: '#38bdf8' }
+          }
+        >
+          {item.videoType === 'short' ? '⚡ Short' : '🎬 Long'}
+        </span>
+      </div>
       <p className="text-xs text-white font-medium leading-snug mb-2">{item.title}</p>
       <div className="flex items-center justify-between">
         <select

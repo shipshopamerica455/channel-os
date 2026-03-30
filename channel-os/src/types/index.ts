@@ -67,6 +67,7 @@ export interface ChannelHealthSummary {
 export type StrategyFit = 'strong' | 'moderate' | 'weak' | 'off-brand';
 export type IdeaPriority = 'high' | 'medium' | 'low';
 export type IdeaStatus = 'backlog' | 'planned' | 'in-production' | 'published' | 'rejected';
+export type VideoType = 'long-form' | 'short';
 
 export interface VideoIdea {
   id: string;
@@ -75,6 +76,7 @@ export interface VideoIdea {
   hook: string;
   angle: string;
   format: string;
+  videoType: VideoType;
   cluster: string;
   thumbnailConcept: string;
   shortsAngle?: string;
@@ -116,6 +118,7 @@ export interface ContentPlanItem {
   month: number; // 1–12
   year: number;
   format: string;
+  videoType: VideoType;
   status: ProductionStatus;
   promotionChecklist: PromotionTask[];
   notes?: string;
