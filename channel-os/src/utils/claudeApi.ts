@@ -1,6 +1,6 @@
-// Direct browser calls to Anthropic API (local tool — BYOK)
-
-const API_URL = 'https://api.anthropic.com/v1/messages';
+// Route through CORS proxy so browser can reach Anthropic API
+const PROXY_URL = (import.meta.env.VITE_PROXY_URL ?? 'https://channel-os-proxy.onrender.com') + '/api/claude';
+const API_URL = import.meta.env.DEV ? 'https://api.anthropic.com/v1/messages' : PROXY_URL;
 const MODEL = 'claude-opus-4-6';
 
 export interface ClaudeMessage {
@@ -22,7 +22,6 @@ export async function callClaude(
       'Content-Type': 'application/json',
       'x-api-key': apiKey,
       'anthropic-version': '2023-06-01',
-      'anthropic-dangerous-allow-browser': 'true',
     },
     body: JSON.stringify({
       model: MODEL,
