@@ -1,0 +1,1074 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Channel OS — How-To Guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0A0A0A;
+      --surface: #111111;
+      --surface2: #1A1A1A;
+      --surface3: #242424;
+      --border: #222222;
+      --text: #FFFFFF;
+      --muted: #888888;
+      --dim: #555555;
+      --gj: #FF6B35;
+      --ss: #8B5CF6;
+      --uh: #10B981;
+      --blue: #38BDF8;
+      --violet: #A78BFA;
+      --green: #22C55E;
+      --amber: #F59E0B;
+      --red: #EF4444;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', system-ui, sans-serif;
+      font-size: 15px;
+      line-height: 1.7;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── Layout ── */
+    .layout { display: flex; min-height: 100vh; }
+
+    .sidebar {
+      width: 260px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      overflow-y: auto;
+      background: #0D0D0D;
+      border-right: 1px solid var(--border);
+      padding: 32px 0 40px;
+    }
+
+    .sidebar-logo {
+      padding: 0 24px 24px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 24px;
+    }
+    .sidebar-logo h2 { font-size: 14px; font-weight: 600; color: var(--text); }
+    .sidebar-logo p  { font-size: 11px; color: var(--dim); margin-top: 2px; }
+
+    .sidebar-section { padding: 0 24px; margin-bottom: 24px; }
+    .sidebar-section-label {
+      font-size: 10px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .1em;
+      color: var(--dim);
+      margin-bottom: 8px;
+    }
+    .sidebar-link {
+      display: block;
+      padding: 7px 10px;
+      border-radius: 8px;
+      font-size: 13px;
+      color: var(--muted);
+      text-decoration: none;
+      transition: all .15s;
+      margin-bottom: 2px;
+    }
+    .sidebar-link:hover { color: var(--text); background: var(--surface2); }
+    .sidebar-link.active { color: var(--text); background: var(--surface2); }
+    .sidebar-link .icon { margin-right: 8px; }
+
+    .content {
+      flex: 1;
+      max-width: 900px;
+      padding: 60px 64px;
+    }
+
+    /* ── Typography ── */
+    h1 { font-size: 36px; font-weight: 700; line-height: 1.2; margin-bottom: 12px; }
+    h2 { font-size: 22px; font-weight: 600; margin: 56px 0 16px; padding-top: 56px; border-top: 1px solid var(--border); }
+    h2:first-of-type { border-top: none; margin-top: 40px; padding-top: 0; }
+    h3 { font-size: 16px; font-weight: 600; margin: 28px 0 10px; color: var(--text); }
+    p  { color: #BBBBBB; margin-bottom: 14px; }
+    a  { color: var(--blue); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    ul, ol { color: #BBBBBB; padding-left: 20px; margin-bottom: 14px; }
+    li { margin-bottom: 6px; }
+    strong { color: var(--text); font-weight: 600; }
+    code {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      padding: 2px 6px;
+      border-radius: 4px;
+      color: #E2E8F0;
+    }
+    pre {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 18px 20px;
+      overflow-x: auto;
+      margin: 16px 0;
+    }
+    pre code { background: none; border: none; padding: 0; font-size: 13px; }
+
+    /* ── Hero ── */
+    .hero {
+      padding-bottom: 40px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 0;
+    }
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--blue);
+      background: #0369a118;
+      border: 1px solid #0369a130;
+      padding: 4px 10px;
+      border-radius: 6px;
+      margin-bottom: 16px;
+    }
+    .hero p { font-size: 16px; color: var(--muted); max-width: 560px; }
+    .hero-url {
+      display: inline-block;
+      margin-top: 16px;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      color: var(--blue);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      padding: 8px 16px;
+      border-radius: 8px;
+    }
+
+    /* ── Screenshot frame ── */
+    .screenshot {
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      overflow: hidden;
+      margin: 20px 0 28px;
+      box-shadow: 0 8px 32px rgba(0,0,0,.5);
+    }
+    .screenshot-bar {
+      background: #151515;
+      border-bottom: 1px solid var(--border);
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .screenshot-bar .dot { width: 10px; height: 10px; border-radius: 50%; }
+    .screenshot-bar .url {
+      margin-left: 10px;
+      font-size: 11px;
+      color: var(--dim);
+      font-family: 'JetBrains Mono', monospace;
+    }
+    .screenshot img { width: 100%; display: block; }
+
+    /* ── UI mockup ── */
+    .mockup {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      margin: 20px 0 28px;
+      font-size: 13px;
+    }
+    .mockup-header {
+      background: #151515;
+      border-bottom: 1px solid var(--border);
+      padding: 14px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    .mockup-title { font-size: 15px; font-weight: 600; }
+    .mockup-body { padding: 20px; }
+
+    /* ── Callout boxes ── */
+    .callout {
+      border-radius: 10px;
+      padding: 14px 18px;
+      margin: 16px 0;
+      display: flex;
+      gap: 12px;
+      align-items: flex-start;
+      font-size: 14px;
+    }
+    .callout-icon { font-size: 18px; flex-shrink: 0; margin-top: 1px; }
+    .callout p { margin: 0; color: inherit; font-size: 14px; }
+    .callout strong { color: inherit; }
+    .callout.tip   { background: #0369a110; border: 1px solid #0369a130; color: #7DD3FC; }
+    .callout.warn  { background: #92400e10; border: 1px solid #92400e40; color: #FCD34D; }
+    .callout.info  { background: #1E293B;   border: 1px solid #334155;   color: #94A3B8; }
+    .callout.good  { background: #05260f;   border: 1px solid #14532d;   color: #86EFAC; }
+
+    /* ── Step list ── */
+    .steps { list-style: none; padding: 0; margin: 16px 0 24px; counter-reset: step; }
+    .steps li {
+      counter-increment: step;
+      display: flex;
+      gap: 14px;
+      align-items: flex-start;
+      padding: 12px 0;
+      border-bottom: 1px solid #161616;
+    }
+    .steps li:last-child { border-bottom: none; }
+    .steps li::before {
+      content: counter(step);
+      flex-shrink: 0;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      font-size: 11px;
+      font-weight: 700;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--muted);
+      margin-top: 2px;
+    }
+    .steps li p { margin: 0; color: #BBBBBB; }
+
+    /* ── Badge pills ── */
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      padding: 2px 8px;
+      border-radius: 5px;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .05em;
+    }
+    .pill-long { background: #0369a118; color: #38BDF8; border: 1px solid #0369a130; }
+    .pill-short { background: #7c3aed18; color: #A78BFA; border: 1px solid #7c3aed30; }
+    .pill-strong { background: #05260f; color: #22C55E; border: 1px solid #14532d; }
+    .pill-moderate { background: #1c1917; color: #F59E0B; border: 1px solid #451a03; }
+    .pill-offbrand { background: #1f0a0a; color: #EF4444; border: 1px solid #3d1515; }
+    .pill-ai { background: #1a1a2e; color: #818CF8; border: 1px solid #312e81; }
+
+    /* ── Channel cards ── */
+    .channel-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin: 20px 0; }
+    .channel-card {
+      background: var(--surface);
+      border-radius: 10px;
+      padding: 16px;
+      border: 1px solid var(--border);
+    }
+    .channel-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 8px; }
+    .channel-card h4 { font-size: 13px; font-weight: 600; margin-bottom: 6px; }
+    .channel-card p  { font-size: 12px; color: var(--muted); margin: 0; }
+    .channel-card ul { font-size: 12px; color: var(--dim); margin: 8px 0 0; padding-left: 16px; }
+
+    /* ── Two-col ── */
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 16px 0; }
+    .two-col .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px 18px;
+    }
+    .two-col .card h4 { font-size: 13px; font-weight: 600; margin-bottom: 8px; }
+    .two-col .card p, .two-col .card li { font-size: 13px; color: var(--muted); }
+
+    /* ── Table ── */
+    table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 13px; }
+    th {
+      text-align: left;
+      padding: 10px 14px;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: .07em;
+      color: var(--dim);
+      border-bottom: 1px solid var(--border);
+    }
+    td { padding: 10px 14px; color: #BBBBBB; border-bottom: 1px solid #141414; }
+    tr:last-child td { border-bottom: none; }
+    tbody tr:hover td { background: #111; }
+
+    /* ── TOC ── */
+    .toc {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px 24px;
+      margin: 32px 0;
+    }
+    .toc h3 { font-size: 13px; color: var(--dim); margin: 0 0 12px; text-transform: uppercase; letter-spacing: .08em; }
+    .toc ol { margin: 0; padding-left: 20px; }
+    .toc li { margin-bottom: 4px; }
+    .toc a { color: var(--muted); font-size: 13px; }
+    .toc a:hover { color: var(--text); text-decoration: none; }
+
+    /* ── Workflow diagram ── */
+    .flow {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      flex-wrap: wrap;
+      margin: 16px 0;
+    }
+    .flow-step {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-size: 12px;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+    .flow-arrow {
+      color: var(--dim);
+      font-size: 14px;
+      padding: 0 6px;
+    }
+
+    /* ── Kbd ── */
+    kbd {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-bottom: 2px solid #333;
+      padding: 2px 7px;
+      border-radius: 4px;
+      color: var(--muted);
+    }
+
+    /* ── Divider ── */
+    hr { border: none; border-top: 1px solid var(--border); margin: 48px 0; }
+
+    /* ── Footer ── */
+    .footer {
+      margin-top: 80px;
+      padding-top: 32px;
+      border-top: 1px solid var(--border);
+      font-size: 12px;
+      color: var(--dim);
+    }
+
+    /* ── Scrollbar ── */
+    ::-webkit-scrollbar { width: 4px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #2A2A2A; border-radius: 2px; }
+
+    @media (max-width: 900px) {
+      .sidebar { display: none; }
+      .content { padding: 32px 24px; }
+      .channel-grid { grid-template-columns: 1fr; }
+      .two-col { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="layout">
+
+  <!-- Sidebar nav -->
+  <nav class="sidebar">
+    <div class="sidebar-logo">
+      <h2>Channel OS</h2>
+      <p>How-To Guide</p>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-section-label">Getting Started</div>
+      <a class="sidebar-link" href="#overview"><span class="icon">🗺</span>Overview</a>
+      <a class="sidebar-link" href="#setup"><span class="icon">⚙️</span>First-time Setup</a>
+      <a class="sidebar-link" href="#channels"><span class="icon">📡</span>Channels</a>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-section-label">Pages</div>
+      <a class="sidebar-link" href="#video-production"><span class="icon">🎬</span>Video Production</a>
+      <a class="sidebar-link" href="#channel-intelligence"><span class="icon">📊</span>Channel Intelligence</a>
+      <a class="sidebar-link" href="#idea-lab"><span class="icon">💡</span>Idea Lab</a>
+      <a class="sidebar-link" href="#marketing-planner"><span class="icon">📅</span>Marketing Planner</a>
+    </div>
+    <div class="sidebar-section">
+      <div class="sidebar-section-label">Workflows</div>
+      <a class="sidebar-link" href="#workflow-weekly"><span class="icon">🔄</span>Weekly Workflow</a>
+      <a class="sidebar-link" href="#workflow-new-video"><span class="icon">▶️</span>New Video Flow</a>
+      <a class="sidebar-link" href="#tips"><span class="icon">✨</span>Tips & Tricks</a>
+    </div>
+  </nav>
+
+  <!-- Main content -->
+  <main class="content">
+
+    <!-- Hero -->
+    <div class="hero">
+      <div class="hero-badge">📖 Complete Guide</div>
+      <h1>Channel OS<br>How-To Guide</h1>
+      <p>Everything you need to run your YouTube channel like an operating system — from idea to publish to promotion.</p>
+      <a class="hero-url" href="https://channel-os-app.onrender.com" target="_blank">
+        https://channel-os-app.onrender.com
+      </a>
+    </div>
+
+    <!-- TOC -->
+    <div class="toc">
+      <h3>Contents</h3>
+      <ol>
+        <li><a href="#overview">What is Channel OS?</a></li>
+        <li><a href="#setup">First-time Setup</a></li>
+        <li><a href="#channels">Your Three Channels</a></li>
+        <li><a href="#video-production">Video Production</a></li>
+        <li><a href="#channel-intelligence">Channel Intelligence Dashboard</a></li>
+        <li><a href="#idea-lab">Idea Lab</a></li>
+        <li><a href="#marketing-planner">Marketing Planner</a></li>
+        <li><a href="#workflow-weekly">Recommended Weekly Workflow</a></li>
+        <li><a href="#workflow-new-video">New Video End-to-End</a></li>
+        <li><a href="#tips">Tips & Tricks</a></li>
+      </ol>
+    </div>
+
+
+    <!-- ─── OVERVIEW ─── -->
+    <h2 id="overview">What is Channel OS?</h2>
+    <p>Channel OS is a <strong>YouTube content operating system</strong> — a single dashboard that replaces scattered spreadsheets, notes, and tools with one organised system for three channels.</p>
+
+    <div class="channel-grid">
+      <div class="channel-card">
+        <h4><span class="channel-dot" style="background:#FF6B35"></span>Genius Junkie</h4>
+        <p>Canva &amp; small business tutorials</p>
+        <ul>
+          <li>Tutorial &amp; template content</li>
+          <li>Lead magnet opportunities</li>
+          <li>Blog/Pinterest spin-offs</li>
+        </ul>
+      </div>
+      <div class="channel-card">
+        <h4><span class="channel-dot" style="background:#8B5CF6"></span>ShipShopTV</h4>
+        <p>Authority documentary content</p>
+        <ul>
+          <li>Power, loyalty, collapse</li>
+          <li>Long-form mini-docs</li>
+          <li>Cinematic packaging</li>
+        </ul>
+      </div>
+      <div class="channel-card">
+        <h4><span class="channel-dot" style="background:#10B981"></span>UltraHealth</h4>
+        <p>Evidence-based health content</p>
+        <ul>
+          <li>Trust-building education</li>
+          <li>Evergreen topic clusters</li>
+          <li>SEO blog repurposing</li>
+        </ul>
+      </div>
+    </div>
+
+    <p>The app has four sections:</p>
+    <table>
+      <thead><tr><th>Page</th><th>What it does</th></tr></thead>
+      <tbody>
+        <tr><td>🎬 <strong>Video Production</strong></td><td>Step-by-step pipeline for making Long-form or Shorts videos</td></tr>
+        <tr><td>📊 <strong>Channel Intelligence</strong></td><td>Upload analytics, get AI health summaries, track wins &amp; failures</td></tr>
+        <tr><td>💡 <strong>Idea Lab</strong></td><td>Generate, score, filter, and manage your video idea backlog</td></tr>
+        <tr><td>📅 <strong>Marketing Planner</strong></td><td>Monthly content calendar, promotion checklists, repurposing playbook</td></tr>
+      </tbody>
+    </table>
+
+    <div class="callout info">
+      <div class="callout-icon">💾</div>
+      <p>All your data (ideas, plans, notes, analytics) is saved automatically in your browser's <strong>localStorage</strong>. Nothing is stored on any server. Your API key never leaves your browser.</p>
+    </div>
+
+
+    <!-- ─── SETUP ─── -->
+    <h2 id="setup">First-time Setup</h2>
+    <p>The only thing you need to configure before using the app is your Anthropic API key. This powers all AI features — idea generation, health summaries, content clusters, and marketing plans.</p>
+
+    <div class="screenshot">
+      <div class="screenshot-bar">
+        <div class="dot" style="background:#FF5F57"></div>
+        <div class="dot" style="background:#FFBD2E"></div>
+        <div class="dot" style="background:#28CA41"></div>
+        <span class="url">channel-os-app.onrender.com — Settings panel (bottom-left sidebar)</span>
+      </div>
+      <div style="background:#0D0D0D; padding:20px; display:flex; gap:16px; align-items:flex-start;">
+        <div style="flex:1; background:#141414; border:1px solid #2A2A2A; border-radius:10px; padding:16px;">
+          <p style="font-size:11px; color:#555; margin-bottom:8px;">ANTHROPIC API KEY</p>
+          <div style="background:#0D0D0D; border:1px solid #2A2A2A; border-radius:6px; padding:8px 12px; font-family:monospace; font-size:12px; color:#666;">sk-ant-••••••••••••••••</div>
+          <div style="margin-top:10px; background:#1E1E1E; border-radius:6px; padding:8px 12px; text-align:center; font-size:12px; color:#888;">Save Key</div>
+          <p style="font-size:10px; color:#22c55e; margin-top:8px;">✓ Key active</p>
+        </div>
+      </div>
+    </div>
+
+    <ol class="steps">
+      <li><p>Open <a href="https://channel-os-app.onrender.com" target="_blank">channel-os-app.onrender.com</a></p></li>
+      <li><p>Click <strong>⚙️ Settings</strong> at the bottom-left of the sidebar. A panel slides open.</p></li>
+      <li><p>Paste your Anthropic API key (<code>sk-ant-...</code>) into the field. Get one at <a href="https://console.anthropic.com" target="_blank">console.anthropic.com</a>.</p></li>
+      <li><p>Click <strong>Save Key</strong>. The amber dot next to Settings turns off, confirming it's active.</p></li>
+      <li><p>Select your active channel from the top of the sidebar.</p></li>
+    </ol>
+
+    <div class="callout warn">
+      <div class="callout-icon">⚠️</div>
+      <p><strong>Important:</strong> The API key is stored only in your browser's localStorage for this session. If you clear browser data or use a different browser, you'll need to re-enter it. It is never sent to Render or any third-party server.</p>
+    </div>
+
+
+    <!-- ─── CHANNELS ─── -->
+    <h2 id="channels">Switching Between Channels</h2>
+    <p>The entire app is channel-aware. Every page — ideas, analytics, plans, and pipelines — shows data for the currently selected channel only.</p>
+
+    <div class="screenshot">
+      <div class="screenshot-bar">
+        <div class="dot" style="background:#FF5F57"></div>
+        <div class="dot" style="background:#FFBD2E"></div>
+        <div class="dot" style="background:#28CA41"></div>
+        <span class="url">Sidebar — Active Channel selector</span>
+      </div>
+      <div style="background:#0D0D0D; padding:16px 20px;">
+        <p style="font-size:10px; color:#444; text-transform:uppercase; letter-spacing:.1em; margin-bottom:10px;">Active Channel</p>
+        <div style="background:#FF6B3518; border:1px solid #FF6B3540; border-radius:8px; padding:8px 12px; margin-bottom:6px; display:flex; align-items:center; gap:8px;">
+          <div style="width:8px;height:8px;border-radius:50%;background:#FF6B35;flex-shrink:0;"></div>
+          <span style="font-size:12px; font-weight:500; color:#FF6B35;">Genius Junkie</span>
+        </div>
+        <div style="border-radius:8px; padding:8px 12px; margin-bottom:6px; display:flex; align-items:center; gap:8px;">
+          <div style="width:8px;height:8px;border-radius:50%;background:#333;flex-shrink:0;"></div>
+          <span style="font-size:12px; color:#555;">ShipShopTV</span>
+        </div>
+        <div style="border-radius:8px; padding:8px 12px; display:flex; align-items:center; gap:8px;">
+          <div style="width:8px;height:8px;border-radius:50%;background:#333;flex-shrink:0;"></div>
+          <span style="font-size:12px; color:#555;">UltraHealth</span>
+        </div>
+      </div>
+    </div>
+
+    <p>Click any channel name in the sidebar to switch. The colored accent bar at the top of each page reflects the active channel's brand color.</p>
+    <div class="callout tip">
+      <div class="callout-icon">💡</div>
+      <p>Each channel has its own <strong>strategy rules</strong> built in — content pillars, avoid topics, Shorts criteria, and repurposing playbooks. These rules power the AI's idea scoring and recommendations automatically.</p>
+    </div>
+
+
+    <!-- ─── VIDEO PRODUCTION ─── -->
+    <h2 id="video-production">Video Production</h2>
+    <p>The Video Production page is your <strong>production command centre</strong>. It shows your pipeline queue and step-by-step instructions for whichever format you're making.</p>
+
+    <h3>Choosing Long-form vs. Short</h3>
+    <p>Use the toggle in the top-right of the page header to switch the entire pipeline view:</p>
+
+    <div class="two-col">
+      <div class="card">
+        <h4><span class="pill pill-long">🎬 Long-form</span></h4>
+        <ul>
+          <li>Manual production checklist</li>
+          <li>Research → Script → Record → Edit → Thumbnail → Upload</li>
+          <li>Long-form structure guide included</li>
+          <li>Suitable for 5–30 minute videos</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h4><span class="pill pill-short">⚡ Short</span></h4>
+        <ul>
+          <li>Automated via Remotion + ElevenLabs</li>
+          <li>Script → Voice → Images → Render → Export</li>
+          <li>5-scene structure reference included</li>
+          <li>Outputs 1080×1920 MP4, ~65 seconds</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="screenshot">
+      <div class="screenshot-bar">
+        <div class="dot" style="background:#FF5F57"></div>
+        <div class="dot" style="background:#FFBD2E"></div>
+        <div class="dot" style="background:#28CA41"></div>
+        <span class="url">Video Production — ⚡ Shorts Pipeline</span>
+      </div>
+      <div style="background:#111; padding:20px;">
+        <div style="display:flex; align-items:center; gap:12px; margin-bottom:20px;">
+          <span style="font-size:13px; font-weight:600; color:#fff;">⚡ Shorts Pipeline</span>
+          <span style="font-size:11px; color:#555;">Automated via Remotion + ElevenLabs</span>
+        </div>
+        <div style="display:flex; flex-direction:column; gap:10px;">
+          <div style="display:flex; gap:14px; align-items:center;">
+            <div style="width:40px;height:40px;background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;">✍️</div>
+            <div style="flex:1;background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;padding:12px 16px;display:flex;justify-content:space-between;align-items:center;">
+              <div><p style="font-size:10px;color:#555;margin-bottom:2px;">STEP 1</p><p style="font-size:13px;font-weight:600;margin:0;">Script</p></div>
+              <code>node generate-script.mjs</code>
+            </div>
+          </div>
+          <div style="display:flex; gap:14px; align-items:center;">
+            <div style="width:40px;height:40px;background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;">🎙</div>
+            <div style="flex:1;background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;padding:12px 16px;display:flex;justify-content:space-between;align-items:center;">
+              <div><p style="font-size:10px;color:#555;margin-bottom:2px;">STEP 2</p><p style="font-size:13px;font-weight:600;margin:0;">Voiceover</p></div>
+              <code>npm run voiceover</code>
+            </div>
+          </div>
+          <div style="display:flex; gap:14px; align-items:center;">
+            <div style="width:40px;height:40px;background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0;">🎬</div>
+            <div style="flex:1;background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;padding:12px 16px;display:flex;justify-content:space-between;align-items:center;">
+              <div><p style="font-size:10px;color:#555;margin-bottom:2px;">STEP 4</p><p style="font-size:13px;font-weight:600;margin:0;">Render</p></div>
+              <code>npm run render</code>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3>Shorts Pipeline — Step by Step</h3>
+    <ol class="steps">
+      <li><p>Click a step card to expand it and see the full explanation.</p></li>
+      <li><p>Click the <code>command</code> button on the right to <strong>copy it to clipboard</strong>.</p></li>
+      <li><p>Paste and run the command in your terminal inside the <code>remotion-shorts/</code> folder.</p></li>
+      <li><p>Repeat for each step in order. The rendered MP4 lands in <code>remotion-shorts/out/short.mp4</code>.</p></li>
+    </ol>
+
+    <h3>Long-form Pipeline — Step by Step</h3>
+    <ol class="steps">
+      <li><p><strong>Research &amp; Outline</strong> — Write a one-page outline: hook, 3–5 sections, CTA. Use your Idea Lab angle and cluster context.</p></li>
+      <li><p><strong>Script</strong> — Use the Claude script generator or write manually. Target ~1 word per second (1,500 words ≈ 10-minute video).</p></li>
+      <li><p><strong>Record / Film</strong> — Record voiceover or on-camera footage. Keep takes short and labeled by section.</p></li>
+      <li><p><strong>Edit</strong> — Cut in Premiere, DaVinci, or CapCut. Hook in first 30 seconds, no dead air, chapters if over 8 minutes.</p></li>
+      <li><p><strong>Thumbnail</strong> — Design in Canva. 3–5 words max, high contrast, consistent channel style.</p></li>
+      <li><p><strong>Upload &amp; Optimize</strong> — Add SEO title, description with timestamps, tags, playlist. Pin a first comment.</p></li>
+    </ol>
+
+    <h3>Production Queue</h3>
+    <p>Ideas with status <strong>Planned</strong> appear at the top of Video Production under "Ready to Produce." Click <strong>Start →</strong> to move an idea to <em>In Production</em> status, tracking it across the app.</p>
+
+
+    <!-- ─── CHANNEL INTELLIGENCE ─── -->
+    <h2 id="channel-intelligence">Channel Intelligence Dashboard</h2>
+    <p>This page is your analytics brain. It turns raw YouTube data into actionable intelligence — and gets smarter the more context you give it.</p>
+
+    <div class="screenshot">
+      <div class="screenshot-bar">
+        <div class="dot" style="background:#FF5F57"></div>
+        <div class="dot" style="background:#FFBD2E"></div>
+        <div class="dot" style="background:#28CA41"></div>
+        <span class="url">Channel Intelligence — Overview tab</span>
+      </div>
+      <div style="background:#111;padding:20px;">
+        <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:20px;">
+          <div style="background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;padding:14px;">
+            <p style="font-size:9px;color:#555;text-transform:uppercase;letter-spacing:.1em;margin-bottom:6px;">Total Views</p>
+            <p style="font-size:22px;font-weight:700;color:#FF6B35;margin:0;">—</p>
+            <p style="font-size:10px;color:#444;margin-top:4px;">Upload CSV to populate</p>
+          </div>
+          <div style="background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;padding:14px;">
+            <p style="font-size:9px;color:#555;text-transform:uppercase;letter-spacing:.1em;margin-bottom:6px;">Watch Hours</p>
+            <p style="font-size:22px;font-weight:700;color:#fff;margin:0;">—</p>
+          </div>
+          <div style="background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;padding:14px;">
+            <p style="font-size:9px;color:#555;text-transform:uppercase;letter-spacing:.1em;margin-bottom:6px;">Avg CTR</p>
+            <p style="font-size:22px;font-weight:700;color:#fff;margin:0;">—</p>
+          </div>
+          <div style="background:#1A1A1A;border:1px solid #2A2A2A;border-radius:10px;padding:14px;">
+            <p style="font-size:9px;color:#555;text-transform:uppercase;letter-spacing:.1em;margin-bottom:6px;">Videos</p>
+            <p style="font-size:22px;font-weight:700;color:#fff;margin:0;">—</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3>Tab 1 — Overview</h3>
+    <p>The main dashboard. Shows key metrics, channel health score, AI-generated summary, and your channel's built-in strategy rules.</p>
+
+    <h3>Uploading YouTube Analytics</h3>
+    <ol class="steps">
+      <li><p>Go to <strong>YouTube Studio</strong> → Analytics → Advanced Mode.</p></li>
+      <li><p>Set your date range, select the metrics you want (Views, Watch time, CTR, Avg view duration), then click <strong>Export current view → CSV</strong>.</p></li>
+      <li><p>Back in Channel OS, click <strong>📤 Upload CSV</strong> in the top-right of Channel Intelligence.</p></li>
+      <li><p>Select the exported file. The app parses it instantly and populates all four metric cards.</p></li>
+    </ol>
+
+    <div class="callout tip">
+      <div class="callout-icon">💡</div>
+      <p>The CSV parser handles YouTube Studio's standard export format automatically. It reads columns like <em>Video title, Views, Watch time (hours), Impressions click-through rate (%), Average view duration</em>.</p>
+    </div>
+
+    <h3>Generating an AI Health Summary</h3>
+    <ol class="steps">
+      <li><p>Upload your CSV first (optional but gives better results).</p></li>
+      <li><p>Add any notes in the <strong>Notes &amp; Signals</strong> tab (wins, failures, audience comments).</p></li>
+      <li><p>Click <strong>✨ Generate Summary</strong>. Claude analyses your data against your channel strategy.</p></li>
+      <li><p>The summary appears showing: top topics, winning formats, winning hooks, growth recommendations, and warnings.</p></li>
+    </ol>
+
+    <h3>Channel Health Score</h3>
+    <p>A 0–100 score calculated from three factors:</p>
+    <table>
+      <thead><tr><th>Factor</th><th>What it measures</th><th>Max points</th></tr></thead>
+      <tbody>
+        <tr><td>Average CTR</td><td>≥6% = excellent, ≥4% = good, ≥2% = average</td><td>35</td></tr>
+        <tr><td>Average Retention</td><td>≥50% = excellent, ≥35% = good, ≥20% = average</td><td>35</td></tr>
+        <tr><td>Upload Frequency</td><td>≥4 videos/month = active, ≥2 = regular</td><td>30</td></tr>
+      </tbody>
+    </table>
+    <p>Labels: <strong style="color:#22c55e">Thriving</strong> (80+) · <strong style="color:#3b82f6">Healthy</strong> (60+) · <strong style="color:#f59e0b">Growing</strong> (40+) · <strong style="color:#ef4444">Needs Attention</strong> (below 40)</p>
+
+    <h3>Tab 2 — Video Data</h3>
+    <p>A full sortable table of all uploaded videos, ordered by views. Shows title, views, CTR (color-coded green/amber/red), average view duration, watch hours, and publish date.</p>
+
+    <h3>Tab 3 — Notes &amp; Signals</h3>
+    <p>A manual notepad for capturing qualitative intelligence. Four note types:</p>
+    <div class="two-col">
+      <div class="card">
+        <h4>🏆 Win</h4>
+        <p>A video that overperformed. What worked? Hook, topic, format, thumbnail?</p>
+      </div>
+      <div class="card">
+        <h4>💥 Failure</h4>
+        <p>A video that underperformed. What didn't land? Worth recording to avoid repeating.</p>
+      </div>
+      <div class="card">
+        <h4>👁 Observation</h4>
+        <p>General patterns you're noticing — trends, algorithm behaviour, competitor moves.</p>
+      </div>
+      <div class="card">
+        <h4>💬 Audience Signal</h4>
+        <p>Comments, DMs, or community responses that reveal what your audience wants next.</p>
+      </div>
+    </div>
+    <div class="callout tip">
+      <div class="callout-icon">💡</div>
+      <p>Notes are fed directly into the AI when generating ideas and health summaries. The more specific your notes, the more targeted the AI output will be.</p>
+    </div>
+
+
+    <!-- ─── IDEA LAB ─── -->
+    <h2 id="idea-lab">Idea Lab</h2>
+    <p>Idea Lab is your video idea engine. It generates AI-powered ideas scored against your channel strategy, organises them into a backlog, and groups them into content clusters and series.</p>
+
+    <div class="screenshot">
+      <div class="screenshot-bar">
+        <div class="dot" style="background:#FF5F57"></div>
+        <div class="dot" style="background:#FFBD2E"></div>
+        <div class="dot" style="background:#28CA41"></div>
+        <span class="url">Idea Lab — Backlog with filters</span>
+      </div>
+      <div style="background:#111;padding:20px;">
+        <div style="display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap;align-items:center;">
+          <div style="display:flex;gap:4px;background:#141414;border:1px solid #1E1E1E;border-radius:8px;padding:4px;">
+            <span style="padding:4px 10px;border-radius:6px;font-size:11px;background:#1E1E1E;color:#ccc;border:1px solid #3A3A3A;">All</span>
+            <span style="padding:4px 10px;border-radius:6px;font-size:11px;background:#0369a118;color:#38bdf8;border:1px solid #0369a140;">🎬 Long-form</span>
+            <span style="padding:4px 10px;border-radius:6px;font-size:11px;color:#444;">⚡ Short</span>
+          </div>
+          <span style="padding:4px 10px;border-radius:6px;font-size:11px;background:#1E1E1E;color:#ccc;border:1px solid #3A3A3A;">All Status</span>
+          <span style="padding:4px 10px;border-radius:6px;font-size:11px;color:#444;">All Fit</span>
+          <span style="font-size:11px;color:#444;margin-left:4px;">0 ideas</span>
+        </div>
+      </div>
+    </div>
+
+    <h3>Generating Ideas with AI</h3>
+    <ol class="steps">
+      <li><p>Make sure your API key is set in Settings.</p></li>
+      <li><p>Click <strong>✨ Generate Ideas</strong> in the top-right. Claude generates 8 ideas specifically for your active channel.</p></li>
+      <li><p>Each idea is automatically scored for strategy fit and assigned a video type (Long-form or Short).</p></li>
+      <li><p>Ideas appear in the <strong>Backlog</strong> tab instantly. Duplicates are filtered out automatically.</p></li>
+    </ol>
+
+    <div class="callout good">
+      <div class="callout-icon">✅</div>
+      <p>For best results, <strong>upload analytics data</strong> and <strong>add channel notes</strong> in Channel Intelligence before generating ideas. Claude uses all of that context to make ideas more relevant and specific.</p>
+    </div>
+
+    <h3>Understanding Idea Cards</h3>
+    <p>Each idea card shows:</p>
+    <div style="background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:16px 20px;margin:16px 0;">
+      <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px;">
+        <span class="pill pill-long">🎬 Long-form</span>
+        <span class="pill pill-strong">Strong Fit</span>
+        <span style="display:inline-flex;align-items:center;padding:2px 8px;border-radius:5px;font-size:11px;font-weight:600;background:#1f0a0a;color:#ef4444;border:1px solid #3d1515;">high</span>
+        <span class="pill pill-ai">AI</span>
+      </div>
+      <p style="font-size:14px;font-weight:600;color:#fff;margin-bottom:4px;">How I Build a Full Canva Brand Kit in 20 Minutes</p>
+      <p style="font-size:12px;color:#555;font-style:italic;">"Most people spend hours on this — here's the 20-minute system…"</p>
+    </div>
+
+    <table>
+      <thead><tr><th>Badge</th><th>What it means</th></tr></thead>
+      <tbody>
+        <tr><td><span class="pill pill-long">🎬 Long-form</span></td><td>Best suited for a full-length YouTube video (5–30 min)</td></tr>
+        <tr><td><span class="pill pill-short">⚡ Short</span></td><td>Best suited for a YouTube Short (under 60 sec)</td></tr>
+        <tr><td><span class="pill pill-strong">Strong Fit</span></td><td>Directly aligns with channel pillars and keywords</td></tr>
+        <tr><td><span class="pill pill-moderate">Moderate Fit</span></td><td>Loosely connected — worth considering</td></tr>
+        <tr><td><span class="pill pill-offbrand">Off-Brand</span></td><td>Conflicts with channel strategy — avoid or rework</td></tr>
+        <tr><td><span class="pill pill-ai">AI</span></td><td>Generated by Claude (not manually added)</td></tr>
+      </tbody>
+    </table>
+
+    <h3>Expanding an Idea Card</h3>
+    <p>Click any idea card to expand it and see the full detail:</p>
+    <ul>
+      <li><strong>Angle</strong> — the unique framing that makes this video stand out</li>
+      <li><strong>Format</strong> — content format (tutorial, documentary, myth-bust, etc.)</li>
+      <li><strong>Cluster</strong> — which content series or cluster this belongs to</li>
+      <li><strong>Thumbnail Concept</strong> — a brief visual idea for the thumbnail</li>
+      <li><strong>Shorts Angle</strong> — how to cut a 60-second Short from a long-form video</li>
+      <li><strong>Repurposing Ideas</strong> — what to do after publishing (blog, email, TikTok, etc.)</li>
+    </ul>
+
+    <h3>Managing the Backlog</h3>
+    <p>Use the <strong>Status dropdown</strong> on each card to move ideas through the pipeline:</p>
+    <div class="flow">
+      <div class="flow-step" style="background:#1A1A1A;color:#888;">Backlog</div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step" style="background:#1e3a5f;color:#38bdf8;">Planned</div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step" style="background:#422006;color:#f59e0b;">In Production</div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step" style="background:#052e16;color:#22c55e;">Published</div>
+    </div>
+    <p>Ideas set to <strong>Planned</strong> appear in Video Production's "Ready to Produce" queue and the Marketing Planner calendar's quick-add list.</p>
+
+    <h3>Filters</h3>
+    <p>Three filter rows let you narrow the backlog instantly:</p>
+    <ul>
+      <li><strong>Format Type</strong> — All / 🎬 Long-form / ⚡ Short</li>
+      <li><strong>Status</strong> — All / Backlog / Planned / In Production / Published / Rejected</li>
+      <li><strong>Strategy Fit</strong> — All / Strong / Moderate / Weak / Off-Brand</li>
+    </ul>
+
+    <h3>Tab 2 — Clusters &amp; Series</h3>
+    <ol class="steps">
+      <li><p>Click <strong>🗂 Clusters</strong> in the top-right (requires API key).</p></li>
+      <li><p>Claude analyses your existing backlog and channel pillars to generate 4–6 content clusters.</p></li>
+      <li><p>Each cluster shows: cluster name, which pillar it belongs to, a description, and 3–5 specific video titles within it.</p></li>
+      <li><p>Series-worthy clusters are flagged with a series name badge.</p></li>
+    </ol>
+
+    <h3>Tab 3 — Add Manually</h3>
+    <p>Add ideas that came from your own thinking without AI:</p>
+    <ol class="steps">
+      <li><p>Select <strong>Long-form</strong> or <strong>⚡ Short</strong> as the video type.</p></li>
+      <li><p>Enter the title. A <strong>Strategy Fit Preview</strong> appears instantly, scoring the title against your channel's keywords and pillars.</p></li>
+      <li><p>Optionally add a hook, format, and cluster/series name.</p></li>
+      <li><p>Click <strong>Add to Backlog</strong>.</p></li>
+    </ol>
+
+
+    <!-- ─── MARKETING PLANNER ─── -->
+    <h2 id="marketing-planner">Marketing Planner</h2>
+    <p>The Marketing Planner keeps your content calendar, promotion checklists, and repurposing strategy all in one place.</p>
+
+    <div class="screenshot">
+      <div class="screenshot-bar">
+        <div class="dot" style="background:#FF5F57"></div>
+        <div class="dot" style="background:#FFBD2E"></div>
+        <div class="dot" style="background:#28CA41"></div>
+        <span class="url">Marketing Planner — Content Calendar</span>
+      </div>
+      <div style="background:#111;padding:20px;">
+        <div style="display:flex;align-items:center;gap:16px;margin-bottom:20px;">
+          <button style="width:32px;height:32px;background:#1A1A1A;border:1px solid #2A2A2A;border-radius:8px;color:#666;display:flex;align-items:center;justify-content:center;">←</button>
+          <span style="font-size:15px;font-weight:600;min-width:160px;text-align:center;">March 2026</span>
+          <button style="width:32px;height:32px;background:#1A1A1A;border:1px solid #2A2A2A;border-radius:8px;color:#666;display:flex;align-items:center;justify-content:center;">→</button>
+        </div>
+        <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px;">
+          <div>
+            <p style="font-size:10px;color:#555;text-transform:uppercase;letter-spacing:.1em;margin-bottom:10px;">Week 1</p>
+            <div style="background:#1A1A1A;border:1px solid #2A2A2A;border-radius:8px;padding:10px;">
+              <div style="display:flex;align-items:center;gap:6px;margin-bottom:6px;">
+                <span style="font-size:9px;font-weight:600;background:#0369a118;color:#38bdf8;padding:2px 6px;border-radius:4px;">🎬 Long</span>
+              </div>
+              <p style="font-size:11px;font-weight:500;margin-bottom:6px;">How to Build a Brand Kit</p>
+              <div style="height:2px;background:#3b82f6;border-radius:2px;margin-bottom:6px;"></div>
+              <p style="font-size:10px;color:#666;">planned</p>
+            </div>
+          </div>
+          <div>
+            <p style="font-size:10px;color:#555;text-transform:uppercase;letter-spacing:.1em;margin-bottom:10px;">Week 2</p>
+          </div>
+          <div>
+            <p style="font-size:10px;color:#555;text-transform:uppercase;letter-spacing:.1em;margin-bottom:10px;">Week 3</p>
+          </div>
+          <div>
+            <p style="font-size:10px;color:#555;text-transform:uppercase;letter-spacing:.1em;margin-bottom:10px;">Week 4</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3>Tab 1 — Content Calendar</h3>
+    <p>A month-by-month, week-by-week grid of all planned videos. Navigate between months using the ← → arrows.</p>
+
+    <h4 style="margin-top:20px;font-size:14px;color:#aaa;">Adding a video to the calendar:</h4>
+    <ol class="steps">
+      <li><p>Click <strong>+ Add Video</strong> in the top-right.</p></li>
+      <li><p>Choose <strong>Long-form</strong> or <strong>⚡ Short</strong>.</p></li>
+      <li><p>Type a title (or click a <strong>Quick-add from Backlog</strong> suggestion to pre-fill).</p></li>
+      <li><p>Select a week (1–4) and format, then click <strong>Add</strong>.</p></li>
+    </ol>
+    <p>Each calendar card shows a coloured status bar, the video type badge, title, and current production status. Update the status inline as you progress.</p>
+
+    <h3>Promotion Checklists</h3>
+    <p>Every video added to the calendar automatically gets a <strong>post-publish promotion checklist</strong> tailored to its channel. The checklists are shown below the weekly grid.</p>
+
+    <div class="screenshot">
+      <div class="screenshot-bar">
+        <div class="dot" style="background:#FF5F57"></div>
+        <div class="dot" style="background:#FFBD2E"></div>
+        <div class="dot" style="background:#28CA41"></div>
+        <span class="url">Marketing Planner — Repurposing tab</span>
+      </div>
+      <div style="background:#111;padding:20px;">
+        <div style="background:#1A1A1A;border:1px solid #2A2A2A;border-radius:12px;padding:16px;">
+          <p style="font-size:13px;font-weight:600;margin-bottom:14px;">Repurposing Playbook — Genius Junkie</p>
+          <div style="display:flex;flex-direction:column;gap:10px;">
+            <div style="display:flex;gap:10px;align-items:flex-start;">
+              <span style="background:#FF6B3518;color:#FF6B35;font-size:11px;font-weight:600;padding:4px 10px;border-radius:6px;white-space:nowrap;">Blog/Pinterest</span>
+              <p style="font-size:12px;color:#888;margin:0;">Step-by-step written version with screenshots — great for SEO and Pinterest traffic</p>
+            </div>
+            <div style="display:flex;gap:10px;align-items:flex-start;">
+              <span style="background:#FF6B3518;color:#FF6B35;font-size:11px;font-weight:600;padding:4px 10px;border-radius:6px;white-space:nowrap;">Email</span>
+              <p style="font-size:12px;color:#888;margin:0;">"Tutorial of the Week" with direct link and one key takeaway</p>
+            </div>
+            <div style="display:flex;gap:10px;align-items:flex-start;">
+              <span style="background:#FF6B3518;color:#FF6B35;font-size:11px;font-weight:600;padding:4px 10px;border-radius:6px;white-space:nowrap;">Lead magnet</span>
+              <p style="font-size:12px;color:#888;margin:0;">Offer the template from the video as a free download</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <p>Tick off each task as you complete them after publishing. A progress bar shows completion percentage.</p>
+
+    <h3>Tab 2 — Monthly Plan (AI)</h3>
+    <ol class="steps">
+      <li><p>Add videos to your calendar first (or have ideas in your Backlog).</p></li>
+      <li><p>Click <strong>✨ Generate Plan</strong>. Claude creates a full monthly marketing strategy.</p></li>
+      <li><p>The plan includes: a monthly theme, week-by-week focus areas, 5 channel growth actions, a default promotion checklist, and a repurposing plan.</p></li>
+    </ol>
+
+    <h3>Tab 3 — Repurposing</h3>
+    <p>A permanent reference for how to repurpose videos for each channel. No AI needed — these are the built-in playbooks:</p>
+
+    <table>
+      <thead><tr><th>Channel</th><th>Key Repurposing Outlets</th></tr></thead>
+      <tbody>
+        <tr><td><strong style="color:#FF6B35">Genius Junkie</strong></td><td>Blog + Pinterest · Email tutorial · Instagram Short · Lead magnet template</td></tr>
+        <tr><td><strong style="color:#8B5CF6">ShipShopTV</strong></td><td>Emotional Short cutdown · Community poll · Twitter/X thread · LinkedIn lesson</td></tr>
+        <tr><td><strong style="color:#10B981">UltraHealth</strong></td><td>SEO blog post · Email health insight · Instagram carousel · Pinterest evergreen</td></tr>
+      </tbody>
+    </table>
+
+    <p>The <strong>Shorts Selection Criteria</strong> section tells you exactly which moments from a long-form video are strong enough to cut into a Short for each channel.</p>
+
+
+    <!-- ─── WEEKLY WORKFLOW ─── -->
+    <h2 id="workflow-weekly">Recommended Weekly Workflow</h2>
+    <p>Here's how to use Channel OS as part of a consistent weekly routine:</p>
+
+    <table>
+      <thead><tr><th>Day</th><th>Action</th><th>Page</th></tr></thead>
+      <tbody>
+        <tr><td><strong>Monday</strong></td><td>Review the content calendar — confirm this week's video is on track. Update production statuses.</td><td>📅 Marketing Planner</td></tr>
+        <tr><td><strong>Tuesday</strong></td><td>Script or outline the video. Use the pipeline steps as a checklist.</td><td>🎬 Video Production</td></tr>
+        <tr><td><strong>Wednesday</strong></td><td>Record / film / run Remotion pipeline for Shorts.</td><td>🎬 Video Production</td></tr>
+        <tr><td><strong>Thursday</strong></td><td>Edit, thumbnail, and prepare metadata.</td><td>🎬 Video Production</td></tr>
+        <tr><td><strong>Friday</strong></td><td>Publish. Immediately start working through the Promotion Checklist.</td><td>📅 Marketing Planner</td></tr>
+        <tr><td><strong>Sunday</strong></td><td>Add new notes (wins/failures/audience signals). Generate fresh ideas for next week.</td><td>📊 Intelligence + 💡 Ideas</td></tr>
+      </tbody>
+    </table>
+
+    <div class="callout tip">
+      <div class="callout-icon">💡</div>
+      <p><strong>Monthly reset:</strong> On the first of each month, generate a new AI Health Summary (after uploading fresh analytics) and a new Monthly Plan. This keeps your strategy data current.</p>
+    </div>
+
+
+    <!-- ─── NEW VIDEO FLOW ─── -->
+    <h2 id="workflow-new-video">New Video End-to-End</h2>
+    <p>Complete walkthrough from idea to published + promoted:</p>
+
+    <ol class="steps">
+      <li><p><strong>Generate ideas</strong> in Idea Lab → filter for Strong Fit → pick the best one.</p></li>
+      <li><p><strong>Update its status</strong> to <em>Planned</em> on the idea card.</p></li>
+      <li><p><strong>Add it to the calendar</strong> in Marketing Planner → assign a week → select Long-form or Short.</p></li>
+      <li><p><strong>Go to Video Production</strong> → the idea appears in "Ready to Produce" → click Start → to move it to <em>In Production</em>.</p></li>
+      <li><p><strong>Follow the pipeline</strong> — copy each command and run it, or work through the manual checklist for Long-form.</p></li>
+      <li><p><strong>Upload to YouTube</strong>. Update the idea status to <em>Published</em> in Idea Lab.</p></li>
+      <li><p><strong>Work through the Promotion Checklist</strong> in Marketing Planner — tick off each platform as you post.</p></li>
+      <li><p><strong>Add a note</strong> in Channel Intelligence (Win or Observation) to record what performed well.</p></li>
+    </ol>
+
+
+    <!-- ─── TIPS ─── -->
+    <h2 id="tips">Tips &amp; Tricks</h2>
+
+    <h3>Get better AI ideas</h3>
+    <ul>
+      <li>Upload fresh analytics CSV before generating ideas — Claude uses your top-performing video data to suggest similar winning topics.</li>
+      <li>Add audience signal notes (comments that reveal what people want) — these directly influence what Claude suggests.</li>
+      <li>Generate ideas multiple times — each run produces 8 new ideas, and duplicates are automatically filtered out.</li>
+    </ul>
+
+    <h3>Use clusters to plan series</h3>
+    <ul>
+      <li>Click <strong>🗂 Clusters</strong> to see AI-generated series ideas. A series of 4–6 related videos performs significantly better than isolated one-offs.</li>
+      <li>Tag ideas with the same <strong>Cluster</strong> name to group them in the backlog view.</li>
+    </ul>
+
+    <h3>Shorts strategy</h3>
+    <ul>
+      <li>For Long-form videos: always check the <strong>Shorts Angle</strong> field on an idea card. Every long-form should have at least one Short cutdown.</li>
+      <li>Use the <strong>Shorts Selection Criteria</strong> in Marketing Planner → Repurposing to decide which moment to cut.</li>
+      <li>Tag Short ideas separately in the backlog so they don't get mixed with Long-form production planning.</li>
+    </ul>
+
+    <h3>Keep notes specific</h3>
+    <ul>
+      <li>Don't just write "video did well" — write <em>why</em>: "Hook mentioning specific tool name (Canva AI) got 8% CTR vs channel avg of 4%."</li>
+      <li>Paste in actual YouTube comments as Audience Signal notes — Claude reads these verbatim when generating ideas.</li>
+    </ul>
+
+    <h3>Flag off-brand ideas before they waste time</h3>
+    <ul>
+      <li>Any idea with an <span class="pill pill-offbrand">Off-Brand</span> badge should be rejected immediately or reworked so it fits the channel's identity.</li>
+      <li>Use the <strong>Fit filter</strong> to show only Strong Fit ideas when you're in planning mode.</li>
+    </ul>
+
+    <hr>
+
+    <div class="footer">
+      <p>Channel OS · Built with React, Vite, Tailwind, and Claude API · <a href="https://channel-os-app.onrender.com">channel-os-app.onrender.com</a></p>
+      <p style="margin-top:4px;">All data stored locally in your browser. API key never leaves your device.</p>
+    </div>
+
+  </main>
+</div>
+
+<script>
+  // Highlight active sidebar link on scroll
+  const sections = document.querySelectorAll('h2[id]');
+  const links = document.querySelectorAll('.sidebar-link');
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        links.forEach(l => l.classList.remove('active'));
+        const active = document.querySelector(`.sidebar-link[href="#${entry.target.id}"]`);
+        if (active) active.classList.add('active');
+      }
+    });
+  }, { rootMargin: '-20% 0px -70% 0px' });
+  sections.forEach(s => observer.observe(s));
+</script>
+</body>
+</html>

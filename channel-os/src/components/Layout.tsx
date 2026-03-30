@@ -108,6 +108,18 @@ export default function Layout({ children }: { children: React.ReactNode }) {
 
         {/* Settings Footer */}
         <div className="px-3 py-3 border-t border-[#1E1E1E]">
+          <a
+            href="/guide.html"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm transition-all mb-1"
+            style={{ color: '#7c8a9e', background: 'transparent' }}
+            onMouseEnter={e => { (e.currentTarget as HTMLAnchorElement).style.color = '#c0cada'; (e.currentTarget as HTMLAnchorElement).style.background = '#141414'; }}
+            onMouseLeave={e => { (e.currentTarget as HTMLAnchorElement).style.color = '#7c8a9e'; (e.currentTarget as HTMLAnchorElement).style.background = 'transparent'; }}
+          >
+            <span>📖</span>
+            <span>How-To Guide</span>
+          </a>
           <button
             onClick={() => setShowSettings((s) => !s)}
             className="w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm text-[#555] hover:text-[#888] hover:bg-[#141414] transition-all"

@@ -9,9 +9,11 @@ import { AppState, AppAction, ChannelId } from '../types';
 
 const STORAGE_KEY = 'channel-os-state';
 
+const ENV_API_KEY = import.meta.env.VITE_ANTHROPIC_API_KEY ?? '';
+
 const defaultState: AppState = {
   selectedChannel: 'genius-junkie',
-  apiKey: '',
+  apiKey: ENV_API_KEY,
   analytics: {
     'genius-junkie': null,
     'shipshop-tv': null,
@@ -94,7 +96,7 @@ function reducer(state: AppState, action: AppAction): AppState {
       return { ...state, notes: state.notes.filter((n) => n.id !== action.payload) };
 
     case 'LOAD_STATE':
-      return { ...state, ...action.payload };
+      return { ...state, ...action.payload, apiKey: state.apiKey || ENV_API_KEY };
 
     default:
       return state;
