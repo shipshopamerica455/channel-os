@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { AppProvider } from './store/AppContext';
 import Layout from './components/Layout';
 import VideoProduction from './pages/VideoProduction';
@@ -9,7 +9,7 @@ import MarketingPlanner from './pages/MarketingPlanner';
 export default function App() {
   return (
     <AppProvider>
-      <BrowserRouter>
+      <HashRouter>
         <Layout>
           <Routes>
             <Route path="/" element={<VideoProduction />} />
@@ -18,7 +18,7 @@ export default function App() {
             <Route path="/marketing" element={<MarketingPlanner />} />
           </Routes>
         </Layout>
-      </BrowserRouter>
+      </HashRouter>
     </AppProvider>
   );
 }
