@@ -28,3 +28,12 @@ services:
     buildCommand: echo "no build"
     startCommand: node proxy.js
     plan: free
+
+  - type: cron
+    name: youtube-sync
+    env: node
+    rootDir: youtube-sync
+    buildCommand: echo "no build"
+    startCommand: node sync.mjs
+    schedule: "0 * * * *"
+    plan: free
