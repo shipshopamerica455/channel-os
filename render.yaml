@@ -29,6 +29,17 @@ services:
     startCommand: node proxy.js
     plan: free
 
+  - type: web
+    name: nightwise
+    env: node
+    rootDir: nightwise-site
+    buildCommand: echo "no build"
+    startCommand: node server.js
+    plan: free
+    envVars:
+      - key: MAILERLITE_TOKEN
+        sync: false
+
   - type: cron
     name: youtube-sync
     env: node

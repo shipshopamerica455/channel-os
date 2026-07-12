@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NightWise — The Science of Better Sleep</title>
+<meta name="description" content="Research-backed answers to why you sleep badly and what actually fixes it. Take the free 60-second sleep quiz.">
+<link rel="icon" type="image/png" href="/logo.png">
+<style>
+  :root{
+    --navy:#0E1A2B; --navy2:#0C1626; --card:#16263D;
+    --amber:#E8B45A; --amber2:#DE9F3E; --cream:#F4E8CE; --muted:#C8B98F;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{background:radial-gradient(1200px 800px at 50% -200px,#182A44 0%,var(--navy) 55%,var(--navy2) 100%);color:var(--cream);font-family:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;line-height:1.6;min-height:100vh}
+  h1,h2,h3{font-family:Georgia,'Times New Roman',serif}
+  .wrap{max-width:960px;margin:0 auto;padding:0 20px}
+  header{display:flex;align-items:center;gap:12px;padding:22px 0}
+  header svg{width:44px;height:44px}
+  header .name{font-family:Georgia,serif;font-size:1.35rem;font-weight:bold;letter-spacing:.5px}
+  header .tag{color:var(--muted);font-size:.85rem;font-style:italic;margin-left:auto}
+  .hero{text-align:center;padding:56px 0 40px}
+  .hero h1{font-size:clamp(1.9rem,4.5vw,3rem);margin-bottom:18px}
+  .hero p{color:var(--muted);max-width:640px;margin:0 auto 28px}
+  .btn{display:inline-block;background:linear-gradient(135deg,var(--amber),var(--amber2));color:var(--navy2);font-weight:700;border:none;border-radius:10px;padding:15px 30px;font-size:1.05rem;cursor:pointer;text-decoration:none;transition:transform .15s, box-shadow .15s}
+  .btn:hover{transform:translateY(-2px);box-shadow:0 6px 24px rgba(232,180,90,.35)}
+  .caption{font-size:.8rem;color:var(--muted);margin-top:12px}
+  .pillars{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;padding:34px 0}
+  .pillar{background:var(--card);border:1px solid rgba(232,180,90,.15);border-radius:14px;padding:26px;text-align:center}
+  .pillar h3{margin-bottom:10px;font-size:1.05rem}
+  .pillar p{color:var(--muted);font-size:.92rem}
+  .quiz-card{background:var(--card);border:1px solid rgba(232,180,90,.25);border-radius:16px;padding:36px;margin:40px auto;max-width:620px;box-shadow:0 10px 40px rgba(0,0,0,.35)}
+  .quiz-card h2{text-align:center;margin-bottom:8px}
+  .quiz-card .sub{text-align:center;color:var(--muted);font-size:.92rem;margin-bottom:24px}
+  .q-label{font-weight:600;margin-bottom:14px;font-size:1.05rem}
+  .opt{display:block;width:100%;text-align:left;background:var(--navy2);color:var(--cream);border:1px solid rgba(232,180,90,.2);border-radius:10px;padding:13px 16px;margin-bottom:10px;font-size:.98rem;cursor:pointer;transition:border-color .15s, background .15s}
+  .opt:hover{border-color:var(--amber)}
+  .dots{display:flex;justify-content:center;gap:7px;margin-top:20px}
+  .dot{width:8px;height:8px;border-radius:50%;background:rgba(232,180,90,.25)}
+  .dot.on{background:var(--amber)}
+  input[type=text],input[type=email]{width:100%;background:var(--navy2);border:1px solid rgba(232,180,90,.25);border-radius:10px;padding:13px 16px;color:var(--cream);font-size:1rem;margin-bottom:12px}
+  input:focus{outline:none;border-color:var(--amber)}
+  .hp{position:absolute;left:-9999px;opacity:0}
+  .err{color:#f0a8a8;font-size:.88rem;min-height:1.3em;margin-bottom:6px}
+  .yt{background:var(--card);border-radius:14px;padding:30px;text-align:center;margin:30px 0}
+  details{background:var(--card);border-radius:10px;margin-bottom:10px;padding:16px 20px}
+  summary{cursor:pointer;font-weight:600}
+  details p{color:var(--muted);margin-top:10px;font-size:.94rem}
+  h2.sec{text-align:center;margin:46px 0 20px}
+  footer{border-top:1px solid rgba(232,180,90,.15);margin-top:60px;padding:28px 0;text-align:center;color:var(--muted);font-size:.8rem}
+  .stars{position:fixed;inset:0;pointer-events:none;z-index:-1}
+  .stars span{position:absolute;width:3px;height:3px;border-radius:50%;background:var(--cream);opacity:.35}
+</style>
+</head>
+<body>
+<div class="stars">
+  <span style="top:8%;left:12%"></span><span style="top:15%;left:78%"></span><span style="top:28%;left:45%;opacity:.2"></span>
+  <span style="top:40%;left:90%"></span><span style="top:55%;left:6%"></span><span style="top:70%;left:82%;opacity:.2"></span>
+  <span style="top:85%;left:30%"></span><span style="top:12%;left:55%;opacity:.5"></span>
+</div>
+
+<div class="wrap">
+  <header>
+    <svg viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg" aria-label="NightWise logo">
+      <defs><linearGradient id="m" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#F2C878"/><stop offset="100%" stop-color="#DE9F3E"/></linearGradient></defs>
+      <path d="M 268 280 q -22 -60 6 -92 q 30 14 40 72 z" fill="#DE9F3E"/>
+      <path d="M 532 280 q 22 -60 -6 -92 q -30 14 -40 72 z" fill="#DE9F3E"/>
+      <circle cx="400" cy="405" r="215" fill="url(#m)"/>
+      <path d="M 300 430 q 28 30 56 0" fill="none" stroke="#0C1626" stroke-width="14" stroke-linecap="round"/>
+      <path d="M 412 430 q 28 30 56 0" fill="none" stroke="#0C1626" stroke-width="14" stroke-linecap="round"/>
+      <path d="M 384 465 l 16 -10 16 10 -16 22 z" fill="#0C1626"/>
+      <g fill="none" stroke="#0C1626" stroke-width="7" stroke-linecap="round" opacity=".55">
+        <path d="M 350 540 q 17 16 34 0"/><path d="M 400 540 q 17 16 34 0"/><path d="M 375 575 q 17 16 34 0"/>
+      </g>
+    </svg>
+    <span class="name">NightWise</span>
+    <span class="tag">The science of better sleep</span>
+  </header>
+
+  <section class="hero">
+    <h1>Sleep is a science.<br>Most advice ignores it.</h1>
+    <p>NightWise turns published sleep research into clear, practical answers — why you can't fall asleep, why you wake at 3am, and what actually fixes it. No fads, no miracle cures. Every claim cited.</p>
+    <a class="btn" href="#quiz">Take the 60-second sleep quiz</a>
+    <div class="caption">Free · 6 questions · personalised results by email</div>
+  </section>
+
+  <section class="pillars">
+    <div class="pillar"><h3>🌙 The science, explained</h3><p>Short, clear videos on what's actually happening while you sleep — from sleep paralysis to why hot nights wreck deep sleep.</p></div>
+    <div class="pillar"><h3>📚 Every claim cited</h3><p>Each video and article shows its sources on screen: peer-reviewed studies, not influencer opinion.</p></div>
+    <div class="pillar"><h3>🛏️ Honest gear guidance</h3><p>When gear genuinely helps — and when it's marketing. If we'd not buy it ourselves, we say so.</p></div>
+  </section>
+
+  <section class="quiz-card" id="quiz">
+    <h2>What's ruining your sleep?</h2>
+    <p class="sub">Answer 6 quick questions — we'll email you a personalised breakdown of your most likely sleep disruptor and the research-backed first step to fix it.</p>
+    <div id="quiz-body"></div>
+    <div class="dots" id="dots"></div>
+  </section>
+
+  <section class="yt">
+    <h2 style="margin-bottom:8px">Watch NightWise on YouTube</h2>
+    <p style="color:var(--muted);margin-bottom:18px">New research-backed sleep videos every week.</p>
+    <a class="btn" href="https://www.youtube.com/@NightWiseSleep" target="_blank" rel="noopener">Visit the channel</a>
+  </section>
+
+  <h2 class="sec">Common questions</h2>
+  <details><summary>Is this medical advice?</summary><p>No. NightWise is educational content based on published sleep research. If you suspect a sleep disorder such as sleep apnoea or chronic insomnia, please speak to your GP or a sleep specialist.</p></details>
+  <details><summary>How is NightWise funded?</summary><p>Some of our guides and emails contain affiliate links, always clearly labelled. If you buy through one, we may earn a commission at no extra cost to you. We never accept payment for opinions, and products we wouldn't use don't get recommended — full stop.</p></details>
+  <details><summary>What do I get by email?</summary><p>Your personalised quiz results, then one short research-backed sleep insight each week. No spam, unsubscribe any time.</p></details>
+
+  <footer>
+    © 2026 NightWise · Educational content, not medical advice.<br>
+    Some links are affiliate links, always clearly labelled. Emails include an unsubscribe link.
+  </footer>
+</div>
+
+<script>
+const QUESTIONS = [
+  {key:"sleep_problem", label:"What best describes your main sleep problem?", opts:["I struggle to fall asleep","I wake up during the night","I wake up far too early","I sleep, but wake up exhausted"]},
+  {key:"bedroom_issue", label:"How would you describe your bedroom at night?", opts:["Too hot or stuffy","Too noisy or too bright","Pretty comfortable","Never really thought about it"]},
+  {key:"mattress_age", label:"How old is your mattress?", opts:["Under 2 years","2–7 years","8+ years","Honestly, no idea"]},
+  {key:"screens_in_bed", label:"Do you use your phone or watch TV in bed?", opts:["Every night","Sometimes","Rarely or never"]},
+  {key:"caffeine_after_2pm", label:"Do you have caffeine after 2pm?", opts:["Most days","Occasionally","Never"]},
+  {key:"wake_style", label:"How do you usually wake up?", opts:["Alarm — and it's brutal","Alarm, but I'm fine","Naturally, no alarm"]},
+];
+const answers = {};
+let step = 0;
+const body = document.getElementById("quiz-body");
+const dots = document.getElementById("dots");
+
+function renderDots(){
+  dots.innerHTML = QUESTIONS.map((_,i)=>`<div class="dot ${i<=step?"on":""}"></div>`).join("") + `<div class="dot ${step>=QUESTIONS.length?"on":""}"></div>`;
+}
+function renderQuestion(){
+  renderDots();
+  if (step < QUESTIONS.length){
+    const q = QUESTIONS[step];
+    body.innerHTML = `<div class="q-label">${q.label}</div>` +
+      q.opts.map(o=>`<button class="opt" data-v="${o}">${o}</button>`).join("");
+    body.querySelectorAll(".opt").forEach(b=>b.addEventListener("click",()=>{
+      answers[q.key]=b.dataset.v; step++; renderQuestion();
+    }));
+  } else {
+    body.innerHTML = `
+      <div class="q-label">Where should we send your results?</div>
+      <input type="text" id="f-name" placeholder="First name" autocomplete="given-name">
+      <input type="email" id="f-email" placeholder="Email address" autocomplete="email">
+      <input type="text" id="f-web" class="hp" name="website" tabindex="-1" autocomplete="off">
+      <div class="err" id="f-err"></div>
+      <button class="btn" id="f-go" style="width:100%">Send my results →</button>
+      <div class="caption" style="text-align:center">You'll also get one short research-backed sleep insight each week. Unsubscribe any time. Some emails may contain clearly-labelled affiliate links, which fund our content.</div>`;
+    document.getElementById("f-go").addEventListener("click", submit);
+  }
+}
+async function submit(){
+  const err = document.getElementById("f-err");
+  const email = document.getElementById("f-email").value.trim();
+  if(!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)){ err.textContent="Please enter a valid email address."; return; }
+  err.textContent="";
+  const btn = document.getElementById("f-go");
+  btn.disabled = true; btn.textContent = "Sending…";
+  try{
+    const res = await fetch("/api/subscribe",{method:"POST",headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({ email, name: document.getElementById("f-name").value, website: document.getElementById("f-web").value, ...answers })});
+    const out = await res.json();
+    if(!res.ok) throw new Error(out.error||"error");
+    body.innerHTML = `<div style="text-align:center;padding:20px 0">
+      <div style="font-size:2.4rem">🌙</div>
+      <h3 style="margin:12px 0 8px">You're in.</h3>
+      <p style="color:var(--muted)">Your personalised sleep breakdown is on its way to <strong>${email.replace(/</g,"&lt;")}</strong>. Check your inbox (and spam folder, just in case).</p></div>`;
+    dots.innerHTML="";
+  }catch(e){
+    err.textContent = e.message === "error" ? "Something went wrong — please try again." : e.message;
+    btn.disabled = false; btn.textContent = "Send my results →";
+  }
+}
+renderQuestion();
+</script>
+</body>
+</html>
