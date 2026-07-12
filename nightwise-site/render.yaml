@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: nightwise
+    env: node
+    buildCommand: echo "no build"
+    startCommand: node server.js
+    plan: free
+    envVars:
+      - key: MAILERLITE_TOKEN
+        sync: false
