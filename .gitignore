@@ -27,3 +27,7 @@ remotion-shorts/public/*.png
 
 # Archives
 *.zip
+
+# Mellow Melodies pipeline: logs and bytecode, not source
+mellow-melodies/*.log
+mellow-melodies/__pycache__/

@@ -1,0 +1,470 @@
+{
+  "_comment": "One entry per upload. publish.mjs reads this and runs bed → video → upload. Every stage is resumable: existing files are reused, so a re-run after a failure picks up where it stopped.",
+  "w1tue": {
+    "title": "Deep Work Music for Traders — Stay Sharp and Calm Through the Session",
+    "bed": "a",
+    "tag": "w1tue",
+    "minutes": 120,
+    "takes": 16,
+    "visual": {
+      "image": "loops/plates/session-desk-rain-window.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-deepwork.png",
+    "published": "6imC7eKnIpY",
+    "playlist": "charts"
+  },
+  "w1thu": {
+    "title": "Focus Music for Chart Analysis — Calm Baroque for Clear Decisions",
+    "bed": "a",
+    "tag": "w1thu",
+    "minutes": 120,
+    "takes": 20,
+    "visual": {
+      "image": "loops/plates/session-desk-library-lamp.png",
+      "loop": 75
+    },
+    "thumbnail": "brand/final/v3/thumb-charts.png",
+    "published": "Ev5PcbgtJBg",
+    "playlist": "charts"
+  },
+  "w1sun": {
+    "title": "8 Hours of Calm Baroque for Sleep — Decompress After the Close",
+    "bed": "b",
+    "tag": "w1sun",
+    "minutes": 480,
+    "takes": 40,
+    "visual": {
+      "clip": "loops/embers.mp4",
+      "slow": 2
+    },
+    "thumbnail": "brand/final/v3/thumb-sleep.png",
+    "published": "Wn4kmrh8gkU",
+    "playlist": "sleep"
+  },
+  "w2tue": {
+    "title": "The Full NYSE Session — 6.5 Hours of Focus Music, Open to Close",
+    "bed": "a",
+    "tag": "w2tue",
+    "minutes": 390,
+    "takes": 40,
+    "visual": {
+      "arc": true
+    },
+    "thumbnail": "brand/final/v3/thumb-nyse.png",
+    "description": "Six and a half hours of original baroque-inspired instrumental music — the exact length of the New York trading session, 9:30 to 16:00 ET.\n\nThe view moves through the day with you: dark before the open, bright through the morning, warming into the afternoon, dusk at the close. Glance up and you know roughly where you are without checking the clock.\n\nSteady tempo, no vocals, no dynamic swells, nothing that competes for the attention you are spending elsewhere.\n\nEvery piece is original and produced for this channel.\n\n▸ Best for: the full trading session, long analysis days, deep work blocks\n▸ Tempo: around 60 BPM\n▸ Length: 6 hours 30 minutes — open to close\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)\n\n#tradingmusic #focusmusic #deepwork #nyse #instrumental",
+    "tags": [
+      "trading music",
+      "nyse session",
+      "focus music",
+      "deep work music",
+      "market session music",
+      "6 hour focus music",
+      "baroque focus music",
+      "concentration music",
+      "instrumental music",
+      "music for trading",
+      "day trading music",
+      "work music",
+      "60 bpm",
+      "calm music"
+    ],
+    "publishAt": "2026-07-28T07:00:00+01:00",
+    "published": "GXh1Y4wUXqk",
+    "playlist": "sessions"
+  },
+  "w2thu": {
+    "title": "The Opening Range — 90 Minutes of Low-Cortisol Focus Music",
+    "bed": "c",
+    "tag": "w2thu",
+    "minutes": 90,
+    "takes": 16,
+    "visual": {
+      "image": "loops/plates/market-skyline-predawn.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-openingrange.png",
+    "description": "Ninety minutes of slow, grounding instrumental music for the opening range — the window where most damage gets done.\n\nSustained low strings, no crescendo, nothing to strain toward. Written to keep a raised heart rate coming down rather than to energise.\n\nEvery piece is original and produced for this channel.\n\n▸ Best for: the market open, high-stakes decisions, resetting after a bad trade\n▸ Length: 90 minutes\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)\n\n#tradingmusic #focusmusic #calmmusic #instrumental",
+    "tags": [
+      "trading music",
+      "calm music",
+      "focus music",
+      "emotional regulation",
+      "market open",
+      "low cortisol",
+      "instrumental music",
+      "relaxing music",
+      "music for stress",
+      "deep work music",
+      "concentration music"
+    ],
+    "publishAt": "2026-07-30T07:00:00+01:00",
+    "published": "VMfOn9UKxBM",
+    "playlist": "sessions"
+  },
+  "w2sun": {
+    "title": "10 Hours of Calm Classical for Sleep — Fireplace, No Ads",
+    "bed": "b",
+    "tag": "w2sun",
+    "minutes": 600,
+    "takes": 44,
+    "visual": {
+      "clip": "loops/embers.mp4",
+      "slow": 2
+    },
+    "thumbnail": "brand/final/v3/thumb-sleep-10h.png",
+    "description": "Ten hours of original instrumental music for sleep — slow piano and strings, sparse and unhurried, with nothing designed to wake you.\n\nNo vocals. No sudden dynamics. No adverts interrupting the middle of the night.\n\nEvery piece is original and produced for this channel.\n\n▸ Best for: sleep, insomnia, night shifts\n▸ Length: 10 hours, uninterrupted\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n#sleepmusic #relaxingmusic #insomnia #calmmusic #instrumental",
+    "tags": [
+      "sleep music",
+      "10 hours sleep music",
+      "relaxing music",
+      "insomnia",
+      "deep sleep music",
+      "calm music",
+      "piano sleep music",
+      "instrumental music",
+      "music for sleeping",
+      "no ads sleep music",
+      "classical music for sleep",
+      "fireplace sleep music",
+      "fireplace ambience"
+    ],
+    "publishAt": "2026-08-02T20:00:00+01:00",
+    "published": "zlA0NC5U1Q4",
+    "playlist": "sleep"
+  },
+  "w3tue": {
+    "title": "Monk Mode — 4 Hours of Deep Focus Music, No Distractions",
+    "bed": "a",
+    "tag": "w3tue",
+    "minutes": 240,
+    "takes": 30,
+    "visual": {
+      "image": "loops/plates/session-desk-library-lamp.png",
+      "loop": 90
+    },
+    "thumbnail": "brand/final/v3/thumb-monkmode.png",
+    "description": "Four hours of original instrumental music for a single uninterrupted block of deep work.\n\nNo vocals, no dynamic swells, no track changes that pull your eyes off the page. Steady from the first minute to the last, because that is the point — you set it going and you do not think about it again.\n\nEvery piece is original and produced for this channel.\n\n▸ Best for: deep work blocks, study sessions, writing, hard research\n▸ Tempo: around 60 BPM\n▸ Length: 4 hours, uninterrupted\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)\n\n#monkmode #deepwork #focusmusic #studymusic #instrumental",
+    "tags": [
+      "monk mode",
+      "monk mode music",
+      "deep work music",
+      "deep focus music",
+      "focus music",
+      "study music",
+      "4 hour focus music",
+      "lock in music",
+      "concentration music",
+      "instrumental music",
+      "no distractions",
+      "60 bpm",
+      "work music",
+      "productivity music"
+    ],
+    "publishAt": "2026-08-04T07:00:00+01:00",
+    "published": "LgZ-d4qlm1k",
+    "playlist": "deepwork"
+  },
+  "w3thu": {
+    "title": "London–New York Overlap — 3 Hours of Focus for the Busiest Window",
+    "bed": "a",
+    "tag": "w3thu",
+    "minutes": 180,
+    "takes": 26,
+    "visual": {
+      "image": "loops/plates/market-rooftop-dusk.png",
+      "loop": 80
+    },
+    "thumbnail": "brand/final/v3/thumb-overlap.png",
+    "description": "Three hours of original instrumental music for the London–New York overlap — the highest-volume window of the trading day.\n\nSteady tempo, no vocals, no dynamic swells.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)\n\n#tradingmusic #focusmusic #deepwork #instrumental",
+    "tags": [
+      "trading music",
+      "focus music",
+      "deep work music",
+      "london new york overlap",
+      "market session music",
+      "3 hour focus music",
+      "concentration music",
+      "instrumental music",
+      "60 bpm",
+      "work music"
+    ],
+    "publishAt": "2026-08-06T07:00:00+01:00",
+    "published": "-KT-0VA_bkM",
+    "playlist": "sessions"
+  },
+  "w3sun": {
+    "title": "8 Hours of Rain and Piano for Sleep — No Ads",
+    "bed": "b",
+    "tag": "w3sun",
+    "minutes": 480,
+    "takes": 38,
+    "visual": {
+      "image": "loops/plates/session-rain-glass-macro.png",
+      "loop": 90
+    },
+    "thumbnail": "brand/final/v3/thumb-rainsleep.png",
+    "description": "Eight hours of original slow piano for sleep, with rain at the window.\n\nNo vocals. No sudden dynamics. No adverts in the middle of the night.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n#sleepmusic #rainsounds #relaxingmusic #insomnia #instrumental",
+    "tags": [
+      "sleep music",
+      "rain sounds sleep",
+      "8 hours sleep music",
+      "relaxing music",
+      "insomnia",
+      "piano sleep music",
+      "deep sleep music",
+      "calm music",
+      "instrumental music",
+      "no ads sleep music"
+    ],
+    "publishAt": "2026-08-09T20:00:00+01:00",
+    "published": "pgRGXQcemXM",
+    "playlist": "sleep"
+  },
+  "w4tue": {
+    "title": "The Full London Session — 8 Hours of Deep Work Music",
+    "bed": "a",
+    "tag": "w4tue",
+    "minutes": 480,
+    "takes": 40,
+    "visual": {
+      "arc": true
+    },
+    "thumbnail": "brand/final/v3/thumb-london.png",
+    "description": "Eight hours of original instrumental music — the length of the London session, 8:00 to 16:00.\n\nThe view moves through the day with you: dark before the open, bright by mid-morning, dusk at the close.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)\n\n#tradingmusic #focusmusic #deepwork #london #instrumental",
+    "tags": [
+      "trading music",
+      "london session",
+      "focus music",
+      "deep work music",
+      "market session music",
+      "8 hour focus music",
+      "concentration music",
+      "instrumental music",
+      "60 bpm",
+      "work music"
+    ],
+    "publishAt": "2026-08-11T07:00:00+01:00",
+    "published": "H-2cUYLkdFk",
+    "playlist": "sessions"
+  },
+  "w4thu": {
+    "title": "Music to Stop Revenge Trading — 2 Hours of Calm Strings",
+    "bed": "c",
+    "tag": "w4thu",
+    "minutes": 120,
+    "takes": 18,
+    "visual": {
+      "image": "loops/plates/market-harbour-night.png",
+      "loop": 70
+    },
+    "thumbnail": "brand/final/v3/thumb-revenge.png",
+    "description": "Two hours of slow, grounding strings for the moment after a bad trade.\n\nNo crescendo, nothing to strain toward. Written to bring a raised heart rate down rather than to energise.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)\n\n#tradingmusic #calmmusic #focusmusic #instrumental",
+    "tags": [
+      "trading music",
+      "trading psychology",
+      "calm music",
+      "emotional regulation",
+      "focus music",
+      "music for stress",
+      "relaxing music",
+      "instrumental music",
+      "deep work music"
+    ],
+    "publishAt": "2026-08-13T07:00:00+01:00",
+    "published": "XRaXSbASFtI",
+    "playlist": "charts"
+  },
+  "w4sun": {
+    "title": "Sunday Reset — 6 Hours of Quiet Piano Before the Week Opens",
+    "bed": "b",
+    "tag": "w4sun",
+    "minutes": 360,
+    "takes": 32,
+    "visual": {
+      "image": "loops/plates/sleep-lake-night.png",
+      "loop": 90
+    },
+    "thumbnail": "brand/final/v3/thumb-sundayreset.png",
+    "description": "Six hours of quiet original piano for the evening before the week opens.\n\nUnhurried and sparse — for putting the week down before picking the next one up.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n#sleepmusic #relaxingmusic #calmmusic #sundayreset #instrumental",
+    "tags": [
+      "relaxing music",
+      "sleep music",
+      "calm music",
+      "piano music",
+      "sunday reset",
+      "6 hour relaxing music",
+      "instrumental music",
+      "music for stress",
+      "deep sleep music"
+    ],
+    "publishAt": "2026-08-16T20:00:00+01:00",
+    "published": "5YrAHhvXcz4",
+    "playlist": "sleep"
+  },
+  "w5tue": {
+    "title": "Focus Music for Chart Analysis, Volume Two — Calm Baroque for Clear Decisions",
+    "bed": "a",
+    "tag": "w5tue",
+    "minutes": 120,
+    "takes": 20,
+    "visual": {
+      "image": "loops/plates/session-desk-library-lamp.png",
+      "loop": 75
+    },
+    "thumbnail": "brand/final/v3/thumb-charts2.png",
+    "description": "Two hours of original baroque-influenced focus music for chart work — the follow-up to the session that started this series.\n\nSteady tempo, no vocals, no dynamic swells. Written for the hours when the decision matters and the screen does not need any more competition.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n💿 Own the music\nAlbums — the tracks from these sessions, yours to keep:\nhttps://ko-fi.com/mellowmelodies/shop\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)",
+    "tags": [
+      "chart analysis music",
+      "trading music",
+      "focus music",
+      "deep work music",
+      "technical analysis",
+      "concentration music",
+      "instrumental music",
+      "60 bpm",
+      "calm music",
+      "music for trading"
+    ],
+    "publishAt": "2026-08-18T07:00:00+01:00",
+    "playlist": "charts",
+    "published": "p99jql0jV6Q"
+  },
+  "w5thu": {
+    "title": "The Asian Session — 8 Hours of Focus Music, Tokyo Open to Close",
+    "bed": "a",
+    "tag": "w5thu",
+    "minutes": 480,
+    "takes": 40,
+    "visual": {
+      "arc": true
+    },
+    "thumbnail": "brand/final/v3/thumb-asian.png",
+    "description": "Eight hours of original instrumental music — the length of the Tokyo session, 09:00 to 15:00 JST, plus the hours either side that most traders actually work.\n\nThe view moves through the day with you. Glance up and you know roughly where you are without checking the clock.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n💿 Own the music\nAlbums — the tracks from these sessions, yours to keep:\nhttps://ko-fi.com/mellowmelodies/shop\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)",
+    "tags": [
+      "asian session",
+      "tokyo session",
+      "trading music",
+      "focus music",
+      "deep work music",
+      "market session music",
+      "8 hour focus music",
+      "forex music",
+      "instrumental music",
+      "60 bpm"
+    ],
+    "publishAt": "2026-08-20T07:00:00+01:00",
+    "playlist": "sessions",
+    "published": "L4MI4-XQEmE"
+  },
+  "w5sun": {
+    "title": "Sunday Preparation — 3 Hours of Quiet Focus Before the Week Opens",
+    "bed": "b",
+    "tag": "w5sun",
+    "minutes": 180,
+    "takes": 26,
+    "visual": {
+      "image": "loops/plates/market-rooftop-dusk.png",
+      "loop": 80
+    },
+    "thumbnail": "brand/final/v3/thumb-sundayprep.png",
+    "description": "Three hours of slow original music for the Sunday evening review — the charts, the journal, the plan for the week.\n\nUnhurried and uncluttered. For thinking clearly before anything is at stake.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n💿 Own the music\nAlbums — the tracks from these sessions, yours to keep:\nhttps://ko-fi.com/mellowmelodies/shop\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)",
+    "tags": [
+      "sunday preparation",
+      "trading music",
+      "focus music",
+      "planning music",
+      "calm music",
+      "weekly review",
+      "instrumental music",
+      "deep work music",
+      "3 hour focus music"
+    ],
+    "publishAt": "2026-08-23T20:00:00+01:00",
+    "playlist": "deepwork",
+    "published": "e-tigy_PyIQ"
+  },
+  "w6tue": {
+    "title": "Focus Music for Chart Analysis, Volume Three — Two Hours of Clear Thinking",
+    "bed": "a",
+    "tag": "w6tue",
+    "minutes": 120,
+    "takes": 20,
+    "visual": {
+      "image": "loops/plates/session-desk-rain-window.png",
+      "loop": 75
+    },
+    "thumbnail": "brand/final/v3/thumb-charts3.png",
+    "description": "Two more hours of original baroque-influenced focus music for chart work.\n\nSame steady tempo, same absence of anything designed to grab your attention. Music for the part of the job that needs a quiet head.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n💿 Own the music\nAlbums — the tracks from these sessions, yours to keep:\nhttps://ko-fi.com/mellowmelodies/shop\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)",
+    "tags": [
+      "chart analysis music",
+      "trading music",
+      "focus music",
+      "deep work music",
+      "technical analysis",
+      "concentration music",
+      "instrumental music",
+      "60 bpm",
+      "calm music",
+      "music for traders"
+    ],
+    "publishAt": "2026-08-25T07:00:00+01:00",
+    "playlist": "charts",
+    "published": "bwUozUsnJBQ"
+  },
+  "w6thu": {
+    "title": "FOMC Day — 6.5 Hours of Low-Cortisol Focus Music",
+    "bed": "c",
+    "tag": "w6thu",
+    "minutes": 390,
+    "takes": 40,
+    "visual": {
+      "image": "loops/plates/market-skyline-predawn.png",
+      "loop": 70
+    },
+    "thumbnail": "brand/final/v3/thumb-fomc.png",
+    "description": "Six and a half hours of sustained, grounding music for the days when the announcement moves everything.\n\nNo crescendo. Nothing to strain toward. Written to keep a raised heart rate down through the hours when it matters most.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n💿 Own the music\nAlbums — the tracks from these sessions, yours to keep:\nhttps://ko-fi.com/mellowmelodies/shop\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)",
+    "tags": [
+      "fomc",
+      "trading music",
+      "focus music",
+      "emotional regulation",
+      "low cortisol",
+      "market volatility",
+      "calm music",
+      "instrumental music",
+      "deep work music",
+      "music for stress"
+    ],
+    "publishAt": "2026-08-27T07:00:00+01:00",
+    "playlist": "sessions",
+    "published": "iLsb0bIjMKY"
+  },
+  "w6sun": {
+    "title": "Earnings Season — 4 Hours of Deep Focus for Long Research Days",
+    "bed": "a",
+    "tag": "w6sun",
+    "minutes": 240,
+    "takes": 30,
+    "visual": {
+      "image": "loops/plates/session-candle-desk.png",
+      "loop": 90
+    },
+    "thumbnail": "brand/final/v3/thumb-earnings.png",
+    "description": "Four hours of original instrumental music for the long research days — filings, transcripts, and the slow work of forming a view.\n\nSteady, uncluttered, and built to be left running.\n\nEvery piece is original and produced for this channel.\n\nNew sessions every Tuesday, Thursday and Sunday.\n\n☕ Support the channel\nIf this helps you focus, trade or sleep better, you can keep the music coming here:\nhttps://ko-fi.com/mellowmelodies\nEvery contribution goes straight into new sessions and keeping the 24/7 stream running.\n\n💿 Own the music\nAlbums — the tracks from these sessions, yours to keep:\nhttps://ko-fi.com/mellowmelodies/shop\n\n📈 Charts I use\nTradingView — the platform most of these sessions are written for:\nhttps://www.tradingview.com/pricing/?share_your_love=mellowmelodies\n(affiliate link — costs you nothing, helps fund the music)",
+    "tags": [
+      "earnings season",
+      "research music",
+      "trading music",
+      "focus music",
+      "deep work music",
+      "study music",
+      "4 hour focus music",
+      "concentration music",
+      "instrumental music"
+    ],
+    "publishAt": "2026-08-30T20:00:00+01:00",
+    "playlist": "deepwork",
+    "published": "SeiOGFFslH4"
+  }
+}
