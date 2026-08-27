@@ -466,5 +466,173 @@
     "publishAt": "2026-08-30T20:00:00+01:00",
     "playlist": "deepwork",
     "published": "SeiOGFFslH4"
+  },
+  "w7tue": {
+    "title": "10 Hours of Rain and Piano for Sleep, Volume Two — No Ads",
+    "bed": "b",
+    "tag": "w7tue",
+    "minutes": 600,
+    "takes": 44,
+    "visual": {
+      "image": "loops/plates/sleep-snow-window-night.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-rain-10h.png",
+    "publishAt": "2026-09-01T06:00:00.000Z",
+    "playlist": "sleep"
+  },
+  "w7thu": {
+    "title": "Focus Music for Chart Analysis, Volume Four — Two Hours of Calm Baroque",
+    "bed": "a",
+    "tag": "w7thu",
+    "minutes": 120,
+    "takes": 20,
+    "visual": {
+      "image": "loops/plates/session-desk-library-lamp.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-charts4.png",
+    "publishAt": "2026-09-03T06:00:00.000Z",
+    "playlist": "charts"
+  },
+  "w7sun": {
+    "title": "8 Hours of Calm Piano for Sleep — Moonlight Nocturnes, No Ads",
+    "bed": "b",
+    "tag": "w7sun",
+    "minutes": 480,
+    "takes": 40,
+    "visual": {
+      "image": "loops/plates/sleep-lake-night.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-nocturnes.png",
+    "publishAt": "2026-09-06T06:00:00.000Z",
+    "playlist": "sleep"
+  },
+  "w8tue": {
+    "title": "10 Hours of Ocean Waves and Soft Piano for Deep Sleep — No Ads",
+    "bed": "b",
+    "tag": "w8tue",
+    "minutes": 600,
+    "takes": 44,
+    "visual": {
+      "image": "loops/plates/sleep-ocean-longexposure.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-ocean.png",
+    "publishAt": "2026-09-08T06:00:00.000Z",
+    "playlist": "sleep"
+  },
+  "w8thu": {
+    "title": "Deep Focus Music for Study — 3 Hours of Calm Baroque, No Ads",
+    "bed": "a",
+    "tag": "w8thu",
+    "minutes": 180,
+    "takes": 26,
+    "visual": {
+      "image": "loops/plates/session-desk-rain-window.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-study-3h.png",
+    "publishAt": "2026-09-10T06:00:00.000Z",
+    "playlist": "deepwork"
+  },
+  "w8sun": {
+    "title": "9 Hours of Quiet Cello for Sleep — Slow Strings, No Ads",
+    "bed": "c",
+    "tag": "w8sun",
+    "minutes": 540,
+    "takes": 40,
+    "visual": {
+      "image": "loops/plates/sleep-forest-moonlight.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-cello-9h.png",
+    "publishAt": "2026-09-13T06:00:00.000Z",
+    "playlist": "sleep"
+  },
+  "w9tue": {
+    "title": "10 Hours of Calm Classical for Sleep, Volume Two — No Ads",
+    "bed": "b",
+    "tag": "w9tue",
+    "minutes": 600,
+    "takes": 44,
+    "visual": {
+      "image": "loops/plates/sleep-night-sky-clouds.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-classical-v2.png",
+    "publishAt": "2026-09-15T06:00:00.000Z",
+    "playlist": "sleep"
+  },
+  "w9thu": {
+    "title": "Monk Mode, Volume Two — 4 Hours of Deep Focus Music, No Distractions",
+    "bed": "a",
+    "tag": "w9thu",
+    "minutes": 240,
+    "takes": 30,
+    "visual": {
+      "image": "loops/plates/session-window-dawn-room.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-monkmode2.png",
+    "publishAt": "2026-09-17T06:00:00.000Z",
+    "playlist": "deepwork"
+  },
+  "w9sun": {
+    "title": "8 Hours of Winter Piano for Sleep — Snowfall Through the Night, No Ads",
+    "bed": "b",
+    "tag": "w9sun",
+    "minutes": 480,
+    "takes": 40,
+    "visual": {
+      "image": "loops/plates/sleep-snow-window-night.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-winter-8h.png",
+    "publishAt": "2026-09-20T06:00:00.000Z",
+    "playlist": "sleep"
+  },
+  "w10tue": {
+    "title": "12 Hours of Sleep Music — Piano and Rain Through the Whole Night",
+    "bed": "b",
+    "tag": "w10tue",
+    "minutes": 720,
+    "takes": 48,
+    "visual": {
+      "image": "loops/plates/sleep-lake-night.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-sleep-12h.png",
+    "publishAt": "2026-09-22T06:00:00.000Z",
+    "playlist": "sleep"
+  },
+  "w10thu": {
+    "title": "6 Hours of Baroque for Deep Work — Uninterrupted, No Ads",
+    "bed": "a",
+    "tag": "w10thu",
+    "minutes": 360,
+    "takes": 34,
+    "visual": {
+      "image": "loops/plates/session-candle-desk.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-baroque-6h.png",
+    "publishAt": "2026-09-24T06:00:00.000Z",
+    "playlist": "deepwork"
+  },
+  "w10sun": {
+    "title": "9 Hours of Quiet Strings for Sleep — Study and Deep Rest, No Ads",
+    "bed": "c",
+    "tag": "w10sun",
+    "minutes": 540,
+    "takes": 40,
+    "visual": {
+      "image": "loops/plates/sleep-ocean-longexposure.png",
+      "loop": 60
+    },
+    "thumbnail": "brand/final/v3/thumb-strings-9h.png",
+    "publishAt": "2026-09-27T06:00:00.000Z",
+    "playlist": "sleep"
   }
 }

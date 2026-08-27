@@ -136,4 +136,25 @@ if __name__ == "__main__":
     # and viewers arriving expecting crackle rather than baroque.
     thumbnail("sleepmusic-a-piano-moonlight", "8 HOURS",  "Sleep Music", "thumb-sleep.png",     "Original piano · no ads")
     thumbnail("sleepmusic-c-cello-window",    "10 HOURS", "Sleep Music", "thumb-sleep-10h.png", "Original strings · no ads")
+
+    # September slate. Weighted to length after 1 Jun–27 Aug analytics: the 8h sleep
+    # compilation turned 44 views into 26.7 hours watched, while every event-titled
+    # trader video (FOMC, opening range, earnings) drew under 20 views and no search
+    # traffic at all. Long and plainly-named is what the suggested feed picks up.
+    #
+    # Every one of these uses a sleepmusic-* or deepwork-* plate with the instrument in
+    # frame, for the reason noted above: the hearth plate got its video shelved next to
+    # fireplace-ambience channels and the arrivals were expecting crackle.
+    thumbnail("sleepmusic-b-piano-keys-lamp", "10 HOURS", "Rain & Piano",  "thumb-rain-10h.png",     "Volume two · no ads")
+    thumbnail("deepwork-b-library-fire",      "2 HOURS",  "Chart Analysis","thumb-charts4.png",      "Volume four · calm baroque")
+    thumbnail("sleepmusic-a-piano-moonlight", "8 HOURS",  "Nocturnes",     "thumb-nocturnes.png",    "Original piano · no ads")
+    thumbnail("sleepmusic-c-cello-window",    "10 HOURS", "Ocean & Piano", "thumb-ocean.png",        "Original piano · no ads")
+    thumbnail("deepwork-a-desk-glow",         "3 HOURS",  "Study Music",   "thumb-study-3h.png",     "Calm baroque · 60 BPM")
+    thumbnail("sleepmusic-c-cello-window",    "9 HOURS",  "Quiet Cello",   "thumb-cello-9h.png",     "Slow strings · no ads")
+    thumbnail("sleepmusic-b-piano-keys-lamp", "10 HOURS", "Sleep Music",   "thumb-classical-v2.png", "Volume two · no ads")
+    thumbnail("deepwork-c-cafe-window",       "4 HOURS",  "Monk Mode",     "thumb-monkmode2.png",    "Volume two · no distractions")
+    thumbnail("sleep-b-cabin-snow",           "8 HOURS",  "Winter Piano",  "thumb-winter-8h.png",    "Snowfall · no ads")
+    thumbnail("sleepmusic-a-piano-moonlight", "12 HOURS", "Sleep Music",   "thumb-sleep-12h.png",    "Piano and rain · no ads")
+    thumbnail("deepwork-b-library-fire",      "6 HOURS",  "Deep Work",     "thumb-baroque-6h.png",   "Uninterrupted · no ads")
+    thumbnail("sleepmusic-c-cello-window",    "9 HOURS",  "Quiet Strings", "thumb-strings-9h.png",   "Sleep and deep rest")
     print("\nDone.")
