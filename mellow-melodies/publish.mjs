@@ -116,6 +116,23 @@ function contradictions(slot, s) {
   // half-length arc uploaded under an "8 Hours" title because both said 480.
   const vid = path.join(CHANNEL, `${title.split(" \u2014 ")[0]}.mp4`);
   const secs = seconds(vid);
+
+  // YouTube's ceiling is 12 hours, and it enforces it AFTER accepting the bytes: the
+  // upload returns a video id, then the video quietly never appears. publish.mjs wrote
+  // that id into calendar.json as a success and the slot looked done for a video that
+  // did not exist. A 12-hour slot could never have worked \u2014 beds assemble a minute or
+  // two long, so every render in the September run overran its target; only the one
+  // sitting on the ceiling was killed by it.
+  const LIMIT = 12 * 3600;
+  if (secs !== null && secs >= LIMIT) {
+    out.push(`render is ${(secs / 3600).toFixed(2)}h \u2014 YouTube's limit is 12h, and it ` +
+             `accepts the upload then discards the video. Trim below 11h58m first.`);
+  }
+  if (mins * 60 >= LIMIT) {
+    out.push(`slot targets ${(mins / 60).toFixed(2)}h \u2014 keep it under 12h, allowing a ` +
+             `few minutes because beds assemble longer than their target`);
+  }
+
   if (secs !== null && mins && Math.abs(secs / 60 - mins) > 5) {
     out.push(`render is ${(secs / 60).toFixed(0)} min but calendar/title say ${mins} min`);
   }
