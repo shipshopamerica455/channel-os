@@ -157,4 +157,21 @@ if __name__ == "__main__":
     thumbnail("sleepmusic-a-piano-moonlight", "12 HOURS", "Sleep Music",   "thumb-sleep-12h.png",    "Piano and rain · no ads")
     thumbnail("deepwork-b-library-fire",      "6 HOURS",  "Deep Work",     "thumb-baroque-6h.png",   "Uninterrupted · no ads")
     thumbnail("sleepmusic-c-cello-window",    "9 HOURS",  "Quiet Strings", "thumb-strings-9h.png",   "Sleep and deep rest")
+
+    # October slate. September's 7-sleep/5-focus split settled the lane question on ~580
+    # views: sleep returned 11.3 min/view against focus's 3.8, so October is 10 and 2.
+    # Every sleep tile puts the instrument in frame, for the reason above — the hearth
+    # plate got its video shelved beside fireplace-ambience channels.
+    thumbnail("sleepmusic-a-piano-moonlight", "10 HOURS", "Nocturnes",     "thumb-nocturnes2.png",   "Moonlight piano · no ads")
+    thumbnail("deepwork-b-library-fire",      "3 HOURS",  "Study Music",   "thumb-study-3h2.png",    "Volume two · calm baroque")
+    thumbnail("sleepmusic-c-cello-window",    "10 HOURS", "Ocean & Piano", "thumb-ocean-10h.png",    "Slow waves · no ads")
+    thumbnail("sleepmusic-c-cello-window",    "9 HOURS",  "Slow Cello",    "thumb-cello-9h2.png",    "Quiet strings · no ads")
+    thumbnail("sleepmusic-b-piano-keys-lamp", "8 HOURS",  "Rain & Piano",  "thumb-rain-8h.png",      "Volume three · no ads")
+    thumbnail("sleepmusic-a-piano-moonlight", "10 HOURS", "Sleep Music",   "thumb-classical-3.png",  "Volume three · no ads")
+    thumbnail("sleepmusic-b-piano-keys-lamp", "8 HOURS",  "Quiet Piano",   "thumb-piano-8h.png",     "Soft nocturnes · no ads")
+    thumbnail("deepwork-a-desk-glow",         "6 HOURS",  "Deep Work",     "thumb-baroque-6h2.png",  "Volume two · uninterrupted")
+    thumbnail("sleep-b-cabin-snow",           "10 HOURS", "Winter Piano",  "thumb-winter-10h.png",   "Snowfall · no ads")
+    thumbnail("sleepmusic-c-cello-window",    "9 HOURS",  "Quiet Strings", "thumb-strings-9h2.png",  "Deep rest · no ads")
+    thumbnail("sleepmusic-a-piano-moonlight", "8 HOURS",  "Forest Night",  "thumb-forest-8h.png",    "Calm piano · no ads")
+    thumbnail("sleepmusic-b-piano-keys-lamp", "10 HOURS", "Sleep Music",   "thumb-sleep-10h-v2.png", "Piano under a quiet sky")
     print("\nDone.")

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Render, upload and schedule the twelve September slots, one at a time.
+# Render, upload and schedule a slate of slots, one at a time.
 #
 # The batch that filled the disk this morning did so because nothing was watching
 # free space and nothing reclaimed finished renders. 91 hours of runtime is roughly
@@ -18,7 +18,13 @@ MM="/Users/admin/Documents/Kimi Extension v1/mellow-melodies"
 RS="/Users/admin/Documents/Kimi Extension v1/remotion-shorts"
 NODE="$(command -v node)"
 MIN_GB=12
-SLOTS=(w7tue w7thu w7sun w8tue w8thu w8sun w9tue w9thu w9sun w10tue w10thu w10sun)
+# Slots come from the command line so one runner serves every slate:
+#   ./run-slate.sh w11tue w11thu w11sun ...
+SLOTS=("$@")
+if [ ${#SLOTS[@]} -eq 0 ]; then
+  echo "usage: $(basename "$0") <slot> [slot ...]" >&2
+  exit 2
+fi
 
 free_gb() { df -g /System/Volumes/Data | tail -1 | awk '{print $4}'; }
 
