@@ -46,6 +46,17 @@ const audio = resolve(String(args.audio));
 const out = resolve(String(args.out || "output.mp4"));
 const loopSecs = Number(args.loop || 60);
 
+// The whole video is this one loop stream-copied for hours, so this single number sets
+// the file size of every render. It was CRF 20 — near-archival, and far more than a slow
+// drift over a still needs. Measured on a sleep plate: CRF 20 gives 896 kbit/s and a
+// 3.7 GB ten-hour file; CRF 26 gives 373 kbit/s and 1.5 GB, at SSIM 0.985 against it,
+// which is past the point where the difference is visible. And YouTube re-encodes every
+// upload regardless, so the extra bitrate is discarded before any viewer sees it — it
+// was only ever costing disk, and upload time on 8 GB files.
+//
+// Raise it back for material with real motion; this is tuned for stills and slow loops.
+const CRF = String(args.crf || 26);
+
 if (!fs.existsSync(audio)) { console.error(`no such audio: ${audio}`); process.exit(1); }
 
 const durationOf = async (f) => {
@@ -85,7 +96,7 @@ if (args.clip) {
     "-filter_complex",
     `[0:v]${pre}scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,fps=24,split[a][b];` +
     "[b]reverse[r];[a][r]concat=n=2:v=1:a=0[v]",
-    "-map", "[v]", "-an", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+    "-map", "[v]", "-an", "-c:v", "libx264", "-preset", "medium", "-crf", CRF,
     "-pix_fmt", "yuv420p", loopFile], { maxBuffer: 1 << 26 });
 } else {
   const img = resolve(String(args.image));
@@ -98,7 +109,7 @@ if (args.clip) {
   await execFileP("ffmpeg", ["-y", "-loop", "1", "-i", img,
     "-vf", `scale=3840:2160:force_original_aspect_ratio=increase,crop=3840:2160,` +
            `zoompan=z='${z}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=${frames}:s=1920x1080:fps=${fps}`,
-    "-t", String(loopSecs), "-an", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+    "-t", String(loopSecs), "-an", "-c:v", "libx264", "-preset", "medium", "-crf", CRF,
     "-pix_fmt", "yuv420p", loopFile], { maxBuffer: 1 << 26 });
 }
 console.log(`loop  : ${(await durationOf(loopFile)).toFixed(1)}s encoded`);

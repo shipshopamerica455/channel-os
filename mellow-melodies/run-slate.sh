@@ -63,7 +63,7 @@ for slot in "${SLOTS[@]}"; do
 done
 
 echo ""
-echo "════════════════ SEPTEMBER RUN COMPLETE ════════════════"
+echo "════════════════ SLATE RUN COMPLETE ════════════════"
 echo "published : ${#done_ok[@]}  ${done_ok[*]:-—}"
 echo "failed    : ${#failed[@]}  ${failed[*]:-—}"
 echo "disk      : $(free_gb)GB free"

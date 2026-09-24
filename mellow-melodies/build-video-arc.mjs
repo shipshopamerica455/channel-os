@@ -62,6 +62,10 @@ const durationOf = async (f) => {
     "format=duration", "-of", "csv=p=0", f]);
   return parseFloat(stdout.trim()) || 0;
 };
+// Same reasoning as build-video.mjs: the cycles and crossfades here are stills and
+// slow drifts, CRF 20 was archival overkill, and YouTube re-encodes the upload anyway.
+const CRF = "26";
+
 const ff = (a) => execFileP("ffmpeg", ["-y", "-v", "error", ...a], { maxBuffer: 1 << 28 });
 
 /**
@@ -90,7 +94,7 @@ for (const [i, src] of stages.entries()) {
     await ff(["-i", src, "-filter_complex",
       "[0:v]scale=1920:1080:force_original_aspect_ratio=increase,crop=1920:1080,fps=24,split[a][b];" +
       "[b]reverse[r];[a][r]concat=n=2:v=1:a=0[v]",
-      "-map", "[v]", "-an", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+      "-map", "[v]", "-an", "-c:v", "libx264", "-preset", "medium", "-crf", CRF,
       "-pix_fmt", "yuv420p", cyc]);
     console.log("ok");
   }
@@ -121,7 +125,7 @@ for (const [i, cyc] of cycles.entries()) {
       await ff(["-ss", String(Math.max(cycleDur - xfade, 0).toFixed(3)), "-i", cyc,
         "-t", String(xfade), "-i", cycles[i + 1],
         "-filter_complex", `[0:v][1:v]xfade=transition=fade:duration=${xfade}:offset=0,fps=24[v]`,
-        "-map", "[v]", "-an", "-c:v", "libx264", "-preset", "medium", "-crf", "20",
+        "-map", "[v]", "-an", "-c:v", "libx264", "-preset", "medium", "-crf", CRF,
         "-pix_fmt", "yuv420p", "-t", String(xfade), tr]);
       console.log("ok");
     }
