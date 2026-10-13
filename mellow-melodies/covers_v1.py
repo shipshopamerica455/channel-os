@@ -162,13 +162,27 @@ def variant_c(plate_name, title, sub, out, badge=None):
 if __name__ == "__main__":
     os.makedirs(OUT, exist_ok=True)
     print(f"→ {OUT}\n")
-    # Target: "8 Hours of Rain and Piano for Sleep" — ~3,400 impressions at 1.3%, the
-    # best watch-time video on the channel and a regular upload, so Test & compare
-    # will actually run on it.
-    variant_a("sleep-a-pianist-moonlight", "RAIN & PIANO", "EIGHT HOURS FOR SLEEP",
-              "ab-rain-A.png")
-    variant_b("sleep-d-pianist-moonlight-right", "8 HOURS", "Rain & Piano",
-              "ab-rain-B.png", "Original piano · no ads")
-    variant_c("sleepmusic-b-piano-keys-lamp", "RAIN & PIANO", "EIGHT HOURS FOR SLEEP",
-              "ab-rain-C.png")
-    print("\nControl is the live thumbnail (thumb-rainsleep.png) at 1.3%.")
+
+    # Target: yYIO72gZBL0, "10 Hours of Calm Classical for Sleep, Volume Two".
+    #
+    # The original target was the rain video, chosen in August when it had ~3,400
+    # impressions. It has taken five views in the six weeks since — about one a week —
+    # so a test there would now need months to separate three variants. This one takes
+    # 182 genuine views and 148 suggested impressions per 28 days, 62% of everything
+    # real on the channel. It is the only video with enough live traffic to resolve.
+    #
+    # "Genuine" matters here: Studio's figures for this video include 989 hours from a
+    # blogspot embed farm at impossible rates per view. The 182 is what remains after
+    # EXT_URL is removed, and it is the number the test will actually run on.
+    # Not the firelight plate, though it is the handsomest of the four: the hearth is
+    # the brightest object in it, and the channel has already lost a video that way —
+    # filed next to fireplace-ambience channels, 1.3% CTR, arrivals expecting crackle.
+    # The moonlit plate keeps the figure and the instrument without the fire.
+    variant_a("sleep-a-pianist-moonlight", "CALM CLASSICAL", "TEN HOURS FOR SLEEP",
+              "ab-classical-A.png")
+    variant_b("sleep-d-pianist-moonlight-right", "10 HOURS", "Sleep Music",
+              "ab-classical-B.png", "Volume two · no ads")
+    variant_c("sleepmusic-b-piano-keys-lamp", "CALM CLASSICAL", "TEN HOURS FOR SLEEP",
+              "ab-classical-C.png")
+    print("\nControl is the live thumbnail (thumb-classical-v2.png).")
+    print("Upload all three to Test & compare on yYIO72gZBL0.")
