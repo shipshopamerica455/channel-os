@@ -123,6 +123,15 @@ function contradictions(slot, s) {
   // did not exist. A 12-hour slot could never have worked \u2014 beds assemble a minute or
   // two long, so every render in the September run overran its target; only the one
   // sitting on the ceiling was killed by it.
+  // Bed P is generated locally and costs nothing, which makes it tempting everywhere.
+  // Its harmony is one four-chord progression on a 27-second cycle — tolerable across a
+  // two-hour focus video, ~1,300 passes across a ten-hour sleep one. The sleep lane is
+  // 87% of this channel's genuine watch hours, so the saving is never worth the risk.
+  if (String(s.bed).toLowerCase() === "p" && s.playlist === "sleep") {
+    out.push(`bed P (procedural) is focus-only — a 27s harmonic cycle over ${mins} min ` +
+             `of sleep audio is ~${Math.round(mins * 60 / 27)} passes. Use bed B or C.`);
+  }
+
   const LIMIT = 12 * 3600;
   if (secs !== null && secs >= LIMIT) {
     out.push(`render is ${(secs / 3600).toFixed(2)}h \u2014 YouTube's limit is 12h, and it ` +

@@ -57,9 +57,22 @@ for (let i = 2; i < process.argv.length; i++) {
 }
 
 const key = String(args.bed || "a").toLowerCase();
-const bed = BEDS[key];
+
+// Bed P is generated locally instead of through Flow Music — numpy and scipy, no API,
+// no credits, about 67x realtime. It is wired in behind the same --bed interface so
+// publish.mjs and calendar.json need no change.
+//
+// FOCUS LANE ONLY, and that limit is the whole point. Its harmony is one four-chord
+// progression on a 27-second cycle: ~270 passes across a two-hour focus video, ~1,300
+// across a ten-hour sleep one. Measured against the Suno beds it is flatter (±1 dB over
+// 90 minutes against 11.7 dB of swing), which suits work music — nothing swells up and
+// takes your attention off the page — and is exactly wrong for sleep, where the
+// breathing is part of why people leave it on all night. The sleep lane is 87% of the
+// channel's genuine watch hours; it is not the place to save credits.
+const PROCEDURAL = { name: "procedural focus (local, no credits)", mood: "calm" };
+const bed = key === "p" ? PROCEDURAL : BEDS[key];
 if (!bed) {
-  console.error(`unknown --bed "${key}". Pick one of: ${Object.keys(BEDS).join(", ")}`);
+  console.error(`unknown --bed "${key}". Pick one of: ${Object.keys(BEDS).join(", ")}, p`);
   process.exit(1);
 }
 
@@ -69,6 +82,34 @@ const tag = String(args.tag || key);
 const root = "/Users/admin/Documents/YOUTUBE CHANNELS/MELLOW MELODIES/beds";
 const outPath = path.join(root, String(args.out || `bed-${tag}-${minutes}m.mp3`));
 fs.mkdirSync(root, { recursive: true });
+
+if (key === "p") {
+  const { execFile } = await import("child_process");
+  const { promisify } = await import("util");
+  const execFileP = promisify(execFile);
+  const kit = path.join(path.dirname(new URL(import.meta.url).pathname.replace(/%20/g, " ")),
+                        "vendor", "procedural-audio");
+  const wav = outPath.replace(/\.mp3$/, ".wav");
+  console.log(`bed P — ${bed.name}   [mood: ${bed.mood}]`);
+  console.log(`target ${minutes} min · no credits, generated locally`);
+  console.log(`→ ${outPath}\n`);
+
+  await execFileP("python3", [path.join(kit, "music.py"),
+    "--mood", bed.mood, "--dur", String(minutes * 60), "--out", wav],
+    { cwd: kit, maxBuffer: 1 << 26 });
+
+  // music.py writes wav; the pipeline downstream expects mp3, same as Flow Music.
+  await execFileP("ffmpeg", ["-y", "-v", "error", "-i", wav,
+    "-c:a", "libmp3lame", "-b:a", "192k", outPath], { maxBuffer: 1 << 26 });
+  fs.rmSync(wav, { force: true });          // the wav is ~10x the mp3 and disk is tight
+
+  const { stdout } = await execFileP("ffprobe",
+    ["-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", outPath]);
+  const secs = parseFloat(stdout.trim()) || 0;
+  console.log(`\n✅ ${(secs / 3600).toFixed(2)}h  generated locally, 0 credits`);
+  console.log(`   ${outPath}`);
+  process.exit(0);
+}
 
 const gens = Math.ceil(takes / 2);
 console.log(`bed ${key.toUpperCase()} — ${bed.name}   [takes: ${tag}]`);
