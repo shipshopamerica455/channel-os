@@ -36,8 +36,8 @@ for (let i = 2; i < process.argv.length; i++) {
   }
 }
 
-if (!args.audio || (!args.image && !args.clip)) {
-  console.error("usage: node build-video.mjs --audio <bed.mp3> (--image <still.png> | --clip <loop.mp4>) [--out name.mp4] [--loop 60]");
+if (!args.audio || (!args.image && !args.clip && !args.black)) {
+  console.error("usage: node build-video.mjs --audio <bed.mp3> (--image <still.png> | --clip <loop.mp4> | --black) [--out name.mp4] [--loop 60]");
   process.exit(1);
 }
 
@@ -73,7 +73,23 @@ fs.mkdirSync(work, { recursive: true });
 const loopFile = path.join(work, `loop-${loopSecs}s.mp4`);
 
 // ── 1. build the seamless visual cycle (encoded once) ────────────────────────
-if (args.clip) {
+if (args.black) {
+  // A literally black frame, and the cheapest thing this channel can ship. It is also a
+  // format the catalogue has never had: "black screen sleep music" is 77k searches a month
+  // at competition 32, and "black screen rain and thunder" 33k at 21 — the lowest in the
+  // Oct 2026 question bank. Channels at 1-2k subs are taking six figures on it.
+  //
+  // Viewers want it for a real reason: a lit image is a lit phone on the bedside table at
+  // 3am. The point is that there is nothing to look at.
+  //
+  // No zoompan, no plate, no Flow dependency. A 1-second loop is enough — stream_loop
+  // repeats it for the runtime and every frame is identical anyway, so the encoder spends
+  // almost nothing. A 3-hour black render comes out around 20 MB against ~1 GB for a plate.
+  console.log(`visual: black screen (no plate)`);
+  await execFileP("ffmpeg", ["-y", "-f", "lavfi", "-i", "color=c=black:s=1920x1080:r=24",
+    "-t", "1", "-c:v", "libx264", "-preset", "medium", "-crf", CRF,
+    "-pix_fmt", "yuv420p", loopFile], { maxBuffer: 1 << 26 });
+} else if (args.clip) {
   const clip = resolve(String(args.clip));
   if (!fs.existsSync(clip)) { console.error(`no such clip: ${clip}`); process.exit(1); }
   const slow = Number(args.slow || 1);
