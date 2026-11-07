@@ -1,0 +1,150 @@
+{
+  "slug": "canva-mockup",
+  "topic": "How to Make a Mockup in Canva (with a Scrolling Video for Etsy)",
+  "shotDir": "long-38",
+  "project": "gj-canva-mockup",
+  "composition": "CanvaMockup",
+  "thumb": "GJThumb38",
+  "promos": [
+    "PromoMkMuted",
+    "PromoMkTen",
+    "PromoMkSilent",
+    "PromoMkTwo"
+  ],
+  "adAfter": [
+    "05-the-tall",
+    "09-design-for"
+  ],
+  "images": [
+    {
+      "name": "etsy-browse",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of a person scrolling a shopping app on a phone at a kitchen table, morning light, very shallow depth of field, everyday and relaxed, face not visible, screen content indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "muted-phone",
+      "after": "S06",
+      "prompt": "Photographic shot of a phone face-up on a desk beside headphones lying unplugged, soft evening lamp light, shallow depth of field, quiet and still, screen content indistinct, no readable text"
+    },
+    {
+      "name": "desk-flatlay",
+      "after": "S04",
+      "prompt": "Warm photographic overhead of a tidy desk with a phone, a printed planner, a coffee cup and a small plant, soft daylight, shallow depth of field, calm and organised, all printing indistinct, no readable text"
+    },
+    {
+      "name": "packing-order",
+      "after": "S11",
+      "prompt": "Photographic shot of a small home business worktable with a laptop, a printed order slip and kraft packaging, late afternoon light, shallow depth of field, a quiet sense of a sale arriving, all printing indistinct, no readable text"
+    },
+    {
+      "name": "studio-evening",
+      "after": "S14",
+      "prompt": "Photographic shot of a small home studio at dusk — a laptop, a phone on a stand, printed sheets pinned to a wall, a lamp — warm lamp light, shallow depth of field, a quiet workspace at rest, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Etsy Listing Image Kit",
+    "price": "£4.99",
+    "existing": "etsy-listing-image-kit",
+    "note": "ALREADY BUILT (verified live, 200 on 21 Oct 2026). HONEST FIT, stated in the close: the kit is listing PHOTO layouts; the video is built in this tutorial — 'the photo layouts this video is designed to sit alongside', never 'a listing video template'. DO NOT run commerce."
+  },
+  "publishAt": "2026-10-25T17:00:00.000Z",
+  "promoNames": {
+    "PromoMkMuted": "promo-mk-muted",
+    "PromoMkTen": "promo-mk-ten",
+    "PromoMkSilent": "promo-mk-silent",
+    "PromoMkTwo": "promo-mk-two"
+  },
+  "freeAsset": {
+    "name": "Etsy Listing Video Card",
+    "slug": "get-etsy-listing-video-card",
+    "note": "NEW one-pager: Etsy's rules quoted (3-15 s, no audio, 2:1 or 1:2, >=1080 px, 100 MB, two per listing), Canva's 10-second animation cap, the 1080x2160 build size, the hold/scroll/hold pages, the silent-first checks, the seven checks."
+  },
+  "timeline": {
+    "total": 538,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 38.025,
+      "03-the-mockup.mp3": 68.875,
+      "04-choosing-the.mp3": 111,
+      "05-the-tall.mp3": 151.35,
+      "06-the-trap.mp3": 191.95,
+      "07-making-the.mp3": 244.875,
+      "08-putting-a.mp3": 298.65,
+      "09-design-for.mp3": 340.7,
+      "10-the-export.mp3": 381.275,
+      "11-two-videos.mp3": 419.875,
+      "12-make-it.mp3": 457.75,
+      "13-the-checks.mp3": 489.725,
+      "14-close.mp3": 516.025
+    },
+    "adWindows": [
+      [
+        190.55,
+        191.95
+      ],
+      [
+        379.88,
+        381.28
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 38.025
+      },
+      {
+        "file": "03-the-mockup.mp3",
+        "at": 68.875
+      },
+      {
+        "file": "04-choosing-the.mp3",
+        "at": 111
+      },
+      {
+        "file": "05-the-tall.mp3",
+        "at": 151.35
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 191.95
+      },
+      {
+        "file": "07-making-the.mp3",
+        "at": 244.875
+      },
+      {
+        "file": "08-putting-a.mp3",
+        "at": 298.65
+      },
+      {
+        "file": "09-design-for.mp3",
+        "at": 340.7
+      },
+      {
+        "file": "10-the-export.mp3",
+        "at": 381.275
+      },
+      {
+        "file": "11-two-videos.mp3",
+        "at": 419.875
+      },
+      {
+        "file": "12-make-it.mp3",
+        "at": 457.75
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 489.725
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 516.025
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "sublimation",
+  "topic": "How to Make Sublimation Designs in Canva",
+  "shotDir": "long-31",
+  "project": "gj-sublimation",
+  "composition": "Sublimation",
+  "thumb": "GJThumb31",
+  "promos": [
+    "PromoSubWhite",
+    "PromoSubPolyester",
+    "PromoSubMyth",
+    "PromoSubMirror"
+  ],
+  "promoNames": {
+    "PromoSubWhite": "promo-sub-white",
+    "PromoSubPolyester": "promo-sub-polyester",
+    "PromoSubMyth": "promo-sub-myth",
+    "PromoSubMirror": "promo-sub-mirror"
+  },
+  "adAfter": [
+    "05-the-elements",
+    "09-the-export"
+  ],
+  "images": [
+    {
+      "name": "pressed-mug",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of a freshly pressed ceramic mug cooling on a craft-room workbench beside a heat press, soft daylight from a window, shallow depth of field, tactile and satisfying, design on the mug indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "failed-press",
+      "after": "S06",
+      "prompt": "Photographic shot of a person's hands holding up a pressed mug at a cluttered craft desk, posture suggesting disappointment, face not visible, low afternoon light, shallow depth of field, muted and quiet, design indistinct, no readable text"
+    },
+    {
+      "name": "stack-of-blanks",
+      "after": "S07",
+      "prompt": "Photographic overhead of plain light-coloured blanks stacked on a wooden workbench — folded polyester shirts, white ceramic mugs, a slate coaster — warm lamp light, shallow depth of field, orderly and inviting, no readable text"
+    },
+    {
+      "name": "heat-press",
+      "after": "S11",
+      "prompt": "Warm photographic image of a home craft room with a heat press closed on a shirt, steam catching the window light, shallow depth of field, quietly industrious, person out of frame, no readable text"
+    },
+    {
+      "name": "finished-shelf",
+      "after": "S14",
+      "prompt": "Photographic shot of a shelf of finished pressed mugs and folded shirts in a small home studio, warm evening lamp light, shallow depth of field, a small business at rest, designs indistinct, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Sticker & Illustration Kit",
+    "price": "£4.99",
+    "existing": "sticker-illustration-kit",
+    "note": "ALREADY BUILT (verified live, 200). HONEST FIT: original flat vector artwork made for this channel — no Canva licence problem, and the style (solid shapes, bold colour, no soft white vignettes) is exactly what sublimates well. NOT built as a sublimation pack, and the close does not claim it was. Second video pointing at this pack after tshirt-pod — deliberate, same reasoning as party-printables-kit across wedding + thank you cards. DO NOT run commerce."
+  },
+  "freeAsset": {
+    "name": "Canva Sublimation Card",
+    "slug": "get-sublimation-card",
+    "note": "NEW one-pager: the no-white-ink rule and what it means for a Canva design, the polyester/polymer requirement quoted from Epson, the inches x 300 arithmetic with a worked example and the check-your-supplier caveat, the RGB note, the transparent-PNG Pro requirement, the mirror-once rule, and the seven pre-press checks."
+  },
+  "publishAt": "2026-10-11T17:00:00.000Z",
+  "timeline": {
+    "total": 551.25,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 39.5,
+      "03-the-canvas.mp3": 72.425,
+      "04-designing-when.mp3": 115.95,
+      "05-the-elements.mp3": 155.375,
+      "06-the-trap.mp3": 201.45,
+      "07-the-blank.mp3": 252.075,
+      "08-colour-and.mp3": 293.15,
+      "09-the-export.mp3": 334.75,
+      "10-mirroring-once.mp3": 392.625,
+      "11-print-past.mp3": 428.95,
+      "12-the-press.mp3": 466.6,
+      "13-the-checks.mp3": 500.65,
+      "14-close.mp3": 528.85
+    },
+    "adWindows": [
+      [
+        200.05,
+        201.45
+      ],
+      [
+        391.23,
+        392.63
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 39.5
+      },
+      {
+        "file": "03-the-canvas.mp3",
+        "at": 72.425
+      },
+      {
+        "file": "04-designing-when.mp3",
+        "at": 115.95
+      },
+      {
+        "file": "05-the-elements.mp3",
+        "at": 155.375
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 201.45
+      },
+      {
+        "file": "07-the-blank.mp3",
+        "at": 252.075
+      },
+      {
+        "file": "08-colour-and.mp3",
+        "at": 293.15
+      },
+      {
+        "file": "09-the-export.mp3",
+        "at": 334.75
+      },
+      {
+        "file": "10-mirroring-once.mp3",
+        "at": 392.625
+      },
+      {
+        "file": "11-print-past.mp3",
+        "at": 428.95
+      },
+      {
+        "file": "12-the-press.mp3",
+        "at": 466.6
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 500.65
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 528.85
+      }
+    ]
+  }
+}

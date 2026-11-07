@@ -1,0 +1,93 @@
+{
+  "slug": "photo-calendar",
+  "slateNumber": "S7 #3",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:48",
+  "music": "FIRST VIDEO WITH A MUSIC BED — procedural, generated locally by `gj music`. Bed ~-38 LUFS (22 dB under the voice), calm throughout except S06, gapped across both ad windows. Delivered mix measures -15.1 LUFS integrated and BOTH ad breaks still verify silent.",
+  "titles": {
+    "A": "How to Make a Photo Calendar in Canva (2027)",
+    "B": "Canva Photo Calendars — the Bleed, the Pixels and the Thirteen Pages",
+    "C": "Your Photo Calendar Will Print With a White Line Down Every Month"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make a photo calendar in canva",
+    "canva photo calendar",
+    "photo calendar diy",
+    "canva print bleed",
+    "canva crop marks",
+    "canva pdf print",
+    "photo calendar gift",
+    "canva calendar template",
+    "personalised calendar",
+    "canva bleed settings",
+    "print ready pdf canva",
+    "photo resolution for print",
+    "canva tutorial 2026",
+    "christmas gift diy",
+    "family photo calendar"
+  ],
+  "adBreaks": [
+    "3:17.4",
+    "6:06.9"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-06",
+    "topTenMedian": 7940,
+    "freshInTopTen": "4/10",
+    "catalogueCheck": "2026-10-10",
+    "note": "Taken on a REFRAMED read. Our own Custom Calendars (Oct 2024, pn_W8DU_6Nw) took 18,229 views — the channel's second-best organic result and 230% of the niche median. But the Sep 2026 remake (2027 Calendar, 3DljJUhszqo) took 651. Those are two different jobs: a dated 12-month grid versus a PHOTO calendar as a personalised gift. This is the gift job, explicitly not a repeat of 3DljJUhszqo."
+  },
+  "product": {
+    "name": "2027 Calendar Kit",
+    "price": "£4.99",
+    "slug": "2027-calendar-kit",
+    "existing": true,
+    "note": "ALREADY BUILT (verified live 200 on 16 Oct 2026). COMMERCE NOT RUN. The closest pack fit of the three view-and-list rows: the kit's twelve dated month grids are literally what goes under the photograph. The close says 'the twelve month pages this is made of' — accurate, because it is a grid pack and the photo half is the viewer's own."
+  },
+  "freeAsset": {
+    "name": "Canva Photo Calendar Print Card",
+    "slug": "get-photo-calendar-print-card",
+    "status": "LIVE — published and verified gated 16 Oct 2026"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-cal-sliver": {
+      "composition": "PromoCalSliver",
+      "title": "Sized to fit is 3 mm short #shorts",
+      "voSlice": "206.4-228.3",
+      "description": "File → Settings → Show print bleed. There is the dashed line, just outside the page edge. Now I drop a photo in and size it to the page. Looks right. Edge to edge, nothing hanging over, very tidy.\n\nAnd that is the mistake — because the page edge is not where the paper gets cut. The cut happens somewhere between the page edge and that dashed line, and no two copies get cut in exactly the same place.\n\nSo on this copy you get a white line down the right. On the next one, along the bottom. Twelve months, thirteen pages, every one of them a gamble.\n\n📄 Free print card: https://geniusjunkie.net/get-photo-calendar-print-card/\n📅 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-10-22T19:00:00.000Z",
+      "id": "Q9lGTI_-uvQ"
+    },
+    "promo-cal-drag": {
+      "composition": "PromoCalDrag",
+      "title": "The fix is one drag #shorts",
+      "voSlice": "228.5-247.3",
+      "description": "Canva's own instruction when bleed is showing: \"resize or stretch your background to cover them.\"\n\nSo pull the photo out past the dashed line on all four sides. Now the photo overshoots the cut everywhere, and wherever the blade lands there is photograph under it.\n\nThat is what bleed is for. Canva adds 0.125 inches — 3.175 millimetres — on all sides for products that trim or get cut, and you cannot change it: fixed, their print specifications.\n\nIt costs you three millimetres of picture and it saves the whole calendar.\n\n📄 Free print card: https://geniusjunkie.net/get-photo-calendar-print-card/\n📅 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-10-24T12:00:00.000Z",
+      "id": "lLwKApvjf-w"
+    },
+    "promo-cal-pixels": {
+      "composition": "PromoCalPixels",
+      "title": "2,500 pixels before you crop #shorts",
+      "voSlice": "115.2-136.4",
+      "description": "You need the photo to be about two and a half thousand pixels on its long edge for an A4 page. That is the number to check. Not megapixels, not how it looks on your phone — the pixel dimensions, in your file browser.\n\nA photo straight off a modern phone is comfortably over that. The ones that fail are the copies: anything that came through a messaging app, anything downloaded off social media, anything that was emailed.\n\nThose are compressed on the way, often down to around sixteen hundred pixels, and you cannot tell by looking at them on a screen. Go back to the original — the version in your camera roll, not the one somebody sent you back.\n\n📄 Free print card: https://geniusjunkie.net/get-photo-calendar-print-card/\n📅 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-10-24T19:00:00.000Z",
+      "id": "npL3i8n3Cy4"
+    },
+    "promo-cal-kitchen": {
+      "composition": "PromoCalKitchen",
+      "title": "A calendar is read from across a kitchen #shorts",
+      "voSlice": "333.2-357.5",
+      "description": "A calendar is not read at arm's length. It is read from across a kitchen.\n\nSo zoom out until the page is about the size of a playing card, and then stand back from the screen.\n\nWhat should survive: the photograph, the shape of the grid, and — crucially — this month's number block still reading as a block of numbers rather than grey fuzz.\n\nIf the dates have dissolved, they are too small or too light. Make them bigger before you make them prettier. A thin, elegant numeral at eight point is useless on a kitchen wall.\n\n📄 Free print card: https://geniusjunkie.net/get-photo-calendar-print-card/\n📅 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-10-25T12:00:00.000Z",
+      "id": "9z8yLF4KRFI"
+    }
+  },
+  "publishAt": "2026-10-21T17:00:00.000Z",
+  "schedulingNote": "SCHEDULED at Annieth's instruction (16 Oct). Long-form uploaded 16 Oct, public 21 Oct 17:00 UTC. Its 4 Shorts follow on a later morning — a release is ~8,050 units of a 10,000/day allowance SHARED with every other channel on this Mac.",
+  "postUploadNote": "Patch the Shorts descriptions with `node remotion-shorts/gj-link-shorts.mjs \"<this folder>\"` once both halves are uploaded AND recorded here — the uploaders do not write ids back.",
+  "longformId": "DeIdC7VJGh4"
+}

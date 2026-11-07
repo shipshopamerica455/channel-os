@@ -1,0 +1,151 @@
+{
+  "slug": "wedding-stationery",
+  "topic": "How to Make Wedding Invitations in Canva (Print-Ready A7 + On-the-Day Set)",
+  "shotDir": "long-26",
+  "project": "gj-wedding-stationery",
+  "composition": "WeddingStationery",
+  "thumb": "GJThumb26",
+  "promos": [
+    "PromoWedA7",
+    "PromoWedMeasure",
+    "PromoWedPostage",
+    "PromoWedDate"
+  ],
+  "promoNames": {
+    "PromoWedA7": "promo-wed-a7",
+    "PromoWedMeasure": "promo-wed-measure",
+    "PromoWedPostage": "promo-wed-postage",
+    "PromoWedDate": "promo-wed-date"
+  },
+  "adAfter": [
+    "06-the-trap",
+    "09-the-on"
+  ],
+  "images": [
+    {
+      "name": "wrong-envelopes",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of a box of small cream envelopes just opened on a table beside a much larger wedding invitation card that plainly will not fit inside them, soft morning window light, shallow depth of field, quiet dismay, no readable text"
+    },
+    {
+      "name": "card-wont-fit",
+      "after": "S06",
+      "prompt": "Macro photograph of two hands trying to slide a large cream invitation card into an envelope that is far too small, the card buckling slightly at the corner, soft daylight, very shallow depth of field, no readable text"
+    },
+    {
+      "name": "post-office-counter",
+      "after": "S08",
+      "prompt": "Photographic over-the-shoulder shot of a single sealed cream envelope resting on a post office counter scale, warm indoor light, out-of-focus counter behind, calm and ordinary, no readable text or signage"
+    },
+    {
+      "name": "on-the-day-table",
+      "after": "S09",
+      "prompt": "Warm photographic image of a laid wedding reception table with a folded place card and a standing table number in a simple frame, candlelight and greenery, shallow depth of field, elegant and understated, no readable text"
+    },
+    {
+      "name": "finished-suite",
+      "after": "S14",
+      "prompt": "Flat-lay photograph of a complete wedding invitation suite on a linen surface — invitation, details card and reply card stacked with a cream envelope and a sprig of eucalyptus, soft natural light, shallow depth of field, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Party & Event Printables Kit",
+    "price": "£4.99",
+    "slug": "party-printables-kit",
+    "existing": true,
+    "note": "ALREADY BUILT. No new pack. Add the wedding suite to it: invitation 5x7, details card 5x7, RSVP 3.5x5, order of service A5, place card, table number."
+  },
+  "freeAsset": {
+    "name": "Wedding Stationery Size Card",
+    "slug": "get-wedding-size-card",
+    "note": "NEW one-pager, not carved out of the pack: every card and envelope in inches AND millimetres, the US-vs-ISO A7 collision spelled out, the envelope-bigger-than-card check, and the weigh-one-before-you-buy-stamps rule."
+  },
+  "publishAt": "2026-10-01T17:00:00.000Z",
+  "timeline": {
+    "total": 515.3,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 38.175,
+      "03-setting-up.mp3": 67.375,
+      "04-what-the.mp3": 108.45,
+      "05-the-details.mp3": 145.2,
+      "06-the-trap.mp3": 182.85,
+      "07-the-fix.mp3": 235.675,
+      "08-postage-and.mp3": 273.475,
+      "09-the-on.mp3": 310.45,
+      "10-one-design.mp3": 350.05,
+      "11-printing-the.mp3": 388.85,
+      "12-selling-the.mp3": 427.225,
+      "13-the-numbers.mp3": 460.775,
+      "14-close.mp3": 490.625
+    },
+    "adWindows": [
+      [
+        234.28,
+        235.68
+      ],
+      [
+        348.65,
+        350.05
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 38.175
+      },
+      {
+        "file": "03-setting-up.mp3",
+        "at": 67.375
+      },
+      {
+        "file": "04-what-the.mp3",
+        "at": 108.45
+      },
+      {
+        "file": "05-the-details.mp3",
+        "at": 145.2
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 182.85
+      },
+      {
+        "file": "07-the-fix.mp3",
+        "at": 235.675
+      },
+      {
+        "file": "08-postage-and.mp3",
+        "at": 273.475
+      },
+      {
+        "file": "09-the-on.mp3",
+        "at": 310.45
+      },
+      {
+        "file": "10-one-design.mp3",
+        "at": 350.05
+      },
+      {
+        "file": "11-printing-the.mp3",
+        "at": 388.85
+      },
+      {
+        "file": "12-selling-the.mp3",
+        "at": 427.225
+      },
+      {
+        "file": "13-the-numbers.mp3",
+        "at": 460.775
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 490.625
+      }
+    ]
+  }
+}

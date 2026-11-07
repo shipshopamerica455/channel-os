@@ -1,0 +1,53 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GJ,Arial Black,54,&H00FFFFFF,&H00FFFFFF,&H002A170F,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,60,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.30,GJ,,0,0,0,,{\c&H0000DDFF}Welcome{\c&H00FFFFFF} back to Genius
+Dialogue: 0,0:00:00.30,0:00:00.56,GJ,,0,0,0,,Welcome {\c&H0000DDFF}back{\c&H00FFFFFF} to Genius
+Dialogue: 0,0:00:00.56,0:00:00.76,GJ,,0,0,0,,Welcome back {\c&H0000DDFF}to{\c&H00FFFFFF} Genius
+Dialogue: 0,0:00:00.76,0:00:01.22,GJ,,0,0,0,,Welcome back to {\c&H0000DDFF}Genius{\c&H00FFFFFF}
+Dialogue: 0,0:00:01.10,0:00:02.36,GJ,,0,0,0,,{\c&H0000DDFF}Junkie.{\c&H00FFFFFF} Today
+Dialogue: 0,0:00:02.36,0:00:02.60,GJ,,0,0,0,,Junkie. {\c&H0000DDFF}Today{\c&H00FFFFFF}
+Dialogue: 0,0:00:02.48,0:00:02.84,GJ,,0,0,0,,{\c&H0000DDFF}I'm{\c&H00FFFFFF} going to show
+Dialogue: 0,0:00:02.84,0:00:03.02,GJ,,0,0,0,,I'm {\c&H0000DDFF}going{\c&H00FFFFFF} to show
+Dialogue: 0,0:00:03.02,0:00:03.24,GJ,,0,0,0,,I'm going {\c&H0000DDFF}to{\c&H00FFFFFF} show
+Dialogue: 0,0:00:03.24,0:00:03.62,GJ,,0,0,0,,I'm going to {\c&H0000DDFF}show{\c&H00FFFFFF}
+Dialogue: 0,0:00:03.50,0:00:03.82,GJ,,0,0,0,,{\c&H0000DDFF}you,{\c&H00FFFFFF}
+Dialogue: 0,0:00:04.52,0:00:04.62,GJ,,0,0,0,,{\c&H0000DDFF}how{\c&H00FFFFFF} to size product
+Dialogue: 0,0:00:04.62,0:00:04.82,GJ,,0,0,0,,how {\c&H0000DDFF}to{\c&H00FFFFFF} size product
+Dialogue: 0,0:00:04.82,0:00:05.00,GJ,,0,0,0,,how to {\c&H0000DDFF}size{\c&H00FFFFFF} product
+Dialogue: 0,0:00:05.00,0:00:05.50,GJ,,0,0,0,,how to size {\c&H0000DDFF}product{\c&H00FFFFFF}
+Dialogue: 0,0:00:05.38,0:00:05.92,GJ,,0,0,0,,{\c&H0000DDFF}labels{\c&H00FFFFFF} in Canva.
+Dialogue: 0,0:00:05.92,0:00:06.18,GJ,,0,0,0,,labels {\c&H0000DDFF}in{\c&H00FFFFFF} Canva.
+Dialogue: 0,0:00:06.18,0:00:06.72,GJ,,0,0,0,,labels in {\c&H0000DDFF}Canva.{\c&H00FFFFFF}
+Dialogue: 0,0:00:07.09,0:00:07.19,GJ,,0,0,0,,{\c&H0000DDFF}So{\c&H00FFFFFF} first, click on
+Dialogue: 0,0:00:07.19,0:00:08.09,GJ,,0,0,0,,So {\c&H0000DDFF}first,{\c&H00FFFFFF} click on
+Dialogue: 0,0:00:08.09,0:00:08.33,GJ,,0,0,0,,So first, {\c&H0000DDFF}click{\c&H00FFFFFF} on
+Dialogue: 0,0:00:08.33,0:00:08.63,GJ,,0,0,0,,So first, click {\c&H0000DDFF}on{\c&H00FFFFFF}
+Dialogue: 0,0:00:08.51,0:00:08.63,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} file menu.
+Dialogue: 0,0:00:08.63,0:00:08.87,GJ,,0,0,0,,the {\c&H0000DDFF}file{\c&H00FFFFFF} menu.
+Dialogue: 0,0:00:08.87,0:00:09.29,GJ,,0,0,0,,the file {\c&H0000DDFF}menu.{\c&H00FFFFFF}
+Dialogue: 0,0:00:09.89,0:00:10.23,GJ,,0,0,0,,{\c&H0000DDFF}And,{\c&H00FFFFFF}
+Dialogue: 0,0:00:11.26,0:00:11.57,GJ,,0,0,0,,{\c&H0000DDFF}custom{\c&H00FFFFFF} size.
+Dialogue: 0,0:00:11.57,0:00:12.21,GJ,,0,0,0,,custom {\c&H0000DDFF}size.{\c&H00FFFFFF}
+Dialogue: 0,0:00:12.96,0:00:13.24,GJ,,0,0,0,,{\c&H0000DDFF}type{\c&H00FFFFFF} in 50mm.
+Dialogue: 0,0:00:13.24,0:00:13.42,GJ,,0,0,0,,type {\c&H0000DDFF}in{\c&H00FFFFFF} 50mm.
+Dialogue: 0,0:00:13.42,0:00:14.10,GJ,,0,0,0,,type in {\c&H0000DDFF}50mm.{\c&H00FFFFFF}
+Dialogue: 0,0:00:15.91,0:00:16.11,GJ,,0,0,0,,{\c&H0000DDFF}there{\c&H00FFFFFF} is to it.
+Dialogue: 0,0:00:16.11,0:00:16.29,GJ,,0,0,0,,there {\c&H0000DDFF}is{\c&H00FFFFFF} to it.
+Dialogue: 0,0:00:16.29,0:00:16.43,GJ,,0,0,0,,there is {\c&H0000DDFF}to{\c&H00FFFFFF} it.
+Dialogue: 0,0:00:16.43,0:00:16.75,GJ,,0,0,0,,there is to {\c&H0000DDFF}it.{\c&H00FFFFFF}
+Dialogue: 0,0:00:17.13,0:00:17.29,GJ,,0,0,0,,{\c&H0000DDFF}this{\c&H00FFFFFF} helped, subscribe
+Dialogue: 0,0:00:17.29,0:00:18.11,GJ,,0,0,0,,this {\c&H0000DDFF}helped,{\c&H00FFFFFF} subscribe
+Dialogue: 0,0:00:18.11,0:00:18.43,GJ,,0,0,0,,this helped, {\c&H0000DDFF}subscribe{\c&H00FFFFFF}
+Dialogue: 0,0:00:18.31,0:00:18.91,GJ,,0,0,0,,{\c&H0000DDFF}for{\c&H00FFFFFF} more.
+Dialogue: 0,0:00:18.91,0:00:19.27,GJ,,0,0,0,,for {\c&H0000DDFF}more.{\c&H00FFFFFF}

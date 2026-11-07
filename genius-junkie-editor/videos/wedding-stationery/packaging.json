@@ -1,0 +1,79 @@
+{
+  "slug": "wedding-stationery",
+  "slateNumber": "S4 #5",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:35",
+  "titles": {
+    "A": "How to Make Wedding Invitations in Canva (Print-Ready, 2027)",
+    "B": "Canva Wedding Invitations — 5×7, A7 Envelopes and the Whole On-the-Day Set",
+    "C": "Your A7 Envelopes Will Not Fit Your Wedding Invitations"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "wedding invitations in canva",
+    "canva wedding invitation tutorial",
+    "how to make wedding invitations",
+    "canva wedding stationery",
+    "a7 envelope size",
+    "5x7 invitation canva",
+    "wedding invitation template canva",
+    "diy wedding invitations",
+    "canva rsvp card",
+    "order of service canva",
+    "place cards canva",
+    "wedding suite canva",
+    "canva print ready",
+    "wedding invitations 2027",
+    "canva tutorial 2026"
+  ],
+  "adBreaks": [
+    "3:54.3",
+    "5:48.6"
+  ],
+  "product": {
+    "name": "Party & Event Printables Kit",
+    "price": "£4.99",
+    "slug": "party-printables-kit",
+    "existing": true,
+    "note": "ALREADY BUILT. No new pack, no commerce stage — running it would mint a DUPLICATE Stripe product alongside the pack's existing link."
+  },
+  "freeAsset": {
+    "name": "Wedding Stationery Size Card",
+    "slug": "get-wedding-size-card",
+    "status": "to build — PDF + members page + public signup, same pattern as the coloring-book spec card"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-wed-a7": {
+      "composition": "PromoWedA7",
+      "title": "Two envelopes, both called A7 #shorts",
+      "voSlice": "186.0-214.0",
+      "description": "In America an A7 envelope is five and a quarter by seven and a quarter inches, and it holds a five by seven invitation with a comfortable sixteenth of an inch all round.\n\nUnder the international paper standard, A7 is seventy four by one hundred and five millimetres — about two point nine by four point one inches. Smaller than a postcard. Your invitation cannot physically enter it.\n\nSame two characters. Nobody has made a mistake. The word just means two things.\n\nOrder the envelope by its MEASUREMENT, never by its name.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free size card: https://geniusjunkie.net/get-wedding-size-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-02T19:00:00.000Z"
+    },
+    "promo-wed-measure": {
+      "composition": "PromoWedMeasure",
+      "title": "The envelope has to be bigger than the card #shorts",
+      "voSlice": "239.0-262.0",
+      "description": "The sanity check that catches every envelope mistake: the envelope must be bigger than the card in BOTH directions, by about an eighth to a quarter of an inch.\n\nIf the envelope number and the card number look the same, stop. If the envelope is smaller than the card, obviously stop.\n\nAnd when you buy: read the inches, not the letter and number. If a listing does not give a measurement at all, do not buy from that listing.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free size card: https://geniusjunkie.net/get-wedding-size-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-03T19:00:00.000Z"
+    },
+    "promo-wed-postage": {
+      "composition": "PromoWedPostage",
+      "title": "Why square wedding invitations cost more to post #shorts",
+      "voSlice": "274.0-298.0",
+      "description": "Square envelopes cannot go through automated sorting machines, so they carry a non-machinable surcharge. So do wax seals, ribbon, bellybands and anything rigid.\n\nI am deliberately not quoting a price, because rates change and the only number that matters is the one at your counter on the day.\n\nSo do this instead: make one complete invitation, put everything in it, seal it, and have that one envelope weighed and measured. Then buy stamps. Never the other way round.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free size card: https://geniusjunkie.net/get-wedding-size-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-04T12:00:00.000Z"
+    },
+    "promo-wed-date": {
+      "composition": "PromoWedDate",
+      "title": "The date on your invitation means two different days #shorts",
+      "voSlice": "131.0-152.0",
+      "description": "Ten, oh nine, twenty twenty seven. To an American reader that is the ninth of October. To a British reader it is the tenth of September.\n\nOn a wedding invitation that is not a typo, it is a guest arriving on the wrong day.\n\nWrite the month as a word. It costs you nothing and it removes the ambiguity completely.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free size card: https://geniusjunkie.net/get-wedding-size-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-05T12:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-10-01T17:00:00.000Z",
+  "schedulingNote": "Not scheduled. Ask before setting a date."
+}

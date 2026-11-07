@@ -1,0 +1,79 @@
+{
+  "slug": "thank-you-cards",
+  "slateNumber": "S5 #2",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:48",
+  "titles": {
+    "A": "How to Make Thank You Cards in Canva (Folded, Print at Home)",
+    "B": "Canva Thank You Cards — A6 Folded, Four Up on A4, Print-Ready",
+    "C": "Your Folded Card Prints Upside Down — Here Is Why"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "thank you cards canva",
+    "how to make thank you cards",
+    "canva folded card",
+    "canva card tutorial",
+    "printable thank you cards",
+    "diy thank you cards",
+    "a6 card canva",
+    "canva print at home",
+    "folded card template",
+    "canva greeting cards",
+    "four up printing",
+    "canva pdf print",
+    "handmade cards",
+    "card making canva",
+    "canva tutorial 2026"
+  ],
+  "adBreaks": [
+    "3:56.5",
+    "5:52.3"
+  ],
+  "product": {
+    "name": "Party & Event Printables Kit",
+    "price": "£4.99",
+    "slug": "party-printables-kit",
+    "existing": true,
+    "note": "ALREADY BUILT. SECOND video pointing at it (wedding stationery was the first) — deliberate: more front doors to one product. DO NOT run commerce."
+  },
+  "freeAsset": {
+    "name": "Fold & Print Card",
+    "slug": "get-fold-and-print-card",
+    "status": "to build"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-card-fold": {
+      "composition": "PromoCardFold",
+      "title": "Your folded card prints upside down #shorts",
+      "voSlice": "196.6-224.0",
+      "description": "Lay out a folded card the way it looks right on screen and the back prints upside down. Every time.\n\nFold a sheet in half and the top half flips over. The left panel does not stay where it is — it rotates 180 degrees and becomes the back of the card.\n\nSo anything on the left panel has to be placed upside down ON THE SHEET to come out the right way up ON THE CARD.\n\nYour screen is a flat sheet. The card is a folded object. The card wins.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free fold & print card: https://geniusjunkie.net/get-fold-and-print-card/\n🎉 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-10-06T19:00:00.000Z"
+    },
+    "promo-card-inside": {
+      "composition": "PromoCardInside",
+      "title": "The inside of a folded card does NOT rotate #shorts",
+      "voSlice": "240.4-263.0",
+      "description": "This one catches people the other way. The outside left panel needs rotating. The inside does not.\n\nOnce folded, the inside reads as one landscape spread, left to right, exactly as it looks on screen. Only the panel that folds BEHIND changes its orientation.\n\nOne rotated panel. Outside. Left. That is the entire rule.\n\n30-second test: scrap paper, write FRONT bottom-right and BACK bottom-left, fold it, look at where BACK ended up.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free fold & print card: https://geniusjunkie.net/get-fold-and-print-card/\n🎉 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-10-07T19:00:00.000Z"
+    },
+    "promo-card-score": {
+      "composition": "PromoCardScore",
+      "title": "Why your card cracks along the fold #shorts",
+      "voSlice": "330.6-352.0",
+      "description": "Paper is layers of fibre. Bending it stretches the fibres on the outside of the curve, and if they cannot stretch, they tear — that is the white line through your fold.\n\nScoring crushes them in a controlled line first, so the fold has somewhere to happen.\n\nRun the back of a butter knife, or a bone folder, down the centre against a ruler. Then fold against the score and run your thumbnail along it.\n\nOn ordinary paper you can skip it. On card stock you cannot.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free fold & print card: https://geniusjunkie.net/get-fold-and-print-card/\n🎉 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-10-08T12:00:00.000Z"
+    },
+    "promo-card-fourup": {
+      "composition": "PromoCardFourUp",
+      "title": "Full bleed from a printer that cannot do full bleed #shorts",
+      "voSlice": "384.6-405.0",
+      "description": "Home printers have a border they physically cannot reach. So do not print to the edge — cut to it.\n\nFour A6 card fronts on an A4 sheet, two by two. Each keeps its own 10 mm margin, but adjacent cards should touch on the shared line.\n\nCut down that line and both cards come out with colour right to the edge.\n\nSteel rule and a sharp blade, three light passes. Scissors wander, and a wandering edge is what makes a card look homemade.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free fold & print card: https://geniusjunkie.net/get-fold-and-print-card/\n🎉 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-10-08T19:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-10-05T17:00:00.000Z",
+  "schedulingNote": "Not scheduled. Ask before setting a date."
+}

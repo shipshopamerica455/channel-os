@@ -1,0 +1,71 @@
+There is no white ink in sublimation. None. Which means every white area in
+your Canva design is not printed at all — it is simply whatever your blank
+happens to be.
+
+Design the normal Canva way, on a white background with white text, and you
+have made something that works perfectly on a white mug and falls apart on
+every other blank you own. Nothing fails. The printer does not misfire. The
+white mug was hiding it the whole time.
+
+And the thing nearly every tutorial gets backwards: "export transparent or
+you'll get a white box" is a PRINT ON DEMAND rule, where a provider lays white
+ink onto a dark shirt. Your sublimation printer has no white ink at all, so a
+white background and a transparent background do exactly the same thing. Export
+transparent anyway — not for the printer, for you.
+
+📄 FREE — The Canva Sublimation Card: the white-ink rule, what the blank must
+be made of, the sizing arithmetic and the seven pre-press checks, on one page:
+https://geniusjunkie.net/get-sublimation-card/
+
+🎨 Sticker & Illustration Kit — flat, bold, original artwork with no Canva
+licence problem, in the style that actually sublimates well:
+https://geniusjunkie.net/sticker-illustration-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 There is no white ink in sublimation
+0:39 The free card, and three principles
+1:12 The size your supplier decides
+1:55 Delete the background — do not make it white
+2:35 The licence names mugs
+3:21 THE TRAP — watch the white disappear
+4:12 It only works on polyester
+4:53 Canva is RGB. Your press is not.
+5:34 The export myth, and the real reason
+6:32 Mirror once. Never twice.
+7:08 Give the artwork somewhere to go
+7:46 Three lines, every new blank
+8:20 The seven checks
+8:48 Close
+
+THE RULES, FROM THE PEOPLE WHO MAKE THE KIT
+· "Dye-sublimation printing requires polyester fabrics or polymer-coated
+  surfaces." — Epson
+· "Dye sublimation requires light-colored materials because there's no white
+  ink in the standard process. White areas are inherent to the product
+  itself." — Printify
+· Sawgrass, who make the ink, say the same of their VersiFlex system: it does
+  not print white, so "you will need to be smart about the colors of material
+  you choose."
+· "When your design is sent for printing, the colors are automatically
+  converted from RGB values to the closest possible CMYK match." — Canva Help
+  Centre
+· Transparent background on download is "only available to Canva Pro, Canva
+  Teams, Canva Business, Canva Education, and Canva for Nonprofits plans." —
+  Canva Help Centre
+· Canva's Content Licence Agreement names MUGS in the prohibited uses of Pro
+  content, and permits free content for resale.
+Verified 5 October 2026.
+
+THE SIZING
+Inches × 300 = pixels. A 9 × 3.5 in mug wrap is 2700 × 1050. A 10 × 12 in
+shirt area is 3000 × 3600. Your blank supplier publishes a template and THAT
+is the number that counts — suppliers differ, and a mug wrap from one is not a
+mug wrap from another.
+
+NOT CLAIMED IN THIS VIDEO: the price of any printer, ink, paper or blank;
+which brand is best; or a universal blank size. None of that was checked
+against a manufacturer's own pricing page, so none of it is stated.
+
+#canva #sublimation #sublimationdesigns #canvatutorial #sublimationforbeginners

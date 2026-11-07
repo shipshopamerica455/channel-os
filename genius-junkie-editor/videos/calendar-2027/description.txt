@@ -1,0 +1,62 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+A 2027 calendar is twelve grids and a picture. The pictures are the easy half.
+The grids are the half that has to be correct — and if you build them by reusing
+last year's file, every single date on all twelve pages is wrong.
+
+📅 **Why it shifts:** a common year is 365 days, which is 52 weeks and one day
+left over. That one spare day pushes every date one square to the right the
+following year. January 1st 2026 is a **Thursday**; January 1st 2027 is a
+**Friday**. Christmas Day moves from a Friday to a Saturday.
+
+🚩 So if you open last year's design and edit the year in the title, you have not
+made a 2027 calendar. You have made a **2026 calendar with the wrong year printed
+on it** — and it looks completely normal. Nothing turns red. Somebody prints it,
+sticks it on a wall, and books an appointment on the wrong day. **Reuse the
+layout, the fonts and the pictures. Never reuse the numbers.**
+
+✅ **The one-second check:** February 2027 starts on a Monday and has 28 days,
+and 28 days is exactly four weeks — so on a Monday-start grid it fills a perfect
+**4 × 7 block**. Four rows, seven columns, completely full, no blanks at either
+end. It is the only month of the year that does that, and it only works this
+year. Build February, look at it: one gap anywhere and your grid is wrong, which
+means the other eleven are too.
+
+⚠️ One thing to know before you start: Canva's automatic **"add dates" feature
+only exists in Canva Sheets and Docs** — not in a print design. In a wall
+calendar you are building the grid yourself with a table, which is exactly what
+this video walks through.
+
+🖨️ **Printing:** export as **PDF Print** (300 dpi), not PDF Standard (96 dpi).
+And make two files — bleed **ON** for a print shop, bleed **OFF** for the home
+printable, because a home printer cannot print to the edge and bleed gives your
+buyer a white border and a cropped picture.
+
+📄 2027 CALENDAR KIT (the editable Canva calendar with all twelve 2027 grids
+already built and checked — A4 and US Letter wall plus A5 desk — with the grid
+reference sheet, the print checklist, the date-shift explainer and the Etsy
+listing guide): https://geniusjunkie.net/2027-calendar-kit/ — £4.99
+🎓 Or FREE with the Template Club (every pack + all future releases):
+https://geniusjunkie.net/template-club/
+
+CHAPTERS
+0:01 Every date is wrong (and nothing tells you)
+0:33 Why every year shifts
+1:12 The twelve starting days, and the one-second check
+2:02 Setting it up
+2:45 Building the grid
+3:40 Why last year's file is a trap
+4:36 The other eleven months, fast
+5:36 Making it look like something
+6:16 Dates you mark, and ones you shouldn't
+7:00 Printing it properly
+7:42 Selling it
+8:21 The checklist
+8:52 The kit
+9:08 Outro
+
+TOOLS
+Canva (free plan is enough) · any printer
+
+#canva #calendar2027 #printables #canvatutorial #etsyseller

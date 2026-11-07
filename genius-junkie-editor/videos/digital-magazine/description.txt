@@ -1,0 +1,59 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+A digital magazine is the highest-value thing you can build in Canva. It's the
+format sponsors actually pay for, the lead magnet people finish instead of
+abandoning, and the only document where a reader taps a link while they're
+still excited about what they just read.
+
+And there is one checkbox sitting quietly in Canva's download menu that
+switches every single one of those links off. The file still looks perfect.
+That's why almost nobody catches it.
+
+In this tutorial we build a complete digital magazine: sized for screens, on a
+grid you reuse forever, with a contents page that jumps, links that survive the
+export, and three genuinely different ways to deliver it.
+
+⚠️ The one thing to know: **Flatten PDF** bakes every layer down into a flat
+image and strips every hyperlink out of the document. Your sponsor links, your
+product links, your entire contents page — dead, in a file that looks
+completely fine. Leave it unticked every single time.
+
+🧭 And the thing no tutorial admits: **Canva has no page-turn.** Not on free,
+not on Pro, not anywhere. Every Canva "flipbook" video is Canva → a PDF → a
+completely separate tool that reads that PDF.
+
+📰 DIGITAL MAGAZINE KIT (the editable Canva template — cover, contents page
+with the links already wired, feature layout, sponsor page and the parts bin,
+plus the grid spec, flatplan, link map and export checklist):
+https://geniusjunkie.net/digital-magazine-kit/ — £4.99
+🎓 Or FREE with the Template Club (every pack + all future releases):
+https://geniusjunkie.net/template-club/
+
+CHAPTERS
+0:00 What we're building
+0:37 What a digital magazine actually is
+1:18 Canvas setup for screens
+2:00 The grid and the type scale
+2:39 The cover and the feature page
+3:27 The checkbox that kills your links
+4:17 The links that make it a magazine
+5:01 Publishing it as a website
+5:42 If you really want the page turn
+6:20 One design, every issue
+6:59 The mistakes that lose readers
+7:36 The checklist
+8:01 The shortcut
+8:17 Wrap up
+
+SPECS MENTIONED
+· 210 × 297 mm, portrait, single pages — never spreads
+· 15 mm margins, three even columns, four type sizes, two fonts maximum
+· PDF Standard (~2 MB) for screens · PDF Print (~20 MB) is for paper
+· Flatten PDF strips every hyperlink — leave it unticked
+· Link → "Pages in this document" is what makes a contents page jump
+· Hyperlinks do not survive on text with a text effect applied
+· Canva websites: free .canva.site address, up to five live on the free plan;
+  your own domain needs Pro, Teams or Education
+
+#canvatutorial #digitalmagazine #leadmagnet

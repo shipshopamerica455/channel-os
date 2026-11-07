@@ -1,0 +1,68 @@
+The RSVP form on your Canva wedding website probably belongs to you, not the
+couple — and every guest who replies is filling in your form.
+
+Google's own help page is plain about it: responses are collected in the form,
+and "form owners can download and delete existing responses". So if you built
+the site for a friend, or you sell it as a template, every guest list ends up in
+your account and the couple cannot see a single reply. Sharing the form does not
+fix it — that only gives them access to yours. They need their own copy.
+
+This builds the whole site properly: the template that decides your address,
+four pages, the countdown (it is not in Elements), an RSVP that reaches the right
+person, a site that survives a phone, and getting the address onto the printed
+invitation.
+
+📄 FREE — The Canva Wedding Website Checklist: the publishing rules, the RSVP
+copy method and the phone checks, on one page:
+https://geniusjunkie.net/get-wedding-website-checklist/
+
+💌 Party & Event Printables Kit — the printed invitation and stationery the site
+sits alongside (the card your QR code goes on):
+https://geniusjunkie.net/party-printables-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 Whose RSVP form is it?
+0:37 The free checklist, and three principles
+1:09 The template decides the address
+1:54 Four pages, and almost nobody needs more
+2:38 The countdown, the photos, the music
+3:27 THE TRAP — the RSVP lands in your inbox
+4:15 Making the RSVP go to the right person
+4:57 Building it for the phone
+5:39 Publishing — five steps, two things to know
+6:22 Getting the address to the guests
+7:00 If you build these for other people
+7:37 Three notes per site
+8:12 The seven checks
+8:41 Close
+
+THE FIX, THREE WAYS
+· Your own wedding — nothing to do. You made the form; the replies are yours.
+· Built for someone else — they make the form in their own Google account, or
+  open yours and use More → Make a copy (Google's own help pages).
+· Selling the template — a Google Docs Editors COMMUNITY guide describes changing
+  the end of the form's address to /copy, which asks whoever opens it to make
+  their own copy. That is a community guide, not an official policy page — test
+  it before you rely on it.
+Then let Google close it on the deadline: Accepting responses → Set close date.
+
+CANVA'S PUBLISHING RULES (Canva Help Centre, "Publish websites to a free domain")
+· A free .canva.site address needs a design made from a WEBSITE template.
+· Mobile website and Link in Bio templates publish to canva.link only, and do not
+  support a custom domain.
+· "Canva Free users can have up to five live websites on the free domain."
+· The Designed with Canva footer stays on Free plans.
+· "Turn on Resize on mobile to optimise your site for mobile devices." — then
+  check every page in mobile view anyway.
+· The countdown: Canva's own wedding page says interactive pieces like "a
+  countdown timer" are made "using Canva Code".
+Verified 19 October 2026.
+
+NOT CLAIMED IN THIS VIDEO: the price of any Canva plan or domain; whether Canva
+Code is available on a Free account; how any particular embedded form renders.
+None of that was checked against the platform's own page, so none of it is
+stated — test your published site instead.
+
+#canva #weddingwebsite #canvatutorial #weddingplanning #rsvp

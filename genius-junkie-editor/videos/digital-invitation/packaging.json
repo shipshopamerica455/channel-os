@@ -1,0 +1,93 @@
+{
+  "slug": "digital-invitation",
+  "slateNumber": "S8 #5",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:43",
+  "titles": {
+    "A": "How to Make a Clickable Digital Invitation in Canva (2027)",
+    "B": "How to Make a Clickable Envelope Invitation in Canva — Free Website, Tap to Open",
+    "C": "Your Canva Invitation Won't Open in the Group Chat (Here's Why)"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make a digital invitation in canva",
+    "clickable invitation canva",
+    "canva digital invitation",
+    "canva website invitation",
+    "clickable envelope invitation",
+    "digital invitation",
+    "canva website",
+    "canva hyperlinks",
+    "canva link to page",
+    "online invitation canva",
+    "party invitation canva",
+    "wedding invitation digital",
+    "canva free website",
+    "canva tutorial 2027",
+    "evite canva"
+  ],
+  "adBreaks": [
+    "3:14.5",
+    "6:10.4"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-19",
+    "source": "QUESTION-BANK.md (vidIQ question index + outliers)",
+    "monthlySearches": 20354,
+    "competition": 20.5,
+    "growthPct": 311,
+    "note": "Lane query 'how to make website invitation in canva'. Outlier sFZuzTCtD_Y (clickable envelope) 167k+ views. Our 2024 Save the Date cIiZTIA3FMk (596) is the channel's best invitation result; other invitation videos are PRINT."
+  },
+  "product": {
+    "name": "Party & Event Printables Kit",
+    "price": "£4.99",
+    "slug": "party-printables-kit",
+    "existing": true,
+    "note": "EXISTING pack, live (200, 28 Oct). COMMERCE NOT RUN. Honest fit: the printed side, never 'a digital invitation template'."
+  },
+  "freeAsset": {
+    "name": "Digital Invitation Send Card",
+    "slug": "get-digital-invitation-send-card",
+    "status": "LIVE — published 28 Oct 2026; members page verified gated (no PDF link to anonymous visitors)"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-di-dead": {
+      "composition": "PromoDiDead",
+      "title": "Tap the envelope. Nothing. #shorts",
+      "voSlice": "200.5-225.8",
+      "description": "Same design. Download it as a PNG, drop it in the group chat. A guest taps the envelope — nothing happens. Taps the words, tap to open — nothing.\n\nTry the fancier version: an MP4 with the envelope animating open. It plays, it looks great, and the reply button at the end can't be tapped.\n\nCanva's own help page says it in so many words: \"Hyperlinks will not work on PNGs, JPGs, MP4s, etc., or when you post your design on social media.\"\n\nSend the link, not the picture.\n\n📄 Free digital invitation send card: https://geniusjunkie.net/get-digital-invitation-send-card/\n💌 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-11-02T12:00:00.000Z",
+      "id": "S_GEA5IutD0"
+    },
+    "promo-di-fix": {
+      "composition": "PromoDiFix",
+      "title": "Same invitation. This time it opens. #shorts",
+      "voSlice": "239.25-256.2",
+      "description": "The same design, published as a free Canva website and sent as a link.\n\nTap the link — the envelope fills the screen. Tap the envelope — the card opens. Tap see the details — the map and the reply button are there, and both of them work.\n\nSame design, same pages, same links. The only thing that changed is what you sent.\n\n📄 Free digital invitation send card: https://geniusjunkie.net/get-digital-invitation-send-card/\n💌 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-11-02T19:00:00.000Z",
+      "id": "3vvMP4y7IzQ"
+    },
+    "promo-di-pdf": {
+      "composition": "PromoDiPdf",
+      "title": "The wrong PDF kills the link #shorts",
+      "voSlice": "385.44-399.38",
+      "description": "If someone needs a file instead of a link — an email to an older relative, or a printer — download a PDF.\n\nCanva's help page: \"Hyperlinks will only work if you download your design as a PDF (except flattened PDFs).\"\n\nSo choose the standard PDF, not the flattened one, and the envelope still opens.\n\n📄 Free digital invitation send card: https://geniusjunkie.net/get-digital-invitation-send-card/\n💌 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-11-03T12:00:00.000Z",
+      "id": "HUJSO6mH8QA"
+    },
+    "promo-di-teaser": {
+      "composition": "PromoDiTeaser",
+      "title": "The picture is only the teaser #shorts",
+      "voSlice": "399.38-410.0",
+      "description": "What you never send is the PNG or the MP4 on their own.\n\nIf you want something pretty in the group chat, send the picture as a teaser — and the link underneath it.\n\nThe picture gets the attention. The link gets the reply.\n\n📄 Free digital invitation send card: https://geniusjunkie.net/get-digital-invitation-send-card/\n💌 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-11-03T19:00:00.000Z",
+      "id": "JZjYWbOKOfM"
+    }
+  },
+  "publishAt": "2026-10-31T17:00:00.000Z",
+  "schedulingNote": "SCHEDULED at Annieth's instruction (29 Oct). Long-form uploaded 29 Oct, public 31 Oct 17:00 UTC. Shorts slotted 2-3 Nov; upload on a later morning (shared quota).",
+  "postUploadNote": "Record ids by hand (the uploaders do not write them back), then `node remotion-shorts/gj-link-shorts.mjs \"<this folder>\"`.",
+  "longformId": "kmDYwcAr-7I"
+}

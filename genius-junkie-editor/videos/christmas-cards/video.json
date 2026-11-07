@@ -1,0 +1,150 @@
+{
+  "slug": "christmas-cards",
+  "topic": "How to Make Christmas Photo Cards in Canva (Print-Ready 5×7)",
+  "shotDir": "long-40",
+  "project": "gj-christmas-cards",
+  "composition": "ChristmasCards",
+  "thumb": "GJThumb40",
+  "promos": [
+    "PromoXcLate",
+    "PromoXcDates",
+    "PromoXcUk",
+    "PromoXcBleed"
+  ],
+  "adAfter": [
+    "05-the-front",
+    "09-ordering-it"
+  ],
+  "images": [
+    {
+      "name": "fridge-cards",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of Christmas photo cards standing on a wooden mantelpiece with soft fairy lights and pine sprigs, evening glow, very shallow depth of field, cosy and festive, card photos and any writing indistinct, no readable text"
+    },
+    {
+      "name": "late-cards",
+      "after": "S06",
+      "prompt": "Photographic shot of a stack of unsent Christmas cards and empty envelopes on a kitchen table at night, a cold cup of tea, a wall calendar softly out of focus behind, lamp light, shallow depth of field, a quiet sense of running late, no readable text"
+    },
+    {
+      "name": "signing-card",
+      "after": "S07",
+      "prompt": "Photographic close-up of a hand signing the inside of a folded Christmas card with a fountain pen, warm lamp light, a few sealed envelopes nearby, shallow depth of field, calm and personal, handwriting indistinct, no readable text"
+    },
+    {
+      "name": "posting-cards",
+      "after": "S10",
+      "prompt": "Photographic shot of gloved hands posting a bundle of envelopes into a red post box on a frosty winter street, early evening light, shallow depth of field, face not visible, festive and brisk, no readable text"
+    },
+    {
+      "name": "cards-home",
+      "after": "S14",
+      "prompt": "Photographic shot of a cosy living room at Christmas, a string of photo cards pegged along a ribbon above a fireplace, a decorated tree glowing out of focus, warm evening light, shallow depth of field, no people, all photos and printing indistinct, no readable text"
+    }
+  ],
+  "product": {
+    "name": "2027 Calendar Kit",
+    "price": "£4.99",
+    "existing": "2027-calendar-kit",
+    "note": "EXISTING pack. Honest fit, stated in S13: the other photo gift people order the same week — never 'Christmas card templates'. DO NOT run commerce."
+  },
+  "publishAt": null,
+  "freeAsset": {
+    "name": "2026 Christmas Card Order-By Calendar",
+    "slug": "get-christmas-card-order-by-calendar",
+    "note": "NEW one-pager: Canva Print shipping options vs USPS 17 Dec and Royal Mail 18/21 Dec, our worked order-by dates, the checkout-date rule, envelopes, the seven checks."
+  },
+  "timeline": {
+    "total": 531.03,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 35.3,
+      "03-pick-the.mp3": 65.65,
+      "04-the-photo.mp3": 106.925,
+      "05-the-front.mp3": 146.401,
+      "06-the-trap.mp3": 191.651,
+      "07-the-inside.mp3": 257.226,
+      "08-the-back.mp3": 300.301,
+      "09-ordering-it.mp3": 334.626,
+      "10-envelopes-and.mp3": 378.051,
+      "11-next-year.mp3": 428.176,
+      "12-the-checks.mp3": 462.426,
+      "13-the-pack.mp3": 487.001,
+      "14-close.mp3": 509.701
+    },
+    "adWindows": [
+      [
+        190.25,
+        191.65
+      ],
+      [
+        376.65,
+        378.05
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 35.3
+      },
+      {
+        "file": "03-pick-the.mp3",
+        "at": 65.65
+      },
+      {
+        "file": "04-the-photo.mp3",
+        "at": 106.925
+      },
+      {
+        "file": "05-the-front.mp3",
+        "at": 146.401
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 191.651
+      },
+      {
+        "file": "07-the-inside.mp3",
+        "at": 257.226
+      },
+      {
+        "file": "08-the-back.mp3",
+        "at": 300.301
+      },
+      {
+        "file": "09-ordering-it.mp3",
+        "at": 334.626
+      },
+      {
+        "file": "10-envelopes-and.mp3",
+        "at": 378.051
+      },
+      {
+        "file": "11-next-year.mp3",
+        "at": 428.176
+      },
+      {
+        "file": "12-the-checks.mp3",
+        "at": 462.426
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 487.001
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 509.701
+      }
+    ]
+  },
+  "promoNames": {
+    "PromoXcLate": "promo-xc-late",
+    "PromoXcDates": "promo-xc-dates",
+    "PromoXcUk": "promo-xc-uk",
+    "PromoXcBleed": "promo-xc-bleed"
+  }
+}

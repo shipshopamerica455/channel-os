@@ -1,0 +1,40 @@
+Amazon publishes a minimum line thickness — three quarters of a point — and almost every coloring book made in Canva breaks it. A coloring book is nothing but lines, so when the stroke drops under that floor the printed copy comes back with the art broken up or gone. Nothing rejects it. The customer just leaves a one-star review.
+
+This is the whole interior build, done to Amazon's published numbers.
+
+📄 FREE — The KDP Coloring Book Spec Card: every number in this video on one page: https://geniusjunkie.net/get-coloring-book-spec-card/
+
+🎨 KDP Interior Pack — the Canva template already sized to 8.625 × 11.25 in with the guides placed and a blank-back spread ready, plus the print-ready PDFs: https://geniusjunkie.net/kdp-interior-pack/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 The rule almost every Canva coloring book breaks
+0:34 The free spec card, and three principles
+1:05 Trim size — and why it comes first
+1:44 Bleed is not symmetrical
+2:24 Margins, and the number that moves
+3:08 THE TRAP — three quarters of a point
+3:54 Scale first, check the stroke second
+4:32 Page count, and the page you did not plan
+5:13 Building a page, start to finish
+5:51 Exporting, where the resolution dies
+6:33 What to check before you upload
+7:09 The cover is a separate file
+7:40 The four numbers
+8:04 Close
+
+THE NUMBERS, FROM AMAZON'S OWN HELP PAGES
+· Minimum line weight 0.75 pt / 0.01" / 0.3 mm — work at 1 pt to be safe
+· Bleed 0.125" on top, bottom and OUTER edge only — so the PDF is 0.25" taller but only 0.125" wider. Canva's bleed is uniform on all four sides.
+· Inside margin 0.375" at 24–150 pages, 0.5" at 151–300, 0.625" at 301–500
+· Outside margin minimum 0.25" without bleed, 0.375" with it
+· Minimum 24 pages, rounded up to an even number
+· Images at least 300 DPI — so PDF Print, not PDF Standard (96 DPI)
+· Fonts embedded and transparency flattened — the Flatten PDF checkbox
+
+Sources: KDP Paperback Submission Guidelines; Set Trim Size, Bleed and Margins. Verified 24 September 2026.
+
+Not covered because Amazon does not document it: single-sided printing. Blank backing pages are a convention buyers expect, not an Amazon rule.
+
+#canva #amazonkdp #coloringbook #kdppublishing #canvatutorial

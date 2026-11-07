@@ -1,0 +1,91 @@
+{
+  "slug": "infographics",
+  "slateNumber": "S7 #1",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:57",
+  "titles": {
+    "A": "How to Make an Infographic in Canva (2026)",
+    "B": "Canva Infographics — the 3,125 px Height Ceiling, the Export Multiplier and the Three Shapes",
+    "C": "Canva Will Not Let You Make a Tall Infographic — Here Is the Arithmetic Round It"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make an infographic in canva",
+    "canva infographic",
+    "canva infographic tutorial",
+    "infographic design",
+    "canva size limit",
+    "canva maximum design size",
+    "canva export multiplier",
+    "long infographic canva",
+    "canva custom size red",
+    "infographic size guide",
+    "canva png export size",
+    "infographic for blog",
+    "canva resize design",
+    "canva tutorial 2026",
+    "make an infographic free"
+  ],
+  "adBreaks": [
+    "3:28.2",
+    "6:18.1"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-06",
+    "topTenMedian": 52957,
+    "freshInTopTen": "3/10",
+    "note": "The STRONGEST row on slate 7, and the catalogue check supported it rather than killing it: our own Sept 2025 attempt took 2,245 views (strong for this channel), there is no 2026 remake, and every 2026 competitor in the top ten is under 1,100."
+  },
+  "product": {
+    "name": "Presentation Kit",
+    "price": "£4.99",
+    "slug": "presentation-kit",
+    "existing": true,
+    "note": "ALREADY BUILT and verified live (200 on 6 Oct 2026). COMMERCE NOT RUN. Honest fit, stated in the close: the kit's chart pages and callout blocks are the same components an infographic is assembled from, but it was built for decks — the close says 'the chart and callout pages this is made of', never 'an infographic pack'. This row is view-and-list first; the free rung does the funnel work."
+  },
+  "freeAsset": {
+    "name": "Canva Infographic Size Card",
+    "slug": "get-infographic-size-card",
+    "status": "built before upload"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-info-red": {
+      "composition": "PromoInfoRed",
+      "title": "Canva refuses the number and says nothing #shorts",
+      "voSlice": "211.8-240.0",
+      "description": "Custom size. Nine hundred wide, six thousand tall — and the height field goes red the moment the number passes 3,125.\n\nThere is no warning text explaining why, no suggestion, no \"would you like to scale this\". It simply will not accept the number. Canva's maximum design size is 8000 × 3125 pixels, per axis, so that second number is your height ceiling — on the one format whose whole point is that it scrolls.\n\nNow the fix, live. Halve it. 450 by 3000. Accepted immediately, because 3,000 is under the ceiling. Build the whole infographic at that size, then export at 2× and out comes the file you were told you could not make.\n\n📄 Free size card: https://geniusjunkie.net/get-infographic-size-card/\n📊 Presentation Kit: https://geniusjunkie.net/presentation-kit/",
+      "publishAt": "2026-10-19T19:00:00.000Z",
+      "id": "VPsTSyDKYuo"
+    },
+    "promo-info-maths": {
+      "composition": "PromoInfoMaths",
+      "title": "Design small, export big #shorts",
+      "voSlice": "126.4-155.0",
+      "description": "Canva lets you download a PNG at between 0.5 and 3.125 times the design size. That multiplier is the escape hatch, and almost nobody uses it deliberately.\n\nSo work backwards. Decide the pixels you actually want — say 900 wide by 6000 tall, a proper long one. 6,000 is over the ceiling, so halve both numbers: 450 by 3000. 3,000 is under 3,125, so Canva accepts it.\n\nBuild the whole thing at 450 × 3000. Then at download, PNG, and set the size multiplier to 2×. Out comes 900 × 6000. Same artwork. The ceiling never applied to the file, only to the canvas.\n\n📄 Free size card: https://geniusjunkie.net/get-infographic-size-card/\n📊 Presentation Kit: https://geniusjunkie.net/presentation-kit/",
+      "publishAt": "2026-10-20T12:00:00.000Z",
+      "id": "-xXz5CR4174"
+    },
+    "promo-info-shapes": {
+      "composition": "PromoInfoShapes",
+      "title": "Three sizes. None of them match. #shorts",
+      "voSlice": "260.2-285.0",
+      "description": "Canva's own infographic page recommends three sizes. For a blog, 663 by 2000. For Facebook, 1200 by 628. For LinkedIn, 1104 by 736.\n\nRead those again. The first is a tall column, three times higher than it is wide. The other two are landscape. They are not variations of each other — there is no single artwork that is both.\n\nSo stop trying to make one. The tall one is your master, where the whole argument lives. The landscape ones are extracts: one section, one number, one claim, re-laid out to fill a wide frame. Canva's Resize tool changes the canvas but does not re-think the layout.\n\n📄 Free size card: https://geniusjunkie.net/get-infographic-size-card/\n📊 Presentation Kit: https://geniusjunkie.net/presentation-kit/",
+      "publishAt": "2026-10-20T19:00:00.000Z",
+      "id": "jrmV9md6cXQ"
+    },
+    "promo-info-stamp": {
+      "composition": "PromoInfoStamp",
+      "title": "Zoom out to a postage stamp #shorts",
+      "voSlice": "342.0-364.5",
+      "description": "Before you export, the test almost nobody does, and it costs ten seconds.\n\nZoom out until the whole infographic fits on your screen at about the size of a postage stamp. That is roughly what it looks like in a feed, or as a preview thumbnail, or in search results.\n\nWhat should survive at that size: the shape of it, the colour blocks, and the biggest numbers. If all you can see is grey texture, the type is too uniform — the sizes are too close together and nothing is leading the eye. Go back and make the numbers bigger. Not the headings, the numbers.\n\nAnd check the top two inches separately — often the only part that gets seen at all.\n\n📄 Free size card: https://geniusjunkie.net/get-infographic-size-card/\n📊 Presentation Kit: https://geniusjunkie.net/presentation-kit/",
+      "publishAt": "2026-10-21T12:00:00.000Z",
+      "id": "6U3HnWyczcE"
+    }
+  },
+  "publishAt": "2026-10-17T17:00:00.000Z",
+  "schedulingNote": "SCHEDULED at Annieth's instruction (13 Oct). Long-form uploaded 13 Oct, public 17 Oct 17:00 UTC. Its 4 Shorts follow on a later morning — a release is ~8,050 units of a 10,000/day allowance SHARED with every other channel on this Mac.",
+  "postUploadNote": "Shorts descriptions carry no youtu.be link — patch all four after publish with the FULL snippet (title, description, tags, categoryId, defaultLanguage), or YouTube blanks the omitted fields.",
+  "longformId": "3yHYg55911M"
+}

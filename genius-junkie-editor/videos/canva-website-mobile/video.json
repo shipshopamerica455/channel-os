@@ -1,0 +1,144 @@
+{
+  "slug": "canva-website-mobile",
+  "topic": "How to Fix Mobile View on a Canva Website",
+  "shotDir": "long-42",
+  "project": "gj-canva-website-mobile",
+  "composition": "CanvaMobile",
+  "thumb": "GJThumb42",
+  "promos": [],
+  "adAfter": [
+    "05-the-check",
+    "09-fix-three"
+  ],
+  "images": [
+    {
+      "name": "phone-squint",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of a woman in a cosy cafe frowning slightly at her smartphone, holding it close to her face as if the text is too small to read, latte on the table, soft window light, very shallow depth of field, phone screen glowing but its content indistinct, no readable text"
+    },
+    {
+      "name": "tiny-heading",
+      "after": "S06",
+      "prompt": "Photographic over-the-shoulder shot of a small business owner at a wooden desk comparing a laptop and a smartphone side by side, the laptop showing a large bright web page and the phone a cramped version of it, mild frustration, warm evening lamp light, shallow depth of field, screens indistinct, no readable text"
+    },
+    {
+      "name": "candle-shop",
+      "after": "S08",
+      "prompt": "Warm photographic shot of a small handmade candle shop counter, amber glass jar candles with plain kraft labels, a smartphone propped against a jar showing a shop page, soft golden daylight, very shallow depth of field, cosy and inviting, labels and screen indistinct, no readable text"
+    },
+    {
+      "name": "two-phones",
+      "after": "S10",
+      "prompt": "Photographic close-up of two hands each holding a different smartphone side by side over a kitchen table, both screens showing the same simple web page with a photo and a button, bright natural morning light, shallow depth of field, calm and methodical, screen content indistinct, no readable text"
+    },
+    {
+      "name": "happy-customer",
+      "after": "S12",
+      "prompt": "Photographic shot of a smiling young man on a sofa tapping a large button on his smartphone screen with his thumb, relaxed evening living room, warm light, shallow depth of field, satisfied and easy, screen content indistinct, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Canva Website Launch Kit",
+    "price": "£4.99",
+    "folder": "canva-website-mobile",
+    "slug": "canva-website-launch-kit",
+    "new": true,
+    "description": "Print-ready planning kit for a Canva website — site and section planner (45 pages, Free publishes 10 sections a page), a mobile audit sheet for every page (order / size / gaps, Canva's five reflow fixes, a two-phone test log), an element map, a custom-domain connection worksheet, a 24-step launch checklist and a handover sheet. Letter + A4. No Canva plan needed. (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "note": "NEW PACK — PDFs only, no Canva template (gift-tags model). Serves S8 #2 and #3."
+  },
+  "publishAt": null,
+  "freeAsset": {
+    "name": "Canva Website Mobile Check Card",
+    "slug": "get-canva-website-mobile-check-card",
+    "note": "NEW one-page card: reflow's two rules quoted, Canva's five fixes verbatim, three passes, eight checks. Not carved from the pack."
+  },
+  "timeline": {
+    "total": 517.85,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 36.85,
+      "03-what-a.mp3": 67.675,
+      "04-opening-the.mp3": 110.5,
+      "05-the-check.mp3": 149.85,
+      "06-the-trap.mp3": 193.1,
+      "07-fix-one.mp3": 246.525,
+      "08-fix-two.mp3": 284.1,
+      "09-fix-three.mp3": 326.675,
+      "10-publish-then.mp3": 364.95,
+      "11-build-it.mp3": 404.825,
+      "12-the-checks.mp3": 444.475,
+      "13-the-pack.mp3": 477.05,
+      "14-close.mp3": 496.425
+    },
+    "adWindows": [
+      [
+        191.7,
+        193.1
+      ],
+      [
+        363.55,
+        364.95
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 36.85
+      },
+      {
+        "file": "03-what-a.mp3",
+        "at": 67.675
+      },
+      {
+        "file": "04-opening-the.mp3",
+        "at": 110.5
+      },
+      {
+        "file": "05-the-check.mp3",
+        "at": 149.85
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 193.1
+      },
+      {
+        "file": "07-fix-one.mp3",
+        "at": 246.525
+      },
+      {
+        "file": "08-fix-two.mp3",
+        "at": 284.1
+      },
+      {
+        "file": "09-fix-three.mp3",
+        "at": 326.675
+      },
+      {
+        "file": "10-publish-then.mp3",
+        "at": 364.95
+      },
+      {
+        "file": "11-build-it.mp3",
+        "at": 404.825
+      },
+      {
+        "file": "12-the-checks.mp3",
+        "at": 444.475
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 477.05
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 496.425
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "coloring-book",
+  "slateNumber": "S4 #4",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:28",
+  "titles": {
+    "A": "How to Make a Coloring Book in Canva for Amazon KDP (2026)",
+    "B": "Canva Coloring Book for KDP — Bleed, Margins and the 0.75 Point Line Rule",
+    "C": "Your KDP Coloring Book Lines Are Too Thin — Amazon's Own Minimum"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make a coloring book in canva",
+    "coloring book canva kdp",
+    "coloring pages canva",
+    "kdp coloring book",
+    "canva coloring book tutorial",
+    "amazon kdp coloring book",
+    "kdp interior",
+    "canva kdp",
+    "coloring book interior",
+    "kdp line weight",
+    "canva bleed kdp",
+    "kdp margins",
+    "canva pdf print",
+    "coloring book for amazon",
+    "canva tutorial 2026"
+  ],
+  "adBreaks": [
+    "3:53.0",
+    "5:49.9"
+  ],
+  "product": {
+    "name": "KDP Interior Pack",
+    "price": "£4.99",
+    "slug": "kdp-interior-pack",
+    "existing": true,
+    "note": "ALREADY BUILT and live (200). This row ranked first because it sells an existing pack — revenue with no build cost. Add the coloring-book template to the pack: 8.625 x 11.25 in, guides at the 0.375 in gutter and outer margin, blank-back spread."
+  },
+  "freeAsset": {
+    "name": "KDP Coloring Book Spec Card",
+    "slug": "get-coloring-book-spec-card",
+    "status": "NOT YET CREATED — 404 at time of packaging; commerce stage must build it",
+    "note": "NEW one-pager, never carved out of the pack: the 0.75 pt floor, the bleed arithmetic written out, the full inside-margin table by page count, 300 DPI, and the two export checkboxes."
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-color-line-weight": {
+      "composition": "PromoColorLineWeight",
+      "title": "Your coloring book lines are too thin for KDP #shorts",
+      "voSlice": "197.0–223.5",
+      "description": "Amazon publishes a minimum line thickness: three quarters of a point, or one hundredth of an inch, or three tenths of a millimetre. A coloring book is nothing but lines, so this applies to every single stroke in the book.\n\nCanva's element line art is often half a point. It looks perfect on screen at four hundred percent zoom, and it prints as a broken dotted line — or it does not print at all. Nothing rejects the file. The customer just leaves a one-star review.\n\nSet your own floor at one point and give yourself the margin.\n\n▶️ Full tutorial: https://youtu.be/jyg1lX2kcUo\n📄 Free spec card: https://geniusjunkie.net/get-coloring-book-spec-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-30T12:00:00.000Z"
+    },
+    "promo-color-scaling": {
+      "composition": "PromoColorScaling",
+      "title": "Shrinking the art shrinks the line #shorts",
+      "voSlice": "243.4–265.5",
+      "description": "This is the one that catches careful people. Take a drawing with a one point stroke, shrink it to half size, and Canva scales the stroke with it. Your one point line is now half a point — under Amazon's floor — and you never touched the stroke setting.\n\nSo the order matters. Resize the art to exactly the size it will print, THEN select it and read the stroke weight, THEN fix it. Never the other way round.\n\nThis is why a book can look flawless in Canva and print like a photocopy of a photocopy.\n\n▶️ Full tutorial: https://youtu.be/jyg1lX2kcUo\n📄 Free spec card: https://geniusjunkie.net/get-coloring-book-spec-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-01T12:00:00.000Z"
+    },
+    "promo-color-bleed": {
+      "composition": "PromoColorBleed",
+      "title": "Canva's bleed is wrong for a KDP book #shorts",
+      "voSlice": "108.4–132.5",
+      "description": "Bleed on a book is not symmetrical. Amazon wants an eighth of an inch on the top, the bottom and the outer edge — and nothing on the inner edge, because that is the spine and it is glued.\n\nSo the height gains an eighth twice, which is a quarter of an inch, and the width gains an eighth only once. On an eight and a half by eleven book that is a page eight point six two five wide by eleven point two five high.\n\nCanva does not know about spines. Its bleed sits on all four sides evenly. Do not use the bleed toggle — type the bled size in as your custom size and keep control of it yourself.\n\n▶️ Full tutorial: https://youtu.be/jyg1lX2kcUo\n📄 Free spec card: https://geniusjunkie.net/get-coloring-book-spec-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-02T12:00:00.000Z"
+    },
+    "promo-color-export": {
+      "composition": "PromoColorExport",
+      "title": "Your coloring book will print at 96 DPI #shorts",
+      "voSlice": "355.5–379.0",
+      "description": "Canva's download menu defaults to PDF Standard, and PDF Standard is ninety six DPI. Amazon requires images at a minimum of three hundred. Ninety six is a third of what they ask for.\n\nChoose PDF Print instead. Then two checkboxes: leave Crop marks and bleed UNTICKED, because you already built the bleed into your page size and ticking it adds a second lot on top. Tick Flatten PDF, because Amazon asks you to flatten transparency and embed your fonts, and that box does both.\n\nOne box on, one box off.\n\n▶️ Full tutorial: https://youtu.be/jyg1lX2kcUo\n📄 Free spec card: https://geniusjunkie.net/get-coloring-book-spec-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-03T12:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-09-29T17:00:00.000Z",
+  "schedulingNote": "SCHEDULED 25 Sep 2026 at the user's instruction. Long-form 29 Sep 17:00 UTC; Shorts 30 Sep, 1, 2, 3 Oct at 12:00 UTC. All uploaded as private drafts.",
+  "longformId": "jyg1lX2kcUo"
+}

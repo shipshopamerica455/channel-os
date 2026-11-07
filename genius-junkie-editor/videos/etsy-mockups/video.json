@@ -1,0 +1,154 @@
+{
+  "slug": "etsy-mockups",
+  "topic": "#8 Etsy Listing Photos & Mockups",
+  "shotDir": "long-9",
+  "project": "gj-long-9",
+  "composition": "Long9Etsy",
+  "thumb": "GJThumb9",
+  "promos": [
+    "PromoEtsyCrop",
+    "PromoEtsyMockup"
+  ],
+  "adAfter": [
+    "05-the-hero",
+    "09-the-last"
+  ],
+  "images": [
+    {
+      "name": "etsy-browsing",
+      "prompt": "close-up of hands holding a smartphone browsing an online craft marketplace grid of product photos, warm cafe background out of focus, photographic, no readable text"
+    },
+    {
+      "name": "maker-desk",
+      "prompt": "a small business maker photographing a handmade ceramic mug on a plain light backdrop with a phone on a tripod, warm daylight studio corner, photographic"
+    },
+    {
+      "name": "parcel-unbox",
+      "prompt": "close-up of hands opening a small brown paper parcel with tissue paper on a wooden table, warm natural light, photographic, shallow depth of field"
+    },
+    {
+      "name": "framed-on-wall",
+      "prompt": "a single framed abstract print hanging above a wooden sideboard in a warm neutral room, soft daylight, interior photography"
+    },
+    {
+      "name": "phone-shop",
+      "prompt": "over-the-shoulder shot of a person at a laptop reviewing an online shop dashboard in a bright home studio, plants and shelves behind, photographic, no readable screen text"
+    },
+    {
+      "name": "thumb-hero",
+      "prompt": "flat lay from directly above of a warm off-white surface with a single terracotta ceramic vase, a folded linen cloth and a dried stem arranged with generous empty space on the left, bright soft daylight, clean product photography, no text"
+    }
+  ],
+  "product": {
+    "name": "Etsy Listing Image Kit",
+    "description": "10-slot Canva listing template with the 5:4 safe band marked, information cards, mockup pages and sizes chart (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "etsylisting",
+    "slug": "etsy-listing-image-kit",
+    "stripeProduct": "prod_V1c77TdVHIA3Y0",
+    "stripePrice": "price_1U1YtFLqu5srzOz9qCgcKtqj",
+    "stripe": "https://buy.stripe.com/3cI00k2IXfxVfQM3zNaR209"
+  },
+  "publishAt": "2026-08-18T17:00:00.000Z",
+  "promoNames": {
+    "PromoEtsyCrop": "promo-5x4-crop",
+    "PromoEtsyMockup": "promo-mockup-trick"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "timeline": {
+    "total": 526.38,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-what-the.mp3": 35.25,
+      "03-the-crop.mp3": 68.425,
+      "04-canvas-setup.mp3": 104.275,
+      "05-the-hero.mp3": 138.4,
+      "06-mockups-without.mp3": 182.9,
+      "06b-if-you.mp3": 223.075,
+      "07-the-scale.mp3": 277.35,
+      "08-the-information.mp3": 313.925,
+      "09-the-last.mp3": 354.8,
+      "10-the-template.mp3": 395.4,
+      "11-the-mistakes.mp3": 430.625,
+      "12-the-checklist.mp3": 459.45,
+      "13-the-shortcut.mp3": 484.9,
+      "14-outro.mp3": 500.95
+    },
+    "adWindows": [
+      [
+        181.5,
+        182.9
+      ],
+      [
+        394,
+        395.4
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-what-the.mp3",
+        "at": 35.25
+      },
+      {
+        "file": "03-the-crop.mp3",
+        "at": 68.425
+      },
+      {
+        "file": "04-canvas-setup.mp3",
+        "at": 104.275
+      },
+      {
+        "file": "05-the-hero.mp3",
+        "at": 138.4
+      },
+      {
+        "file": "06-mockups-without.mp3",
+        "at": 182.9
+      },
+      {
+        "file": "06b-if-you.mp3",
+        "at": 223.075
+      },
+      {
+        "file": "07-the-scale.mp3",
+        "at": 277.35
+      },
+      {
+        "file": "08-the-information.mp3",
+        "at": 313.925
+      },
+      {
+        "file": "09-the-last.mp3",
+        "at": 354.8
+      },
+      {
+        "file": "10-the-template.mp3",
+        "at": 395.4
+      },
+      {
+        "file": "11-the-mistakes.mp3",
+        "at": 430.625
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 459.45
+      },
+      {
+        "file": "13-the-shortcut.mp3",
+        "at": 484.9
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 500.95
+      }
+    ]
+  }
+}

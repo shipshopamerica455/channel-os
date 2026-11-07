@@ -1,0 +1,55 @@
+I have told you four times on this channel to export as PDF Print. For an ebook,
+that is the wrong answer — and it is why nobody finishes downloading yours.
+
+Canva's own help pages are explicit. PDF Standard is "for multi-page and
+text-heavy documents" and you use it "if you intend to share your file through
+email". PDF Print is "for printing", and "the only file type that saves
+professional print quality at 300 DPI".
+
+An ebook is read on a screen. 300 DPI buys nothing a screen can show, and costs
+you a file your buyer gives up on halfway through downloading.
+
+📄 FREE — The Canva Export Decision Card: which export for which job, what
+Flatten actually does, on one page:
+https://geniusjunkie.net/get-export-decision-card/
+
+📘 Lead Magnet Kit — the ebook layout templates and the delivery setup, already
+built: https://geniusjunkie.net/lead-magnet-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 The export I have told you four times to use
+0:34 The free card, and three principles
+1:10 Page size — build it for a screen, not a printer
+1:50 Type size is not a design choice
+2:37 A contents page that actually jumps
+3:28 THE TRAP — the export that kills it
+4:18 And do not flatten it
+4:58 If the file is still too big
+5:36 What the buyer actually gets
+6:11 A cover that works at thumbnail size
+6:48 Pricing it, honestly
+7:21 Updating it later
+7:59 Six checks
+8:25 Close
+
+THE SETTINGS, FROM CANVA'S OWN DOCS
+· PDF Standard — 96 DPI, "for multi-page and text-heavy documents". Use this.
+· PDF Print — 300 DPI, "for printing". Not for something read on a screen.
+· Flatten PDF — Canva notes it "may increase file size", AND it turns pages
+  into images, so every link in your contents page stops working.
+· Compress PDF — a third option for reduced size, paid accounts only.
+· Page size: 1200 x 1600 px (3:4) reads far better on a laptop than A4.
+· Contents links: select the text, link, then CHOOSE THE PAGE — not a URL.
+  Build the contents page LAST, because links point at page numbers.
+
+NOT IN THIS VIDEO ON PURPOSE: any Gumroad, Etsy, Payhip or Kindle fee, any
+platform file-size limit, and any price you should charge. Those change, they
+differ by market, and a number quoted here would be wrong by the time you
+watch it. Check your platform's own page.
+
+Sources: Canva Help Centre — "Choose the right download file type for your
+Canva design", "Download designs as flattened PDF". Verified 2 October 2026.
+
+#canva #ebook #canvatutorial #digitalproducts #sellonline

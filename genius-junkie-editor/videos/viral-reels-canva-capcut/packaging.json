@@ -1,0 +1,59 @@
+{
+  "titles": {
+    "A": "How to Make Viral Instagram Reels with Canva + CapCut (Free & Beginner Friendly)",
+    "B": "Canva + CapCut Reels Tutorial: Design, Edit & Export the Right Way",
+    "C": "Why Your Reels Get No Views \u2014 the Canva + CapCut Fix (Full Tutorial)"
+  },
+  "title_notes": "A = pure search intent ('viral instagram reels canva capcut') + free qualifier, matches how the channel's label/avatar videos are titled \u2014 recommend A. B = workflow-led for people searching the tool pairing. C = pain-point hook, better CTR if browse traffic outweighs search.",
+  "description_hook": "Make a scroll-stopping Instagram Reel from scratch using Canva and CapCut \u2014 both free. Design the hook and animated slides in Canva, then beat-sync, caption and loop it in CapCut, and export it the one way that doesn't kill your reach on Instagram.",
+  "tools_used": [
+    "Canva (free tier works)",
+    "CapCut desktop (free tier works)"
+  ],
+  "links": {},
+  "tags": [
+    "instagram reels tutorial",
+    "canva reels",
+    "capcut tutorial",
+    "canva tutorial",
+    "how to make reels",
+    "viral reels",
+    "instagram reels canva",
+    "capcut for beginners",
+    "canva for beginners",
+    "reels for small business",
+    "instagram marketing",
+    "canva animation",
+    "capcut auto captions",
+    "beat sync capcut",
+    "trending audio instagram",
+    "reels export settings",
+    "faceless reels",
+    "content creation for beginners",
+    "social media design",
+    "etsy seller marketing"
+  ],
+  "thumbnail": {
+    "text": "VIRAL REELS",
+    "sub": "Canva + CapCut \u00b7 free",
+    "badge": "FREE",
+    "notes": "Grab frames at: the finished reel playing (phone-frame moment), the CapCut beat-dot timeline, the Canva hook slide. Reel footage frame likely wins \u2014 it shows the outcome."
+  },
+  "shorts": {
+    "silent-export-trick": {
+      "title": "The export mistake killing your Reels reach",
+      "description": "Never bake music into your reel export \u2014 here's why, and what to do instead.\n\nFull Canva + CapCut tutorial (free, no camera): https://www.youtube.com/watch?v=U9cgLrs6Z2I",
+      "file": "PromoMute.mp4"
+    },
+    "beat-sync": {
+      "title": "Beat-sync your Reels in CapCut in 60 seconds",
+      "description": "Auto beat detection + split on the dots = reels that feel expensive.\n\nFull Canva + CapCut tutorial (free, no camera): https://www.youtube.com/watch?v=U9cgLrs6Z2I",
+      "file": "PromoBeat.mp4"
+    },
+    "loop-ending": {
+      "title": "Make your Reel loop perfectly (double your watch time)",
+      "description": "Match the last frame to the first and nobody notices the restart.\n\nFull Canva + CapCut tutorial (free, no camera): https://www.youtube.com/watch?v=U9cgLrs6Z2I",
+      "file": "PromoLoop.mp4"
+    }
+  }
+}

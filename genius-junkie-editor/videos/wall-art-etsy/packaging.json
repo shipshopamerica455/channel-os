@@ -1,0 +1,63 @@
+{
+  "slug": "wall-art-etsy",
+  "slateNumber": 7,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "8:43",
+  "titles": {
+    "A": "How to Make Printable Wall Art in Canva to Sell on Etsy (300 DPI Fix)",
+    "B": "Printable Wall Art in Canva — Every Frame Size, Properly Sized for Etsy",
+    "C": "Your Etsy Printables Print Blurry — It's One Setting in Canva"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "printable wall art canva",
+    "sell printables on etsy",
+    "canva etsy digital download",
+    "printable art 300 dpi",
+    "canva 300 dpi export",
+    "etsy digital products",
+    "wall art printable set",
+    "canva tutorial",
+    "etsy passive income",
+    "digital download etsy",
+    "printable wall art tutorial",
+    "canva for etsy sellers",
+    "etsy listing tips",
+    "print on demand art",
+    "canva licence commercial use",
+    "abstract wall art printable"
+  ],
+  "publishAt": "2026-08-16T17:00:00Z",
+  "adBreaks": [
+    "3:17.6",
+    "6:14.9"
+  ],
+  "product": {
+    "name": "Wall Art Starter Pack",
+    "price": "£4.99",
+    "page": "https://geniusjunkie.net/wall-art-starter-pack/",
+    "canvaTemplate": "canva.link/<wall-art-etsy.canvaTemplate>",
+    "stripe": "https://buy.stripe.com/6oU9AU6Zd5XlcEAdanaR208",
+    "files": "15 art PDFs (3 designs x 5 ratios) + sizes chart + read-me"
+  },
+  "cutaways": [
+    "gallery-wall",
+    "laptop-etsy",
+    "frames-stack",
+    "printing",
+    "framing-hands"
+  ],
+  "shorts": {
+    "promo-dpi-trap": {
+      "title": "Canva exports at 96 DPI, not 300 #shorts",
+      "description": "This is why printable shops get \"it printed blurry\" reviews. PDF Print is the only native Canva export that's genuinely 300 DPI. Full Etsy wall art tutorial on the channel.",
+      "publishAt": "2026-08-17T12:00:00.000Z"
+    },
+    "promo-five-ratios": {
+      "title": "Etsy buyers expect 5 files, not 1 #shorts",
+      "description": "2:3, 3:4, 4:5, plus 11x14 (which fits none of them) and ISO A. One design, five files. Full printable wall art tutorial on the channel.",
+      "publishAt": "2026-08-18T12:00:00.000Z"
+    }
+  }
+}

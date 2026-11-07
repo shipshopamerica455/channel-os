@@ -1,0 +1,73 @@
+{
+  "slug": "calendar-2027",
+  "slateNumber": 15,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "9:32",
+  "titles": {
+    "A": "How to Make a 2027 Calendar in Canva (All 12 Months, Print-Ready PDF)",
+    "B": "Canva 2027 Calendar Tutorial — Every Month Correct, Ready to Sell",
+    "C": "Never Reuse Last Year's Calendar File — Every Single Date Is Wrong"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "2027 calendar canva",
+    "how to make a calendar in canva",
+    "canva calendar tutorial",
+    "printable calendar 2027",
+    "canva calendar template",
+    "2027 wall calendar",
+    "make a calendar to sell",
+    "etsy printable calendar",
+    "canva tutorial 2026",
+    "calendar template canva",
+    "print ready pdf canva",
+    "canva table grid",
+    "desk calendar 2027",
+    "digital product to sell",
+    "kdp calendar",
+    "canva print bleed"
+  ],
+  "adBreaks": [
+    "3:38.8",
+    "6:59.2"
+  ],
+  "product": {
+    "name": "2027 Calendar Kit",
+    "price": "£4.99",
+    "page": "https://geniusjunkie.net/2027-calendar-kit/",
+    "files": "Editable Canva calendar with all twelve 2027 grids already correct (A4 + US Letter wall, A5 desk) + 5 reference PDFs (grid reference, print checklist, date-shift explainer, listing guide, read-me)"
+  },
+  "cutaways": [
+    "wall-calendar",
+    "desk-calendar",
+    "writing-on-calendar",
+    "printer-output",
+    "wrapping-gift"
+  ],
+  "shorts": {
+    "promo-last-years-calendar": {
+      "title": "Why last year's calendar file is a trap #shorts",
+      "description": "January 2026 starts on a Thursday. January 2027 starts on a Friday. A common year is 365 days, which is 52 weeks and one day left over, so every date slides one square to the right and the ones that fall off the end of a row wrap round to the start of the next. Take last year's file, edit the year in the title, and you have not made a 2027 calendar - you have made a 2026 calendar with the wrong year printed on it. Nothing turns red. Reuse the layout, the fonts and the pictures. Never reuse the numbers. Full 2027 calendar tutorial on the channel.",
+      "publishAt": "2026-09-18T12:00:00.000Z"
+    },
+    "promo-february-check": {
+      "title": "The one-second check on any 2027 calendar #shorts",
+      "description": "February 2027 starts on a Monday and has 28 days, and 28 days is exactly four weeks - so on a Monday-start grid it fills a perfect four-by-seven block. Four rows, seven columns, completely full, no blank squares at the beginning and none at the end. It is the only month of the year that does that, and it only works this year. So build February and look at it: one gap anywhere in that block and your grid is wrong, which means the other eleven are wrong too. Full 2027 calendar tutorial on the channel.",
+      "publishAt": "2026-09-19T12:00:00.000Z"
+    },
+    "promo-holidays-wrong-half": {
+      "title": "Your calendar is wrong for half the people who buy it #shorts",
+      "description": "Bank holidays differ between England, Scotland and Northern Ireland, American holidays differ again, and half of them move. Print UK holidays and sell to somebody in Texas and the calendar is slightly wrong and slightly confusing. Two honest options: mark nothing, or name it in the title. Naming it is the difference between a feature and a complaint.\n\n▶️ Full tutorial: https://youtu.be/3DljJUhszqo\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-18T19:00:00.000Z",
+      "youtubeId": "09wR8Pj-Vog"
+    },
+    "promo-two-files-two-buyers": {
+      "title": "Do not tick bleed for a home printer #shorts",
+      "description": "Bleed and crop marks are right for a print shop that is trimming the sheet. But if you are selling a printable that people run off at home, do not use bleed — a home printer cannot reach the edge, so they end up with a white border and a cropped picture. Two files, two buyers.\n\n▶️ Full tutorial: https://youtu.be/3DljJUhszqo\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-19T19:00:00.000Z",
+      "youtubeId": "z0dY9odKtMc"
+    }
+  },
+  "publishAt": "2026-09-17T17:00:00.000Z"
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "wedding-website",
+  "topic": "How to Make a Wedding Website in Canva",
+  "shotDir": "long-37",
+  "project": "gj-wedding-website",
+  "composition": "WeddingWebsite",
+  "thumb": "GJThumb37",
+  "promos": [
+    "PromoWwMistake",
+    "PromoWwInbox",
+    "PromoWwCopy",
+    "PromoWwPhone"
+  ],
+  "adAfter": [
+    "05-the-countdown",
+    "09-publishing"
+  ],
+  "images": [
+    {
+      "name": "phone-invite",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of two hands holding a phone over a linen tablecloth with a small vase of white flowers, soft window daylight, shallow depth of field, intimate and celebratory, the screen glowing but its content indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "wrong-inbox",
+      "after": "S06",
+      "prompt": "Photographic shot of a person at a kitchen table in evening light looking at a laptop with a hand pressed to the side of their face, posture of realising something has gone wrong, face not visible, shallow depth of field, muted and quiet, screen content indistinct, no readable text"
+    },
+    {
+      "name": "phone-on-train",
+      "after": "S08",
+      "prompt": "Photographic close-up of a phone held in one hand on a commuter train, blurred window light behind, very shallow depth of field, everyday and unhurried, the screen content indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "printed-invite",
+      "after": "S10",
+      "prompt": "Warm photographic overhead of a printed wedding invitation card on cream paper beside an envelope, dried flowers and a fountain pen on a wooden desk, late afternoon light, shallow depth of field, elegant and handmade, all printing indistinct, no readable text"
+    },
+    {
+      "name": "reception-dusk",
+      "after": "S14",
+      "prompt": "Photographic shot of an empty wedding reception table at dusk, string lights, candles, folded napkins and glassware, warm golden light, shallow depth of field, calm before the guests arrive, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Party & Event Printables Kit",
+    "price": "£4.99",
+    "existing": "party-printables-kit",
+    "note": "ALREADY BUILT (verified live, 200 on 19 Oct 2026). HONEST FIT, stated in the close: the kit is printed stationery, not a website template — offered as the matching printed side (the invitation a QR code sits on), never as 'a wedding website template'. DO NOT run commerce. View-and-list first. Recommended follow-on: a Canva Website Kit serving S8 #1-#3."
+  },
+  "publishAt": "2026-10-23T17:00:00.000Z",
+  "promoNames": {
+    "PromoWwMistake": "promo-ww-mistake",
+    "PromoWwInbox": "promo-ww-inbox",
+    "PromoWwCopy": "promo-ww-copy",
+    "PromoWwPhone": "promo-ww-phone"
+  },
+  "freeAsset": {
+    "name": "Canva Wedding Website Checklist",
+    "slug": "get-wedding-website-checklist",
+    "note": "NEW one-pager: Canva's publishing rules quoted (Website template, .canva.site, five live sites on Free, canva.link for Mobile/Link in Bio, the footer), the RSVP ownership trap with Google's wording, the copy method and its sourcing, Set close date, the phone checks, the QR test from paper, and the seven pre-send checks."
+  },
+  "timeline": {
+    "total": 543.8,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 37.475,
+      "03-the-template.mp3": 69.3,
+      "04-the-pages.mp3": 114.45,
+      "05-the-countdown.mp3": 158.6,
+      "06-the-trap.mp3": 207.025,
+      "07-making-the.mp3": 255.175,
+      "08-the-phone.mp3": 297.2,
+      "09-publishing.mp3": 339.15,
+      "10-getting-it.mp3": 382.05,
+      "11-if-you.mp3": 420.1,
+      "12-keeping-the.mp3": 457.125,
+      "13-the-checks.mp3": 492.45,
+      "14-close.mp3": 521.4
+    },
+    "adWindows": [
+      [
+        205.63,
+        207.03
+      ],
+      [
+        380.65,
+        382.05
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 37.475
+      },
+      {
+        "file": "03-the-template.mp3",
+        "at": 69.3
+      },
+      {
+        "file": "04-the-pages.mp3",
+        "at": 114.45
+      },
+      {
+        "file": "05-the-countdown.mp3",
+        "at": 158.6
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 207.025
+      },
+      {
+        "file": "07-making-the.mp3",
+        "at": 255.175
+      },
+      {
+        "file": "08-the-phone.mp3",
+        "at": 297.2
+      },
+      {
+        "file": "09-publishing.mp3",
+        "at": 339.15
+      },
+      {
+        "file": "10-getting-it.mp3",
+        "at": 382.05
+      },
+      {
+        "file": "11-if-you.mp3",
+        "at": 420.1
+      },
+      {
+        "file": "12-keeping-the.mp3",
+        "at": 457.125
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 492.45
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 521.4
+      }
+    ]
+  }
+}

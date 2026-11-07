@@ -1,0 +1,61 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+Almost everything written about lead magnets is about the wrong half. People
+spend a weekend designing a beautiful thirty-page ebook, export it, get almost
+no subscribers, and conclude the design wasn't good enough.
+
+It wasn't the design. A lead magnet is four things and only one of them is the
+file. The other three decide whether it works — and there's one of them that
+people get so consistently wrong it silently kills the whole thing.
+
+In this tutorial we build the whole machine in Canva: the magnet itself, the
+form that captures the address, the delivery that actually arrives, and the
+page that turns a download into a customer.
+
+⚠️ The one thing to know: **never attach the PDF to the delivery email.**
+Attachments are one of the most reliable ways to land in spam — mail providers
+treat an attachment from a bulk sender as a risk and security software blocks
+them. Mailchimp says so in its own documentation, which is exactly why it hosts
+your file for you instead (capped at 10 MB). Host the file, and put a button in
+the email that points at it.
+
+📌 And an update most tutorials have missed: **Canva can capture an email now.**
+Drop a form into a design, share it by public link, and the addresses land in a
+Canva Sheet. That's genuinely useful and it's free — but a Sheet is a list of
+addresses, not an email list. It doesn't send the file and it doesn't follow
+anybody up.
+
+📄 LEAD MAGNET KIT (the editable Canva template — cover, what-you-get page,
+content and checklist layouts, one-step last page — plus the promise worksheet,
+the form wording, the delivery email and all three follow-ups written out):
+https://geniusjunkie.net/lead-magnet-kit/ — £4.99
+🎓 Or FREE with the Template Club (every pack + all future releases):
+https://geniusjunkie.net/template-club/
+
+CHAPTERS
+0:00 What we're building
+0:36 The four parts (and what a Canva Sheet won't do)
+1:13 Pick one promise
+1:56 Canvas setup
+2:33 Build the pages
+3:26 The delivery trap
+4:26 The form
+5:09 The delivery email
+5:48 The thank-you page
+6:28 What happens next
+7:06 The mistakes
+7:43 The checklist
+8:11 The shortcut
+8:29 Wrap up
+
+SPECS MENTIONED
+· US Letter, 8.5 × 11 in, portrait, single pages · 2 cm margins as guides
+· Two fonts and two colours, locked before you place anything
+· 1–5 pages, not thirty — a thing that gets finished builds trust
+· PDF Standard for screens; Print is for paper and several times the size
+· Mailchimp hosts files rather than attaching them; hosted files cap at 10 MB
+· Mailchimp Transactional allows attachments but caps the whole message at 25 MB
+· Canva forms write to a Canva Sheet, shareable by public view link
+
+#canvatutorial #leadmagnet #emaillist

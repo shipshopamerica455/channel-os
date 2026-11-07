@@ -1,0 +1,155 @@
+{
+  "slug": "pitch-deck",
+  "topic": "Slate 2 #2 \u2014 Pitch Deck in Canva 2026",
+  "shotDir": "long-14",
+  "project": "gj-long-14",
+  "composition": "Long14Deck",
+  "thumb": "GJThumb14",
+  "promos": [
+    "PromoDeckCrop",
+    "PromoDeckNotes",
+    "PromoDeckMargins",
+    "PromoDeckPdf"
+  ],
+  "promoNames": {
+    "PromoDeckCrop": "promo-crop-is-a-mask",
+    "PromoDeckNotes": "promo-include-notes",
+    "PromoDeckMargins": "promo-four-pixel-headline",
+    "PromoDeckPdf": "promo-send-a-pdf"
+  },
+  "adAfter": [
+    "05-building-the",
+    "09-powerpoint-honestly"
+  ],
+  "images": [
+    {
+      "name": "founder-desk",
+      "prompt": "a person working late at a laptop in a small home office, warm lamp light, notebook and coffee cup beside them, shallow depth of field, photographic, no readable screen text"
+    },
+    {
+      "name": "reading-on-phone",
+      "prompt": "a person reading something on a phone at a cafe table by a window, morning light, coffee cup and a closed laptop beside them, shallow depth of field, photographic, no readable screen text"
+    },
+    {
+      "name": "worried-laptop",
+      "prompt": "a person sitting back from a laptop with a hand over their mouth looking concerned, soft window light in a plain modern room, shallow depth of field, photographic, no readable screen text"
+    },
+    {
+      "name": "meeting-pitch",
+      "prompt": "three people around a small table in a bright modern meeting room, one gesturing while the others listen, laptops and notebooks on the table, soft daylight, shallow depth of field, photographic, no readable text"
+    },
+    {
+      "name": "printed-deck",
+      "prompt": "a short stack of printed presentation pages fanned out on a wooden desk beside a pen and a coffee cup, warm side light, clean editorial photography, no readable text"
+    },
+    {
+      "name": "thumb-hero",
+      "prompt": "a laptop on a warm neutral desk seen slightly from above beside a printed document and a pen, bright soft daylight from the left, generous empty space on the left of the frame, clean editorial product photography, no readable screen text"
+    }
+  ],
+  "product": {
+    "name": "Pitch Deck Kit",
+    "description": "Editable 10-slide Canva pitch deck with the type sizes and margins already set, plus the ten-slide brief, the traction worksheet, the send checklist and the investor email scripts (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "pitchdeck",
+    "slug": "pitch-deck-kit",
+    "canvaDesign": "DAHSik4QjAI",
+    "canvaEditUrl": "https://www.canva.com/design/DAHSik4QjAI/edit",
+    "stripeProduct": "prod_V5soKX4LFSyq6w",
+    "stripePrice": "price_1U5h2tLqu5srzOz9ZxUrMHcq",
+    "stripe": "https://buy.stripe.com/28E7sM2IXetR5c8danaR20e"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-09-03T17:00:00.000Z",
+  "timeline": {
+    "total": 553.05,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-a-deck.mp3": 32.225,
+      "03-the-ten.mp3": 68.9,
+      "04-canvas-setup.mp3": 122.375,
+      "05-building-the.mp3": 160.3,
+      "06-what-your.mp3": 224.825,
+      "07-the-traction.mp3": 280.825,
+      "08-speaker-notes.mp3": 335.05,
+      "09-powerpoint-honestly.mp3": 371.55,
+      "10-sending-it.mp3": 411.8,
+      "11-presenting-it.mp3": 450.225,
+      "12-the-checklist.mp3": 485.1,
+      "13-the-pack.mp3": 513.225,
+      "14-outro.mp3": 529.525
+    },
+    "adWindows": [
+      [
+        223.43,
+        224.83
+      ],
+      [
+        410.4,
+        411.8
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-a-deck.mp3",
+        "at": 32.225
+      },
+      {
+        "file": "03-the-ten.mp3",
+        "at": 68.9
+      },
+      {
+        "file": "04-canvas-setup.mp3",
+        "at": 122.375
+      },
+      {
+        "file": "05-building-the.mp3",
+        "at": 160.3
+      },
+      {
+        "file": "06-what-your.mp3",
+        "at": 224.825
+      },
+      {
+        "file": "07-the-traction.mp3",
+        "at": 280.825
+      },
+      {
+        "file": "08-speaker-notes.mp3",
+        "at": 335.05
+      },
+      {
+        "file": "09-powerpoint-honestly.mp3",
+        "at": 371.55
+      },
+      {
+        "file": "10-sending-it.mp3",
+        "at": 411.8
+      },
+      {
+        "file": "11-presenting-it.mp3",
+        "at": 450.225
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 485.1
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 513.225
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 529.525
+      }
+    ]
+  }
+}

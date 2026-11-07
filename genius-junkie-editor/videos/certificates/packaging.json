@@ -1,0 +1,73 @@
+{
+  "slug": "certificates",
+  "slateNumber": 14,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "9:19",
+  "titles": {
+    "A": "How to Make Certificates in Canva with Bulk Create (50 Names, One Click)",
+    "B": "Canva Bulk Create 2026 — Certificates for a Whole Class in One Go",
+    "C": "Stop Renaming 50 Certificate PDFs — There's a Setting for That"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "canva bulk create",
+    "how to make certificates in canva",
+    "certificate template canva",
+    "bulk create canva tutorial",
+    "canva certificates",
+    "award certificate template",
+    "canva for teachers",
+    "mail merge canva",
+    "canva tutorial 2026",
+    "certificate design",
+    "bulk create data",
+    "canva education free",
+    "classroom certificates",
+    "print certificates",
+    "canva spreadsheet",
+    "personalised certificates"
+  ],
+  "adBreaks": [
+    "3:25.8",
+    "6:37.9"
+  ],
+  "product": {
+    "name": "Certificate + Bulk Create Kit",
+    "price": "£4.99",
+    "page": "https://geniusjunkie.net/certificate-bulk-create-kit/",
+    "files": "Editable Canva certificate (placeholders pre-separated) + 5 reference PDFs (data sheet, placeholder guide, bulk checklist, wording bank, read-me)"
+  },
+  "cutaways": [
+    "tired-admin",
+    "teacher-desk",
+    "printed-certificates",
+    "handing-award",
+    "wall-of-frames"
+  ],
+  "shorts": {
+    "promo-advanced-options": {
+      "title": "The Canva Bulk Create setting nobody finds #shorts",
+      "description": "At the connect step there is a Continue button, and underneath it in small text, Advanced options. Open it: set Output to Individual designs instead of the default \"1 design with multiple pages\", and Name each page using your Name column. You get a folder of separate files each named after the person it belongs to, instead of one fifty-page document and an hour of renaming. Full certificates tutorial on the channel.",
+      "publishAt": "2026-09-10T12:00:00.000Z"
+    },
+    "promo-separate-text-boxes": {
+      "title": "Why your Canva Bulk Create comes out wrong #shorts",
+      "description": "Bulk Create connects one data field to one element, so everything that changes between designs has to be its own separate text box. Type \"Awarded to ______\" as a single text box and you cannot connect just the blank half - Canva has no way to reach inside it, so it replaces the whole line including the words \"Awarded to\". Separate boxes, set up before you connect anything. Full certificates tutorial on the channel.",
+      "publishAt": "2026-09-11T12:00:00.000Z"
+    },
+    "promo-preview-review-only": {
+      "title": "You cannot fix a typo in the Canva preview #shorts",
+      "description": "The Bulk Create preview is review only. You cannot edit anything in it, so typing into it does nothing at all. If something is wrong you go back to the data connection step, fix it there, and preview again. Also worth checking: auto-match happily swaps two columns that look similar, like Course and Date.\n\n▶️ Full tutorial: https://youtu.be/sMLRYWrnTEs\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-10T19:00:00.000Z",
+      "youtubeId": "6g3MidaEk1g"
+    },
+    "promo-drive-link-prints": {
+      "title": "Your Google Drive link prints as text #shorts",
+      "description": "Images do not go into Bulk Create as links. Canva's own documentation: \"Image URLs from cloud photo storage are not supported and will be treated as plain text.\" So instead of a photo you get https:// printed across the certificate. Embed the picture in the cell — one image per cell — and drag the image field onto a frame.\n\n▶️ Full tutorial: https://youtu.be/sMLRYWrnTEs\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-11T19:00:00.000Z",
+      "youtubeId": "gvGjYbUU2cQ"
+    }
+  },
+  "publishAt": "2026-09-09T17:00:00.000Z"
+}

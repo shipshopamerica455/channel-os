@@ -1,0 +1,66 @@
+{
+  "slug": "real-estate",
+  "slateNumber": "S3 #2",
+  "voice": "Kokoro bm_fable",
+  "runtime": "9:35",
+  "titles": {
+    "A": "How to Make a Real Estate Flyer in Canva 2026 (Window Card, Brochure & Social)",
+    "B": "Canva for Estate Agents 2026 — The Complete Listing Kit",
+    "C": "The Photo on Your Listing Flyer You Are Not Licensed to Use"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "canva real estate",
+    "real estate flyer canva",
+    "how to make a real estate flyer",
+    "canva for estate agents",
+    "property marketing canva",
+    "listing flyer",
+    "real estate marketing",
+    "canva tutorial 2026",
+    "window card",
+    "property brochure",
+    "estate agent marketing",
+    "canva licence",
+    "real estate social media",
+    "property flyer design",
+    "canva print",
+    "genius junkie"
+  ],
+  "adBreaks": [
+    "3:30.4",
+    "6:45.4"
+  ],
+  "product": {
+    "name": "Real Estate Listing Kit",
+    "price": "£4.99",
+    "slug": "real-estate-listing-kit"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-estate-licence": {
+      "title": "Estate agents: you are not licensed for that photo #shorts",
+      "description": "From Canva's own Content License Agreement: \"Releases are generally not obtained for Free Content, and some jurisdictions provide legal protection against a person's image, likeness or property being used for commercial purposes when they have not provided a release.\" Read the middle of that — image, likeness OR PROPERTY. Property marketing is commercial use, and the agreement puts the job of deciding whether a release is needed, and getting it, on you rather than on Canva. So: no stock people on the flyer, none on the window card, and never on a testimonial card, because a stock headshot beside \"sold in two weeks, wonderful service\" presents a model as a real client endorsing your business.\n\nNot legal advice — agents are regulated differently in every market. This is the sentence to take to your broker.\n\nFull tutorial on the channel.",
+      "publishAt": "2026-10-02T12:00:00.000Z"
+    },
+    "promo-estate-hierarchy": {
+      "title": "Your window card gets three seconds #shorts",
+      "description": "Somebody walking past your window gives the card about three seconds, which buys you three pieces of information: the price, the location, and one photograph that makes them stop. The price goes in the largest type on the page — bigger than is comfortable, big enough to read from the pavement. Everything else — bedrooms, tenure, floor area, your number — belongs in a band across the bottom in type you would call too small. It is not too small. Nobody reads the details until the price and the picture have already done their job.\n\nFull tutorial on the channel — the whole listing kit, and the licence clause most agents have never read.",
+      "publishAt": "2026-10-03T12:00:00.000Z"
+    },
+    "promo-lock-compliance-band": {
+      "title": "Lock your licence number or it walks off the flyer #shorts",
+      "description": "Your name, your agency and whatever your market requires you to display go in the bottom band, set once. Then group those elements in Canva and lock the group. A locked group cannot be dragged out of place when you are working quickly on the fourth flyer of a busy week — which is the actual failure mode. Nobody deletes their licence number on purpose.\n\n▶️ Full tutorial: https://youtu.be/nGqewoE5iXk\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-02T19:00:00.000Z",
+      "youtubeId": "gdAVOEW-dPo"
+    },
+    "promo-three-exports": {
+      "title": "One flyer, three different exports #shorts",
+      "description": "The same design leaves three ways, and getting it wrong is the most common reason a flyer looks soft. Window cards and handouts: PDF Print, with crop marks and bleed if a shop is cutting it. Property portals: at the size they specify — every portal publishes a spec sheet. Social: build the set properly rather than re-exporting the flyer and hoping.\n\n▶️ Full tutorial: https://youtu.be/nGqewoE5iXk\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-03T19:00:00.000Z",
+      "youtubeId": "xKp_crktlA8"
+    }
+  },
+  "publishAt": "2026-10-01T17:00:00.000Z"
+}

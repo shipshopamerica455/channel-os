@@ -1,0 +1,151 @@
+{
+  "slug": "presentation",
+  "topic": "#10 Business Presentation 2026",
+  "shotDir": "long-21",
+  "project": "gj-long-21",
+  "composition": "Long21Deck",
+  "thumb": "GJThumb21",
+  "promos": [
+    "PromoDeckHandover",
+    "PromoDeckHeadline",
+    "PromoPresNotes",
+    "PromoPresHeadlines"
+  ],
+  "adAfter": [
+    "05-the-content",
+    "09-presenting-it"
+  ],
+  "images": [
+    {
+      "name": "boardroom",
+      "prompt": "Photograph of an empty modern meeting room with a large screen on the wall switched off, chairs around a table, bright daylight through a window, no people, no legible text, shallow depth of field, documentary style"
+    },
+    {
+      "name": "laptop-deck",
+      "prompt": "Photograph over the shoulder of someone at a laptop in a bright office, a notebook and coffee beside them, face not visible, calm focused mood, warm daylight, shallow depth of field, no legible text on the screen"
+    },
+    {
+      "name": "presenting",
+      "prompt": "Photograph of a person standing beside a large presentation screen in a meeting room, seen from behind so the face is not visible, a small audience seated and blurred in the foreground, warm daylight, documentary style, no legible text"
+    },
+    {
+      "name": "printed-deck",
+      "prompt": "Overhead photograph of a printed slide deck fanned out on a wooden table beside a pen and a phone, bright even daylight, crisp and tidy, shallow depth of field, no legible text on the pages"
+    },
+    {
+      "name": "video-call",
+      "prompt": "Photograph of a laptop on a desk set up for a video call, ring light to one side, headphones beside it, bright room, no people, no legible text on the screen, shallow depth of field, documentary style"
+    }
+  ],
+  "product": {
+    "name": "Presentation Kit",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "presentation",
+    "slug": "presentation-kit",
+    "description": "An editable Canva business deck at 1920 x 1080 with the margins and grid already set \u2014 title, section divider, three content layouts, a chart slide, a closing slide and an empty shell to reuse \u2014 plus the handover guide comparing link, PDF and PowerPoint, the list of fonts that survive a PPTX export, six chart recipes, the headline-writing sheet, the send checklist and the reusable-deck system (Genius Junkie)",
+    "stripeProduct": "prod_VADTsRwcbt3WYE",
+    "stripePrice": "price_1U9t2iLqu5srzOz97BZvBzTz",
+    "stripe": "https://buy.stripe.com/14A4gAgzN2L91ZWfivaR20l",
+    "canvaDesign": "DAHTtF0GzAc",
+    "canvaEditUrl": "https://www.canva.com/design/DAHTtF0GzAc/edit"
+  },
+  "publishAt": "2026-09-27T17:00:00.000Z",
+  "promoNames": {
+    "PromoDeckHandover": "promo-deck-handover",
+    "PromoDeckHeadline": "promo-deck-headline",
+    "PromoPresNotes": "promo-they-read-instead",
+    "PromoPresHeadlines": "promo-read-headlines-only"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "timeline": {
+    "total": 514.98,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-three-ways.mp3": 35.45,
+      "03-setting-up.mp3": 70,
+      "04-title-and.mp3": 106.775,
+      "05-the-content.mp3": 149.325,
+      "06-the-handover.mp3": 193.15,
+      "07-so-which.mp3": 239.15,
+      "08-charts-and.mp3": 279.375,
+      "09-presenting-it.mp3": 318.55,
+      "10-making-the.mp3": 356.625,
+      "11-before-you.mp3": 401.65,
+      "12-the-checklist.mp3": 434.775,
+      "13-the-pack.mp3": 464.8,
+      "14-outro.mp3": 489.25
+    },
+    "adWindows": [
+      [
+        191.75,
+        193.15
+      ],
+      [
+        355.23,
+        356.63
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-three-ways.mp3",
+        "at": 35.45
+      },
+      {
+        "file": "03-setting-up.mp3",
+        "at": 70
+      },
+      {
+        "file": "04-title-and.mp3",
+        "at": 106.775
+      },
+      {
+        "file": "05-the-content.mp3",
+        "at": 149.325
+      },
+      {
+        "file": "06-the-handover.mp3",
+        "at": 193.15
+      },
+      {
+        "file": "07-so-which.mp3",
+        "at": 239.15
+      },
+      {
+        "file": "08-charts-and.mp3",
+        "at": 279.375
+      },
+      {
+        "file": "09-presenting-it.mp3",
+        "at": 318.55
+      },
+      {
+        "file": "10-making-the.mp3",
+        "at": 356.625
+      },
+      {
+        "file": "11-before-you.mp3",
+        "at": 401.65
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 434.775
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 464.8
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 489.25
+      }
+    ]
+  }
+}

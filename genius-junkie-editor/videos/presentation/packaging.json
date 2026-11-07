@@ -1,0 +1,72 @@
+{
+  "slug": "presentation",
+  "slateNumber": 20,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "8:35",
+  "titles": {
+    "A": "How to Make a Business Presentation in Canva 2026 (Print, Send, Present)",
+    "B": "Canva Presentation Tutorial — Slides, Charts and the Export Settings",
+    "C": "The Deck You Send Is Not the Deck They Open"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "canva presentation",
+    "business presentation canva",
+    "canva slides tutorial",
+    "canva to powerpoint",
+    "canva pptx export",
+    "presentation design",
+    "canva deck template",
+    "pitch deck canva",
+    "slide design tips",
+    "canva tutorial 2026",
+    "powerpoint fonts missing",
+    "presenter view canva",
+    "chart slide design",
+    "business deck",
+    "canva presenting",
+    "export canva to powerpoint"
+  ],
+  "adBreaks": [
+    "3:11.8",
+    "5:55.2"
+  ],
+  "product": {
+    "name": "Presentation Kit",
+    "price": "£4.99",
+    "url": "https://geniusjunkie.net/presentation-kit/"
+  },
+  "cutaways": [
+    "boardroom",
+    "laptop-deck",
+    "presenting",
+    "printed-deck",
+    "video-call"
+  ],
+  "shorts": {
+    "promo-deck-handover": {
+      "title": "Canva says your deck changes when they open it #shorts",
+      "description": "Export a Canva deck as a PowerPoint file and Canva's own help page tells you what happens: designs may look different, you may need to install the fonts you used, and animations are not supported. Their machine does not have your font, PowerPoint substitutes it, your headline wraps onto another line and pushes the body copy down. The editable file is the one that changes. If they only need to read it, send a PDF.\n\nFull tutorial and the £4.99 Presentation Kit: https://geniusjunkie.net/presentation-kit/\n\n#canva #powerpoint #presentation #canvatips #businessdeck",
+      "publishAt": "2026-09-28T12:00:00.000Z"
+    },
+    "promo-deck-headline": {
+      "title": "Stop labelling your chart slides #shorts",
+      "description": "\"Revenue by quarter\" is a label, and a label makes the audience do the work. \"Revenue grew every quarter except the one we repriced\" is a headline — same chart, and now they know what they are looking at. The fastest fix for a boring deck, and it costs nothing.\n\nFull tutorial and the £4.99 Presentation Kit: https://geniusjunkie.net/presentation-kit/\n\n#canva #presentation #datastorytelling #canvatips #slides",
+      "publishAt": "2026-09-29T12:00:00.000Z"
+    },
+    "promo-they-read-instead": {
+      "title": "They read your slide instead of listening to you #shorts",
+      "description": "A slide with your script on it is a slide the audience reads instead of listening, and you end up narrating something they finished thirty seconds ago. Two lines of prompt per slide is plenty; the rest belongs in the notes field. If you need more than that, you know the material less well than you think, and no amount of text on screen fixes it.\n\n▶️ Full tutorial: https://youtu.be/j6Hxcjm1i6E\n📄 Free checklist: https://geniusjunkie.net/get-presentation-design-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-28T19:00:00.000Z",
+      "youtubeId": "ZHu2yIYvNPc"
+    },
+    "promo-read-headlines-only": {
+      "title": "Read only your headlines before you send the deck #shorts",
+      "description": "Read the headlines top to bottom and nothing else. If they do not tell the story on their own, the deck does not work without you in the room. Then: does anything touch your margins, have you opened the exported file and looked at every slide, and do the numbers match the source? And name the file properly — not \"deck final version two\".\n\n▶️ Full tutorial: https://youtu.be/j6Hxcjm1i6E\n📄 Free checklist: https://geniusjunkie.net/get-presentation-design-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-29T19:00:00.000Z",
+      "youtubeId": "zugxUjKgU8k"
+    }
+  },
+  "publishAt": "2026-09-27T17:00:00.000Z"
+}

@@ -1,0 +1,367 @@
+# Genius Junkie — Long-form Video Slate (search-based)
+
+Strategy: search-led titles (real queries), biased toward tutorials that end at
+a template (£4.99 / Template Club £9.99/mo — see channel HANDOFF.md).
+
+## Organic evidence (regenerated 1 Sep 2026 — regenerate again before changing this table)
+
+```bash
+node ../remotion-shorts/gj-slate-research.mjs --days 7
+```
+→ writes `SLATE-EVIDENCE.md`: traffic split, per-video views, the **actual
+search terms**, and the full 405-video catalogue to check "gap" claims against.
+
+**Ads stopped ~4 Aug 2026**, so the last 7 days is the first clean read of the
+channel in months: **6,429 views, 76% of them from YouTube search.** Rank on
+the search terms, not on totals — a 28-day window is still contaminated by the
+ad spend.
+
+Search clusters, last 7 days (28-day figures in brackets):
+
+| cluster | search views 7d | covered? |
+|---|---|---|
+| **magazine** (5 phrasings) | 72 (365) | ✅ #9 shipped, public 20 Aug |
+| **draw tool / digital art** | 45 (143) | ❌ **the biggest uncovered cluster** |
+| **book cover** (6 phrasings) | 36 (214) | ✅ #4 shipped |
+| menu | 10 (92) | ✅ #3 shipped |
+| digital scrapbooking | 7 | ❌ new signal, nothing on it |
+| kdp · report · worksheet · labels | 4–6 each | ✅ covered (labels Jul 2026 — do NOT redo) |
+
+Old videos still pulling with no 2026 sequel (28d views): **Draw Tool 2,949** ·
+**pitch deck 1,317** · photo albums 1,022 · certificates 756 · presentations 667
+· wallpapers 462 · lookbook 456 · media kit 384 · classroom materials 362 ·
+calendars 336.
+
+## The slate — ranked by live search demand × funnel strength
+
+| # | Title (search query) | Evidence | Template funnel |
+|---|---|---|---|
+| ~~1~~ | ~~**How to Use the Canva Draw Tool in 2026**~~ ✅ **SHIPPED 16 Aug** — see below | 45/7d — biggest uncovered cluster; Jan-2025 version still pulls 2,949/28d | Sticker + Illustration Starter Kit ⚠️ weakest funnel, strongest demand |
+| ~~2~~ | ~~**How to Make a Pitch Deck in Canva 2026**~~ ✅ **SHIPPED 18 Aug** — see below | Feb-2025 version 1,317/28d; "pitch deck" searched directly | Pitch Deck Kit — **strong**, high buyer intent |
+| ~~3~~ | ~~**How to Make a Media Kit for Sponsorships**~~ ✅ **SHIPPED 16 Aug** — see below | Feb-2025 version 384/28d — modest search, but a real sponsor approach was attached | Media Kit + Rate Card pack — **strong** |
+| ~~4~~ | ~~**How to Design Certificates in Canva 2026**~~ ✅ **SHIPPED 18 Aug** — see below | Sep-2024 version 756/28d | Certificate + Bulk Create Kit — **strong** |
+| 5 | **How to Make a 2027 Calendar in Canva** | 336/28d **and seasonal** — Aug–Oct is when next-year calendars get built | 2027 calendar pack — **strong + urgent** |
+| 6 | **Digital Scrapbooking in Canva** | brand-new search signal (7/7d) + photo-album video 1,022/28d | Scrapbook / photo-book pack |
+| 7 | **Canva for Teachers — the whole classroom kit** | "canva for teachers" 29/28d; classroom materials 362/28d | Classroom bundle → upsells the existing TPT pack |
+| 8 | **Phone & Desktop Wallpapers in Canva** | 6/7d; Oct-2024 version 462/28d | Wallpaper pack ⚠️ weak funnel — view play |
+| 9 | **How to Make a Lookbook in Canva** | Dec-2024 version 456/28d | Lookbook template |
+| 10 | **Business Presentation in Canva 2026** | Sep-2024 version 667/28d | Presentation deck pack |
+
+⭐ **Row 3 jumped the queue and shipped first (16 Aug), as a GENERAL tutorial.**
+A real sponsor (Pixocial / BeautyPlus) approached the channel on 12 Aug asking
+for a media kit and rates. The kit in `media-kit/` was built from live analytics
+to answer that email — but the user's call was to keep the *video* generic: no
+brand named, no real figures, placeholders throughout. The case study informed
+the script; it never appears in it. Search data ranked this 3rd, so shipping it
+first was an editorial call, not a data one.
+
+**Row 1 shipped next (16 Aug).** Its trap is the one nobody teaches: Canva's
+**1 MB stroke limit per design**, which stops *saving* your drawings without
+stopping you drawing them. Straight from Canva's own help pages. Note the slate
+row said "pressure" — Canva's docs mention pressure sensitivity nowhere, so
+that was dropped rather than asserted. Shape assist (draw, then hold still for
+one second) carried the second Short.
+
+**Row 2 shipped 18 Aug.** Its trap is the sharpest the channel has found: crop
+an image in Canva, export to PDF, and the uncropped original is still inside the
+file — Canva's own docs say so, and a PDF editor gets it back. The fix is the
+**Flatten PDF** checkbox. The second trap is **Include notes**, sitting right
+next to it, which emails an investor your private speaker notes.
+
+**Row 4 shipped 18 Aug.** Trap = Advanced options, the link sitting *under* the
+Continue button: Output → Individual designs, and Name each page using → your
+name column. Miss it and Bulk Create hands you one fifty-page file and an hour
+of renaming.
+
+**Next up: row 5, the 2027 calendar — and it is time-critical.** 336/28d, and
+next-year calendars get built Aug–Oct, so this is the one row on the slate with
+a deadline. The certificates outro already teases it.
+
+Rows 1 and 8 are deliberately view-first rather than funnel-first: with the ads
+off and 76% of traffic coming from search, the channel needs the search equity
+as much as the conversions. Everything else ends at a £4.99 pack.
+
+Cadence: **2 long-form/week + 1–2 loop-grammar Shorts cut from each**,
+alternating a GAP row with a PROVEN-QUERY sequel. Sequels link the old video in
+the description and pin a comment on the old video pointing to the new one.
+
+## Already covered — do NOT redo (recent)
+
+Product labels (Jul 2026 ×2 + sizing), price list (Mar 2026), print quality /
+blurry prints / DPI / margins (Apr 2026 cluster), Bulk Create stationery (Jun
+2026), smart resize (Oct 2025), CapCut captions (shorts series + EP10),
+proposals, AI workflow, avatars, cinematic intro — plus everything in the
+shipped list below.
+
+## Rules
+
+- Titles literal and front-loaded; 3 options at packaging; 1–2 loop-grammar
+  Shorts per video with the subscribe overlay; template link above the fold.
+- Before adding anything new here, regenerate `SLATE-EVIDENCE.md` and grep the
+  405-video catalogue in it.
+- Default next video = top unchecked row.
+
+## Status
+
+- [x] Viral Reels with Canva + CapCut — scheduled 3 Aug 2026 17:00 UTC (U9cgLrs6Z2I)
+- [x] #1 KDP notebook interior — UPLOADED 3 Aug 2026 (https://youtu.be/b8_ZU8ktwYs, manual upload during API quota outage); product live: Stripe £4.99 + Club, landing /kdp-interior-pack/
+- [x] #2 Worksheets → TPT — RELEASE COMPLETE 4 Aug 2026: video private draft (pc0RQN3RoKc), product live (£4.99 buy.stripe.com/aFa9AU83hdpN5c8c6jaR202 + Club), pages live (/tpt-worksheet-pack/ + thank-you + Library + /templates/ shop card), shorts private drafts (fQkVsprxU78, SXAn9dipiaQ). User to schedule video + mid-rolls 3:38/6:14 + pin comment
+- [x] #3 Restaurant Menu 2026 — ✅ SHIPPED 4 Aug (yNfM7DkmVQA, public 8 Aug 17:00 UTC; shorts kZCdnwwCTjw 9 Aug + LebE6sZz4MM 10 Aug 12:00 UTC; pack live at /menu-template-pack/)
+  ⚖️ **Takedown filed 21 Aug 2026** against the 2024 menu video on this row.
+  Content detection flagged **ukaAM21UUiY** — "CREATE A RESTAURANT MENU IN CANVA
+  | FULL TUTORIAL" by **Zenith Reviews** (`UConE8ygd83nt-Hd-M3n59Rg`, 1.2K subs,
+  77 views, posted 19 Jun 2026). 100% match: their whole 1:33 video is
+  **TJxVlyBHttM** ("How to Create Menu for Restaurant in Canva", 9 Sep 2024,
+  121,683 views) cut down from 3:30 — infringing 0:01–1:25 against ours
+  0:08–3:15. Filed as **Standard removal** (strike), *without* "prevent future
+  copies" — that option requires certifying **worldwide exclusive rights**, which
+  does not hold for a screen recording of Canva's UI and templates.
+  ✅ **UPHELD — video removed 25 Aug 2026.** The notice page now reads "removed
+  following a copyright removal request by Genius Junkie" (channel name, not the
+  owner's legal name — the field is public, so always use the brand there).
+  Zenith Reviews is a scrape-and-repost farm (dozens of unrelated uploads a week:
+  product reviews, gaming, PayPal fixes, Canva). Their other Canva titles —
+  "print double sided cards", "sharpen photos" — have **no counterpart** in our
+  426 uploads, so this was the only lift. Watch this row if they come back.
+- [x] #4 KDP Book Cover — ✅ SHIPPED 4 Aug (NnMDeGMbD-k, public **10 Aug 17:00 UTC**; pack live at /kdp-cover-pack/, buy.stripe.com/28E00k3N1etRgUQb2faR205; Canva templates canva.link/<kdp-book-cover.canvaTemplatePaperback> (wrap) + canva.link/<kdp-book-cover.canvaTemplateKindle> (ebook); shorts 3H8BokTlKNc 11 Aug + RdZk_43Me5c 12 Aug 12:00 UTC; Studio clicks: mid-rolls 3:36.5 + 6:19.5, auto OFF; pin comment in SEO.md)
+- [x] #5 Professional Report — ✅ SHIPPED 4 Aug (tUo4DIU-QDk (re-uploaded 5 Aug with 3 Flow cutaways — old NRLefQsEh1Y deleted), public **12 Aug 17:00 UTC** — ⚠️ FIRST KOKORO-VOICE VIDEO, user reviewing before publish; shorts zP4-tAtFdXA 13 Aug + En7PvPPdcHQ 14 Aug 12:00 UTC; pack live at /report-template-pack/, buy.stripe.com/4gM8wQ5V92L9aws4DRaR206, template canva.link/<professional-report.canvaTemplate>; Studio clicks: mid-rolls 3:10.5 + 6:48.5, auto OFF; pin comment in SEO.md)
+- [x] #6 Invoice Template — ✅ SHIPPED 5 Aug (ezeJ5vFU2VI (re-uploaded 5 Aug with 5 Flow cutaways — old -_kYo5awVjk deleted), public **14 Aug 17:00 UTC**; 2nd Kokoro-voice video; shorts laYOkJTskp0 15 Aug + W-eCcI-xnCQ 16 Aug 12:00 UTC; pack live at /invoice-template-pack/ + thank-you, buy.stripe.com/aFa4gAbftetR0VS9YbaR207, template canva.link/<invoice-template.canvaTemplate>, shop card added; Studio clicks: mid-rolls 3:53.6 + 6:14.4, auto OFF; pin comment in SEO.md)
+- [x] #7 Printable Wall Art → Etsy — ✅ SHIPPED 6 Aug (dnxwZ53IsnE, public **16 Aug 17:00 UTC**; 3rd Kokoro-voice video, 5 Flow cutaways; shorts D92kvg2wvho 17 Aug + Zzyj1yeevK4 18 Aug 12:00 UTC; pack live at /wall-art-starter-pack/ + thank-you (15 art PDFs + sizes chart + read-me), buy.stripe.com/6oU9AU6Zd5XlcEAdanaR208, template canva.link/<wall-art-etsy.canvaTemplate>, shop card added; Studio clicks: mid-rolls 3:17.6 + 6:14.9, auto OFF; pin comment in SEO.md)
+  - ⚠️ CORRECTION issued 1 Sep 2026: the 7:18 line "the twenty-cent listing fee and nothing else" is wrong — a sale is ~17% in fees (6.5% transaction + processing), not 3%. Caught by @di_williams. Description note is live; script.md annotated; CLAUDE.md now requires platform fee claims to be source-checked and written as a floor.
+- [x] #8 Etsy Listing Photos & Mockups — ✅ SHIPPED 6 Aug, **first video built end-to-end by the `gj` pipeline** (lC4Eo8R1Ngg, public **18 Aug 17:00 UTC**; 4th Kokoro-voice video, 5 Flow cutaways; shorts yY6PkN9XAfE 19 Aug + EXkCM-BAtYI 20 Aug 12:00 UTC; landing live at /etsy-listing-image-kit/, buy.stripe.com/3cI00k2IXfxVfQM3zNaR209; Canva design DAHRjazsnqo = 10 pages @ 2000×2000 with the 5:4 safe band marked; Studio clicks: mid-rolls 3:01.5 + 6:34.0, auto OFF; pin comment in SEO.md).
+  Template link canva.link/<etsy-mockups.canvaTemplate> · thank-you page live 10 Aug. Shop card added. Release complete.
+- [x] #9 Digital Magazine in Canva 2026 — ✅ SHIPPED 10 Aug, 2nd full-pipeline video (3cwC3DpP6kc, public **20 Aug 17:00 UTC**; 5th Kokoro-voice video, 5 Flow cutaways; shorts 4l_GUUmkhIc 21 Aug + Xrw5YswyrpQ 22 Aug 12:00 UTC; landing live at /digital-magazine-kit/, buy.stripe.com/bJe14o4R5bhF6gceeraR20a; Canva design DAHR479afAA = 5 pages @ A4 with the contents page wired; Studio clicks: mid-rolls 3:26.5 + 5:40.7, auto OFF; pin comment in SEO.md).
+  Template link canva.link/<digital-magazine.canvaTemplate> · thank-you page live 10 Aug. Shop card added. Release complete.
+- [x] #10 Lead magnet / full ebook build — ✅ SHIPPED 11 Aug, 3rd full-pipeline video and the **first with no manual steps left** (WrtuzCF7T1w, public **22 Aug 17:00 UTC**; 6th Kokoro-voice video, 5 Flow cutaways; shorts fq8RiFuUnuo 23 Aug + t7t845j-Bqk 24 Aug 12:00 UTC; landing + thank-you live at /lead-magnet-kit/, buy.stripe.com/8x29AUdnB99xdIE9YbaR20b, template canva.link/<lead-magnet.canvaTemplate>, shop card added; Canva design DAHR7ycRPLQ = 5 pages @ US Letter; Studio clicks: mid-rolls 3:25.6 + 6:27.5, auto OFF; pin comment in SEO.md).
+
+### Slate 2 (ranked 11 Aug 2026 from the clean post-ads search data)
+
+- [x] #1 Canva Draw Tool 2026 — ✅ SHIPPED 16 Aug, 6th full-pipeline video (public **30 Aug 17:00 UTC**; 8th Kokoro-voice video, 5 Flow cutaways, 8:47; shorts 6T820Xr6xf8 31 Aug + ETbsf9RCNWU 1 Sep 12:00 UTC; landing live at /sticker-illustration-kit/, buy.stripe.com/6oU9AU83hadBaws9YbaR20d; Canva design DAHSfa9aqUY = 4 pages @ A4; Studio clicks: mid-rolls 3:07.6 + 6:23.7, auto OFF; pin comment in SEO.md).
+  Template link canva.link/<canva-draw-tool.canvaTemplate> · thank-you page live 18 Aug. Shop card added. Release complete.
+  Trap = the 1 MB stroke limit per design. "Pressure" was dropped: Canva documents no pressure sensitivity.
+- [x] #2 Pitch Deck in Canva 2026 — ✅ SHIPPED 18 Aug, 7th full-pipeline video (BjXRcCgODEk, public **3 Sep 17:00 UTC**; 9th Kokoro-voice video, 5 Flow cutaways, 9:14; shorts ljmqxcUbCIQ 4 Sep + hNh3-BWemCI 5 Sep 12:00 UTC; landing live at /pitch-deck-kit/, buy.stripe.com/28E7sM2IXetR5c8danaR20e; Canva design DAHSik4QjAI = 10 slides @ 1920×1080; Studio clicks: mid-rolls 3:43.4 + 6:50.4, auto OFF; pin comment in SEO.md).
+  Template link canva.link/<pitch-deck.canvaTemplate> · thank-you page live 18 Aug. Shop card added. Release complete.
+  Trap = crop is a mask, not a delete: a PDF export still contains the uncropped original (Canva's own docs). Fix = tick Flatten PDF. Second trap = the Include-notes checkbox.
+- [x] #3 Media Kit / creator rate card — ✅ SHIPPED 14 Aug, 4th full-pipeline video (5hZKHmO3CSY, public **26 Aug 17:00 UTC**; 7th Kokoro-voice video, 6 Flow cutaways, 8:54; shorts qZ2XZGk47ww 27 Aug + KqTd0q1BVQA 28 Aug 12:00 UTC; landing + thank-you live at /media-kit-rate-card/, buy.stripe.com/dRm6oIfvJ2L90VS2vJaR20c, template canva.link/<media-kit.canvaTemplate>, shop card added; Canva design DAHSTVlOGY0 = 3 pages @ A4; Studio clicks: mid-rolls 3:28.2 + 5:54.5, auto OFF; pin comment in SEO.md).
+  Built general and anonymised — the Pixocial approach was the reason to bump the row, not material in the video.
+- [x] #4 Certificates + Bulk Create — ✅ SHIPPED 18 Aug, 8th full-pipeline video (sMLRYWrnTEs, public **9 Sep 17:00 UTC**; 10th Kokoro-voice video, 5 Flow cutaways, 9:19; shorts 3udfyB-vETE 10 Sep + y5Q_0AcQb20 11 Sep 12:00 UTC; landing + thank-you live at /certificate-bulk-create-kit/, buy.stripe.com/28EeVe5V999x3401rFaR20f, template canva.link/<certificates.canvaTemplate>, shop card added; Canva design DAHSn6R3ydI = A4 landscape certificate with NAME/COURSE/DATE as separate boxes; Studio clicks: mid-rolls 3:25.8 + 6:37.9, auto OFF; pin comment in SEO.md).
+  Trap = Advanced options, hidden under the Continue button: Output → Individual designs + Name each page using. Second trap = one field, one element, so every changing field needs its own text box. Also states plainly that Bulk Create is Pro + desktop only, but free for verified K-12 teachers via Canva for Education.
+- [x] #5 2027 Calendar — ✅ SHIPPED 19 Aug, 9th full-pipeline video (3DljJUhszqo, public **17 Sep 2026 17:00 UTC**; 11th Kokoro-voice video, 5 Flow cutaways, 9:32; shorts 2GgqLCW4ixU 18 Sep + iW6JRMl13xw 19 Sep 12:00 UTC; landing + thank-you live at /2027-calendar-kit/, buy.stripe.com/14AeVe2IX2L95c84DRaR20g, template canva.link/<calendar-2027.canvaTemplate>, shop card added; Canva design DAHSr4Q-_t0 = 13 A4 pages, cover + all twelve 2027 grids computed and verified; Studio clicks: mid-rolls 3:38.8 + 6:59.2, auto OFF; pin comment in SEO.md).
+  Trap = 365 days is 52 weeks + 1, so every date slides one square right; reusing last year's file makes a 2026 calendar with the wrong year on it. Check = February 2027 is a perfect 4x7 block, the only month that does that, and only this year. Also states plainly that Canva's "add dates" only exists in Sheets and Docs, not print designs.
+  Seasonal row — re-check CTR early Oct and swap to title B if traffic skews to sellers.
+- [x] #6 Digital Scrapbooking — ✅ SHIPPED 19 Aug, 10th full-pipeline video (xpHDCqp87LE, public **19 Sep 2026 17:00 UTC**; 12th Kokoro-voice video, 5 Flow cutaways, 9:32; shorts DIjtZHXqz_4 20 Sep + UYWyrO8fSa8 21 Sep 12:00 UTC; landing + thank-you live at /scrapbook-photo-book-kit/, buy.stripe.com/9B6dRa4R52L99so3zNaR20h, shop card added; TWO Canva designs — DAHSuvwrPLg 12×12 print (canva.link/<digital-scrapbooking.canvaTemplate>) + DAHSuqer6ZI US Letter home (canva.link/<digital-scrapbooking.canvaTemplateLetter>), 7 pages each: cover + six aligned layouts; Studio clicks: mid-rolls 3:46.3 + 6:40.9, auto OFF; pin comment in SEO.md).
+  Trap = cropping is hiding, not deleting: Canva's own docs say an exported PDF still contains the full uncropped original, so anyone you cropped out of a family photo is still in the file. Fix = tick Flatten PDF (Canva: "converts the file into a static image"); costs are a bigger file and no accessibility tagging. Second trap = the one-way door — an imported PDF comes back as "individual images in an A4 document", so the page size decision is permanent.
+  Weak direct signal (7/7d) but the old photo-album video pulls 1,022/28d. If 28d views land under ~300, treat the cluster as answered and do not sequel. If the crop Short badly outperforms the long-form, Canva privacy is its own video.
+- [x] #7 Canva for Teachers classroom kit — ✅ SHIPPED 19 Aug, 11th full-pipeline video (3pdDIEcRuwU, public **21 Sep 2026 17:00 UTC**; 13th Kokoro-voice video, 5 Flow cutaways, 9:27; shorts QM9yhlz0nbA 22 Sep + fd_QTfc2tYw 23 Sep 12:00 UTC; landing + thank-you live at /classroom-kit/, buy.stripe.com/aFa8wQ1ETgBZ1ZW0nBaR20i, template canva.link/<canva-for-teachers.canvaTemplate>, shop card added, 6 PDFs on the server; Canva design DAHSvsEhtjI = 6 A4 activity shells — do-now, exit ticket, vocabulary, compare, label-it, reading response; Studio clicks: mid-rolls 3:40.6 + 6:35.3, auto OFF; pin comment in SEO.md).
+  Trap = Share and Assign are different buttons: a share link points thirty students at one file, Assign gives each their own copy that comes back to you. Second trap = the assignment **link** lives 30 days but the **code** expires in **4 hours**, so generating one the night before means it is dead by first period. Also states Canva's own not-eligible list (tutors, homeschool educators, lecturers, public librarians, teachers not in post) and the free fallback for them: Share → Template link.
+  Picked to upsell the existing TPT worksheet pack (#2) — the outro names that video. Small but stable query with a large adjacent audience; if it lands, the follow-up is Canva Docs + Whiteboards for live lessons.
+- [x] #8 Phone & Desktop Wallpapers — ✅ SHIPPED 26 Aug, 12th full-pipeline video (Pq485rD6ehI, public **23 Sep 2026 17:00 UTC**; 14th Kokoro-voice video, 5 Flow cutaways, 8:49; shorts pvLjYp0CLB4 24 Sep + MjeZtW60Hko 25 Sep 12:00 UTC; landing live at /wallpaper-kit/, buy.stripe.com/6oUaEY97lfxV5c8c6jaR20j, 6 PDFs on the server; Studio clicks: mid-rolls 3:09.9 + 6:06.6, auto OFF; pin comment in SEO.md).
+  Canva templates DONE: phone DAHTV7ERFBA canva.link/<wallpapers.canvaTemplate> + desktop DAHTV349v7Q canva.link/<wallpapers.canvaTemplateDesktop>, both with deletable safe-zone guides; thank-you page + shop card live. Built by hand in the Canva editor after five MCP commits reported success and none persisted.
+  Trap = your phone crops the WIDTH, not the height: it fills the height and discards the overhang, so a 16:9 file (the 1080 x 1920 nearly every wallpaper template ships at) loses 18.2% on an iPhone 16 Pro, 17.9% on a Galaxy S25 and 20.8% on a Pixel 9 — computed by `crop_pct()` in the pack generator, not typed, so the sheet and the video cannot drift. Second trap = Canva's OWN wallpaper page still recommends "1024 x 768 and a screen ratio of 4:3". Third = the licence: "You can't sell any Canva content on a standalone basis", which kills the stock-photo-as-wallpaper Etsy play.
+  View-first row by design (6/7d direct, 462/28d legacy). The real funnel move is the licence section — the outro points at wall art, not at the wallpaper kit. Watch whether the 2026 version ADDS to the cluster or just eats the 2024 video; if it cannibalises, stop making sequels for rows this small.
+- [x] #9 Lookbook — ✅ SHIPPED 29 Aug, 13th full-pipeline video (**9M9z_fbDVFQ**, public **25 Sep 2026 17:00 UTC** — re-rendered THREE times on 1 Sep: the S01–S03 dead space, then the GamutBars card-collapse bug that left the colour row labels unreadable, then the unplaced `colour-swatches-print.png` cutaway. Supersedes 5RfXvZpB2tM → o60r_2hg_w4 → 2et074OMY0I; shorts **N_aNtDxRGPw** (colour) + **L-zPPYq-3Cs** (bleed) replace ZY49lHGCVR4 + uD885gHVROs and were NOT re-uploaded for the cutaway fix (no promo references a cutaway); 15th Kokoro-voice video, 5 Flow cutaways, 8:30; shorts ZY49lHGCVR4 26 Sep + uD885gHVROs 27 Sep 12:00 UTC; landing live at /lookbook-kit/, buy.stripe.com/6oU4gA83h2L96gc3zNaR20k, 6 PDFs on the server; Studio clicks: mid-rolls 3:17.4 + 6:02.3, auto OFF; pin comment in SEO.md).
+  Canva template DONE: DAHTsfpkvPw (3508 x 2480 = A4 landscape at 300 dpi), canva.link/<lookbook.canvaTemplate>, hero bleeding off three edges + 5 mm safe-margin guide; thank-you page + shop card live. Built by hand in the Canva editor after the MCP reported a commit that never persisted (second confirmed resize-design case). Editor gotchas: Delete key is inert via automation (use right-click → Delete), cmd+D does not duplicate (use right-click → Duplicate).
+  Trap = Canva's own help page describes PDF Print as offering a "color profile (RGB or CMYK) selection option" AND lists CMYK colour profile options among the features restricted to Pro/Teams/Education/Nonprofit. So PDF Print works on free; the CMYK choice inside it does not, and your print file leaves in RGB for someone else's software to convert. Neons collapse, deep colours survive. Second trap = bleed, which IS free: tick crop marks and bleed and run the background past the canvas, or a millimetre of guillotine drift leaves a white stripe.
+  Strongest funnel since the pitch deck — anyone making a lookbook has products to sell and a print budget. The print-shop brief PDF may be worth the £4.99 on its own.
+- [x] #10 Business Presentation 2026 — ✅ SHIPPED 29 Aug, 14th full-pipeline video (j6Hxcjm1i6E, public **27 Sep 2026 17:00 UTC**; 16th Kokoro-voice video, 5 Flow cutaways, 8:35; shorts 8V24xqYG6hY 28 Sep + RinQ0n-WtZg 29 Sep 12:00 UTC; landing live at /presentation-kit/, buy.stripe.com/14A4gAgzN2L91ZWfivaR20l, 6 PDFs on the server; Studio clicks: mid-rolls 3:11.8 + 6:02.3... actually 3:11.8 + 5:55.2, auto OFF; pin comment in SEO.md).
+  Canva template DONE: DAHTtF0GzAc canva.link/<presentation.canvaTemplate>, eight pages (title, section, three content layouts, chart, closing, empty shell); thank-you page + shop card live. Built by hand in the editor, and every LABEL headline rewritten as a STATEMENT so the template models the video's own lesson.
+  Trap = three sentences from one Canva help page: PPTX designs "may look different", you "may need to download and install the fonts you used in Canva to your device", and "animations and embedded videos are not yet supported". The editable file is the one that changes; the file that does not change is the one they cannot edit. Three doors: link (present), PDF (read), PPTX (edit, and design for it from the start).
+  Strongest sheet in the pack is 01-handover-guide — the three doors as a table with Canva's wording quoted and the source printed.
+- [x] SLATE 2 COMPLETE — all ten rows shipped. SLATE-EVIDENCE.md regenerated 1 Sep 2026
+  on the clean post-ads window; slate 3 ranked below.
+
+## Slate 3 — ranked 1 Sep 2026 on the CLEAN window
+
+Ranked on `--days 28` (4 Aug → 1 Sep), which is the first window with **zero
+ADVERTISING views** — 78% of views are YouTube search. A 90-day window was tried
+first and thrown away: it reaches back into the pre-4-Aug ad spend, which put
+30% of views on ADVERTISING and made ad-boosted videos look like organic demand.
+**Never rank on a window that includes ad spend.**
+
+Every row below was grepped against the 435-video catalogue AND the do-NOT-redo
+list. Product labels was the obvious pick on volume and is NOT here — it was
+made twice in July 2026, and the 2024 version still outranks both remakes.
+
+Only four rows, deliberately. Nothing built in the new code-rendered format has
+been public long enough to rank, so there is **no evidence yet on whether the
+new format wins**. The 21–27 Sep publications answer that. Ranking ten rows now
+would be guessing; re-rank rows 5+ in mid-October with real data.
+
+Check the catalogue for CLUSTER SIZE before ranking — a big cluster total can be six
+of our own videos splitting it, which makes a seventh pointless. Watch-time-per-view
+is the better tiebreaker than raw views. Ties break on **funnel strength, not views** — the channel exists to sell the
+£4.99 packs and the £9.99/mo Club, and to survive YouTube deciding something.
+Ad revenue is the smallest lever: at the new-cohort RPM of £3.23, one £4.99 sale
+equals about 1,545 views of ad money.
+
+| # | Title (search query) | Clean evidence, 28d | Template funnel |
+|---|---|---|---|
+| 1 | **How to Make a Photo Album / Photo Book in Canva** | **1,068 views, 988 mins** — the biggest uncovered gap by 2.2×. The Aug-2026 scrapbooking remake did NOT capture it: that video pulls 352 while the 2024 photo-album video pulls 1,068, so these are different queries | Photo book pack — **strong**, and upsells the existing scrapbook pack |
+| 2 | **Baby Shower Invitations / party printables** | 381 alone; cluster with photo booth props (369) and birthday cards (233) = **983** | Party & event printables — **strongest Etsy funnel on the board**; one pack covers all three queries |
+| 3 | **Marketing Real Estate with Canva — listing kit** | 334 views, 420 mins | Realtor listing kit — **the RPM × funnel mesh**: agents are a high-CPM audience who buy templates on a business budget |
+| 4 | *Web banners (481) or infographics (279)* | decide in October | banners have the volume but weak buyer intent; infographics has the weaker volume and the better funnel — pick on the format verdict |
+
+- [x] #1 Photo Album / Photo Book — ✅ SHIPPED 1 Sep 2026, 15th full-pipeline video (**Z3U8lf58AoE**, public **29 Sep 2026 17:00 UTC**, supersedes 3G521Ka4eIQ — re-cut to place `photos-on-desk.png` + `album-gift.png`, which shipped generated-but-unplaced and left the video on 3 cutaways; 17th Kokoro-voice video, 5 Flow cutaways, 9:13; shorts y-k1fukPMiw 30 Sep + aGzIVX3dU-c 1 Oct 12:00 UTC; landing live at /photo-album-kit/, buy.stripe.com/00w9AU3N1etR6gcdanaR20m, 6 PDFs on the server; Studio clicks: mid-rolls 3:02.0 + 6:29.0, auto OFF; pin comment in SEO.md).
+  Canva template DONE: DAHT7JBRC1Q canva.link/<photo-albums.canvaTemplate> — 8 x 6 in to match Canva's own photo book product, four guided pages (right/left-hand versions of a full-page hero and a two-photo stack), 0.75 in gutter keep-out on the correct inner edge of each page, frames inside the 0.5 in safe margin. Built by hand in the Chrome editor; the MCP commit regression from ~25 Aug still stands. Thank-you page live and verified (template link resolves, no placeholders). Landing + thank-you copy says FOUR guided pages, not twenty — buyers duplicate.
+  Trap = Canva's own photo books page, three sentences: "No, we don't offer layflat binding at this time. We do, however, offer PUR binding using a strong bookbinding adhesive." · "Design for a front cover, back cover and from 20 to 98 inside pages." · "Inside faces of the covers and endpapers (hardcover only) will be left blank." PUR is a good adhesive but it is not layflat, so the centre of every spread curves into the spine — no faces, text or horizons across the fold; skies and blur cross happily.
+- [x] #2 Real Estate listing kit — ✅ SHIPPED 1 Sep 2026, 16th full-pipeline video (**nGqewoE5iXk**, public **1 Oct 2026 17:00 UTC**, supersedes 1-JKEaz5NPY — re-cut to place the unplaced `viewing-handout.png`; 18th Kokoro-voice video, 5 Flow cutaways, 9:35; shorts RRMOEREb4oo 2 Oct + VskA0Xl20_s 3 Oct 12:00 UTC; landing live at /real-estate-listing-kit/, buy.stripe.com/28EeVe5V9gBZbAw7Q3aR20n, 6 PDFs on the server; Studio clicks: mid-rolls 3:30.4 + 6:45.4, auto OFF; pin comment in SEO.md).
+  Canva template DONE: DAHT8dV3z9U canva.link/<real-estate.canvaTemplate> — FOUR A4 portrait pages, each
+  titled in Canva so the buyer knows what it is: 1 window card (18x18 hero), 2 property flyer
+  front, 3 flyer back sized for a floor plan (12x12 centred), 4 brochure page (8.5x8.5 top-left,
+  copy space). All share the navy compliance band at Y 27.2 cm and the 15 mm guide. Landing +
+  thank-you copy describes four pages and is verified live. Frames force their aspect ratio, so
+  every photo area is square — designed around it rather than fought.
+  Trap = Canva's Content License Agreement, verbatim: "Releases are generally not obtained for Free Content, and some jurisdictions provide legal protection against a person's image, likeness or property being used for commercial purposes when they have not provided a release." Canva names PROPERTY explicitly and property marketing is commercial use, so no stock people on a flyer, window card or — worst — a testimonial card. Video says once, plainly, that it is not legal advice and to take the clause to a broker; keep that line.
+  Promoted from #3 on 1 Sep after checking the catalogue.
+  Baby shower was ranked #2 on cluster volume (983), but the cluster is ALREADY SIX videos from
+  one week in Oct 2024 (party favours, baby shower, decorations, event invitations, birthday
+  cards, wedding invitations) splitting ~1,100 views at ~180 each — a new one competes with our
+  own six. Real estate is a SINGLE video (2024-09-09) with the best watch-time-per-view in the
+  band: 420 min from 334 views = 1.26 min/view vs baby shower's 0.85. No cannibalisation, and
+  agents are the one audience that is both high-CPM and a template buyer on a business budget.
+- [x] #3 Baby Shower Invitations — ✅ SHIPPED 1 Sep 2026, 17th full-pipeline video (**pSjrdby45ck**, public **3 Oct 2026 17:00 UTC**, supersedes 0KELYFTtqK8 — re-cut to place the unplaced `home-printer.png`; 19th Kokoro-voice video, 5 Flow cutaways, 9:15; shorts bnyh7oEQVtE 4 Oct + 83B0AS8aAVM 5 Oct 12:00 UTC; landing live at /party-printables-kit/, buy.stripe.com/8x2cN63N199xawsfivaR20o, 5 PDFs on the server; Studio clicks: mid-rolls 3:27.3 + 6:42.0, auto OFF; pin comment in SEO.md).
+  Canva template DONE: DAHT8ujB-FU canva.link/<baby-shower.canvaTemplate> — FOUR A6 pages (105 x 148 mm),
+  each with the background full bleed and the 10 mm type area placed. Pages 1/2/4 titled in
+  Canva (invitation, table number, thank-you card); page 3 left untitled as the spare.
+  Thank-you page live and verified. NOTE: a Canva design holds ONE page size, so the A4
+  four-up layup and the 50x90 mm favour tag could not go in the template — landing and
+  thank-you copy corrected to say so and to point at sheet one, which draws the tiling to
+  scale. Do not re-promise them in the template.
+  Trap = the printer, DELIBERATELY not a licence clause (that would be the third in a row). Two parts: home printers cannot print to the edge (3–6 mm dead margin), and every print dialog defaults to Fit, which scales the design down a few percent so the card stops fitting the envelope. Fix: 10 mm type margin, ACTUAL SIZE / 100%, and four A6 up on A4 with white outside and artwork touching between, so the trim gives full bleed on a printer that cannot do it.
+  The party-printables CONSOLIDATION. Titled on the strongest
+  single query in the cluster (baby shower invitations, 381 views on the Oct-2024 video) because
+  search rewards specificity, but the METHOD transfers and is said to transfer — birthday cards,
+  favour tags, table numbers, thank-you cards. The PACK covers the whole cluster, so one product
+  replaces the six-way split instead of adding to it.
+  Trap = PRINTING AT HOME, and deliberately not a Canva licence clause — that would be the third
+  licence video in a row (wallpapers, real estate) and the channel would read one-note. Two parts:
+  (1) home printers have a non-printable margin of roughly three to six millimetres, so a
+  full-bleed invitation comes out with white edges; (2) every print dialog defaults to Fit /
+  Shrink oversized pages, which scales the design down by a few percent — enough that a five by
+  seven card no longer fits a five by seven envelope. Fix: design inside a margin, print at
+  ACTUAL SIZE / 100%, and lay up four per A4 with crop marks so the trim cuts through the design.
+- [ ] #4 TBD — superseded by slate 4 below; the web-banners / infographics pair
+  was dropped on 1 Sep (see slate 4 for why).
+
+## Slate 4 — ranked 1 Sep 2026. READ THE EVIDENCE WARNING FIRST
+
+**The remake well is dry.** Ranked from the `--days 28` terms report (4 Aug →
+1 Sep, zero ADVERTISING, 78% search). Every large term cluster on the channel
+already has a 2026 remake:
+
+| cluster | 28d term views | already covered by |
+|---|---:|---|
+| magazine | **429** (6 phrasings) | 2025-02 original + **2026-08-20 remake** |
+| book cover | **305** (9 phrasings) | 2024-11 + 2026-08 KDP cover |
+| draw / digital art | 150 | 2025-01 + 2026-08 draw tool |
+| menu | 71 | 2024-09 (123k) + **2026-08-08 remake** |
+| labels | 44 | three versions — **do NOT redo** |
+| report · wallpaper · pitch deck | 32 · 26 · 21 | all remade or scheduled |
+
+Magazine looked like the obvious #4 — biggest cluster by 1.4× — until the
+catalogue check found the 20 Aug 2026 remake. A third magazine video would be
+the product-labels mistake again. **Always grep the catalogue before ranking a
+term.**
+
+### ⚠ Evidence warning — slate 4 is a weaker class than slate 3
+
+The terms report can only show queries **we already rank for**. It is
+structurally blind to uncovered demand. Every slate-3 row carried a measured
+view count; **no slate-4 row does**, because by definition there is no video to
+measure. These rows are ranked on catalogue absence + funnel strength, which is
+judgement, not measurement. Treat as a queue, not a commitment, and get outside
+keyword volume before committing to any of them.
+
+### The ranking lens changed
+
+Ranked on **which existing pack the video sells**, not on topic variety. The
+"vary the topic so the channel isn't one-note" note on slate 3 was aimed at
+returning viewers — and this channel does not have returning viewers, it has
+search traffic where every video is a separate front door. The real reason to
+vary is **pack cannibalisation**: buyers only need one print pack. So rows that
+sell an ALREADY-BUILT pack rank highest, because they are revenue with no build
+cost, and speed to revenue is a hard constraint.
+
+| # | Title (search query) | Why | Pack |
+|---|---|---|---|
+| 4 | **Colouring Book / Colouring Pages in Canva for KDP** | **Zero coverage in 417 videos.** Big, well-established KDP income niche; tier-1 US/UK sellers | `kdp-interior-pack` — **already built**, pure upsell |
+| 5 | **Wedding Stationery — invitations + on-the-day set** | 2 videos, none since 2024. Higher-value niche than baby showers, same method | `party-printables-kit` — **already built** and literally covers it |
+| 6 | **Workbook / Digital Workbook** | Zero coverage. Doubles as teacher resource and creator lead magnet | `tpt-worksheet-pack` — **already built** |
+| 7 | **Sticker Sheets for Etsy** | 3 videos, none since 2025. Strong Etsy seller intent | none — needs building |
+
+**CUT: Resume / CV.** It failed the channel's own tier-1 filter and should never
+have been listed. Resume/CV is a globally-searched query that pulls exactly the
+India/Pakistan/Philippines traffic the turnaround was built to escape — it would
+push the RPM back toward £0.98. It got in because it was ranked on search
+breadth. **Every row must pass the filter first: does only a US/UK BUYER search
+this?** KDP, Etsy, TPT and small-business documents pass. Generic career,
+student and social-media queries do not.
+
+### 🔒 FROZEN until after 5 Oct 2026
+
+Slate 4 is a queue, not a plan, and it is **closed to re-ranking**. Slates 3 and
+4 were both ranked on 1 Sep, hours apart, and the second overrode a note from
+the first — that is churn, and it costs more than it finds. Nothing new can be
+learned until the 21 Sep – 5 Oct publications have run and the format verdict is
+in. Do not re-rank on a fresh terms report before then, and do not re-open this
+table because a new number appeared.
+
+Dropped from consideration: **web banners** (481 views but NOT ONE banner term
+in the top 25 — the views are long-tail, and buyer intent is weak) and
+**infographics** (279 views, and already two videos: 2024-08 and 2025-09).
+
+Re-rank after 5 Oct, when the 21 Sep–5 Oct publications give the first read on
+whether the code-rendered format wins.
+
+### Logged for the 5 Oct checkpoint — do NOT act on before then
+
+RPM sheet analysed 1 Sep 2026 (`RPM SHEET - Ranked by Highest RPM.xlsx`).
+
+**Cohort RPM, aggregated** — the only honest way to read RPM, because individual
+rows have too few views to mean anything:
+
+| cohort | videos | views | revenue | RPM |
+|---|---:|---:|---:|---:|
+| 2024 | 93 | 28,667 | £27.23 | £0.95 |
+| 2025 | 37 | 11,815 | £15.33 | £1.30 |
+| **2026** | 28 | 1,224 | £6.67 | **£5.45** |
+
+The 2026 cohort earns **5.7× per view** what the 2024 cohort does. That is the
+tier-1 query strategy working, and it is the strongest evidence yet FOR the
+current anchor — not a reason to change it.
+
+**The eye-catching per-video RPMs are noise.** Priced in real money: Canva AI
+Workflow £32.94 RPM × 18 views = **53p**; Pet Tags £29.22 × 35 = **80p**;
+Planners & Journals £22.00 × 2 views = **2p**; Media Kit £17.86 × 23 = **13p**.
+All the giant-RPM videos together earn less than the menu video alone (£6.03).
+**Never rank on an RPM below ~500 views** — at 2 views one ad impression makes
+any RPM you like.
+
+**Print-fix hypothesis — CLOSED 1 Sep 2026, answered NO.** I logged it as "watch
+in October", then checked the whole cluster instead of the four I had seen. The
+channel has ALREADY made **17** print-fix / troubleshooting videos:
+
+| | videos | views | views/video | revenue | RPM |
+|---|---:|---:|---:|---:|---:|
+| print-fix / troubleshooting | 17 | 764 | **45** | £4.39 | **£5.75** |
+| everything else | 141 | 40,943 | **290** | £44.84 | £1.10 |
+
+The RPM lift is real (5.2×, across 17 videos — not a small-sample fluke). It
+just does not survive the traffic gap: **5.2× RPM × ⅙ the views = 0.8× the
+revenue per video.** More of them would earn LESS than a normal tutorial. And
+56% of that cluster's revenue is one video (cropped-when-printed, £2.45); strip
+it and cluster RPM falls to £3.16.
+
+**Why:** troubleshooting is a low-volume query. People search "how to make a menu
+in canva", hit the problem days later, and never search for the fix. You reach
+them by being INSIDE the tutorial they searched for — not with a video about the
+problem.
+
+**So print-fix is a COMPONENT, not a format**, and it is already deployed
+correctly: the S06 trap in every tutorial, the Shorts cut from that trap, and the
+print checklist lead magnet. Do not commission standalone print-fix long-forms.
+
+**Spreadsheet defect:** 34 rows carry the STRING `"10"` in both revenue and RPM.
+That is YouTube's below-threshold placeholder, not £10. Counting it inflates
+total revenue from £49.23 to £389.23 — 8×. Filter non-numeric cells before any
+sort or average on that file.

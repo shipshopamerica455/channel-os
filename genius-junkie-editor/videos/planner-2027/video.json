@@ -1,0 +1,150 @@
+{
+  "slug": "planner-2027",
+  "topic": "How to Make a 2027 Printable Planner in Canva to Sell on Etsy",
+  "shotDir": "long-27",
+  "project": "gj-planner-2027",
+  "composition": "Planner2027",
+  "thumb": "GJThumb27",
+  "promos": [
+    "PromoPlanLink",
+    "PromoPlanSeeAll",
+    "PromoPlanDates",
+    "PromoPlanSizes"
+  ],
+  "promoNames": {
+    "PromoPlanLink": "promo-plan-link",
+    "PromoPlanSeeAll": "promo-plan-see-all",
+    "PromoPlanDates": "promo-plan-dates",
+    "PromoPlanSizes": "promo-plan-sizes"
+  },
+  "adAfter": [
+    "06-the-trap",
+    "09-the-month"
+  ],
+  "images": [
+    {
+      "name": "planner-on-desk",
+      "after": "S01",
+      "prompt": "Warm photographic overhead of a printed paper planner open on a wooden desk, a pen resting on the week spread, morning light from a window, a cup of coffee just out of focus, shallow depth of field, calm and inviting, no readable text"
+    },
+    {
+      "name": "shared-file-chaos",
+      "after": "S06",
+      "prompt": "Photographic close-up of a laptop screen reflected in a window at dusk, a person's hands paused over the keyboard, expression of dawning concern implied by posture only, face not visible, moody low light, shallow depth of field, no readable text"
+    },
+    {
+      "name": "printing-at-home",
+      "after": "S10",
+      "prompt": "Photographic shot of a home inkjet printer mid-print, a planner page emerging face up on the output tray, warm domestic lighting, shallow depth of field, slight motion blur on the paper, no readable text"
+    },
+    {
+      "name": "binder-punch",
+      "after": "S04",
+      "prompt": "Photographic close-up of hands placing hole-punched planner pages into a ring binder on a desk, warm daylight, shallow depth of field, tactile and satisfying, no readable text"
+    },
+    {
+      "name": "year-planned",
+      "after": "S14",
+      "prompt": "Warm photographic image of a finished printed planner lying open on a table with a few handwritten notes visible as indistinct marks, a plant and a mug nearby, soft natural light, shallow depth of field, hopeful, no readable text"
+    }
+  ],
+  "product": {
+    "name": "2027 Calendar Kit",
+    "price": "£4.99",
+    "existing": "2027-calendar-kit",
+    "note": "Sells the ALREADY-BUILT 2027 Calendar Kit (verified live, 200). No new pack, and DO NOT run commerce — it would mint a duplicate Stripe product alongside the kit's existing link."
+  },
+  "freeAsset": {
+    "name": "Printable Planner Delivery Checklist",
+    "slug": "get-planner-delivery-checklist",
+    "note": "NEW one-pager, not carved out of the kit: template-link-not-edit-link, both page sizes, the three date checks, the two export configurations, and the buy-your-own-listing test."
+  },
+  "publishAt": "2026-10-03T17:00:00.000Z",
+  "timeline": {
+    "total": 506.5,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 34.375,
+      "03-us-letter.mp3": 57.7,
+      "04-the-margin.mp3": 96.825,
+      "05-building-the.mp3": 137.825,
+      "06-the-trap.mp3": 176.975,
+      "07-the-fix.mp3": 220.875,
+      "08-the-dates.mp3": 262.45,
+      "09-the-month.mp3": 303.975,
+      "10-exporting-and.mp3": 349.625,
+      "11-what-the.mp3": 387.575,
+      "12-the-a4.mp3": 422.875,
+      "13-the-checks.mp3": 462.8,
+      "14-close.mp3": 485.475
+    },
+    "adWindows": [
+      [
+        219.48,
+        220.88
+      ],
+      [
+        348.23,
+        349.63
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 34.375
+      },
+      {
+        "file": "03-us-letter.mp3",
+        "at": 57.7
+      },
+      {
+        "file": "04-the-margin.mp3",
+        "at": 96.825
+      },
+      {
+        "file": "05-building-the.mp3",
+        "at": 137.825
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 176.975
+      },
+      {
+        "file": "07-the-fix.mp3",
+        "at": 220.875
+      },
+      {
+        "file": "08-the-dates.mp3",
+        "at": 262.45
+      },
+      {
+        "file": "09-the-month.mp3",
+        "at": 303.975
+      },
+      {
+        "file": "10-exporting-and.mp3",
+        "at": 349.625
+      },
+      {
+        "file": "11-what-the.mp3",
+        "at": 387.575
+      },
+      {
+        "file": "12-the-a4.mp3",
+        "at": 422.875
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 462.8
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 485.475
+      }
+    ]
+  }
+}

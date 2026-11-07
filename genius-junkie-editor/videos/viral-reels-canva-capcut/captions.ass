@@ -1,0 +1,1670 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GJ,Arial Black,54,&H00FFFFFF,&H00FFFFFF,&H002A170F,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,60,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.28,GJ,,0,0,0,,{\c&H0000DDFF}This{\c&H00FFFFFF} reel took me
+Dialogue: 0,0:00:00.28,0:00:00.48,GJ,,0,0,0,,This {\c&H0000DDFF}reel{\c&H00FFFFFF} took me
+Dialogue: 0,0:00:00.48,0:00:00.70,GJ,,0,0,0,,This reel {\c&H0000DDFF}took{\c&H00FFFFFF} me
+Dialogue: 0,0:00:00.70,0:00:01.00,GJ,,0,0,0,,This reel took {\c&H0000DDFF}me{\c&H00FFFFFF}
+Dialogue: 0,0:00:00.88,0:00:01.14,GJ,,0,0,0,,{\c&H0000DDFF}11{\c&H00FFFFFF} minutes to make.
+Dialogue: 0,0:00:01.14,0:00:01.38,GJ,,0,0,0,,11 {\c&H0000DDFF}minutes{\c&H00FFFFFF} to make.
+Dialogue: 0,0:00:01.38,0:00:01.58,GJ,,0,0,0,,11 minutes {\c&H0000DDFF}to{\c&H00FFFFFF} make.
+Dialogue: 0,0:00:01.58,0:00:01.94,GJ,,0,0,0,,11 minutes to {\c&H0000DDFF}make.{\c&H00FFFFFF}
+Dialogue: 0,0:00:02.22,0:00:02.32,GJ,,0,0,0,,{\c&H0000DDFF}It{\c&H00FFFFFF} cost me nothing,
+Dialogue: 0,0:00:02.32,0:00:02.48,GJ,,0,0,0,,It {\c&H0000DDFF}cost{\c&H00FFFFFF} me nothing,
+Dialogue: 0,0:00:02.48,0:00:02.70,GJ,,0,0,0,,It cost {\c&H0000DDFF}me{\c&H00FFFFFF} nothing,
+Dialogue: 0,0:00:02.70,0:00:03.12,GJ,,0,0,0,,It cost me {\c&H0000DDFF}nothing,{\c&H00FFFFFF}
+Dialogue: 0,0:00:03.42,0:00:03.60,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} it's the exact
+Dialogue: 0,0:00:03.60,0:00:03.74,GJ,,0,0,0,,and {\c&H0000DDFF}it's{\c&H00FFFFFF} the exact
+Dialogue: 0,0:00:03.74,0:00:03.88,GJ,,0,0,0,,and it's {\c&H0000DDFF}the{\c&H00FFFFFF} exact
+Dialogue: 0,0:00:03.88,0:00:04.34,GJ,,0,0,0,,and it's the {\c&H0000DDFF}exact{\c&H00FFFFFF}
+Dialogue: 0,0:00:04.22,0:00:04.50,GJ,,0,0,0,,{\c&H0000DDFF}three{\c&H00FFFFFF} -part formula behind
+Dialogue: 0,0:00:04.50,0:00:04.74,GJ,,0,0,0,,three {\c&H0000DDFF}-part{\c&H00FFFFFF} formula behind
+Dialogue: 0,0:00:04.74,0:00:05.18,GJ,,0,0,0,,three -part {\c&H0000DDFF}formula{\c&H00FFFFFF} behind
+Dialogue: 0,0:00:05.18,0:00:05.62,GJ,,0,0,0,,three -part formula {\c&H0000DDFF}behind{\c&H00FFFFFF}
+Dialogue: 0,0:00:05.50,0:00:05.74,GJ,,0,0,0,,{\c&H0000DDFF}almost{\c&H00FFFFFF} every viral reel
+Dialogue: 0,0:00:05.74,0:00:06.14,GJ,,0,0,0,,almost {\c&H0000DDFF}every{\c&H00FFFFFF} viral reel
+Dialogue: 0,0:00:06.14,0:00:06.46,GJ,,0,0,0,,almost every {\c&H0000DDFF}viral{\c&H00FFFFFF} reel
+Dialogue: 0,0:00:06.46,0:00:06.86,GJ,,0,0,0,,almost every viral {\c&H0000DDFF}reel{\c&H00FFFFFF}
+Dialogue: 0,0:00:06.74,0:00:07.32,GJ,,0,0,0,,{\c&H0000DDFF}on{\c&H00FFFFFF} your feed right
+Dialogue: 0,0:00:07.32,0:00:07.46,GJ,,0,0,0,,on {\c&H0000DDFF}your{\c&H00FFFFFF} feed right
+Dialogue: 0,0:00:07.46,0:00:07.68,GJ,,0,0,0,,on your {\c&H0000DDFF}feed{\c&H00FFFFFF} right
+Dialogue: 0,0:00:07.68,0:00:08.04,GJ,,0,0,0,,on your feed {\c&H0000DDFF}right{\c&H00FFFFFF}
+Dialogue: 0,0:00:07.92,0:00:08.90,GJ,,0,0,0,,{\c&H0000DDFF}now.{\c&H00FFFFFF} A scroll
+Dialogue: 0,0:00:08.90,0:00:09.12,GJ,,0,0,0,,now. {\c&H0000DDFF}A{\c&H00FFFFFF} scroll
+Dialogue: 0,0:00:09.12,0:00:09.46,GJ,,0,0,0,,now. A {\c&H0000DDFF}scroll{\c&H00FFFFFF}
+Dialogue: 0,0:00:09.34,0:00:09.70,GJ,,0,0,0,,{\c&H0000DDFF}-stopping{\c&H00FFFFFF} hook, punchy
+Dialogue: 0,0:00:09.70,0:00:10.36,GJ,,0,0,0,,-stopping {\c&H0000DDFF}hook,{\c&H00FFFFFF} punchy
+Dialogue: 0,0:00:10.36,0:00:10.76,GJ,,0,0,0,,-stopping hook, {\c&H0000DDFF}punchy{\c&H00FFFFFF}
+Dialogue: 0,0:00:10.64,0:00:11.00,GJ,,0,0,0,,{\c&H0000DDFF}captions{\c&H00FFFFFF} that move, and
+Dialogue: 0,0:00:11.00,0:00:11.22,GJ,,0,0,0,,captions {\c&H0000DDFF}that{\c&H00FFFFFF} move, and
+Dialogue: 0,0:00:11.22,0:00:11.96,GJ,,0,0,0,,captions that {\c&H0000DDFF}move,{\c&H00FFFFFF} and
+Dialogue: 0,0:00:11.96,0:00:12.18,GJ,,0,0,0,,captions that move, {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:00:12.06,0:00:12.28,GJ,,0,0,0,,{\c&H0000DDFF}one{\c&H00FFFFFF} editing trick at
+Dialogue: 0,0:00:12.28,0:00:12.62,GJ,,0,0,0,,one {\c&H0000DDFF}editing{\c&H00FFFFFF} trick at
+Dialogue: 0,0:00:12.62,0:00:12.90,GJ,,0,0,0,,one editing {\c&H0000DDFF}trick{\c&H00FFFFFF} at
+Dialogue: 0,0:00:12.90,0:00:13.22,GJ,,0,0,0,,one editing trick {\c&H0000DDFF}at{\c&H00FFFFFF}
+Dialogue: 0,0:00:13.10,0:00:13.28,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} end that most
+Dialogue: 0,0:00:13.28,0:00:13.50,GJ,,0,0,0,,the {\c&H0000DDFF}end{\c&H00FFFFFF} that most
+Dialogue: 0,0:00:13.50,0:00:13.70,GJ,,0,0,0,,the end {\c&H0000DDFF}that{\c&H00FFFFFF} most
+Dialogue: 0,0:00:13.70,0:00:14.02,GJ,,0,0,0,,the end that {\c&H0000DDFF}most{\c&H00FFFFFF}
+Dialogue: 0,0:00:13.90,0:00:14.14,GJ,,0,0,0,,{\c&H0000DDFF}people{\c&H00FFFFFF} never use.
+Dialogue: 0,0:00:14.14,0:00:14.48,GJ,,0,0,0,,people {\c&H0000DDFF}never{\c&H00FFFFFF} use.
+Dialogue: 0,0:00:14.48,0:00:15.06,GJ,,0,0,0,,people never {\c&H0000DDFF}use.{\c&H00FFFFFF}
+Dialogue: 0,0:00:15.58,0:00:15.74,GJ,,0,0,0,,{\c&H0000DDFF}And{\c&H00FFFFFF} the whole thing
+Dialogue: 0,0:00:15.74,0:00:15.82,GJ,,0,0,0,,And {\c&H0000DDFF}the{\c&H00FFFFFF} whole thing
+Dialogue: 0,0:00:15.82,0:00:16.00,GJ,,0,0,0,,And the {\c&H0000DDFF}whole{\c&H00FFFFFF} thing
+Dialogue: 0,0:00:16.00,0:00:16.38,GJ,,0,0,0,,And the whole {\c&H0000DDFF}thing{\c&H00FFFFFF}
+Dialogue: 0,0:00:16.26,0:00:16.48,GJ,,0,0,0,,{\c&H0000DDFF}is{\c&H00FFFFFF} just Canva plus
+Dialogue: 0,0:00:16.48,0:00:16.74,GJ,,0,0,0,,is {\c&H0000DDFF}just{\c&H00FFFFFF} Canva plus
+Dialogue: 0,0:00:16.74,0:00:17.16,GJ,,0,0,0,,is just {\c&H0000DDFF}Canva{\c&H00FFFFFF} plus
+Dialogue: 0,0:00:17.16,0:00:17.70,GJ,,0,0,0,,is just Canva {\c&H0000DDFF}plus{\c&H00FFFFFF}
+Dialogue: 0,0:00:17.58,0:00:18.84,GJ,,0,0,0,,{\c&H0000DDFF}CapCut,{\c&H00FFFFFF} both
+Dialogue: 0,0:00:18.84,0:00:19.16,GJ,,0,0,0,,CapCut, {\c&H0000DDFF}both{\c&H00FFFFFF}
+Dialogue: 0,0:00:19.04,0:00:19.38,GJ,,0,0,0,,{\c&H0000DDFF}on{\c&H00FFFFFF} the free plan.
+Dialogue: 0,0:00:19.38,0:00:19.50,GJ,,0,0,0,,on {\c&H0000DDFF}the{\c&H00FFFFFF} free plan.
+Dialogue: 0,0:00:19.50,0:00:19.70,GJ,,0,0,0,,on the {\c&H0000DDFF}free{\c&H00FFFFFF} plan.
+Dialogue: 0,0:00:19.70,0:00:20.18,GJ,,0,0,0,,on the free {\c&H0000DDFF}plan.{\c&H00FFFFFF}
+Dialogue: 0,0:00:20.84,0:00:21.04,GJ,,0,0,0,,{\c&H0000DDFF}By{\c&H00FFFFFF} the end of
+Dialogue: 0,0:00:21.04,0:00:21.16,GJ,,0,0,0,,By {\c&H0000DDFF}the{\c&H00FFFFFF} end of
+Dialogue: 0,0:00:21.16,0:00:21.28,GJ,,0,0,0,,By the {\c&H0000DDFF}end{\c&H00FFFFFF} of
+Dialogue: 0,0:00:21.28,0:00:21.50,GJ,,0,0,0,,By the end {\c&H0000DDFF}of{\c&H00FFFFFF}
+Dialogue: 0,0:00:21.38,0:00:21.54,GJ,,0,0,0,,{\c&H0000DDFF}this{\c&H00FFFFFF} video, you'll have
+Dialogue: 0,0:00:21.54,0:00:21.94,GJ,,0,0,0,,this {\c&H0000DDFF}video,{\c&H00FFFFFF} you'll have
+Dialogue: 0,0:00:21.94,0:00:22.10,GJ,,0,0,0,,this video, {\c&H0000DDFF}you'll{\c&H00FFFFFF} have
+Dialogue: 0,0:00:22.10,0:00:22.36,GJ,,0,0,0,,this video, you'll {\c&H0000DDFF}have{\c&H00FFFFFF}
+Dialogue: 0,0:00:22.24,0:00:22.40,GJ,,0,0,0,,{\c&H0000DDFF}your{\c&H00FFFFFF} own reel, built
+Dialogue: 0,0:00:22.40,0:00:22.60,GJ,,0,0,0,,your {\c&H0000DDFF}own{\c&H00FFFFFF} reel, built
+Dialogue: 0,0:00:22.60,0:00:23.32,GJ,,0,0,0,,your own {\c&H0000DDFF}reel,{\c&H00FFFFFF} built
+Dialogue: 0,0:00:23.32,0:00:23.62,GJ,,0,0,0,,your own reel, {\c&H0000DDFF}built{\c&H00FFFFFF}
+Dialogue: 0,0:00:23.50,0:00:23.74,GJ,,0,0,0,,{\c&H0000DDFF}from{\c&H00FFFFFF} scratch, exported the
+Dialogue: 0,0:00:23.74,0:00:24.42,GJ,,0,0,0,,from {\c&H0000DDFF}scratch,{\c&H00FFFFFF} exported the
+Dialogue: 0,0:00:24.42,0:00:24.78,GJ,,0,0,0,,from scratch, {\c&H0000DDFF}exported{\c&H00FFFFFF} the
+Dialogue: 0,0:00:24.78,0:00:25.10,GJ,,0,0,0,,from scratch, exported {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:00:24.98,0:00:25.14,GJ,,0,0,0,,{\c&H0000DDFF}right{\c&H00FFFFFF} way, and
+Dialogue: 0,0:00:25.14,0:00:25.48,GJ,,0,0,0,,right {\c&H0000DDFF}way,{\c&H00FFFFFF} and
+Dialogue: 0,0:00:25.48,0:00:26.58,GJ,,0,0,0,,right way, {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:00:26.46,0:00:26.78,GJ,,0,0,0,,{\c&H0000DDFF}I'll{\c&H00FFFFFF} show you the
+Dialogue: 0,0:00:26.78,0:00:26.94,GJ,,0,0,0,,I'll {\c&H0000DDFF}show{\c&H00FFFFFF} you the
+Dialogue: 0,0:00:26.94,0:00:27.16,GJ,,0,0,0,,I'll show {\c&H0000DDFF}you{\c&H00FFFFFF} the
+Dialogue: 0,0:00:27.16,0:00:27.48,GJ,,0,0,0,,I'll show you {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:00:27.36,0:00:27.66,GJ,,0,0,0,,{\c&H0000DDFF}one{\c&H00FFFFFF} export mistake that
+Dialogue: 0,0:00:27.66,0:00:28.12,GJ,,0,0,0,,one {\c&H0000DDFF}export{\c&H00FFFFFF} mistake that
+Dialogue: 0,0:00:28.12,0:00:28.54,GJ,,0,0,0,,one export {\c&H0000DDFF}mistake{\c&H00FFFFFF} that
+Dialogue: 0,0:00:28.54,0:00:28.92,GJ,,0,0,0,,one export mistake {\c&H0000DDFF}that{\c&H00FFFFFF}
+Dialogue: 0,0:00:28.80,0:00:29.16,GJ,,0,0,0,,{\c&H0000DDFF}quietly{\c&H00FFFFFF} kills your reach
+Dialogue: 0,0:00:29.16,0:00:29.58,GJ,,0,0,0,,quietly {\c&H0000DDFF}kills{\c&H00FFFFFF} your reach
+Dialogue: 0,0:00:29.58,0:00:29.78,GJ,,0,0,0,,quietly kills {\c&H0000DDFF}your{\c&H00FFFFFF} reach
+Dialogue: 0,0:00:29.78,0:00:30.14,GJ,,0,0,0,,quietly kills your {\c&H0000DDFF}reach{\c&H00FFFFFF}
+Dialogue: 0,0:00:30.02,0:00:30.22,GJ,,0,0,0,,{\c&H0000DDFF}on{\c&H00FFFFFF} Instagram, so stick
+Dialogue: 0,0:00:30.22,0:00:31.10,GJ,,0,0,0,,on {\c&H0000DDFF}Instagram,{\c&H00FFFFFF} so stick
+Dialogue: 0,0:00:31.10,0:00:31.22,GJ,,0,0,0,,on Instagram, {\c&H0000DDFF}so{\c&H00FFFFFF} stick
+Dialogue: 0,0:00:31.22,0:00:31.58,GJ,,0,0,0,,on Instagram, so {\c&H0000DDFF}stick{\c&H00FFFFFF}
+Dialogue: 0,0:00:31.46,0:00:31.76,GJ,,0,0,0,,{\c&H0000DDFF}around{\c&H00FFFFFF} for that. Let's
+Dialogue: 0,0:00:31.76,0:00:31.98,GJ,,0,0,0,,around {\c&H0000DDFF}for{\c&H00FFFFFF} that. Let's
+Dialogue: 0,0:00:31.98,0:00:32.68,GJ,,0,0,0,,around for {\c&H0000DDFF}that.{\c&H00FFFFFF} Let's
+Dialogue: 0,0:00:32.68,0:00:33.00,GJ,,0,0,0,,around for that. {\c&H0000DDFF}Let's{\c&H00FFFFFF}
+Dialogue: 0,0:00:32.88,0:00:32.98,GJ,,0,0,0,,{\c&H0000DDFF}get{\c&H00FFFFFF} into Canva.
+Dialogue: 0,0:00:32.98,0:00:33.18,GJ,,0,0,0,,get {\c&H0000DDFF}into{\c&H00FFFFFF} Canva.
+Dialogue: 0,0:00:33.18,0:00:33.70,GJ,,0,0,0,,get into {\c&H0000DDFF}Canva.{\c&H00FFFFFF}
+Dialogue: 0,0:00:34.44,0:00:34.58,GJ,,0,0,0,,{\c&H0000DDFF}First{\c&H00FFFFFF} thing, the Canvas.
+Dialogue: 0,0:00:34.58,0:00:35.42,GJ,,0,0,0,,First {\c&H0000DDFF}thing,{\c&H00FFFFFF} the Canvas.
+Dialogue: 0,0:00:35.42,0:00:35.56,GJ,,0,0,0,,First thing, {\c&H0000DDFF}the{\c&H00FFFFFF} Canvas.
+Dialogue: 0,0:00:35.56,0:00:36.04,GJ,,0,0,0,,First thing, the {\c&H0000DDFF}Canvas.{\c&H00FFFFFF}
+Dialogue: 0,0:00:36.72,0:00:36.84,GJ,,0,0,0,,{\c&H0000DDFF}In{\c&H00FFFFFF} Canva, click
+Dialogue: 0,0:00:36.84,0:00:37.64,GJ,,0,0,0,,In {\c&H0000DDFF}Canva,{\c&H00FFFFFF} click
+Dialogue: 0,0:00:37.64,0:00:38.04,GJ,,0,0,0,,In Canva, {\c&H0000DDFF}click{\c&H00FFFFFF}
+Dialogue: 0,0:00:37.92,0:00:38.34,GJ,,0,0,0,,{\c&H0000DDFF}Create{\c&H00FFFFFF} a Design,
+Dialogue: 0,0:00:38.34,0:00:38.52,GJ,,0,0,0,,Create {\c&H0000DDFF}a{\c&H00FFFFFF} Design,
+Dialogue: 0,0:00:38.52,0:00:39.00,GJ,,0,0,0,,Create a {\c&H0000DDFF}Design,{\c&H00FFFFFF}
+Dialogue: 0,0:00:39.36,0:00:39.52,GJ,,0,0,0,,{\c&H0000DDFF}top{\c&H00FFFFFF} right, and search
+Dialogue: 0,0:00:39.52,0:00:40.10,GJ,,0,0,0,,top {\c&H0000DDFF}right,{\c&H00FFFFFF} and search
+Dialogue: 0,0:00:40.10,0:00:40.18,GJ,,0,0,0,,top right, {\c&H0000DDFF}and{\c&H00FFFFFF} search
+Dialogue: 0,0:00:40.18,0:00:40.50,GJ,,0,0,0,,top right, and {\c&H0000DDFF}search{\c&H00FFFFFF}
+Dialogue: 0,0:00:40.38,0:00:40.60,GJ,,0,0,0,,{\c&H0000DDFF}for{\c&H00FFFFFF} Instagram Reel.
+Dialogue: 0,0:00:40.60,0:00:41.04,GJ,,0,0,0,,for {\c&H0000DDFF}Instagram{\c&H00FFFFFF} Reel.
+Dialogue: 0,0:00:41.04,0:00:41.52,GJ,,0,0,0,,for Instagram {\c&H0000DDFF}Reel.{\c&H00FFFFFF}
+Dialogue: 0,0:00:41.92,0:00:42.12,GJ,,0,0,0,,{\c&H0000DDFF}You{\c&H00FFFFFF} want the video
+Dialogue: 0,0:00:42.12,0:00:42.28,GJ,,0,0,0,,You {\c&H0000DDFF}want{\c&H00FFFFFF} the video
+Dialogue: 0,0:00:42.28,0:00:42.42,GJ,,0,0,0,,You want {\c&H0000DDFF}the{\c&H00FFFFFF} video
+Dialogue: 0,0:00:42.42,0:00:42.78,GJ,,0,0,0,,You want the {\c&H0000DDFF}video{\c&H00FFFFFF}
+Dialogue: 0,0:00:42.66,0:00:43.46,GJ,,0,0,0,,{\c&H0000DDFF}1,{\c&H00FFFFFF} 1080 by
+Dialogue: 0,0:00:43.46,0:00:43.70,GJ,,0,0,0,,1, {\c&H0000DDFF}1080{\c&H00FFFFFF} by
+Dialogue: 0,0:00:43.70,0:00:44.26,GJ,,0,0,0,,1, 1080 {\c&H0000DDFF}by{\c&H00FFFFFF}
+Dialogue: 0,0:00:44.14,0:00:45.44,GJ,,0,0,0,,{\c&H0000DDFF}1920,{\c&H00FFFFFF} portrait.
+Dialogue: 0,0:00:45.44,0:00:45.74,GJ,,0,0,0,,1920, {\c&H0000DDFF}portrait.{\c&H00FFFFFF}
+Dialogue: 0,0:00:46.40,0:00:46.64,GJ,,0,0,0,,{\c&H0000DDFF}Don't{\c&H00FFFFFF} grab a story
+Dialogue: 0,0:00:46.64,0:00:46.78,GJ,,0,0,0,,Don't {\c&H0000DDFF}grab{\c&H00FFFFFF} a story
+Dialogue: 0,0:00:46.78,0:00:46.96,GJ,,0,0,0,,Don't grab {\c&H0000DDFF}a{\c&H00FFFFFF} story
+Dialogue: 0,0:00:46.96,0:00:47.24,GJ,,0,0,0,,Don't grab a {\c&H0000DDFF}story{\c&H00FFFFFF}
+Dialogue: 0,0:00:47.12,0:00:47.58,GJ,,0,0,0,,{\c&H0000DDFF}template{\c&H00FFFFFF} or a post
+Dialogue: 0,0:00:47.58,0:00:48.00,GJ,,0,0,0,,template {\c&H0000DDFF}or{\c&H00FFFFFF} a post
+Dialogue: 0,0:00:48.00,0:00:48.12,GJ,,0,0,0,,template or {\c&H0000DDFF}a{\c&H00FFFFFF} post
+Dialogue: 0,0:00:48.12,0:00:48.48,GJ,,0,0,0,,template or a {\c&H0000DDFF}post{\c&H00FFFFFF}
+Dialogue: 0,0:00:48.36,0:00:48.70,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} try to stretch
+Dialogue: 0,0:00:48.70,0:00:48.86,GJ,,0,0,0,,and {\c&H0000DDFF}try{\c&H00FFFFFF} to stretch
+Dialogue: 0,0:00:48.86,0:00:48.98,GJ,,0,0,0,,and try {\c&H0000DDFF}to{\c&H00FFFFFF} stretch
+Dialogue: 0,0:00:48.98,0:00:49.30,GJ,,0,0,0,,and try to {\c&H0000DDFF}stretch{\c&H00FFFFFF}
+Dialogue: 0,0:00:49.18,0:00:49.36,GJ,,0,0,0,,{\c&H0000DDFF}it{\c&H00FFFFFF} later, because your
+Dialogue: 0,0:00:49.36,0:00:50.00,GJ,,0,0,0,,it {\c&H0000DDFF}later,{\c&H00FFFFFF} because your
+Dialogue: 0,0:00:50.00,0:00:50.38,GJ,,0,0,0,,it later, {\c&H0000DDFF}because{\c&H00FFFFFF} your
+Dialogue: 0,0:00:50.38,0:00:50.68,GJ,,0,0,0,,it later, because {\c&H0000DDFF}your{\c&H00FFFFFF}
+Dialogue: 0,0:00:50.56,0:00:50.78,GJ,,0,0,0,,{\c&H0000DDFF}text{\c&H00FFFFFF} will sit in
+Dialogue: 0,0:00:50.78,0:00:50.98,GJ,,0,0,0,,text {\c&H0000DDFF}will{\c&H00FFFFFF} sit in
+Dialogue: 0,0:00:50.98,0:00:51.14,GJ,,0,0,0,,text will {\c&H0000DDFF}sit{\c&H00FFFFFF} in
+Dialogue: 0,0:00:51.14,0:00:51.42,GJ,,0,0,0,,text will sit {\c&H0000DDFF}in{\c&H00FFFFFF}
+Dialogue: 0,0:00:51.30,0:00:51.46,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} wrong safe zones
+Dialogue: 0,0:00:51.46,0:00:51.66,GJ,,0,0,0,,the {\c&H0000DDFF}wrong{\c&H00FFFFFF} safe zones
+Dialogue: 0,0:00:51.66,0:00:51.96,GJ,,0,0,0,,the wrong {\c&H0000DDFF}safe{\c&H00FFFFFF} zones
+Dialogue: 0,0:00:51.96,0:00:52.34,GJ,,0,0,0,,the wrong safe {\c&H0000DDFF}zones{\c&H00FFFFFF}
+Dialogue: 0,0:00:52.22,0:00:52.48,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} Instagram will crop
+Dialogue: 0,0:00:52.48,0:00:52.92,GJ,,0,0,0,,and {\c&H0000DDFF}Instagram{\c&H00FFFFFF} will crop
+Dialogue: 0,0:00:52.92,0:00:53.14,GJ,,0,0,0,,and Instagram {\c&H0000DDFF}will{\c&H00FFFFFF} crop
+Dialogue: 0,0:00:53.14,0:00:53.50,GJ,,0,0,0,,and Instagram will {\c&H0000DDFF}crop{\c&H00FFFFFF}
+Dialogue: 0,0:00:53.38,0:00:54.00,GJ,,0,0,0,,{\c&H0000DDFF}right{\c&H00FFFFFF} over it.
+Dialogue: 0,0:00:54.00,0:00:54.26,GJ,,0,0,0,,right {\c&H0000DDFF}over{\c&H00FFFFFF} it.
+Dialogue: 0,0:00:54.26,0:00:54.64,GJ,,0,0,0,,right over {\c&H0000DDFF}it.{\c&H00FFFFFF}
+Dialogue: 0,0:00:54.52,0:00:55.12,GJ,,0,0,0,,{\c&H0000DDFF}Before{\c&H00FFFFFF} you touch anything
+Dialogue: 0,0:00:55.12,0:00:55.30,GJ,,0,0,0,,Before {\c&H0000DDFF}you{\c&H00FFFFFF} touch anything
+Dialogue: 0,0:00:55.30,0:00:55.48,GJ,,0,0,0,,Before you {\c&H0000DDFF}touch{\c&H00FFFFFF} anything
+Dialogue: 0,0:00:55.48,0:00:55.94,GJ,,0,0,0,,Before you touch {\c&H0000DDFF}anything{\c&H00FFFFFF}
+Dialogue: 0,0:00:55.82,0:00:56.54,GJ,,0,0,0,,{\c&H0000DDFF}else,{\c&H00FFFFFF} look at the
+Dialogue: 0,0:00:56.54,0:00:56.62,GJ,,0,0,0,,else, {\c&H0000DDFF}look{\c&H00FFFFFF} at the
+Dialogue: 0,0:00:56.62,0:00:56.72,GJ,,0,0,0,,else, look {\c&H0000DDFF}at{\c&H00FFFFFF} the
+Dialogue: 0,0:00:56.72,0:00:56.94,GJ,,0,0,0,,else, look at {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:00:56.82,0:00:57.06,GJ,,0,0,0,,{\c&H0000DDFF}edges{\c&H00FFFFFF} of the canvas.
+Dialogue: 0,0:00:57.06,0:00:57.26,GJ,,0,0,0,,edges {\c&H0000DDFF}of{\c&H00FFFFFF} the canvas.
+Dialogue: 0,0:00:57.26,0:00:57.38,GJ,,0,0,0,,edges of {\c&H0000DDFF}the{\c&H00FFFFFF} canvas.
+Dialogue: 0,0:00:57.38,0:00:57.90,GJ,,0,0,0,,edges of the {\c&H0000DDFF}canvas.{\c&H00FFFFFF}
+Dialogue: 0,0:00:58.80,0:00:58.88,GJ,,0,0,0,,{\c&H0000DDFF}The{\c&H00FFFFFF} top 15 %
+Dialogue: 0,0:00:58.88,0:00:59.08,GJ,,0,0,0,,The {\c&H0000DDFF}top{\c&H00FFFFFF} 15 %
+Dialogue: 0,0:00:59.08,0:00:59.48,GJ,,0,0,0,,The top {\c&H0000DDFF}15{\c&H00FFFFFF} %
+Dialogue: 0,0:00:59.48,0:00:59.96,GJ,,0,0,0,,The top 15 {\c&H0000DDFF}%{\c&H00FFFFFF}
+Dialogue: 0,0:00:59.84,0:01:00.12,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} the bottom 20
+Dialogue: 0,0:01:00.12,0:01:00.22,GJ,,0,0,0,,and {\c&H0000DDFF}the{\c&H00FFFFFF} bottom 20
+Dialogue: 0,0:01:00.22,0:01:00.50,GJ,,0,0,0,,and the {\c&H0000DDFF}bottom{\c&H00FFFFFF} 20
+Dialogue: 0,0:01:00.50,0:01:00.96,GJ,,0,0,0,,and the bottom {\c&H0000DDFF}20{\c&H00FFFFFF}
+Dialogue: 0,0:01:00.84,0:01:01.16,GJ,,0,0,0,,{\c&H0000DDFF}%{\c&H00FFFFFF} are danger zones.
+Dialogue: 0,0:01:01.16,0:01:01.36,GJ,,0,0,0,,% {\c&H0000DDFF}are{\c&H00FFFFFF} danger zones.
+Dialogue: 0,0:01:01.36,0:01:01.72,GJ,,0,0,0,,% are {\c&H0000DDFF}danger{\c&H00FFFFFF} zones.
+Dialogue: 0,0:01:01.72,0:01:02.22,GJ,,0,0,0,,% are danger {\c&H0000DDFF}zones.{\c&H00FFFFFF}
+Dialogue: 0,0:01:03.28,0:01:03.46,GJ,,0,0,0,,{\c&H0000DDFF}That's{\c&H00FFFFFF} where Instagram lays
+Dialogue: 0,0:01:03.46,0:01:03.58,GJ,,0,0,0,,That's {\c&H0000DDFF}where{\c&H00FFFFFF} Instagram lays
+Dialogue: 0,0:01:03.58,0:01:04.04,GJ,,0,0,0,,That's where {\c&H0000DDFF}Instagram{\c&H00FFFFFF} lays
+Dialogue: 0,0:01:04.04,0:01:04.48,GJ,,0,0,0,,That's where Instagram {\c&H0000DDFF}lays{\c&H00FFFFFF}
+Dialogue: 0,0:01:04.36,0:01:04.62,GJ,,0,0,0,,{\c&H0000DDFF}its{\c&H00FFFFFF} own interface.
+Dialogue: 0,0:01:04.62,0:01:04.82,GJ,,0,0,0,,its {\c&H0000DDFF}own{\c&H00FFFFFF} interface.
+Dialogue: 0,0:01:04.82,0:01:05.46,GJ,,0,0,0,,its own {\c&H0000DDFF}interface.{\c&H00FFFFFF}
+Dialogue: 0,0:01:05.94,0:01:06.04,GJ,,0,0,0,,{\c&H0000DDFF}Your{\c&H00FFFFFF} caption, the audio
+Dialogue: 0,0:01:06.04,0:01:07.02,GJ,,0,0,0,,Your {\c&H0000DDFF}caption,{\c&H00FFFFFF} the audio
+Dialogue: 0,0:01:07.02,0:01:07.12,GJ,,0,0,0,,Your caption, {\c&H0000DDFF}the{\c&H00FFFFFF} audio
+Dialogue: 0,0:01:07.12,0:01:07.50,GJ,,0,0,0,,Your caption, the {\c&H0000DDFF}audio{\c&H00FFFFFF}
+Dialogue: 0,0:01:07.38,0:01:08.20,GJ,,0,0,0,,{\c&H0000DDFF}tag,{\c&H00FFFFFF} the share buttons.
+Dialogue: 0,0:01:08.20,0:01:08.32,GJ,,0,0,0,,tag, {\c&H0000DDFF}the{\c&H00FFFFFF} share buttons.
+Dialogue: 0,0:01:08.32,0:01:08.52,GJ,,0,0,0,,tag, the {\c&H0000DDFF}share{\c&H00FFFFFF} buttons.
+Dialogue: 0,0:01:08.52,0:01:08.98,GJ,,0,0,0,,tag, the share {\c&H0000DDFF}buttons.{\c&H00FFFFFF}
+Dialogue: 0,0:01:09.56,0:01:09.84,GJ,,0,0,0,,{\c&H0000DDFF}Anything{\c&H00FFFFFF} important lives in
+Dialogue: 0,0:01:09.84,0:01:10.24,GJ,,0,0,0,,Anything {\c&H0000DDFF}important{\c&H00FFFFFF} lives in
+Dialogue: 0,0:01:10.24,0:01:10.56,GJ,,0,0,0,,Anything important {\c&H0000DDFF}lives{\c&H00FFFFFF} in
+Dialogue: 0,0:01:10.56,0:01:10.84,GJ,,0,0,0,,Anything important lives {\c&H0000DDFF}in{\c&H00FFFFFF}
+Dialogue: 0,0:01:10.72,0:01:10.84,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} middle of the
+Dialogue: 0,0:01:10.84,0:01:10.98,GJ,,0,0,0,,the {\c&H0000DDFF}middle{\c&H00FFFFFF} of the
+Dialogue: 0,0:01:10.98,0:01:11.18,GJ,,0,0,0,,the middle {\c&H0000DDFF}of{\c&H00FFFFFF} the
+Dialogue: 0,0:01:11.18,0:01:11.46,GJ,,0,0,0,,the middle of {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:01:11.34,0:01:12.32,GJ,,0,0,0,,{\c&H0000DDFF}frame.{\c&H00FFFFFF} Keep that in
+Dialogue: 0,0:01:12.32,0:01:12.44,GJ,,0,0,0,,frame. {\c&H0000DDFF}Keep{\c&H00FFFFFF} that in
+Dialogue: 0,0:01:12.44,0:01:12.66,GJ,,0,0,0,,frame. Keep {\c&H0000DDFF}that{\c&H00FFFFFF} in
+Dialogue: 0,0:01:12.66,0:01:12.90,GJ,,0,0,0,,frame. Keep that {\c&H0000DDFF}in{\c&H00FFFFFF}
+Dialogue: 0,0:01:12.78,0:01:12.90,GJ,,0,0,0,,{\c&H0000DDFF}your{\c&H00FFFFFF} head the whole
+Dialogue: 0,0:01:12.90,0:01:13.06,GJ,,0,0,0,,your {\c&H0000DDFF}head{\c&H00FFFFFF} the whole
+Dialogue: 0,0:01:13.06,0:01:13.20,GJ,,0,0,0,,your head {\c&H0000DDFF}the{\c&H00FFFFFF} whole
+Dialogue: 0,0:01:13.20,0:01:13.54,GJ,,0,0,0,,your head the {\c&H0000DDFF}whole{\c&H00FFFFFF}
+Dialogue: 0,0:01:13.42,0:01:13.66,GJ,,0,0,0,,{\c&H0000DDFF}way{\c&H00FFFFFF} through.
+Dialogue: 0,0:01:13.66,0:01:14.16,GJ,,0,0,0,,way {\c&H0000DDFF}through.{\c&H00FFFFFF}
+Dialogue: 0,0:01:14.90,0:01:15.14,GJ,,0,0,0,,{\c&H0000DDFF}Slide{\c&H00FFFFFF} one is your
+Dialogue: 0,0:01:15.14,0:01:15.32,GJ,,0,0,0,,Slide {\c&H0000DDFF}one{\c&H00FFFFFF} is your
+Dialogue: 0,0:01:15.32,0:01:15.44,GJ,,0,0,0,,Slide one {\c&H0000DDFF}is{\c&H00FFFFFF} your
+Dialogue: 0,0:01:15.44,0:01:15.70,GJ,,0,0,0,,Slide one is {\c&H0000DDFF}your{\c&H00FFFFFF}
+Dialogue: 0,0:01:15.58,0:01:16.24,GJ,,0,0,0,,{\c&H0000DDFF}hook,{\c&H00FFFFFF} and it has
+Dialogue: 0,0:01:16.24,0:01:16.34,GJ,,0,0,0,,hook, {\c&H0000DDFF}and{\c&H00FFFFFF} it has
+Dialogue: 0,0:01:16.34,0:01:16.42,GJ,,0,0,0,,hook, and {\c&H0000DDFF}it{\c&H00FFFFFF} has
+Dialogue: 0,0:01:16.42,0:01:16.68,GJ,,0,0,0,,hook, and it {\c&H0000DDFF}has{\c&H00FFFFFF}
+Dialogue: 0,0:01:16.56,0:01:16.82,GJ,,0,0,0,,{\c&H0000DDFF}one{\c&H00FFFFFF} job. Stop the
+Dialogue: 0,0:01:16.82,0:01:17.62,GJ,,0,0,0,,one {\c&H0000DDFF}job.{\c&H00FFFFFF} Stop the
+Dialogue: 0,0:01:17.62,0:01:17.76,GJ,,0,0,0,,one job. {\c&H0000DDFF}Stop{\c&H00FFFFFF} the
+Dialogue: 0,0:01:17.76,0:01:18.06,GJ,,0,0,0,,one job. Stop {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:01:17.94,0:01:18.72,GJ,,0,0,0,,{\c&H0000DDFF}thumb.{\c&H00FFFFFF} You've got well
+Dialogue: 0,0:01:18.72,0:01:18.90,GJ,,0,0,0,,thumb. {\c&H0000DDFF}You've{\c&H00FFFFFF} got well
+Dialogue: 0,0:01:18.90,0:01:19.02,GJ,,0,0,0,,thumb. You've {\c&H0000DDFF}got{\c&H00FFFFFF} well
+Dialogue: 0,0:01:19.02,0:01:19.38,GJ,,0,0,0,,thumb. You've got {\c&H0000DDFF}well{\c&H00FFFFFF}
+Dialogue: 0,0:01:19.26,0:01:19.46,GJ,,0,0,0,,{\c&H0000DDFF}under{\c&H00FFFFFF} a second, so
+Dialogue: 0,0:01:19.46,0:01:19.62,GJ,,0,0,0,,under {\c&H0000DDFF}a{\c&H00FFFFFF} second, so
+Dialogue: 0,0:01:19.62,0:01:20.02,GJ,,0,0,0,,under a {\c&H0000DDFF}second,{\c&H00FFFFFF} so
+Dialogue: 0,0:01:20.02,0:01:20.28,GJ,,0,0,0,,under a second, {\c&H0000DDFF}so{\c&H00FFFFFF}
+Dialogue: 0,0:01:20.16,0:01:20.28,GJ,,0,0,0,,{\c&H0000DDFF}we're{\c&H00FFFFFF} doing big text,
+Dialogue: 0,0:01:20.28,0:01:20.52,GJ,,0,0,0,,we're {\c&H0000DDFF}doing{\c&H00FFFFFF} big text,
+Dialogue: 0,0:01:20.52,0:01:20.76,GJ,,0,0,0,,we're doing {\c&H0000DDFF}big{\c&H00FFFFFF} text,
+Dialogue: 0,0:01:20.76,0:01:21.18,GJ,,0,0,0,,we're doing big {\c&H0000DDFF}text,{\c&H00FFFFFF}
+Dialogue: 0,0:01:21.36,0:01:21.52,GJ,,0,0,0,,{\c&H0000DDFF}high{\c&H00FFFFFF} contrast, no clutter.
+Dialogue: 0,0:01:21.52,0:01:22.30,GJ,,0,0,0,,high {\c&H0000DDFF}contrast,{\c&H00FFFFFF} no clutter.
+Dialogue: 0,0:01:22.30,0:01:22.42,GJ,,0,0,0,,high contrast, {\c&H0000DDFF}no{\c&H00FFFFFF} clutter.
+Dialogue: 0,0:01:22.42,0:01:22.82,GJ,,0,0,0,,high contrast, no {\c&H0000DDFF}clutter.{\c&H00FFFFFF}
+Dialogue: 0,0:01:22.70,0:01:23.48,GJ,,0,0,0,,{\c&H0000DDFF}click{\c&H00FFFFFF} text, add
+Dialogue: 0,0:01:23.48,0:01:24.16,GJ,,0,0,0,,click {\c&H0000DDFF}text,{\c&H00FFFFFF} add
+Dialogue: 0,0:01:24.16,0:01:24.40,GJ,,0,0,0,,click text, {\c&H0000DDFF}add{\c&H00FFFFFF}
+Dialogue: 0,0:01:24.28,0:01:24.40,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} heading, and type
+Dialogue: 0,0:01:24.40,0:01:24.80,GJ,,0,0,0,,a {\c&H0000DDFF}heading,{\c&H00FFFFFF} and type
+Dialogue: 0,0:01:24.80,0:01:24.90,GJ,,0,0,0,,a heading, {\c&H0000DDFF}and{\c&H00FFFFFF} type
+Dialogue: 0,0:01:24.90,0:01:25.20,GJ,,0,0,0,,a heading, and {\c&H0000DDFF}type{\c&H00FFFFFF}
+Dialogue: 0,0:01:25.08,0:01:25.24,GJ,,0,0,0,,{\c&H0000DDFF}your{\c&H00FFFFFF} hook. I'm using
+Dialogue: 0,0:01:25.24,0:01:26.02,GJ,,0,0,0,,your {\c&H0000DDFF}hook.{\c&H00FFFFFF} I'm using
+Dialogue: 0,0:01:26.02,0:01:26.16,GJ,,0,0,0,,your hook. {\c&H0000DDFF}I'm{\c&H00FFFFFF} using
+Dialogue: 0,0:01:26.16,0:01:26.48,GJ,,0,0,0,,your hook. I'm {\c&H0000DDFF}using{\c&H00FFFFFF}
+Dialogue: 0,0:01:26.36,0:01:26.66,GJ,,0,0,0,,{\c&H0000DDFF}three{\c&H00FFFFFF} Canva Tricks nobody
+Dialogue: 0,0:01:26.66,0:01:26.98,GJ,,0,0,0,,three {\c&H0000DDFF}Canva{\c&H00FFFFFF} Tricks nobody
+Dialogue: 0,0:01:26.98,0:01:27.24,GJ,,0,0,0,,three Canva {\c&H0000DDFF}Tricks{\c&H00FFFFFF} nobody
+Dialogue: 0,0:01:27.24,0:01:27.66,GJ,,0,0,0,,three Canva Tricks {\c&H0000DDFF}nobody{\c&H00FFFFFF}
+Dialogue: 0,0:01:27.54,0:01:27.92,GJ,,0,0,0,,{\c&H0000DDFF}shows{\c&H00FFFFFF} you, but the
+Dialogue: 0,0:01:27.92,0:01:28.48,GJ,,0,0,0,,shows {\c&H0000DDFF}you,{\c&H00FFFFFF} but the
+Dialogue: 0,0:01:28.48,0:01:28.76,GJ,,0,0,0,,shows you, {\c&H0000DDFF}but{\c&H00FFFFFF} the
+Dialogue: 0,0:01:28.76,0:01:29.04,GJ,,0,0,0,,shows you, but {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:01:28.92,0:01:29.22,GJ,,0,0,0,,{\c&H0000DDFF}formula{\c&H00FFFFFF} is a number,
+Dialogue: 0,0:01:29.22,0:01:29.72,GJ,,0,0,0,,formula {\c&H0000DDFF}is{\c&H00FFFFFF} a number,
+Dialogue: 0,0:01:29.72,0:01:30.24,GJ,,0,0,0,,formula is {\c&H0000DDFF}a{\c&H00FFFFFF} number,
+Dialogue: 0,0:01:30.24,0:01:30.58,GJ,,0,0,0,,formula is a {\c&H0000DDFF}number,{\c&H00FFFFFF}
+Dialogue: 0,0:01:30.94,0:01:31.08,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} promise, and a
+Dialogue: 0,0:01:31.08,0:01:31.80,GJ,,0,0,0,,a {\c&H0000DDFF}promise,{\c&H00FFFFFF} and a
+Dialogue: 0,0:01:31.80,0:01:31.96,GJ,,0,0,0,,a promise, {\c&H0000DDFF}and{\c&H00FFFFFF} a
+Dialogue: 0,0:01:31.96,0:01:32.16,GJ,,0,0,0,,a promise, and {\c&H0000DDFF}a{\c&H00FFFFFF}
+Dialogue: 0,0:01:32.04,0:01:32.16,GJ,,0,0,0,,{\c&H0000DDFF}hint{\c&H00FFFFFF} of a secret.
+Dialogue: 0,0:01:32.16,0:01:32.32,GJ,,0,0,0,,hint {\c&H0000DDFF}of{\c&H00FFFFFF} a secret.
+Dialogue: 0,0:01:32.32,0:01:32.44,GJ,,0,0,0,,hint of {\c&H0000DDFF}a{\c&H00FFFFFF} secret.
+Dialogue: 0,0:01:32.44,0:01:32.86,GJ,,0,0,0,,hint of a {\c&H0000DDFF}secret.{\c&H00FFFFFF}
+Dialogue: 0,0:01:33.36,0:01:33.50,GJ,,0,0,0,,{\c&H0000DDFF}Steal{\c&H00FFFFFF} that. If you're
+Dialogue: 0,0:01:33.50,0:01:34.28,GJ,,0,0,0,,Steal {\c&H0000DDFF}that.{\c&H00FFFFFF} If you're
+Dialogue: 0,0:01:34.28,0:01:34.50,GJ,,0,0,0,,Steal that. {\c&H0000DDFF}If{\c&H00FFFFFF} you're
+Dialogue: 0,0:01:34.50,0:01:34.80,GJ,,0,0,0,,Steal that. If {\c&H0000DDFF}you're{\c&H00FFFFFF}
+Dialogue: 0,0:01:34.68,0:01:34.94,GJ,,0,0,0,,{\c&H0000DDFF}staring{\c&H00FFFFFF} at a blank
+Dialogue: 0,0:01:34.94,0:01:35.14,GJ,,0,0,0,,staring {\c&H0000DDFF}at{\c&H00FFFFFF} a blank
+Dialogue: 0,0:01:35.14,0:01:35.26,GJ,,0,0,0,,staring at {\c&H0000DDFF}a{\c&H00FFFFFF} blank
+Dialogue: 0,0:01:35.26,0:01:35.56,GJ,,0,0,0,,staring at a {\c&H0000DDFF}blank{\c&H00FFFFFF}
+Dialogue: 0,0:01:35.44,0:01:35.72,GJ,,0,0,0,,{\c&H0000DDFF}heading{\c&H00FFFFFF} wondering what to
+Dialogue: 0,0:01:35.72,0:01:36.02,GJ,,0,0,0,,heading {\c&H0000DDFF}wondering{\c&H00FFFFFF} what to
+Dialogue: 0,0:01:36.02,0:01:36.28,GJ,,0,0,0,,heading wondering {\c&H0000DDFF}what{\c&H00FFFFFF} to
+Dialogue: 0,0:01:36.28,0:01:36.54,GJ,,0,0,0,,heading wondering what {\c&H0000DDFF}to{\c&H00FFFFFF}
+Dialogue: 0,0:01:36.42,0:01:36.98,GJ,,0,0,0,,{\c&H0000DDFF}write,{\c&H00FFFFFF} here are the
+Dialogue: 0,0:01:36.98,0:01:37.32,GJ,,0,0,0,,write, {\c&H0000DDFF}here{\c&H00FFFFFF} are the
+Dialogue: 0,0:01:37.32,0:01:37.44,GJ,,0,0,0,,write, here {\c&H0000DDFF}are{\c&H00FFFFFF} the
+Dialogue: 0,0:01:37.44,0:01:37.70,GJ,,0,0,0,,write, here are {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:01:37.58,0:01:37.78,GJ,,0,0,0,,{\c&H0000DDFF}three{\c&H00FFFFFF} hook formulas that
+Dialogue: 0,0:01:37.78,0:01:38.00,GJ,,0,0,0,,three {\c&H0000DDFF}hook{\c&H00FFFFFF} formulas that
+Dialogue: 0,0:01:38.00,0:01:38.38,GJ,,0,0,0,,three hook {\c&H0000DDFF}formulas{\c&H00FFFFFF} that
+Dialogue: 0,0:01:38.38,0:01:38.78,GJ,,0,0,0,,three hook formulas {\c&H0000DDFF}that{\c&H00FFFFFF}
+Dialogue: 0,0:01:38.66,0:01:38.90,GJ,,0,0,0,,{\c&H0000DDFF}carry{\c&H00FFFFFF} most viral reels.
+Dialogue: 0,0:01:38.90,0:01:39.20,GJ,,0,0,0,,carry {\c&H0000DDFF}most{\c&H00FFFFFF} viral reels.
+Dialogue: 0,0:01:39.20,0:01:39.58,GJ,,0,0,0,,carry most {\c&H0000DDFF}viral{\c&H00FFFFFF} reels.
+Dialogue: 0,0:01:39.58,0:01:40.14,GJ,,0,0,0,,carry most viral {\c&H0000DDFF}reels.{\c&H00FFFFFF}
+Dialogue: 0,0:01:40.82,0:01:41.52,GJ,,0,0,0,,{\c&H0000DDFF}One,{\c&H00FFFFFF} the number promise,
+Dialogue: 0,0:01:41.52,0:01:41.76,GJ,,0,0,0,,One, {\c&H0000DDFF}the{\c&H00FFFFFF} number promise,
+Dialogue: 0,0:01:41.76,0:01:41.96,GJ,,0,0,0,,One, the {\c&H0000DDFF}number{\c&H00FFFFFF} promise,
+Dialogue: 0,0:01:41.96,0:01:42.50,GJ,,0,0,0,,One, the number {\c&H0000DDFF}promise,{\c&H00FFFFFF}
+Dialogue: 0,0:01:43.68,0:01:43.94,GJ,,0,0,0,,{\c&H0000DDFF}three{\c&H00FFFFFF} Canva Tricks nobody
+Dialogue: 0,0:01:43.94,0:01:44.32,GJ,,0,0,0,,three {\c&H0000DDFF}Canva{\c&H00FFFFFF} Tricks nobody
+Dialogue: 0,0:01:44.32,0:01:44.56,GJ,,0,0,0,,three Canva {\c&H0000DDFF}Tricks{\c&H00FFFFFF} nobody
+Dialogue: 0,0:01:44.56,0:01:44.94,GJ,,0,0,0,,three Canva Tricks {\c&H0000DDFF}nobody{\c&H00FFFFFF}
+Dialogue: 0,0:01:44.82,0:01:45.12,GJ,,0,0,0,,{\c&H0000DDFF}shows{\c&H00FFFFFF} you.
+Dialogue: 0,0:01:45.12,0:01:45.80,GJ,,0,0,0,,shows {\c&H0000DDFF}you.{\c&H00FFFFFF}
+Dialogue: 0,0:01:46.22,0:01:47.36,GJ,,0,0,0,,{\c&H0000DDFF}Two,{\c&H00FFFFFF} the
+Dialogue: 0,0:01:47.36,0:01:47.70,GJ,,0,0,0,,Two, {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:01:47.58,0:01:48.14,GJ,,0,0,0,,{\c&H0000DDFF}callout.{\c&H00FFFFFF}
+Dialogue: 0,0:01:48.68,0:01:49.20,GJ,,0,0,0,,{\c&H0000DDFF}If{\c&H00FFFFFF} you sell on
+Dialogue: 0,0:01:49.20,0:01:49.34,GJ,,0,0,0,,If {\c&H0000DDFF}you{\c&H00FFFFFF} sell on
+Dialogue: 0,0:01:49.34,0:01:49.56,GJ,,0,0,0,,If you {\c&H0000DDFF}sell{\c&H00FFFFFF} on
+Dialogue: 0,0:01:49.56,0:01:49.86,GJ,,0,0,0,,If you sell {\c&H0000DDFF}on{\c&H00FFFFFF}
+Dialogue: 0,0:01:49.74,0:01:50.52,GJ,,0,0,0,,{\c&H0000DDFF}Etsy,{\c&H00FFFFFF} stop making this
+Dialogue: 0,0:01:50.52,0:01:50.64,GJ,,0,0,0,,Etsy, {\c&H0000DDFF}stop{\c&H00FFFFFF} making this
+Dialogue: 0,0:01:50.64,0:01:50.88,GJ,,0,0,0,,Etsy, stop {\c&H0000DDFF}making{\c&H00FFFFFF} this
+Dialogue: 0,0:01:50.88,0:01:51.26,GJ,,0,0,0,,Etsy, stop making {\c&H0000DDFF}this{\c&H00FFFFFF}
+Dialogue: 0,0:01:51.14,0:01:51.62,GJ,,0,0,0,,{\c&H0000DDFF}mistake.{\c&H00FFFFFF}
+Dialogue: 0,0:01:52.80,0:01:52.92,GJ,,0,0,0,,{\c&H0000DDFF}You{\c&H00FFFFFF} name your exact
+Dialogue: 0,0:01:52.92,0:01:53.18,GJ,,0,0,0,,You {\c&H0000DDFF}name{\c&H00FFFFFF} your exact
+Dialogue: 0,0:01:53.18,0:01:53.38,GJ,,0,0,0,,You name {\c&H0000DDFF}your{\c&H00FFFFFF} exact
+Dialogue: 0,0:01:53.38,0:01:53.80,GJ,,0,0,0,,You name your {\c&H0000DDFF}exact{\c&H00FFFFFF}
+Dialogue: 0,0:01:53.68,0:01:54.04,GJ,,0,0,0,,{\c&H0000DDFF}viewer{\c&H00FFFFFF} and they physically
+Dialogue: 0,0:01:54.04,0:01:54.50,GJ,,0,0,0,,viewer {\c&H0000DDFF}and{\c&H00FFFFFF} they physically
+Dialogue: 0,0:01:54.50,0:01:54.64,GJ,,0,0,0,,viewer and {\c&H0000DDFF}they{\c&H00FFFFFF} physically
+Dialogue: 0,0:01:54.64,0:01:55.04,GJ,,0,0,0,,viewer and they {\c&H0000DDFF}physically{\c&H00FFFFFF}
+Dialogue: 0,0:01:54.92,0:01:55.30,GJ,,0,0,0,,{\c&H0000DDFF}cannot{\c&H00FFFFFF} scroll past.
+Dialogue: 0,0:01:55.30,0:01:55.64,GJ,,0,0,0,,cannot {\c&H0000DDFF}scroll{\c&H00FFFFFF} past.
+Dialogue: 0,0:01:55.64,0:01:56.20,GJ,,0,0,0,,cannot scroll {\c&H0000DDFF}past.{\c&H00FFFFFF}
+Dialogue: 0,0:01:56.56,0:01:57.34,GJ,,0,0,0,,{\c&H0000DDFF}Three.{\c&H00FFFFFF} The forbidden one.
+Dialogue: 0,0:01:57.34,0:01:57.42,GJ,,0,0,0,,Three. {\c&H0000DDFF}The{\c&H00FFFFFF} forbidden one.
+Dialogue: 0,0:01:57.42,0:01:57.66,GJ,,0,0,0,,Three. The {\c&H0000DDFF}forbidden{\c&H00FFFFFF} one.
+Dialogue: 0,0:01:57.66,0:01:58.08,GJ,,0,0,0,,Three. The forbidden {\c&H0000DDFF}one.{\c&H00FFFFFF}
+Dialogue: 0,0:01:59.10,0:01:59.38,GJ,,0,0,0,,{\c&H0000DDFF}I{\c&H00FFFFFF} wasn't going to
+Dialogue: 0,0:01:59.38,0:01:59.64,GJ,,0,0,0,,I {\c&H0000DDFF}wasn't{\c&H00FFFFFF} going to
+Dialogue: 0,0:01:59.64,0:01:59.76,GJ,,0,0,0,,I wasn't {\c&H0000DDFF}going{\c&H00FFFFFF} to
+Dialogue: 0,0:01:59.76,0:02:00.06,GJ,,0,0,0,,I wasn't going {\c&H0000DDFF}to{\c&H00FFFFFF}
+Dialogue: 0,0:01:59.94,0:02:00.14,GJ,,0,0,0,,{\c&H0000DDFF}share{\c&H00FFFFFF} this.
+Dialogue: 0,0:02:00.14,0:02:00.68,GJ,,0,0,0,,share {\c&H0000DDFF}this.{\c&H00FFFFFF}
+Dialogue: 0,0:02:01.62,0:02:01.80,GJ,,0,0,0,,{\c&H0000DDFF}Curiosity{\c&H00FFFFFF} does the rest.
+Dialogue: 0,0:02:01.80,0:02:02.26,GJ,,0,0,0,,Curiosity {\c&H0000DDFF}does{\c&H00FFFFFF} the rest.
+Dialogue: 0,0:02:02.26,0:02:02.44,GJ,,0,0,0,,Curiosity does {\c&H0000DDFF}the{\c&H00FFFFFF} rest.
+Dialogue: 0,0:02:02.44,0:02:02.86,GJ,,0,0,0,,Curiosity does the {\c&H0000DDFF}rest.{\c&H00FFFFFF}
+Dialogue: 0,0:02:03.42,0:02:03.54,GJ,,0,0,0,,{\c&H0000DDFF}Write{\c&H00FFFFFF} yours with one
+Dialogue: 0,0:02:03.54,0:02:03.80,GJ,,0,0,0,,Write {\c&H0000DDFF}yours{\c&H00FFFFFF} with one
+Dialogue: 0,0:02:03.80,0:02:04.10,GJ,,0,0,0,,Write yours {\c&H0000DDFF}with{\c&H00FFFFFF} one
+Dialogue: 0,0:02:04.10,0:02:04.40,GJ,,0,0,0,,Write yours with {\c&H0000DDFF}one{\c&H00FFFFFF}
+Dialogue: 0,0:02:04.28,0:02:04.40,GJ,,0,0,0,,{\c&H0000DDFF}of{\c&H00FFFFFF} those three and
+Dialogue: 0,0:02:04.40,0:02:04.56,GJ,,0,0,0,,of {\c&H0000DDFF}those{\c&H00FFFFFF} three and
+Dialogue: 0,0:02:04.56,0:02:04.92,GJ,,0,0,0,,of those {\c&H0000DDFF}three{\c&H00FFFFFF} and
+Dialogue: 0,0:02:04.92,0:02:05.52,GJ,,0,0,0,,of those three {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:02:05.40,0:02:05.58,GJ,,0,0,0,,{\c&H0000DDFF}you're{\c&H00FFFFFF} ahead of 90
+Dialogue: 0,0:02:05.58,0:02:05.80,GJ,,0,0,0,,you're {\c&H0000DDFF}ahead{\c&H00FFFFFF} of 90
+Dialogue: 0,0:02:05.80,0:02:05.98,GJ,,0,0,0,,you're ahead {\c&H0000DDFF}of{\c&H00FFFFFF} 90
+Dialogue: 0,0:02:05.98,0:02:06.36,GJ,,0,0,0,,you're ahead of {\c&H0000DDFF}90{\c&H00FFFFFF}
+Dialogue: 0,0:02:06.24,0:02:06.54,GJ,,0,0,0,,{\c&H0000DDFF}%{\c&H00FFFFFF} of the feed
+Dialogue: 0,0:02:06.54,0:02:06.72,GJ,,0,0,0,,% {\c&H0000DDFF}of{\c&H00FFFFFF} the feed
+Dialogue: 0,0:02:06.72,0:02:06.84,GJ,,0,0,0,,% of {\c&H0000DDFF}the{\c&H00FFFFFF} feed
+Dialogue: 0,0:02:06.84,0:02:07.20,GJ,,0,0,0,,% of the {\c&H0000DDFF}feed{\c&H00FFFFFF}
+Dialogue: 0,0:02:07.08,0:02:07.38,GJ,,0,0,0,,{\c&H0000DDFF}before{\c&H00FFFFFF} you've touched a
+Dialogue: 0,0:02:07.38,0:02:07.62,GJ,,0,0,0,,before {\c&H0000DDFF}you've{\c&H00FFFFFF} touched a
+Dialogue: 0,0:02:07.62,0:02:07.82,GJ,,0,0,0,,before you've {\c&H0000DDFF}touched{\c&H00FFFFFF} a
+Dialogue: 0,0:02:07.82,0:02:08.14,GJ,,0,0,0,,before you've touched {\c&H0000DDFF}a{\c&H00FFFFFF}
+Dialogue: 0,0:02:08.02,0:02:08.22,GJ,,0,0,0,,{\c&H0000DDFF}single{\c&H00FFFFFF} animation.
+Dialogue: 0,0:02:08.22,0:02:08.80,GJ,,0,0,0,,single {\c&H0000DDFF}animation.{\c&H00FFFFFF}
+Dialogue: 0,0:02:09.56,0:02:09.82,GJ,,0,0,0,,{\c&H0000DDFF}Now{\c&H00FFFFFF} make it impossible
+Dialogue: 0,0:02:09.82,0:02:09.98,GJ,,0,0,0,,Now {\c&H0000DDFF}make{\c&H00FFFFFF} it impossible
+Dialogue: 0,0:02:09.98,0:02:10.10,GJ,,0,0,0,,Now make {\c&H0000DDFF}it{\c&H00FFFFFF} impossible
+Dialogue: 0,0:02:10.10,0:02:10.50,GJ,,0,0,0,,Now make it {\c&H0000DDFF}impossible{\c&H00FFFFFF}
+Dialogue: 0,0:02:10.38,0:02:10.72,GJ,,0,0,0,,{\c&H0000DDFF}to{\c&H00FFFFFF} ignore.
+Dialogue: 0,0:02:10.72,0:02:11.18,GJ,,0,0,0,,to {\c&H0000DDFF}ignore.{\c&H00FFFFFF}
+Dialogue: 0,0:02:11.94,0:02:12.06,GJ,,0,0,0,,{\c&H0000DDFF}Font{\c&H00FFFFFF} map matters more
+Dialogue: 0,0:02:12.06,0:02:12.26,GJ,,0,0,0,,Font {\c&H0000DDFF}map{\c&H00FFFFFF} matters more
+Dialogue: 0,0:02:12.26,0:02:12.74,GJ,,0,0,0,,Font map {\c&H0000DDFF}matters{\c&H00FFFFFF} more
+Dialogue: 0,0:02:12.74,0:02:13.12,GJ,,0,0,0,,Font map matters {\c&H0000DDFF}more{\c&H00FFFFFF}
+Dialogue: 0,0:02:13.00,0:02:13.18,GJ,,0,0,0,,{\c&H0000DDFF}than{\c&H00FFFFFF} you think. Go
+Dialogue: 0,0:02:13.18,0:02:13.32,GJ,,0,0,0,,than {\c&H0000DDFF}you{\c&H00FFFFFF} think. Go
+Dialogue: 0,0:02:13.32,0:02:14.12,GJ,,0,0,0,,than you {\c&H0000DDFF}think.{\c&H00FFFFFF} Go
+Dialogue: 0,0:02:14.12,0:02:14.42,GJ,,0,0,0,,than you think. {\c&H0000DDFF}Go{\c&H00FFFFFF}
+Dialogue: 0,0:02:14.30,0:02:14.94,GJ,,0,0,0,,{\c&H0000DDFF}bold.{\c&H00FFFFFF} Go heavy.
+Dialogue: 0,0:02:14.94,0:02:15.04,GJ,,0,0,0,,bold. {\c&H0000DDFF}Go{\c&H00FFFFFF} heavy.
+Dialogue: 0,0:02:15.04,0:02:15.42,GJ,,0,0,0,,bold. Go {\c&H0000DDFF}heavy.{\c&H00FFFFFF}
+Dialogue: 0,0:02:15.86,0:02:16.38,GJ,,0,0,0,,{\c&H0000DDFF}I'm{\c&H00FFFFFF} using Archivo Black.
+Dialogue: 0,0:02:16.38,0:02:16.60,GJ,,0,0,0,,I'm {\c&H0000DDFF}using{\c&H00FFFFFF} Archivo Black.
+Dialogue: 0,0:02:16.60,0:02:17.04,GJ,,0,0,0,,I'm using {\c&H0000DDFF}Archivo{\c&H00FFFFFF} Black.
+Dialogue: 0,0:02:17.04,0:02:17.56,GJ,,0,0,0,,I'm using Archivo {\c&H0000DDFF}Black.{\c&H00FFFFFF}
+Dialogue: 0,0:02:18.40,0:02:18.48,GJ,,0,0,0,,{\c&H0000DDFF}Bump{\c&H00FFFFFF} the size until
+Dialogue: 0,0:02:18.48,0:02:18.66,GJ,,0,0,0,,Bump {\c&H0000DDFF}the{\c&H00FFFFFF} size until
+Dialogue: 0,0:02:18.66,0:02:18.92,GJ,,0,0,0,,Bump the {\c&H0000DDFF}size{\c&H00FFFFFF} until
+Dialogue: 0,0:02:18.92,0:02:19.30,GJ,,0,0,0,,Bump the size {\c&H0000DDFF}until{\c&H00FFFFFF}
+Dialogue: 0,0:02:19.18,0:02:19.32,GJ,,0,0,0,,{\c&H0000DDFF}it{\c&H00FFFFFF} nearly touches the
+Dialogue: 0,0:02:19.32,0:02:19.50,GJ,,0,0,0,,it {\c&H0000DDFF}nearly{\c&H00FFFFFF} touches the
+Dialogue: 0,0:02:19.50,0:02:19.84,GJ,,0,0,0,,it nearly {\c&H0000DDFF}touches{\c&H00FFFFFF} the
+Dialogue: 0,0:02:19.84,0:02:20.16,GJ,,0,0,0,,it nearly touches {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:02:20.04,0:02:20.74,GJ,,0,0,0,,{\c&H0000DDFF}edges,{\c&H00FFFFFF} then set your
+Dialogue: 0,0:02:20.74,0:02:20.96,GJ,,0,0,0,,edges, {\c&H0000DDFF}then{\c&H00FFFFFF} set your
+Dialogue: 0,0:02:20.96,0:02:21.14,GJ,,0,0,0,,edges, then {\c&H0000DDFF}set{\c&H00FFFFFF} your
+Dialogue: 0,0:02:21.14,0:02:21.40,GJ,,0,0,0,,edges, then set {\c&H0000DDFF}your{\c&H00FFFFFF}
+Dialogue: 0,0:02:21.28,0:02:21.46,GJ,,0,0,0,,{\c&H0000DDFF}two{\c&H00FFFFFF} colors, one for
+Dialogue: 0,0:02:21.46,0:02:22.24,GJ,,0,0,0,,two {\c&H0000DDFF}colors,{\c&H00FFFFFF} one for
+Dialogue: 0,0:02:22.24,0:02:22.48,GJ,,0,0,0,,two colors, {\c&H0000DDFF}one{\c&H00FFFFFF} for
+Dialogue: 0,0:02:22.48,0:02:22.74,GJ,,0,0,0,,two colors, one {\c&H0000DDFF}for{\c&H00FFFFFF}
+Dialogue: 0,0:02:22.62,0:02:22.76,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} background, one for
+Dialogue: 0,0:02:22.76,0:02:23.42,GJ,,0,0,0,,the {\c&H0000DDFF}background,{\c&H00FFFFFF} one for
+Dialogue: 0,0:02:23.42,0:02:23.54,GJ,,0,0,0,,the background, {\c&H0000DDFF}one{\c&H00FFFFFF} for
+Dialogue: 0,0:02:23.54,0:02:23.82,GJ,,0,0,0,,the background, one {\c&H0000DDFF}for{\c&H00FFFFFF}
+Dialogue: 0,0:02:23.70,0:02:23.84,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} text, and make
+Dialogue: 0,0:02:23.84,0:02:24.46,GJ,,0,0,0,,the {\c&H0000DDFF}text,{\c&H00FFFFFF} and make
+Dialogue: 0,0:02:24.46,0:02:24.54,GJ,,0,0,0,,the text, {\c&H0000DDFF}and{\c&H00FFFFFF} make
+Dialogue: 0,0:02:24.54,0:02:24.80,GJ,,0,0,0,,the text, and {\c&H0000DDFF}make{\c&H00FFFFFF}
+Dialogue: 0,0:02:24.68,0:02:24.86,GJ,,0,0,0,,{\c&H0000DDFF}them{\c&H00FFFFFF} fight each other.
+Dialogue: 0,0:02:24.86,0:02:25.04,GJ,,0,0,0,,them {\c&H0000DDFF}fight{\c&H00FFFFFF} each other.
+Dialogue: 0,0:02:25.04,0:02:25.24,GJ,,0,0,0,,them fight {\c&H0000DDFF}each{\c&H00FFFFFF} other.
+Dialogue: 0,0:02:25.24,0:02:25.60,GJ,,0,0,0,,them fight each {\c&H0000DDFF}other.{\c&H00FFFFFF}
+Dialogue: 0,0:02:26.18,0:02:26.28,GJ,,0,0,0,,{\c&H0000DDFF}Dark{\c&H00FFFFFF} background, electric text.
+Dialogue: 0,0:02:26.28,0:02:27.16,GJ,,0,0,0,,Dark {\c&H0000DDFF}background,{\c&H00FFFFFF} electric text.
+Dialogue: 0,0:02:27.16,0:02:27.34,GJ,,0,0,0,,Dark background, {\c&H0000DDFF}electric{\c&H00FFFFFF} text.
+Dialogue: 0,0:02:27.34,0:02:27.86,GJ,,0,0,0,,Dark background, electric {\c&H0000DDFF}text.{\c&H00FFFFFF}
+Dialogue: 0,0:02:28.36,0:02:28.52,GJ,,0,0,0,,{\c&H0000DDFF}If{\c&H00FFFFFF} your brand colors
+Dialogue: 0,0:02:28.52,0:02:28.68,GJ,,0,0,0,,If {\c&H0000DDFF}your{\c&H00FFFFFF} brand colors
+Dialogue: 0,0:02:28.68,0:02:28.96,GJ,,0,0,0,,If your {\c&H0000DDFF}brand{\c&H00FFFFFF} colors
+Dialogue: 0,0:02:28.96,0:02:29.34,GJ,,0,0,0,,If your brand {\c&H0000DDFF}colors{\c&H00FFFFFF}
+Dialogue: 0,0:02:29.22,0:02:29.42,GJ,,0,0,0,,{\c&H0000DDFF}are{\c&H00FFFFFF} soft pastels,
+Dialogue: 0,0:02:29.42,0:02:29.70,GJ,,0,0,0,,are {\c&H0000DDFF}soft{\c&H00FFFFFF} pastels,
+Dialogue: 0,0:02:29.70,0:02:30.34,GJ,,0,0,0,,are soft {\c&H0000DDFF}pastels,{\c&H00FFFFFF}
+Dialogue: 0,0:02:30.86,0:02:31.08,GJ,,0,0,0,,{\c&H0000DDFF}this{\c&H00FFFFFF} is the one
+Dialogue: 0,0:02:31.08,0:02:31.22,GJ,,0,0,0,,this {\c&H0000DDFF}is{\c&H00FFFFFF} the one
+Dialogue: 0,0:02:31.22,0:02:31.40,GJ,,0,0,0,,this is {\c&H0000DDFF}the{\c&H00FFFFFF} one
+Dialogue: 0,0:02:31.40,0:02:31.74,GJ,,0,0,0,,this is the {\c&H0000DDFF}one{\c&H00FFFFFF}
+Dialogue: 0,0:02:31.62,0:02:31.92,GJ,,0,0,0,,{\c&H0000DDFF}place{\c&H00FFFFFF} you betray them.
+Dialogue: 0,0:02:31.92,0:02:32.16,GJ,,0,0,0,,place {\c&H0000DDFF}you{\c&H00FFFFFF} betray them.
+Dialogue: 0,0:02:32.16,0:02:32.42,GJ,,0,0,0,,place you {\c&H0000DDFF}betray{\c&H00FFFFFF} them.
+Dialogue: 0,0:02:32.42,0:02:32.88,GJ,,0,0,0,,place you betray {\c&H0000DDFF}them.{\c&H00FFFFFF}
+Dialogue: 0,0:02:33.32,0:02:33.58,GJ,,0,0,0,,{\c&H0000DDFF}One{\c&H00FFFFFF} more layer. Select
+Dialogue: 0,0:02:33.58,0:02:33.80,GJ,,0,0,0,,One {\c&H0000DDFF}more{\c&H00FFFFFF} layer. Select
+Dialogue: 0,0:02:33.80,0:02:34.64,GJ,,0,0,0,,One more {\c&H0000DDFF}layer.{\c&H00FFFFFF} Select
+Dialogue: 0,0:02:34.64,0:02:35.00,GJ,,0,0,0,,One more layer. {\c&H0000DDFF}Select{\c&H00FFFFFF}
+Dialogue: 0,0:02:34.88,0:02:35.10,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} text, hit
+Dialogue: 0,0:02:35.10,0:02:36.04,GJ,,0,0,0,,the {\c&H0000DDFF}text,{\c&H00FFFFFF} hit
+Dialogue: 0,0:02:36.04,0:02:36.30,GJ,,0,0,0,,the text, {\c&H0000DDFF}hit{\c&H00FFFFFF}
+Dialogue: 0,0:02:36.18,0:02:36.80,GJ,,0,0,0,,{\c&H0000DDFF}effects,{\c&H00FFFFFF} and add a
+Dialogue: 0,0:02:36.80,0:02:36.92,GJ,,0,0,0,,effects, {\c&H0000DDFF}and{\c&H00FFFFFF} add a
+Dialogue: 0,0:02:36.92,0:02:37.06,GJ,,0,0,0,,effects, and {\c&H0000DDFF}add{\c&H00FFFFFF} a
+Dialogue: 0,0:02:37.06,0:02:37.30,GJ,,0,0,0,,effects, and add {\c&H0000DDFF}a{\c&H00FFFFFF}
+Dialogue: 0,0:02:37.18,0:02:38.20,GJ,,0,0,0,,{\c&H0000DDFF}background.{\c&H00FFFFFF} That
+Dialogue: 0,0:02:38.20,0:02:38.60,GJ,,0,0,0,,background. {\c&H0000DDFF}That{\c&H00FFFFFF}
+Dialogue: 0,0:02:38.48,0:02:38.80,GJ,,0,0,0,,{\c&H0000DDFF}little{\c&H00FFFFFF} color block behind
+Dialogue: 0,0:02:38.80,0:02:39.08,GJ,,0,0,0,,little {\c&H0000DDFF}color{\c&H00FFFFFF} block behind
+Dialogue: 0,0:02:39.08,0:02:39.38,GJ,,0,0,0,,little color {\c&H0000DDFF}block{\c&H00FFFFFF} behind
+Dialogue: 0,0:02:39.38,0:02:39.84,GJ,,0,0,0,,little color block {\c&H0000DDFF}behind{\c&H00FFFFFF}
+Dialogue: 0,0:02:39.72,0:02:39.86,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} words. words. It
+Dialogue: 0,0:02:39.86,0:02:40.14,GJ,,0,0,0,,the {\c&H0000DDFF}words.{\c&H00FFFFFF} words. It
+Dialogue: 0,0:02:40.14,0:02:40.96,GJ,,0,0,0,,the words. {\c&H0000DDFF}words.{\c&H00FFFFFF} It
+Dialogue: 0,0:02:40.96,0:02:41.30,GJ,,0,0,0,,the words. words. {\c&H0000DDFF}It{\c&H00FFFFFF}
+Dialogue: 0,0:02:41.18,0:02:41.40,GJ,,0,0,0,,{\c&H0000DDFF}keeps{\c&H00FFFFFF} your hook readable,
+Dialogue: 0,0:02:41.40,0:02:41.58,GJ,,0,0,0,,keeps {\c&H0000DDFF}your{\c&H00FFFFFF} hook readable,
+Dialogue: 0,0:02:41.58,0:02:41.74,GJ,,0,0,0,,keeps your {\c&H0000DDFF}hook{\c&H00FFFFFF} readable,
+Dialogue: 0,0:02:41.74,0:02:42.28,GJ,,0,0,0,,keeps your hook {\c&H0000DDFF}readable,{\c&H00FFFFFF}
+Dialogue: 0,0:02:42.70,0:02:42.86,GJ,,0,0,0,,{\c&H0000DDFF}even{\c&H00FFFFFF} when the video
+Dialogue: 0,0:02:42.86,0:02:43.04,GJ,,0,0,0,,even {\c&H0000DDFF}when{\c&H00FFFFFF} the video
+Dialogue: 0,0:02:43.04,0:02:43.20,GJ,,0,0,0,,even when {\c&H0000DDFF}the{\c&H00FFFFFF} video
+Dialogue: 0,0:02:43.20,0:02:43.54,GJ,,0,0,0,,even when the {\c&H0000DDFF}video{\c&H00FFFFFF}
+Dialogue: 0,0:02:43.42,0:02:43.72,GJ,,0,0,0,,{\c&H0000DDFF}behind{\c&H00FFFFFF} it gets busy.
+Dialogue: 0,0:02:43.72,0:02:43.88,GJ,,0,0,0,,behind {\c&H0000DDFF}it{\c&H00FFFFFF} gets busy.
+Dialogue: 0,0:02:43.88,0:02:44.04,GJ,,0,0,0,,behind it {\c&H0000DDFF}gets{\c&H00FFFFFF} busy.
+Dialogue: 0,0:02:44.04,0:02:44.48,GJ,,0,0,0,,behind it gets {\c&H0000DDFF}busy.{\c&H00FFFFFF}
+Dialogue: 0,0:02:45.08,0:02:45.26,GJ,,0,0,0,,{\c&H0000DDFF}That{\c&H00FFFFFF} one click is
+Dialogue: 0,0:02:45.26,0:02:45.52,GJ,,0,0,0,,That {\c&H0000DDFF}one{\c&H00FFFFFF} click is
+Dialogue: 0,0:02:45.52,0:02:45.78,GJ,,0,0,0,,That one {\c&H0000DDFF}click{\c&H00FFFFFF} is
+Dialogue: 0,0:02:45.78,0:02:46.06,GJ,,0,0,0,,That one click {\c&H0000DDFF}is{\c&H00FFFFFF}
+Dialogue: 0,0:02:45.94,0:02:46.12,GJ,,0,0,0,,{\c&H0000DDFF}doing{\c&H00FFFFFF} more work than
+Dialogue: 0,0:02:46.12,0:02:46.36,GJ,,0,0,0,,doing {\c&H0000DDFF}more{\c&H00FFFFFF} work than
+Dialogue: 0,0:02:46.36,0:02:46.60,GJ,,0,0,0,,doing more {\c&H0000DDFF}work{\c&H00FFFFFF} than
+Dialogue: 0,0:02:46.60,0:02:46.92,GJ,,0,0,0,,doing more work {\c&H0000DDFF}than{\c&H00FFFFFF}
+Dialogue: 0,0:02:46.80,0:02:47.04,GJ,,0,0,0,,{\c&H0000DDFF}any{\c&H00FFFFFF} transition you'll add
+Dialogue: 0,0:02:47.04,0:02:47.44,GJ,,0,0,0,,any {\c&H0000DDFF}transition{\c&H00FFFFFF} you'll add
+Dialogue: 0,0:02:47.44,0:02:47.72,GJ,,0,0,0,,any transition {\c&H0000DDFF}you'll{\c&H00FFFFFF} add
+Dialogue: 0,0:02:47.72,0:02:48.00,GJ,,0,0,0,,any transition you'll {\c&H0000DDFF}add{\c&H00FFFFFF}
+Dialogue: 0,0:02:47.88,0:02:48.34,GJ,,0,0,0,,{\c&H0000DDFF}later.{\c&H00FFFFFF}
+Dialogue: 0,0:02:49.04,0:02:49.22,GJ,,0,0,0,,{\c&H0000DDFF}Now{\c&H00FFFFFF} duplicate that slide
+Dialogue: 0,0:02:49.22,0:02:49.58,GJ,,0,0,0,,Now {\c&H0000DDFF}duplicate{\c&H00FFFFFF} that slide
+Dialogue: 0,0:02:49.58,0:02:50.02,GJ,,0,0,0,,Now duplicate {\c&H0000DDFF}that{\c&H00FFFFFF} slide
+Dialogue: 0,0:02:50.02,0:02:50.50,GJ,,0,0,0,,Now duplicate that {\c&H0000DDFF}slide{\c&H00FFFFFF}
+Dialogue: 0,0:02:50.38,0:02:50.66,GJ,,0,0,0,,{\c&H0000DDFF}three{\c&H00FFFFFF} times, the little
+Dialogue: 0,0:02:50.66,0:02:51.52,GJ,,0,0,0,,three {\c&H0000DDFF}times,{\c&H00FFFFFF} the little
+Dialogue: 0,0:02:51.52,0:02:51.60,GJ,,0,0,0,,three times, {\c&H0000DDFF}the{\c&H00FFFFFF} little
+Dialogue: 0,0:02:51.60,0:02:51.94,GJ,,0,0,0,,three times, the {\c&H0000DDFF}little{\c&H00FFFFFF}
+Dialogue: 0,0:02:51.82,0:02:52.20,GJ,,0,0,0,,{\c&H0000DDFF}duplicate{\c&H00FFFFFF} icon, right
+Dialogue: 0,0:02:52.20,0:02:53.24,GJ,,0,0,0,,duplicate {\c&H0000DDFF}icon,{\c&H00FFFFFF} right
+Dialogue: 0,0:02:53.24,0:02:53.50,GJ,,0,0,0,,duplicate icon, {\c&H0000DDFF}right{\c&H00FFFFFF}
+Dialogue: 0,0:02:53.38,0:02:54.30,GJ,,0,0,0,,{\c&H0000DDFF}here.{\c&H00FFFFFF} Same background,
+Dialogue: 0,0:02:54.30,0:02:54.42,GJ,,0,0,0,,here. {\c&H0000DDFF}Same{\c&H00FFFFFF} background,
+Dialogue: 0,0:02:54.42,0:02:54.94,GJ,,0,0,0,,here. Same {\c&H0000DDFF}background,{\c&H00FFFFFF}
+Dialogue: 0,0:02:55.20,0:02:55.36,GJ,,0,0,0,,{\c&H0000DDFF}same{\c&H00FFFFFF} fonts, same positions.
+Dialogue: 0,0:02:55.36,0:02:55.96,GJ,,0,0,0,,same {\c&H0000DDFF}fonts,{\c&H00FFFFFF} same positions.
+Dialogue: 0,0:02:55.96,0:02:56.08,GJ,,0,0,0,,same fonts, {\c&H0000DDFF}same{\c&H00FFFFFF} positions.
+Dialogue: 0,0:02:56.08,0:02:56.62,GJ,,0,0,0,,same fonts, same {\c&H0000DDFF}positions.{\c&H00FFFFFF}
+Dialogue: 0,0:02:57.12,0:02:57.40,GJ,,0,0,0,,{\c&H0000DDFF}That{\c&H00FFFFFF} consistency is what
+Dialogue: 0,0:02:57.40,0:02:57.88,GJ,,0,0,0,,That {\c&H0000DDFF}consistency{\c&H00FFFFFF} is what
+Dialogue: 0,0:02:57.88,0:02:58.42,GJ,,0,0,0,,That consistency {\c&H0000DDFF}is{\c&H00FFFFFF} what
+Dialogue: 0,0:02:58.42,0:02:58.72,GJ,,0,0,0,,That consistency is {\c&H0000DDFF}what{\c&H00FFFFFF}
+Dialogue: 0,0:02:58.60,0:02:58.86,GJ,,0,0,0,,{\c&H0000DDFF}makes{\c&H00FFFFFF} it feel designed
+Dialogue: 0,0:02:58.86,0:02:59.10,GJ,,0,0,0,,makes {\c&H0000DDFF}it{\c&H00FFFFFF} feel designed
+Dialogue: 0,0:02:59.10,0:02:59.32,GJ,,0,0,0,,makes it {\c&H0000DDFF}feel{\c&H00FFFFFF} designed
+Dialogue: 0,0:02:59.32,0:02:59.92,GJ,,0,0,0,,makes it feel {\c&H0000DDFF}designed{\c&H00FFFFFF}
+Dialogue: 0,0:02:59.80,0:03:00.16,GJ,,0,0,0,,{\c&H0000DDFF}instead{\c&H00FFFFFF} of thrown together,
+Dialogue: 0,0:03:00.16,0:03:00.32,GJ,,0,0,0,,instead {\c&H0000DDFF}of{\c&H00FFFFFF} thrown together,
+Dialogue: 0,0:03:00.32,0:03:00.60,GJ,,0,0,0,,instead of {\c&H0000DDFF}thrown{\c&H00FFFFFF} together,
+Dialogue: 0,0:03:00.60,0:03:01.18,GJ,,0,0,0,,instead of thrown {\c&H0000DDFF}together,{\c&H00FFFFFF}
+Dialogue: 0,0:03:01.50,0:03:01.68,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} it means the
+Dialogue: 0,0:03:01.68,0:03:01.78,GJ,,0,0,0,,and {\c&H0000DDFF}it{\c&H00FFFFFF} means the
+Dialogue: 0,0:03:01.78,0:03:02.06,GJ,,0,0,0,,and it {\c&H0000DDFF}means{\c&H00FFFFFF} the
+Dialogue: 0,0:03:02.06,0:03:02.44,GJ,,0,0,0,,and it means {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:03:02.32,0:03:02.58,GJ,,0,0,0,,{\c&H0000DDFF}text{\c&H00FFFFFF} lands in the
+Dialogue: 0,0:03:02.58,0:03:02.88,GJ,,0,0,0,,text {\c&H0000DDFF}lands{\c&H00FFFFFF} in the
+Dialogue: 0,0:03:02.88,0:03:03.06,GJ,,0,0,0,,text lands {\c&H0000DDFF}in{\c&H00FFFFFF} the
+Dialogue: 0,0:03:03.06,0:03:03.30,GJ,,0,0,0,,text lands in {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:03:03.18,0:03:03.40,GJ,,0,0,0,,{\c&H0000DDFF}same{\c&H00FFFFFF} spot every slide
+Dialogue: 0,0:03:03.40,0:03:03.70,GJ,,0,0,0,,same {\c&H0000DDFF}spot{\c&H00FFFFFF} every slide
+Dialogue: 0,0:03:03.70,0:03:04.00,GJ,,0,0,0,,same spot {\c&H0000DDFF}every{\c&H00FFFFFF} slide
+Dialogue: 0,0:03:04.00,0:03:04.52,GJ,,0,0,0,,same spot every {\c&H0000DDFF}slide{\c&H00FFFFFF}
+Dialogue: 0,0:03:04.40,0:03:04.68,GJ,,0,0,0,,{\c&H0000DDFF}which{\c&H00FFFFFF} matters when we
+Dialogue: 0,0:03:04.68,0:03:05.02,GJ,,0,0,0,,which {\c&H0000DDFF}matters{\c&H00FFFFFF} when we
+Dialogue: 0,0:03:05.02,0:03:05.24,GJ,,0,0,0,,which matters {\c&H0000DDFF}when{\c&H00FFFFFF} we
+Dialogue: 0,0:03:05.24,0:03:05.52,GJ,,0,0,0,,which matters when {\c&H0000DDFF}we{\c&H00FFFFFF}
+Dialogue: 0,0:03:05.40,0:03:05.90,GJ,,0,0,0,,{\c&H0000DDFF}animate.{\c&H00FFFFFF}
+Dialogue: 0,0:03:06.54,0:03:06.66,GJ,,0,0,0,,{\c&H0000DDFF}Slides{\c&H00FFFFFF} 2, 3, and
+Dialogue: 0,0:03:06.66,0:03:07.10,GJ,,0,0,0,,Slides {\c&H0000DDFF}2,{\c&H00FFFFFF} 3, and
+Dialogue: 0,0:03:07.10,0:03:07.42,GJ,,0,0,0,,Slides 2, {\c&H0000DDFF}3,{\c&H00FFFFFF} and
+Dialogue: 0,0:03:07.42,0:03:07.62,GJ,,0,0,0,,Slides 2, 3, {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:03:07.50,0:03:07.74,GJ,,0,0,0,,{\c&H0000DDFF}4{\c&H00FFFFFF} are your actual
+Dialogue: 0,0:03:07.74,0:03:07.98,GJ,,0,0,0,,4 {\c&H0000DDFF}are{\c&H00FFFFFF} your actual
+Dialogue: 0,0:03:07.98,0:03:08.22,GJ,,0,0,0,,4 are {\c&H0000DDFF}your{\c&H00FFFFFF} actual
+Dialogue: 0,0:03:08.22,0:03:08.80,GJ,,0,0,0,,4 are your {\c&H0000DDFF}actual{\c&H00FFFFFF}
+Dialogue: 0,0:03:08.68,0:03:09.76,GJ,,0,0,0,,{\c&H0000DDFF}content.{\c&H00FFFFFF} One idea
+Dialogue: 0,0:03:09.76,0:03:09.96,GJ,,0,0,0,,content. {\c&H0000DDFF}One{\c&H00FFFFFF} idea
+Dialogue: 0,0:03:09.96,0:03:10.40,GJ,,0,0,0,,content. One {\c&H0000DDFF}idea{\c&H00FFFFFF}
+Dialogue: 0,0:03:10.28,0:03:10.50,GJ,,0,0,0,,{\c&H0000DDFF}per{\c&H00FFFFFF} slide, one line
+Dialogue: 0,0:03:10.50,0:03:11.08,GJ,,0,0,0,,per {\c&H0000DDFF}slide,{\c&H00FFFFFF} one line
+Dialogue: 0,0:03:11.08,0:03:11.42,GJ,,0,0,0,,per slide, {\c&H0000DDFF}one{\c&H00FFFFFF} line
+Dialogue: 0,0:03:11.42,0:03:11.76,GJ,,0,0,0,,per slide, one {\c&H0000DDFF}line{\c&H00FFFFFF}
+Dialogue: 0,0:03:11.64,0:03:11.80,GJ,,0,0,0,,{\c&H0000DDFF}of{\c&H00FFFFFF} setup, and one
+Dialogue: 0,0:03:11.80,0:03:12.26,GJ,,0,0,0,,of {\c&H0000DDFF}setup,{\c&H00FFFFFF} and one
+Dialogue: 0,0:03:12.26,0:03:12.38,GJ,,0,0,0,,of setup, {\c&H0000DDFF}and{\c&H00FFFFFF} one
+Dialogue: 0,0:03:12.38,0:03:12.70,GJ,,0,0,0,,of setup, and {\c&H0000DDFF}one{\c&H00FFFFFF}
+Dialogue: 0,0:03:12.58,0:03:12.76,GJ,,0,0,0,,{\c&H0000DDFF}line{\c&H00FFFFFF} of payoff.
+Dialogue: 0,0:03:12.76,0:03:12.92,GJ,,0,0,0,,line {\c&H0000DDFF}of{\c&H00FFFFFF} payoff.
+Dialogue: 0,0:03:12.92,0:03:13.30,GJ,,0,0,0,,line of {\c&H0000DDFF}payoff.{\c&H00FFFFFF}
+Dialogue: 0,0:03:13.94,0:03:14.14,GJ,,0,0,0,,{\c&H0000DDFF}Nobody{\c&H00FFFFFF} reads a paragraph
+Dialogue: 0,0:03:14.14,0:03:14.46,GJ,,0,0,0,,Nobody {\c&H0000DDFF}reads{\c&H00FFFFFF} a paragraph
+Dialogue: 0,0:03:14.46,0:03:14.62,GJ,,0,0,0,,Nobody reads {\c&H0000DDFF}a{\c&H00FFFFFF} paragraph
+Dialogue: 0,0:03:14.62,0:03:15.12,GJ,,0,0,0,,Nobody reads a {\c&H0000DDFF}paragraph{\c&H00FFFFFF}
+Dialogue: 0,0:03:15.00,0:03:15.20,GJ,,0,0,0,,{\c&H0000DDFF}in{\c&H00FFFFFF} a reel. If
+Dialogue: 0,0:03:15.20,0:03:15.32,GJ,,0,0,0,,in {\c&H0000DDFF}a{\c&H00FFFFFF} reel. If
+Dialogue: 0,0:03:15.32,0:03:16.02,GJ,,0,0,0,,in a {\c&H0000DDFF}reel.{\c&H00FFFFFF} If
+Dialogue: 0,0:03:16.02,0:03:16.28,GJ,,0,0,0,,in a reel. {\c&H0000DDFF}If{\c&H00FFFFFF}
+Dialogue: 0,0:03:16.16,0:03:16.32,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} slide needs more
+Dialogue: 0,0:03:16.32,0:03:16.52,GJ,,0,0,0,,a {\c&H0000DDFF}slide{\c&H00FFFFFF} needs more
+Dialogue: 0,0:03:16.52,0:03:16.72,GJ,,0,0,0,,a slide {\c&H0000DDFF}needs{\c&H00FFFFFF} more
+Dialogue: 0,0:03:16.72,0:03:17.12,GJ,,0,0,0,,a slide needs {\c&H0000DDFF}more{\c&H00FFFFFF}
+Dialogue: 0,0:03:17.00,0:03:17.18,GJ,,0,0,0,,{\c&H0000DDFF}than{\c&H00FFFFFF} two short lines,
+Dialogue: 0,0:03:17.18,0:03:17.40,GJ,,0,0,0,,than {\c&H0000DDFF}two{\c&H00FFFFFF} short lines,
+Dialogue: 0,0:03:17.40,0:03:17.68,GJ,,0,0,0,,than two {\c&H0000DDFF}short{\c&H00FFFFFF} lines,
+Dialogue: 0,0:03:17.68,0:03:18.12,GJ,,0,0,0,,than two short {\c&H0000DDFF}lines,{\c&H00FFFFFF}
+Dialogue: 0,0:03:18.26,0:03:18.54,GJ,,0,0,0,,{\c&H0000DDFF}it's{\c&H00FFFFFF} two slides.
+Dialogue: 0,0:03:18.54,0:03:18.72,GJ,,0,0,0,,it's {\c&H0000DDFF}two{\c&H00FFFFFF} slides.
+Dialogue: 0,0:03:18.72,0:03:19.18,GJ,,0,0,0,,it's two {\c&H0000DDFF}slides.{\c&H00FFFFFF}
+Dialogue: 0,0:03:19.74,0:03:19.96,GJ,,0,0,0,,{\c&H0000DDFF}Let's{\c&H00FFFFFF} make it feel
+Dialogue: 0,0:03:19.96,0:03:20.10,GJ,,0,0,0,,Let's {\c&H0000DDFF}make{\c&H00FFFFFF} it feel
+Dialogue: 0,0:03:20.10,0:03:20.28,GJ,,0,0,0,,Let's make {\c&H0000DDFF}it{\c&H00FFFFFF} feel
+Dialogue: 0,0:03:20.28,0:03:20.66,GJ,,0,0,0,,Let's make it {\c&H0000DDFF}feel{\c&H00FFFFFF}
+Dialogue: 0,0:03:20.54,0:03:21.24,GJ,,0,0,0,,{\c&H0000DDFF}alive.{\c&H00FFFFFF}
+Dialogue: 0,0:03:22.34,0:03:22.34,GJ,,0,0,0,,{\c&H0000DDFF}Photos{\c&H00FFFFFF} or graphics. Click
+Dialogue: 0,0:03:22.34,0:03:22.52,GJ,,0,0,0,,Photos {\c&H0000DDFF}or{\c&H00FFFFFF} graphics. Click
+Dialogue: 0,0:03:22.52,0:03:23.34,GJ,,0,0,0,,Photos or {\c&H0000DDFF}graphics.{\c&H00FFFFFF} Click
+Dialogue: 0,0:03:23.34,0:03:23.62,GJ,,0,0,0,,Photos or graphics. {\c&H0000DDFF}Click{\c&H00FFFFFF}
+Dialogue: 0,0:03:23.50,0:03:24.00,GJ,,0,0,0,,{\c&H0000DDFF}elements,{\c&H00FFFFFF} and if you're
+Dialogue: 0,0:03:24.00,0:03:24.18,GJ,,0,0,0,,elements, {\c&H0000DDFF}and{\c&H00FFFFFF} if you're
+Dialogue: 0,0:03:24.18,0:03:24.28,GJ,,0,0,0,,elements, and {\c&H0000DDFF}if{\c&H00FFFFFF} you're
+Dialogue: 0,0:03:24.28,0:03:24.54,GJ,,0,0,0,,elements, and if {\c&H0000DDFF}you're{\c&H00FFFFFF}
+Dialogue: 0,0:03:24.42,0:03:24.68,GJ,,0,0,0,,{\c&H0000DDFF}dropping{\c&H00FFFFFF} a product shot
+Dialogue: 0,0:03:24.68,0:03:24.96,GJ,,0,0,0,,dropping {\c&H0000DDFF}a{\c&H00FFFFFF} product shot
+Dialogue: 0,0:03:24.96,0:03:25.18,GJ,,0,0,0,,dropping a {\c&H0000DDFF}product{\c&H00FFFFFF} shot
+Dialogue: 0,0:03:25.18,0:03:25.56,GJ,,0,0,0,,dropping a product {\c&H0000DDFF}shot{\c&H00FFFFFF}
+Dialogue: 0,0:03:25.44,0:03:25.72,GJ,,0,0,0,,{\c&H0000DDFF}or{\c&H00FFFFFF} a face in,
+Dialogue: 0,0:03:25.72,0:03:25.82,GJ,,0,0,0,,or {\c&H0000DDFF}a{\c&H00FFFFFF} face in,
+Dialogue: 0,0:03:25.82,0:03:26.04,GJ,,0,0,0,,or a {\c&H0000DDFF}face{\c&H00FFFFFF} in,
+Dialogue: 0,0:03:26.04,0:03:26.46,GJ,,0,0,0,,or a face {\c&H0000DDFF}in,{\c&H00FFFFFF}
+Dialogue: 0,0:03:26.68,0:03:26.94,GJ,,0,0,0,,{\c&H0000DDFF}use{\c&H00FFFFFF} Edit Photo and
+Dialogue: 0,0:03:26.94,0:03:27.20,GJ,,0,0,0,,use {\c&H0000DDFF}Edit{\c&H00FFFFFF} Photo and
+Dialogue: 0,0:03:27.20,0:03:27.46,GJ,,0,0,0,,use Edit {\c&H0000DDFF}Photo{\c&H00FFFFFF} and
+Dialogue: 0,0:03:27.46,0:03:27.88,GJ,,0,0,0,,use Edit Photo {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:03:27.76,0:03:28.10,GJ,,0,0,0,,{\c&H0000DDFF}Background{\c&H00FFFFFF} Remover.
+Dialogue: 0,0:03:28.10,0:03:28.66,GJ,,0,0,0,,Background {\c&H0000DDFF}Remover.{\c&H00FFFFFF}
+Dialogue: 0,0:03:29.26,0:03:29.94,GJ,,0,0,0,,{\c&H0000DDFF}Yes,{\c&H00FFFFFF} that's now on
+Dialogue: 0,0:03:29.94,0:03:30.28,GJ,,0,0,0,,Yes, {\c&H0000DDFF}that's{\c&H00FFFFFF} now on
+Dialogue: 0,0:03:30.28,0:03:30.50,GJ,,0,0,0,,Yes, that's {\c&H0000DDFF}now{\c&H00FFFFFF} on
+Dialogue: 0,0:03:30.50,0:03:30.86,GJ,,0,0,0,,Yes, that's now {\c&H0000DDFF}on{\c&H00FFFFFF}
+Dialogue: 0,0:03:30.74,0:03:30.86,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} free tier. So
+Dialogue: 0,0:03:30.86,0:03:31.04,GJ,,0,0,0,,the {\c&H0000DDFF}free{\c&H00FFFFFF} tier. So
+Dialogue: 0,0:03:31.04,0:03:31.74,GJ,,0,0,0,,the free {\c&H0000DDFF}tier.{\c&H00FFFFFF} So
+Dialogue: 0,0:03:31.74,0:03:32.08,GJ,,0,0,0,,the free tier. {\c&H0000DDFF}So{\c&H00FFFFFF}
+Dialogue: 0,0:03:31.96,0:03:32.06,GJ,,0,0,0,,{\c&H0000DDFF}it{\c&H00FFFFFF} sits on your
+Dialogue: 0,0:03:32.06,0:03:32.22,GJ,,0,0,0,,it {\c&H0000DDFF}sits{\c&H00FFFFFF} on your
+Dialogue: 0,0:03:32.22,0:03:32.44,GJ,,0,0,0,,it sits {\c&H0000DDFF}on{\c&H00FFFFFF} your
+Dialogue: 0,0:03:32.44,0:03:32.68,GJ,,0,0,0,,it sits on {\c&H0000DDFF}your{\c&H00FFFFFF}
+Dialogue: 0,0:03:32.56,0:03:32.84,GJ,,0,0,0,,{\c&H0000DDFF}color{\c&H00FFFFFF} instead of inside
+Dialogue: 0,0:03:32.84,0:03:33.30,GJ,,0,0,0,,color {\c&H0000DDFF}instead{\c&H00FFFFFF} of inside
+Dialogue: 0,0:03:33.30,0:03:33.48,GJ,,0,0,0,,color instead {\c&H0000DDFF}of{\c&H00FFFFFF} inside
+Dialogue: 0,0:03:33.48,0:03:34.02,GJ,,0,0,0,,color instead of {\c&H0000DDFF}inside{\c&H00FFFFFF}
+Dialogue: 0,0:03:33.90,0:03:34.16,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} white box.
+Dialogue: 0,0:03:34.16,0:03:34.36,GJ,,0,0,0,,a {\c&H0000DDFF}white{\c&H00FFFFFF} box.
+Dialogue: 0,0:03:34.36,0:03:34.98,GJ,,0,0,0,,a white {\c&H0000DDFF}box.{\c&H00FFFFFF}
+Dialogue: 0,0:03:35.70,0:03:36.00,GJ,,0,0,0,,{\c&H0000DDFF}Animation{\c&H00FFFFFF} time, and here's
+Dialogue: 0,0:03:36.00,0:03:36.62,GJ,,0,0,0,,Animation {\c&H0000DDFF}time,{\c&H00FFFFFF} and here's
+Dialogue: 0,0:03:36.62,0:03:36.62,GJ,,0,0,0,,Animation time, {\c&H0000DDFF}and{\c&H00FFFFFF} here's
+Dialogue: 0,0:03:36.62,0:03:37.00,GJ,,0,0,0,,Animation time, and {\c&H0000DDFF}here's{\c&H00FFFFFF}
+Dialogue: 0,0:03:36.88,0:03:37.00,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} rule. One animation
+Dialogue: 0,0:03:37.00,0:03:37.74,GJ,,0,0,0,,the {\c&H0000DDFF}rule.{\c&H00FFFFFF} One animation
+Dialogue: 0,0:03:37.74,0:03:38.00,GJ,,0,0,0,,the rule. {\c&H0000DDFF}One{\c&H00FFFFFF} animation
+Dialogue: 0,0:03:38.00,0:03:38.46,GJ,,0,0,0,,the rule. One {\c&H0000DDFF}animation{\c&H00FFFFFF}
+Dialogue: 0,0:03:38.34,0:03:38.74,GJ,,0,0,0,,{\c&H0000DDFF}style{\c&H00FFFFFF} for the whole
+Dialogue: 0,0:03:38.74,0:03:39.02,GJ,,0,0,0,,style {\c&H0000DDFF}for{\c&H00FFFFFF} the whole
+Dialogue: 0,0:03:39.02,0:03:39.14,GJ,,0,0,0,,style for {\c&H0000DDFF}the{\c&H00FFFFFF} whole
+Dialogue: 0,0:03:39.14,0:03:39.46,GJ,,0,0,0,,style for the {\c&H0000DDFF}whole{\c&H00FFFFFF}
+Dialogue: 0,0:03:39.34,0:03:40.14,GJ,,0,0,0,,{\c&H0000DDFF}reel.{\c&H00FFFFFF} Select the page,
+Dialogue: 0,0:03:40.14,0:03:40.40,GJ,,0,0,0,,reel. {\c&H0000DDFF}Select{\c&H00FFFFFF} the page,
+Dialogue: 0,0:03:40.40,0:03:40.58,GJ,,0,0,0,,reel. Select {\c&H0000DDFF}the{\c&H00FFFFFF} page,
+Dialogue: 0,0:03:40.58,0:03:41.04,GJ,,0,0,0,,reel. Select the {\c&H0000DDFF}page,{\c&H00FFFFFF}
+Dialogue: 0,0:03:41.26,0:03:41.46,GJ,,0,0,0,,{\c&H0000DDFF}click{\c&H00FFFFFF} animate, and look
+Dialogue: 0,0:03:41.46,0:03:42.22,GJ,,0,0,0,,click {\c&H0000DDFF}animate,{\c&H00FFFFFF} and look
+Dialogue: 0,0:03:42.22,0:03:42.38,GJ,,0,0,0,,click animate, {\c&H0000DDFF}and{\c&H00FFFFFF} look
+Dialogue: 0,0:03:42.38,0:03:42.62,GJ,,0,0,0,,click animate, and {\c&H0000DDFF}look{\c&H00FFFFFF}
+Dialogue: 0,0:03:42.50,0:03:42.64,GJ,,0,0,0,,{\c&H0000DDFF}at{\c&H00FFFFFF} these. For reels
+Dialogue: 0,0:03:42.64,0:03:43.40,GJ,,0,0,0,,at {\c&H0000DDFF}these.{\c&H00FFFFFF} For reels
+Dialogue: 0,0:03:43.40,0:03:43.56,GJ,,0,0,0,,at these. {\c&H0000DDFF}For{\c&H00FFFFFF} reels
+Dialogue: 0,0:03:43.56,0:03:43.96,GJ,,0,0,0,,at these. For {\c&H0000DDFF}reels{\c&H00FFFFFF}
+Dialogue: 0,0:03:43.84,0:03:44.00,GJ,,0,0,0,,{\c&H0000DDFF}you{\c&H00FFFFFF} want the aggressive
+Dialogue: 0,0:03:44.00,0:03:44.16,GJ,,0,0,0,,you {\c&H0000DDFF}want{\c&H00FFFFFF} the aggressive
+Dialogue: 0,0:03:44.16,0:03:44.30,GJ,,0,0,0,,you want {\c&H0000DDFF}the{\c&H00FFFFFF} aggressive
+Dialogue: 0,0:03:44.30,0:03:44.72,GJ,,0,0,0,,you want the {\c&H0000DDFF}aggressive{\c&H00FFFFFF}
+Dialogue: 0,0:03:44.60,0:03:45.50,GJ,,0,0,0,,{\c&H0000DDFF}ones.{\c&H00FFFFFF} Pop, tumble,
+Dialogue: 0,0:03:45.50,0:03:45.82,GJ,,0,0,0,,ones. {\c&H0000DDFF}Pop,{\c&H00FFFFFF} tumble,
+Dialogue: 0,0:03:45.82,0:03:46.06,GJ,,0,0,0,,ones. Pop, {\c&H0000DDFF}tumble,{\c&H00FFFFFF}
+Dialogue: 0,0:03:46.18,0:03:46.60,GJ,,0,0,0,,{\c&H0000DDFF}breathe,{\c&H00FFFFFF} I'm using pop.
+Dialogue: 0,0:03:46.60,0:03:46.72,GJ,,0,0,0,,breathe, {\c&H0000DDFF}I'm{\c&H00FFFFFF} using pop.
+Dialogue: 0,0:03:46.72,0:03:46.94,GJ,,0,0,0,,breathe, I'm {\c&H0000DDFF}using{\c&H00FFFFFF} pop.
+Dialogue: 0,0:03:46.94,0:03:47.32,GJ,,0,0,0,,breathe, I'm using {\c&H0000DDFF}pop.{\c&H00FFFFFF}
+Dialogue: 0,0:03:47.70,0:03:47.82,GJ,,0,0,0,,{\c&H0000DDFF}Click{\c&H00FFFFFF} it once, and
+Dialogue: 0,0:03:47.82,0:03:47.96,GJ,,0,0,0,,Click {\c&H0000DDFF}it{\c&H00FFFFFF} once, and
+Dialogue: 0,0:03:47.96,0:03:48.54,GJ,,0,0,0,,Click it {\c&H0000DDFF}once,{\c&H00FFFFFF} and
+Dialogue: 0,0:03:48.54,0:03:48.84,GJ,,0,0,0,,Click it once, {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:03:48.72,0:03:48.80,GJ,,0,0,0,,{\c&H0000DDFF}it{\c&H00FFFFFF} applies to the
+Dialogue: 0,0:03:48.80,0:03:49.08,GJ,,0,0,0,,it {\c&H0000DDFF}applies{\c&H00FFFFFF} to the
+Dialogue: 0,0:03:49.08,0:03:49.28,GJ,,0,0,0,,it applies {\c&H0000DDFF}to{\c&H00FFFFFF} the
+Dialogue: 0,0:03:49.28,0:03:49.52,GJ,,0,0,0,,it applies to {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:03:49.40,0:03:50.24,GJ,,0,0,0,,{\c&H0000DDFF}page.{\c&H00FFFFFF} Do the same
+Dialogue: 0,0:03:50.24,0:03:50.36,GJ,,0,0,0,,page. {\c&H0000DDFF}Do{\c&H00FFFFFF} the same
+Dialogue: 0,0:03:50.36,0:03:50.52,GJ,,0,0,0,,page. Do {\c&H0000DDFF}the{\c&H00FFFFFF} same
+Dialogue: 0,0:03:50.52,0:03:50.86,GJ,,0,0,0,,page. Do the {\c&H0000DDFF}same{\c&H00FFFFFF}
+Dialogue: 0,0:03:50.74,0:03:50.94,GJ,,0,0,0,,{\c&H0000DDFF}on{\c&H00FFFFFF} every slide. Skip
+Dialogue: 0,0:03:50.94,0:03:51.18,GJ,,0,0,0,,on {\c&H0000DDFF}every{\c&H00FFFFFF} slide. Skip
+Dialogue: 0,0:03:51.18,0:03:52.02,GJ,,0,0,0,,on every {\c&H0000DDFF}slide.{\c&H00FFFFFF} Skip
+Dialogue: 0,0:03:52.02,0:03:52.36,GJ,,0,0,0,,on every slide. {\c&H0000DDFF}Skip{\c&H00FFFFFF}
+Dialogue: 0,0:03:52.24,0:03:52.42,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} gentle fades, gentle
+Dialogue: 0,0:03:52.42,0:03:52.66,GJ,,0,0,0,,the {\c&H0000DDFF}gentle{\c&H00FFFFFF} fades, gentle
+Dialogue: 0,0:03:52.66,0:03:53.46,GJ,,0,0,0,,the gentle {\c&H0000DDFF}fades,{\c&H00FFFFFF} gentle
+Dialogue: 0,0:03:53.46,0:03:53.80,GJ,,0,0,0,,the gentle fades, {\c&H0000DDFF}gentle{\c&H00FFFFFF}
+Dialogue: 0,0:03:53.68,0:03:53.96,GJ,,0,0,0,,{\c&H0000DDFF}reads{\c&H00FFFFFF} as slow, and
+Dialogue: 0,0:03:53.96,0:03:54.16,GJ,,0,0,0,,reads {\c&H0000DDFF}as{\c&H00FFFFFF} slow, and
+Dialogue: 0,0:03:54.16,0:03:54.86,GJ,,0,0,0,,reads as {\c&H0000DDFF}slow,{\c&H00FFFFFF} and
+Dialogue: 0,0:03:54.86,0:03:55.18,GJ,,0,0,0,,reads as slow, {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:03:55.06,0:03:55.28,GJ,,0,0,0,,{\c&H0000DDFF}slow{\c&H00FFFFFF} gets scrolled.
+Dialogue: 0,0:03:55.28,0:03:55.48,GJ,,0,0,0,,slow {\c&H0000DDFF}gets{\c&H00FFFFFF} scrolled.
+Dialogue: 0,0:03:55.48,0:03:56.02,GJ,,0,0,0,,slow gets {\c&H0000DDFF}scrolled.{\c&H00FFFFFF}
+Dialogue: 0,0:03:56.50,0:03:57.04,GJ,,0,0,0,,{\c&H0000DDFF}Now,{\c&H00FFFFFF} timing. Each
+Dialogue: 0,0:03:57.04,0:03:57.62,GJ,,0,0,0,,Now, {\c&H0000DDFF}timing.{\c&H00FFFFFF} Each
+Dialogue: 0,0:03:57.62,0:03:57.92,GJ,,0,0,0,,Now, timing. {\c&H0000DDFF}Each{\c&H00FFFFFF}
+Dialogue: 0,0:03:57.80,0:03:58.18,GJ,,0,0,0,,{\c&H0000DDFF}slide's{\c&H00FFFFFF} got a duration
+Dialogue: 0,0:03:58.18,0:03:58.32,GJ,,0,0,0,,slide's {\c&H0000DDFF}got{\c&H00FFFFFF} a duration
+Dialogue: 0,0:03:58.32,0:03:58.46,GJ,,0,0,0,,slide's got {\c&H0000DDFF}a{\c&H00FFFFFF} duration
+Dialogue: 0,0:03:58.46,0:03:58.90,GJ,,0,0,0,,slide's got a {\c&H0000DDFF}duration{\c&H00FFFFFF}
+Dialogue: 0,0:03:58.78,0:03:59.04,GJ,,0,0,0,,{\c&H0000DDFF}on{\c&H00FFFFFF} it. Click the
+Dialogue: 0,0:03:59.04,0:03:59.64,GJ,,0,0,0,,on {\c&H0000DDFF}it.{\c&H00FFFFFF} Click the
+Dialogue: 0,0:03:59.64,0:03:59.80,GJ,,0,0,0,,on it. {\c&H0000DDFF}Click{\c&H00FFFFFF} the
+Dialogue: 0,0:03:59.80,0:04:00.08,GJ,,0,0,0,,on it. Click {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:03:59.96,0:04:00.06,GJ,,0,0,0,,{\c&H0000DDFF}little{\c&H00FFFFFF} clock. Hook slide.
+Dialogue: 0,0:04:00.06,0:04:01.12,GJ,,0,0,0,,little {\c&H0000DDFF}clock.{\c&H00FFFFFF} Hook slide.
+Dialogue: 0,0:04:01.12,0:04:01.22,GJ,,0,0,0,,little clock. {\c&H0000DDFF}Hook{\c&H00FFFFFF} slide.
+Dialogue: 0,0:04:01.22,0:04:01.64,GJ,,0,0,0,,little clock. Hook {\c&H0000DDFF}slide.{\c&H00FFFFFF}
+Dialogue: 0,0:04:02.04,0:04:02.14,GJ,,0,0,0,,{\c&H0000DDFF}One{\c&H00FFFFFF} and a half
+Dialogue: 0,0:04:02.14,0:04:02.26,GJ,,0,0,0,,One {\c&H0000DDFF}and{\c&H00FFFFFF} a half
+Dialogue: 0,0:04:02.26,0:04:02.36,GJ,,0,0,0,,One and {\c&H0000DDFF}a{\c&H00FFFFFF} half
+Dialogue: 0,0:04:02.36,0:04:02.62,GJ,,0,0,0,,One and a {\c&H0000DDFF}half{\c&H00FFFFFF}
+Dialogue: 0,0:04:02.50,0:04:03.04,GJ,,0,0,0,,{\c&H0000DDFF}seconds,{\c&H00FFFFFF} no
+Dialogue: 0,0:04:03.04,0:04:03.86,GJ,,0,0,0,,seconds, {\c&H0000DDFF}no{\c&H00FFFFFF}
+Dialogue: 0,0:04:03.74,0:04:04.66,GJ,,0,0,0,,{\c&H0000DDFF}longer.{\c&H00FFFFFF} Content slides.
+Dialogue: 0,0:04:04.66,0:04:04.90,GJ,,0,0,0,,longer. {\c&H0000DDFF}Content{\c&H00FFFFFF} slides.
+Dialogue: 0,0:04:04.90,0:04:05.36,GJ,,0,0,0,,longer. Content {\c&H0000DDFF}slides.{\c&H00FFFFFF}
+Dialogue: 0,0:04:05.68,0:04:05.82,GJ,,0,0,0,,{\c&H0000DDFF}Two{\c&H00FFFFFF} to two and
+Dialogue: 0,0:04:05.82,0:04:05.96,GJ,,0,0,0,,Two {\c&H0000DDFF}to{\c&H00FFFFFF} two and
+Dialogue: 0,0:04:05.96,0:04:06.10,GJ,,0,0,0,,Two to {\c&H0000DDFF}two{\c&H00FFFFFF} and
+Dialogue: 0,0:04:06.10,0:04:06.38,GJ,,0,0,0,,Two to two {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:04:06.26,0:04:06.30,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} half seconds each.
+Dialogue: 0,0:04:06.30,0:04:06.48,GJ,,0,0,0,,a {\c&H0000DDFF}half{\c&H00FFFFFF} seconds each.
+Dialogue: 0,0:04:06.48,0:04:06.74,GJ,,0,0,0,,a half {\c&H0000DDFF}seconds{\c&H00FFFFFF} each.
+Dialogue: 0,0:04:06.74,0:04:07.14,GJ,,0,0,0,,a half seconds {\c&H0000DDFF}each.{\c&H00FFFFFF}
+Dialogue: 0,0:04:07.42,0:04:07.56,GJ,,0,0,0,,{\c&H0000DDFF}That{\c&H00FFFFFF} feels brutally fast
+Dialogue: 0,0:04:07.56,0:04:07.78,GJ,,0,0,0,,That {\c&H0000DDFF}feels{\c&H00FFFFFF} brutally fast
+Dialogue: 0,0:04:07.78,0:04:08.18,GJ,,0,0,0,,That feels {\c&H0000DDFF}brutally{\c&H00FFFFFF} fast
+Dialogue: 0,0:04:08.18,0:04:08.64,GJ,,0,0,0,,That feels brutally {\c&H0000DDFF}fast{\c&H00FFFFFF}
+Dialogue: 0,0:04:08.52,0:04:08.74,GJ,,0,0,0,,{\c&H0000DDFF}while{\c&H00FFFFFF} you're editing and
+Dialogue: 0,0:04:08.74,0:04:08.90,GJ,,0,0,0,,while {\c&H0000DDFF}you're{\c&H00FFFFFF} editing and
+Dialogue: 0,0:04:08.90,0:04:09.18,GJ,,0,0,0,,while you're {\c&H0000DDFF}editing{\c&H00FFFFFF} and
+Dialogue: 0,0:04:09.18,0:04:09.58,GJ,,0,0,0,,while you're editing {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:04:09.46,0:04:09.84,GJ,,0,0,0,,{\c&H0000DDFF}exactly{\c&H00FFFFFF} right when you're
+Dialogue: 0,0:04:09.84,0:04:10.14,GJ,,0,0,0,,exactly {\c&H0000DDFF}right{\c&H00FFFFFF} when you're
+Dialogue: 0,0:04:10.14,0:04:10.32,GJ,,0,0,0,,exactly right {\c&H0000DDFF}when{\c&H00FFFFFF} you're
+Dialogue: 0,0:04:10.32,0:04:10.60,GJ,,0,0,0,,exactly right when {\c&H0000DDFF}you're{\c&H00FFFFFF}
+Dialogue: 0,0:04:10.48,0:04:11.36,GJ,,0,0,0,,{\c&H0000DDFF}scrolling.{\c&H00FFFFFF} One last
+Dialogue: 0,0:04:11.36,0:04:11.60,GJ,,0,0,0,,scrolling. {\c&H0000DDFF}One{\c&H00FFFFFF} last
+Dialogue: 0,0:04:11.60,0:04:11.96,GJ,,0,0,0,,scrolling. One {\c&H0000DDFF}last{\c&H00FFFFFF}
+Dialogue: 0,0:04:11.84,0:04:12.10,GJ,,0,0,0,,{\c&H0000DDFF}page{\c&H00FFFFFF} before we export.
+Dialogue: 0,0:04:12.10,0:04:12.42,GJ,,0,0,0,,page {\c&H0000DDFF}before{\c&H00FFFFFF} we export.
+Dialogue: 0,0:04:12.42,0:04:12.60,GJ,,0,0,0,,page before {\c&H0000DDFF}we{\c&H00FFFFFF} export.
+Dialogue: 0,0:04:12.60,0:04:13.12,GJ,,0,0,0,,page before we {\c&H0000DDFF}export.{\c&H00FFFFFF}
+Dialogue: 0,0:04:13.62,0:04:13.96,GJ,,0,0,0,,{\c&H0000DDFF}Duplicate{\c&H00FFFFFF} your hook slide
+Dialogue: 0,0:04:13.96,0:04:14.14,GJ,,0,0,0,,Duplicate {\c&H0000DDFF}your{\c&H00FFFFFF} hook slide
+Dialogue: 0,0:04:14.14,0:04:14.32,GJ,,0,0,0,,Duplicate your {\c&H0000DDFF}hook{\c&H00FFFFFF} slide
+Dialogue: 0,0:04:14.32,0:04:14.72,GJ,,0,0,0,,Duplicate your hook {\c&H0000DDFF}slide{\c&H00FFFFFF}
+Dialogue: 0,0:04:14.60,0:04:15.02,GJ,,0,0,0,,{\c&H0000DDFF}one{\c&H00FFFFFF} more time and
+Dialogue: 0,0:04:15.02,0:04:15.24,GJ,,0,0,0,,one {\c&H0000DDFF}more{\c&H00FFFFFF} time and
+Dialogue: 0,0:04:15.24,0:04:15.58,GJ,,0,0,0,,one more {\c&H0000DDFF}time{\c&H00FFFFFF} and
+Dialogue: 0,0:04:15.58,0:04:16.28,GJ,,0,0,0,,one more time {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:04:16.16,0:04:16.40,GJ,,0,0,0,,{\c&H0000DDFF}tweak{\c&H00FFFFFF} it into a
+Dialogue: 0,0:04:16.40,0:04:16.54,GJ,,0,0,0,,tweak {\c&H0000DDFF}it{\c&H00FFFFFF} into a
+Dialogue: 0,0:04:16.54,0:04:16.74,GJ,,0,0,0,,tweak it {\c&H0000DDFF}into{\c&H00FFFFFF} a
+Dialogue: 0,0:04:16.74,0:04:17.04,GJ,,0,0,0,,tweak it into {\c&H0000DDFF}a{\c&H00FFFFFF}
+Dialogue: 0,0:04:16.92,0:04:17.60,GJ,,0,0,0,,{\c&H0000DDFF}cover.{\c&H00FFFFFF} This page never
+Dialogue: 0,0:04:17.60,0:04:17.80,GJ,,0,0,0,,cover. {\c&H0000DDFF}This{\c&H00FFFFFF} page never
+Dialogue: 0,0:04:17.80,0:04:18.06,GJ,,0,0,0,,cover. This {\c&H0000DDFF}page{\c&H00FFFFFF} never
+Dialogue: 0,0:04:18.06,0:04:18.44,GJ,,0,0,0,,cover. This page {\c&H0000DDFF}never{\c&H00FFFFFF}
+Dialogue: 0,0:04:18.32,0:04:18.62,GJ,,0,0,0,,{\c&H0000DDFF}plays{\c&H00FFFFFF} in the reel.
+Dialogue: 0,0:04:18.62,0:04:18.80,GJ,,0,0,0,,plays {\c&H0000DDFF}in{\c&H00FFFFFF} the reel.
+Dialogue: 0,0:04:18.80,0:04:18.92,GJ,,0,0,0,,plays in {\c&H0000DDFF}the{\c&H00FFFFFF} reel.
+Dialogue: 0,0:04:18.92,0:04:19.24,GJ,,0,0,0,,plays in the {\c&H0000DDFF}reel.{\c&H00FFFFFF}
+Dialogue: 0,0:04:19.40,0:04:19.48,GJ,,0,0,0,,{\c&H0000DDFF}It's{\c&H00FFFFFF} the frame people
+Dialogue: 0,0:04:19.48,0:04:19.62,GJ,,0,0,0,,It's {\c&H0000DDFF}the{\c&H00FFFFFF} frame people
+Dialogue: 0,0:04:19.62,0:04:19.88,GJ,,0,0,0,,It's the {\c&H0000DDFF}frame{\c&H00FFFFFF} people
+Dialogue: 0,0:04:19.88,0:04:20.24,GJ,,0,0,0,,It's the frame {\c&H0000DDFF}people{\c&H00FFFFFF}
+Dialogue: 0,0:04:20.12,0:04:20.40,GJ,,0,0,0,,{\c&H0000DDFF}see{\c&H00FFFFFF} on your profile
+Dialogue: 0,0:04:20.40,0:04:20.54,GJ,,0,0,0,,see {\c&H0000DDFF}on{\c&H00FFFFFF} your profile
+Dialogue: 0,0:04:20.54,0:04:20.68,GJ,,0,0,0,,see on {\c&H0000DDFF}your{\c&H00FFFFFF} profile
+Dialogue: 0,0:04:20.68,0:04:21.16,GJ,,0,0,0,,see on your {\c&H0000DDFF}profile{\c&H00FFFFFF}
+Dialogue: 0,0:04:21.04,0:04:22.30,GJ,,0,0,0,,{\c&H0000DDFF}grid.{\c&H00FFFFFF} Same
+Dialogue: 0,0:04:22.30,0:04:22.72,GJ,,0,0,0,,grid. {\c&H0000DDFF}Same{\c&H00FFFFFF}
+Dialogue: 0,0:04:22.60,0:04:22.82,GJ,,0,0,0,,{\c&H0000DDFF}hook{\c&H00FFFFFF} text, but shrink
+Dialogue: 0,0:04:22.82,0:04:23.34,GJ,,0,0,0,,hook {\c&H0000DDFF}text,{\c&H00FFFFFF} but shrink
+Dialogue: 0,0:04:23.34,0:04:23.44,GJ,,0,0,0,,hook text, {\c&H0000DDFF}but{\c&H00FFFFFF} shrink
+Dialogue: 0,0:04:23.44,0:04:23.82,GJ,,0,0,0,,hook text, but {\c&H0000DDFF}shrink{\c&H00FFFFFF}
+Dialogue: 0,0:04:23.70,0:04:23.84,GJ,,0,0,0,,{\c&H0000DDFF}it{\c&H00FFFFFF} a touch and
+Dialogue: 0,0:04:23.84,0:04:23.96,GJ,,0,0,0,,it {\c&H0000DDFF}a{\c&H00FFFFFF} touch and
+Dialogue: 0,0:04:23.96,0:04:24.10,GJ,,0,0,0,,it a {\c&H0000DDFF}touch{\c&H00FFFFFF} and
+Dialogue: 0,0:04:24.10,0:04:24.42,GJ,,0,0,0,,it a touch {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:04:24.30,0:04:24.48,GJ,,0,0,0,,{\c&H0000DDFF}pull{\c&H00FFFFFF} it dead center
+Dialogue: 0,0:04:24.48,0:04:24.60,GJ,,0,0,0,,pull {\c&H0000DDFF}it{\c&H00FFFFFF} dead center
+Dialogue: 0,0:04:24.60,0:04:24.78,GJ,,0,0,0,,pull it {\c&H0000DDFF}dead{\c&H00FFFFFF} center
+Dialogue: 0,0:04:24.78,0:04:25.24,GJ,,0,0,0,,pull it dead {\c&H0000DDFF}center{\c&H00FFFFFF}
+Dialogue: 0,0:04:25.12,0:04:25.70,GJ,,0,0,0,,{\c&H0000DDFF}because{\c&H00FFFFFF} the grid crops
+Dialogue: 0,0:04:25.70,0:04:25.94,GJ,,0,0,0,,because {\c&H0000DDFF}the{\c&H00FFFFFF} grid crops
+Dialogue: 0,0:04:25.94,0:04:26.20,GJ,,0,0,0,,because the {\c&H0000DDFF}grid{\c&H00FFFFFF} crops
+Dialogue: 0,0:04:26.20,0:04:26.66,GJ,,0,0,0,,because the grid {\c&H0000DDFF}crops{\c&H00FFFFFF}
+Dialogue: 0,0:04:26.54,0:04:26.92,GJ,,0,0,0,,{\c&H0000DDFF}reels{\c&H00FFFFFF} to a square.
+Dialogue: 0,0:04:26.92,0:04:27.10,GJ,,0,0,0,,reels {\c&H0000DDFF}to{\c&H00FFFFFF} a square.
+Dialogue: 0,0:04:27.10,0:04:27.22,GJ,,0,0,0,,reels to {\c&H0000DDFF}a{\c&H00FFFFFF} square.
+Dialogue: 0,0:04:27.22,0:04:27.70,GJ,,0,0,0,,reels to a {\c&H0000DDFF}square.{\c&H00FFFFFF}
+Dialogue: 0,0:04:28.22,0:04:28.28,GJ,,0,0,0,,{\c&H0000DDFF}30{\c&H00FFFFFF} seconds now saves
+Dialogue: 0,0:04:28.28,0:04:28.54,GJ,,0,0,0,,30 {\c&H0000DDFF}seconds{\c&H00FFFFFF} now saves
+Dialogue: 0,0:04:28.54,0:04:28.94,GJ,,0,0,0,,30 seconds {\c&H0000DDFF}now{\c&H00FFFFFF} saves
+Dialogue: 0,0:04:28.94,0:04:29.38,GJ,,0,0,0,,30 seconds now {\c&H0000DDFF}saves{\c&H00FFFFFF}
+Dialogue: 0,0:04:29.26,0:04:29.44,GJ,,0,0,0,,{\c&H0000DDFF}your{\c&H00FFFFFF} profile from looking
+Dialogue: 0,0:04:29.44,0:04:29.82,GJ,,0,0,0,,your {\c&H0000DDFF}profile{\c&H00FFFFFF} from looking
+Dialogue: 0,0:04:29.82,0:04:30.04,GJ,,0,0,0,,your profile {\c&H0000DDFF}from{\c&H00FFFFFF} looking
+Dialogue: 0,0:04:30.04,0:04:30.40,GJ,,0,0,0,,your profile from {\c&H0000DDFF}looking{\c&H00FFFFFF}
+Dialogue: 0,0:04:30.28,0:04:30.46,GJ,,0,0,0,,{\c&H0000DDFF}like{\c&H00FFFFFF} a row of
+Dialogue: 0,0:04:30.46,0:04:30.62,GJ,,0,0,0,,like {\c&H0000DDFF}a{\c&H00FFFFFF} row of
+Dialogue: 0,0:04:30.62,0:04:30.80,GJ,,0,0,0,,like a {\c&H0000DDFF}row{\c&H00FFFFFF} of
+Dialogue: 0,0:04:30.80,0:04:31.08,GJ,,0,0,0,,like a row {\c&H0000DDFF}of{\c&H00FFFFFF}
+Dialogue: 0,0:04:30.96,0:04:31.54,GJ,,0,0,0,,{\c&H0000DDFF}decapitated{\c&H00FFFFFF} sentences.
+Dialogue: 0,0:04:31.54,0:04:32.24,GJ,,0,0,0,,decapitated {\c&H0000DDFF}sentences.{\c&H00FFFFFF}
+Dialogue: 0,0:04:33.30,0:04:33.42,GJ,,0,0,0,,{\c&H0000DDFF}Export,{\c&H00FFFFFF}
+Dialogue: 0,0:04:34.06,0:04:34.62,GJ,,0,0,0,,{\c&H0000DDFF}share,{\c&H00FFFFFF} top right,
+Dialogue: 0,0:04:34.62,0:04:34.74,GJ,,0,0,0,,share, {\c&H0000DDFF}top{\c&H00FFFFFF} right,
+Dialogue: 0,0:04:34.74,0:04:35.12,GJ,,0,0,0,,share, top {\c&H0000DDFF}right,{\c&H00FFFFFF}
+Dialogue: 0,0:04:35.46,0:04:35.90,GJ,,0,0,0,,{\c&H0000DDFF}download.{\c&H00FFFFFF}
+Dialogue: 0,0:04:36.64,0:04:36.72,GJ,,0,0,0,,{\c&H0000DDFF}And{\c&H00FFFFFF} here's the bit
+Dialogue: 0,0:04:36.72,0:04:37.20,GJ,,0,0,0,,And {\c&H0000DDFF}here's{\c&H00FFFFFF} the bit
+Dialogue: 0,0:04:37.20,0:04:37.32,GJ,,0,0,0,,And here's {\c&H0000DDFF}the{\c&H00FFFFFF} bit
+Dialogue: 0,0:04:37.32,0:04:37.58,GJ,,0,0,0,,And here's the {\c&H0000DDFF}bit{\c&H00FFFFFF}
+Dialogue: 0,0:04:37.46,0:04:37.68,GJ,,0,0,0,,{\c&H0000DDFF}people{\c&H00FFFFFF} miss.
+Dialogue: 0,0:04:37.68,0:04:38.18,GJ,,0,0,0,,people {\c&H0000DDFF}miss.{\c&H00FFFFFF}
+Dialogue: 0,0:04:39.22,0:04:39.30,GJ,,0,0,0,,{\c&H0000DDFF}File{\c&H00FFFFFF} type, mp4 video,
+Dialogue: 0,0:04:39.30,0:04:39.74,GJ,,0,0,0,,File {\c&H0000DDFF}type,{\c&H00FFFFFF} mp4 video,
+Dialogue: 0,0:04:39.74,0:04:40.14,GJ,,0,0,0,,File type, {\c&H0000DDFF}mp4{\c&H00FFFFFF} video,
+Dialogue: 0,0:04:40.14,0:04:40.62,GJ,,0,0,0,,File type, mp4 {\c&H0000DDFF}video,{\c&H00FFFFFF}
+Dialogue: 0,0:04:40.98,0:04:41.10,GJ,,0,0,0,,{\c&H0000DDFF}not{\c&H00FFFFFF} PNG. Or
+Dialogue: 0,0:04:41.10,0:04:42.14,GJ,,0,0,0,,not {\c&H0000DDFF}PNG.{\c&H00FFFFFF} Or
+Dialogue: 0,0:04:42.14,0:04:42.54,GJ,,0,0,0,,not PNG. {\c&H0000DDFF}Or{\c&H00FFFFFF}
+Dialogue: 0,0:04:42.42,0:04:42.62,GJ,,0,0,0,,{\c&H0000DDFF}you{\c&H00FFFFFF} lose every animation
+Dialogue: 0,0:04:42.62,0:04:42.80,GJ,,0,0,0,,you {\c&H0000DDFF}lose{\c&H00FFFFFF} every animation
+Dialogue: 0,0:04:42.80,0:04:43.06,GJ,,0,0,0,,you lose {\c&H0000DDFF}every{\c&H00FFFFFF} animation
+Dialogue: 0,0:04:43.06,0:04:43.52,GJ,,0,0,0,,you lose every {\c&H0000DDFF}animation{\c&H00FFFFFF}
+Dialogue: 0,0:04:43.40,0:04:43.68,GJ,,0,0,0,,{\c&H0000DDFF}you{\c&H00FFFFFF} just set.
+Dialogue: 0,0:04:43.68,0:04:43.86,GJ,,0,0,0,,you {\c&H0000DDFF}just{\c&H00FFFFFF} set.
+Dialogue: 0,0:04:43.86,0:04:44.34,GJ,,0,0,0,,you just {\c&H0000DDFF}set.{\c&H00FFFFFF}
+Dialogue: 0,0:04:45.02,0:04:45.02,GJ,,0,0,0,,{\c&H0000DDFF}Quality{\c&H00FFFFFF} 1080, download
+Dialogue: 0,0:04:45.02,0:04:45.92,GJ,,0,0,0,,Quality {\c&H0000DDFF}1080,{\c&H00FFFFFF} download
+Dialogue: 0,0:04:45.92,0:04:46.34,GJ,,0,0,0,,Quality 1080, {\c&H0000DDFF}download{\c&H00FFFFFF}
+Dialogue: 0,0:04:46.22,0:04:47.28,GJ,,0,0,0,,{\c&H0000DDFF}it.{\c&H00FFFFFF} Canva's done its
+Dialogue: 0,0:04:47.28,0:04:47.46,GJ,,0,0,0,,it. {\c&H0000DDFF}Canva's{\c&H00FFFFFF} done its
+Dialogue: 0,0:04:47.46,0:04:47.62,GJ,,0,0,0,,it. Canva's {\c&H0000DDFF}done{\c&H00FFFFFF} its
+Dialogue: 0,0:04:47.62,0:04:47.92,GJ,,0,0,0,,it. Canva's done {\c&H0000DDFF}its{\c&H00FFFFFF}
+Dialogue: 0,0:04:47.80,0:04:48.24,GJ,,0,0,0,,{\c&H0000DDFF}job.{\c&H00FFFFFF} It's given us
+Dialogue: 0,0:04:48.24,0:04:48.32,GJ,,0,0,0,,job. {\c&H0000DDFF}It's{\c&H00FFFFFF} given us
+Dialogue: 0,0:04:48.32,0:04:48.46,GJ,,0,0,0,,job. It's {\c&H0000DDFF}given{\c&H00FFFFFF} us
+Dialogue: 0,0:04:48.46,0:04:48.74,GJ,,0,0,0,,job. It's given {\c&H0000DDFF}us{\c&H00FFFFFF}
+Dialogue: 0,0:04:48.62,0:04:48.74,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} clean branded animation.
+Dialogue: 0,0:04:48.74,0:04:48.98,GJ,,0,0,0,,a {\c&H0000DDFF}clean{\c&H00FFFFFF} branded animation.
+Dialogue: 0,0:04:48.98,0:04:49.24,GJ,,0,0,0,,a clean {\c&H0000DDFF}branded{\c&H00FFFFFF} animation.
+Dialogue: 0,0:04:49.24,0:04:49.88,GJ,,0,0,0,,a clean branded {\c&H0000DDFF}animation.{\c&H00FFFFFF}
+Dialogue: 0,0:04:50.26,0:04:50.48,GJ,,0,0,0,,{\c&H0000DDFF}But{\c&H00FFFFFF} a Canva export
+Dialogue: 0,0:04:50.48,0:04:50.56,GJ,,0,0,0,,But {\c&H0000DDFF}a{\c&H00FFFFFF} Canva export
+Dialogue: 0,0:04:50.56,0:04:50.86,GJ,,0,0,0,,But a {\c&H0000DDFF}Canva{\c&H00FFFFFF} export
+Dialogue: 0,0:04:50.86,0:04:51.34,GJ,,0,0,0,,But a Canva {\c&H0000DDFF}export{\c&H00FFFFFF}
+Dialogue: 0,0:04:51.22,0:04:51.44,GJ,,0,0,0,,{\c&H0000DDFF}on{\c&H00FFFFFF} its own still
+Dialogue: 0,0:04:51.44,0:04:51.56,GJ,,0,0,0,,on {\c&H0000DDFF}its{\c&H00FFFFFF} own still
+Dialogue: 0,0:04:51.56,0:04:51.86,GJ,,0,0,0,,on its {\c&H0000DDFF}own{\c&H00FFFFFF} still
+Dialogue: 0,0:04:51.86,0:04:52.24,GJ,,0,0,0,,on its own {\c&H0000DDFF}still{\c&H00FFFFFF}
+Dialogue: 0,0:04:52.12,0:04:52.40,GJ,,0,0,0,,{\c&H0000DDFF}feels{\c&H00FFFFFF} like a slideshow.
+Dialogue: 0,0:04:52.40,0:04:52.64,GJ,,0,0,0,,feels {\c&H0000DDFF}like{\c&H00FFFFFF} a slideshow.
+Dialogue: 0,0:04:52.64,0:04:52.74,GJ,,0,0,0,,feels like {\c&H0000DDFF}a{\c&H00FFFFFF} slideshow.
+Dialogue: 0,0:04:52.74,0:04:53.26,GJ,,0,0,0,,feels like a {\c&H0000DDFF}slideshow.{\c&H00FFFFFF}
+Dialogue: 0,0:04:53.70,0:04:54.16,GJ,,0,0,0,,{\c&H0000DDFF}CapCut{\c&H00FFFFFF} is where it
+Dialogue: 0,0:04:54.16,0:04:54.28,GJ,,0,0,0,,CapCut {\c&H0000DDFF}is{\c&H00FFFFFF} where it
+Dialogue: 0,0:04:54.28,0:04:54.44,GJ,,0,0,0,,CapCut is {\c&H0000DDFF}where{\c&H00FFFFFF} it
+Dialogue: 0,0:04:54.44,0:04:54.68,GJ,,0,0,0,,CapCut is where {\c&H0000DDFF}it{\c&H00FFFFFF}
+Dialogue: 0,0:04:54.56,0:04:54.76,GJ,,0,0,0,,{\c&H0000DDFF}starts{\c&H00FFFFFF} feeling like a
+Dialogue: 0,0:04:54.76,0:04:55.08,GJ,,0,0,0,,starts {\c&H0000DDFF}feeling{\c&H00FFFFFF} like a
+Dialogue: 0,0:04:55.08,0:04:55.32,GJ,,0,0,0,,starts feeling {\c&H0000DDFF}like{\c&H00FFFFFF} a
+Dialogue: 0,0:04:55.32,0:04:55.58,GJ,,0,0,0,,starts feeling like {\c&H0000DDFF}a{\c&H00FFFFFF}
+Dialogue: 0,0:04:55.46,0:04:55.80,GJ,,0,0,0,,{\c&H0000DDFF}reel.{\c&H00FFFFFF}
+Dialogue: 0,0:04:56.60,0:04:56.78,GJ,,0,0,0,,{\c&H0000DDFF}Open{\c&H00FFFFFF} CapCut, New
+Dialogue: 0,0:04:56.78,0:04:57.72,GJ,,0,0,0,,Open {\c&H0000DDFF}CapCut,{\c&H00FFFFFF} New
+Dialogue: 0,0:04:57.72,0:04:57.96,GJ,,0,0,0,,Open CapCut, {\c&H0000DDFF}New{\c&H00FFFFFF}
+Dialogue: 0,0:04:57.84,0:04:58.86,GJ,,0,0,0,,{\c&H0000DDFF}Project,{\c&H00FFFFFF} and drag your
+Dialogue: 0,0:04:58.86,0:04:58.96,GJ,,0,0,0,,Project, {\c&H0000DDFF}and{\c&H00FFFFFF} drag your
+Dialogue: 0,0:04:58.96,0:04:59.22,GJ,,0,0,0,,Project, and {\c&H0000DDFF}drag{\c&H00FFFFFF} your
+Dialogue: 0,0:04:59.22,0:04:59.52,GJ,,0,0,0,,Project, and drag {\c&H0000DDFF}your{\c&H00FFFFFF}
+Dialogue: 0,0:04:59.40,0:04:59.70,GJ,,0,0,0,,{\c&H0000DDFF}Canva{\c&H00FFFFFF} MP4 straight into
+Dialogue: 0,0:04:59.70,0:05:00.28,GJ,,0,0,0,,Canva {\c&H0000DDFF}MP4{\c&H00FFFFFF} straight into
+Dialogue: 0,0:05:00.28,0:05:00.58,GJ,,0,0,0,,Canva MP4 {\c&H0000DDFF}straight{\c&H00FFFFFF} into
+Dialogue: 0,0:05:00.58,0:05:00.96,GJ,,0,0,0,,Canva MP4 straight {\c&H0000DDFF}into{\c&H00FFFFFF}
+Dialogue: 0,0:05:00.84,0:05:01.02,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} timeline. First
+Dialogue: 0,0:05:01.02,0:05:02.02,GJ,,0,0,0,,the {\c&H0000DDFF}timeline.{\c&H00FFFFFF} First
+Dialogue: 0,0:05:02.02,0:05:02.28,GJ,,0,0,0,,the timeline. {\c&H0000DDFF}First{\c&H00FFFFFF}
+Dialogue: 0,0:05:02.16,0:05:02.96,GJ,,0,0,0,,{\c&H0000DDFF}job,{\c&H00FFFFFF} check the frame.
+Dialogue: 0,0:05:02.96,0:05:03.12,GJ,,0,0,0,,job, {\c&H0000DDFF}check{\c&H00FFFFFF} the frame.
+Dialogue: 0,0:05:03.12,0:05:03.32,GJ,,0,0,0,,job, check {\c&H0000DDFF}the{\c&H00FFFFFF} frame.
+Dialogue: 0,0:05:03.32,0:05:03.76,GJ,,0,0,0,,job, check the {\c&H0000DDFF}frame.{\c&H00FFFFFF}
+Dialogue: 0,0:05:04.36,0:05:04.36,GJ,,0,0,0,,{\c&H0000DDFF}Ratio{\c&H00FFFFFF} button says 916,
+Dialogue: 0,0:05:04.36,0:05:04.58,GJ,,0,0,0,,Ratio {\c&H0000DDFF}button{\c&H00FFFFFF} says 916,
+Dialogue: 0,0:05:04.58,0:05:04.94,GJ,,0,0,0,,Ratio button {\c&H0000DDFF}says{\c&H00FFFFFF} 916,
+Dialogue: 0,0:05:04.94,0:05:06.08,GJ,,0,0,0,,Ratio button says {\c&H0000DDFF}916,{\c&H00FFFFFF}
+Dialogue: 0,0:05:06.52,0:05:06.64,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} because we designed
+Dialogue: 0,0:05:06.64,0:05:06.86,GJ,,0,0,0,,and {\c&H0000DDFF}because{\c&H00FFFFFF} we designed
+Dialogue: 0,0:05:06.86,0:05:07.04,GJ,,0,0,0,,and because {\c&H0000DDFF}we{\c&H00FFFFFF} designed
+Dialogue: 0,0:05:07.04,0:05:07.48,GJ,,0,0,0,,and because we {\c&H0000DDFF}designed{\c&H00FFFFFF}
+Dialogue: 0,0:05:07.36,0:05:07.54,GJ,,0,0,0,,{\c&H0000DDFF}at{\c&H00FFFFFF} reel size, it
+Dialogue: 0,0:05:07.54,0:05:07.76,GJ,,0,0,0,,at {\c&H0000DDFF}reel{\c&H00FFFFFF} size, it
+Dialogue: 0,0:05:07.76,0:05:08.22,GJ,,0,0,0,,at reel {\c&H0000DDFF}size,{\c&H00FFFFFF} it
+Dialogue: 0,0:05:08.22,0:05:08.42,GJ,,0,0,0,,at reel size, {\c&H0000DDFF}it{\c&H00FFFFFF}
+Dialogue: 0,0:05:08.30,0:05:08.44,GJ,,0,0,0,,{\c&H0000DDFF}should{\c&H00FFFFFF} drop in perfectly.
+Dialogue: 0,0:05:08.44,0:05:08.70,GJ,,0,0,0,,should {\c&H0000DDFF}drop{\c&H00FFFFFF} in perfectly.
+Dialogue: 0,0:05:08.70,0:05:08.92,GJ,,0,0,0,,should drop {\c&H0000DDFF}in{\c&H00FFFFFF} perfectly.
+Dialogue: 0,0:05:08.92,0:05:09.42,GJ,,0,0,0,,should drop in {\c&H0000DDFF}perfectly.{\c&H00FFFFFF}
+Dialogue: 0,0:05:09.92,0:05:10.14,GJ,,0,0,0,,{\c&H0000DDFF}No{\c&H00FFFFFF} black bars, no
+Dialogue: 0,0:05:10.14,0:05:10.46,GJ,,0,0,0,,No {\c&H0000DDFF}black{\c&H00FFFFFF} bars, no
+Dialogue: 0,0:05:10.46,0:05:11.16,GJ,,0,0,0,,No black {\c&H0000DDFF}bars,{\c&H00FFFFFF} no
+Dialogue: 0,0:05:11.16,0:05:11.44,GJ,,0,0,0,,No black bars, {\c&H0000DDFF}no{\c&H00FFFFFF}
+Dialogue: 0,0:05:11.32,0:05:11.88,GJ,,0,0,0,,{\c&H0000DDFF}cropping.{\c&H00FFFFFF}
+Dialogue: 0,0:05:12.66,0:05:12.80,GJ,,0,0,0,,{\c&H0000DDFF}Now{\c&H00FFFFFF} music, and this
+Dialogue: 0,0:05:12.80,0:05:13.52,GJ,,0,0,0,,Now {\c&H0000DDFF}music,{\c&H00FFFFFF} and this
+Dialogue: 0,0:05:13.52,0:05:13.66,GJ,,0,0,0,,Now music, {\c&H0000DDFF}and{\c&H00FFFFFF} this
+Dialogue: 0,0:05:13.66,0:05:13.90,GJ,,0,0,0,,Now music, and {\c&H0000DDFF}this{\c&H00FFFFFF}
+Dialogue: 0,0:05:13.78,0:05:13.90,GJ,,0,0,0,,{\c&H0000DDFF}is{\c&H00FFFFFF} the part that
+Dialogue: 0,0:05:13.90,0:05:14.04,GJ,,0,0,0,,is {\c&H0000DDFF}the{\c&H00FFFFFF} part that
+Dialogue: 0,0:05:14.04,0:05:14.22,GJ,,0,0,0,,is the {\c&H0000DDFF}part{\c&H00FFFFFF} that
+Dialogue: 0,0:05:14.22,0:05:14.54,GJ,,0,0,0,,is the part {\c&H0000DDFF}that{\c&H00FFFFFF}
+Dialogue: 0,0:05:14.42,0:05:14.80,GJ,,0,0,0,,{\c&H0000DDFF}separates{\c&H00FFFFFF} people who edit
+Dialogue: 0,0:05:14.80,0:05:15.14,GJ,,0,0,0,,separates {\c&H0000DDFF}people{\c&H00FFFFFF} who edit
+Dialogue: 0,0:05:15.14,0:05:15.32,GJ,,0,0,0,,separates people {\c&H0000DDFF}who{\c&H00FFFFFF} edit
+Dialogue: 0,0:05:15.32,0:05:15.64,GJ,,0,0,0,,separates people who {\c&H0000DDFF}edit{\c&H00FFFFFF}
+Dialogue: 0,0:05:15.52,0:05:15.92,GJ,,0,0,0,,{\c&H0000DDFF}reels{\c&H00FFFFFF} from people who
+Dialogue: 0,0:05:15.92,0:05:16.14,GJ,,0,0,0,,reels {\c&H0000DDFF}from{\c&H00FFFFFF} people who
+Dialogue: 0,0:05:16.14,0:05:16.42,GJ,,0,0,0,,reels from {\c&H0000DDFF}people{\c&H00FFFFFF} who
+Dialogue: 0,0:05:16.42,0:05:16.74,GJ,,0,0,0,,reels from people {\c&H0000DDFF}who{\c&H00FFFFFF}
+Dialogue: 0,0:05:16.62,0:05:16.86,GJ,,0,0,0,,{\c&H0000DDFF}post{\c&H00FFFFFF} slideshows,
+Dialogue: 0,0:05:16.86,0:05:17.58,GJ,,0,0,0,,post {\c&H0000DDFF}slideshows,{\c&H00FFFFFF}
+Dialogue: 0,0:05:18.10,0:05:18.46,GJ,,0,0,0,,{\c&H0000DDFF}we're{\c&H00FFFFFF} going to edit
+Dialogue: 0,0:05:18.46,0:05:18.58,GJ,,0,0,0,,we're {\c&H0000DDFF}going{\c&H00FFFFFF} to edit
+Dialogue: 0,0:05:18.58,0:05:18.76,GJ,,0,0,0,,we're going {\c&H0000DDFF}to{\c&H00FFFFFF} edit
+Dialogue: 0,0:05:18.76,0:05:19.02,GJ,,0,0,0,,we're going to {\c&H0000DDFF}edit{\c&H00FFFFFF}
+Dialogue: 0,0:05:18.90,0:05:19.10,GJ,,0,0,0,,{\c&H0000DDFF}to{\c&H00FFFFFF} a beat. Grab
+Dialogue: 0,0:05:19.10,0:05:19.24,GJ,,0,0,0,,to {\c&H0000DDFF}a{\c&H00FFFFFF} beat. Grab
+Dialogue: 0,0:05:19.24,0:05:19.94,GJ,,0,0,0,,to a {\c&H0000DDFF}beat.{\c&H00FFFFFF} Grab
+Dialogue: 0,0:05:19.94,0:05:20.54,GJ,,0,0,0,,to a beat. {\c&H0000DDFF}Grab{\c&H00FFFFFF}
+Dialogue: 0,0:05:20.42,0:05:20.62,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} sound you want.
+Dialogue: 0,0:05:20.62,0:05:20.80,GJ,,0,0,0,,the {\c&H0000DDFF}sound{\c&H00FFFFFF} you want.
+Dialogue: 0,0:05:20.80,0:05:20.98,GJ,,0,0,0,,the sound {\c&H0000DDFF}you{\c&H00FFFFFF} want.
+Dialogue: 0,0:05:20.98,0:05:21.40,GJ,,0,0,0,,the sound you {\c&H0000DDFF}want.{\c&H00FFFFFF}
+Dialogue: 0,0:05:21.98,0:05:22.30,GJ,,0,0,0,,{\c&H0000DDFF}CapCut's{\c&H00FFFFFF} library is fine
+Dialogue: 0,0:05:22.30,0:05:22.56,GJ,,0,0,0,,CapCut's {\c&H0000DDFF}library{\c&H00FFFFFF} is fine
+Dialogue: 0,0:05:22.56,0:05:22.90,GJ,,0,0,0,,CapCut's library {\c&H0000DDFF}is{\c&H00FFFFFF} fine
+Dialogue: 0,0:05:22.90,0:05:23.30,GJ,,0,0,0,,CapCut's library is {\c&H0000DDFF}fine{\c&H00FFFFFF}
+Dialogue: 0,0:05:23.18,0:05:23.40,GJ,,0,0,0,,{\c&H0000DDFF}for{\c&H00FFFFFF} editing.
+Dialogue: 0,0:05:23.40,0:05:23.82,GJ,,0,0,0,,for {\c&H0000DDFF}editing.{\c&H00FFFFFF}
+Dialogue: 0,0:05:24.58,0:05:24.66,GJ,,0,0,0,,{\c&H0000DDFF}But{\c&H00FFFFFF} remember what I
+Dialogue: 0,0:05:24.66,0:05:24.92,GJ,,0,0,0,,But {\c&H0000DDFF}remember{\c&H00FFFFFF} what I
+Dialogue: 0,0:05:24.92,0:05:25.12,GJ,,0,0,0,,But remember {\c&H0000DDFF}what{\c&H00FFFFFF} I
+Dialogue: 0,0:05:25.12,0:05:25.36,GJ,,0,0,0,,But remember what {\c&H0000DDFF}I{\c&H00FFFFFF}
+Dialogue: 0,0:05:25.24,0:05:25.40,GJ,,0,0,0,,{\c&H0000DDFF}said{\c&H00FFFFFF} about export at
+Dialogue: 0,0:05:25.40,0:05:25.62,GJ,,0,0,0,,said {\c&H0000DDFF}about{\c&H00FFFFFF} export at
+Dialogue: 0,0:05:25.62,0:05:26.06,GJ,,0,0,0,,said about {\c&H0000DDFF}export{\c&H00FFFFFF} at
+Dialogue: 0,0:05:26.06,0:05:26.48,GJ,,0,0,0,,said about export {\c&H0000DDFF}at{\c&H00FFFFFF}
+Dialogue: 0,0:05:26.36,0:05:26.56,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} end, because we
+Dialogue: 0,0:05:26.56,0:05:27.50,GJ,,0,0,0,,the {\c&H0000DDFF}end,{\c&H00FFFFFF} because we
+Dialogue: 0,0:05:27.50,0:05:27.74,GJ,,0,0,0,,the end, {\c&H0000DDFF}because{\c&H00FFFFFF} we
+Dialogue: 0,0:05:27.74,0:05:28.06,GJ,,0,0,0,,the end, because {\c&H0000DDFF}we{\c&H00FFFFFF}
+Dialogue: 0,0:05:27.94,0:05:28.04,GJ,,0,0,0,,{\c&H0000DDFF}are{\c&H00FFFFFF} not keeping this
+Dialogue: 0,0:05:28.04,0:05:28.22,GJ,,0,0,0,,are {\c&H0000DDFF}not{\c&H00FFFFFF} keeping this
+Dialogue: 0,0:05:28.22,0:05:28.48,GJ,,0,0,0,,are not {\c&H0000DDFF}keeping{\c&H00FFFFFF} this
+Dialogue: 0,0:05:28.48,0:05:28.86,GJ,,0,0,0,,are not keeping {\c&H0000DDFF}this{\c&H00FFFFFF}
+Dialogue: 0,0:05:28.74,0:05:29.80,GJ,,0,0,0,,{\c&H0000DDFF}audio.{\c&H00FFFFFF} It's
+Dialogue: 0,0:05:29.80,0:05:30.14,GJ,,0,0,0,,audio. {\c&H0000DDFF}It's{\c&H00FFFFFF}
+Dialogue: 0,0:05:30.02,0:05:30.62,GJ,,0,0,0,,{\c&H0000DDFF}scaffolding.{\c&H00FFFFFF}
+Dialogue: 0,0:05:31.54,0:05:31.82,GJ,,0,0,0,,{\c&H0000DDFF}Right{\c&H00FFFFFF} -click the track
+Dialogue: 0,0:05:31.82,0:05:32.02,GJ,,0,0,0,,Right {\c&H0000DDFF}-click{\c&H00FFFFFF} the track
+Dialogue: 0,0:05:32.02,0:05:32.24,GJ,,0,0,0,,Right -click {\c&H0000DDFF}the{\c&H00FFFFFF} track
+Dialogue: 0,0:05:32.24,0:05:32.70,GJ,,0,0,0,,Right -click the {\c&H0000DDFF}track{\c&H00FFFFFF}
+Dialogue: 0,0:05:32.58,0:05:33.20,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} hit Beat Detection.
+Dialogue: 0,0:05:33.20,0:05:33.42,GJ,,0,0,0,,and {\c&H0000DDFF}hit{\c&H00FFFFFF} Beat Detection.
+Dialogue: 0,0:05:33.42,0:05:33.60,GJ,,0,0,0,,and hit {\c&H0000DDFF}Beat{\c&H00FFFFFF} Detection.
+Dialogue: 0,0:05:33.60,0:05:34.12,GJ,,0,0,0,,and hit Beat {\c&H0000DDFF}Detection.{\c&H00FFFFFF}
+Dialogue: 0,0:05:34.74,0:05:35.00,GJ,,0,0,0,,{\c&H0000DDFF}CapCut{\c&H00FFFFFF} marks the beats
+Dialogue: 0,0:05:35.00,0:05:35.30,GJ,,0,0,0,,CapCut {\c&H0000DDFF}marks{\c&H00FFFFFF} the beats
+Dialogue: 0,0:05:35.30,0:05:35.48,GJ,,0,0,0,,CapCut marks {\c&H0000DDFF}the{\c&H00FFFFFF} beats
+Dialogue: 0,0:05:35.48,0:05:35.78,GJ,,0,0,0,,CapCut marks the {\c&H0000DDFF}beats{\c&H00FFFFFF}
+Dialogue: 0,0:05:35.66,0:05:35.88,GJ,,0,0,0,,{\c&H0000DDFF}as{\c&H00FFFFFF} little dots on
+Dialogue: 0,0:05:35.88,0:05:36.06,GJ,,0,0,0,,as {\c&H0000DDFF}little{\c&H00FFFFFF} dots on
+Dialogue: 0,0:05:36.06,0:05:36.34,GJ,,0,0,0,,as little {\c&H0000DDFF}dots{\c&H00FFFFFF} on
+Dialogue: 0,0:05:36.34,0:05:36.64,GJ,,0,0,0,,as little dots {\c&H0000DDFF}on{\c&H00FFFFFF}
+Dialogue: 0,0:05:36.52,0:05:36.64,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} audio.
+Dialogue: 0,0:05:36.64,0:05:37.14,GJ,,0,0,0,,the {\c&H0000DDFF}audio.{\c&H00FFFFFF}
+Dialogue: 0,0:05:38.04,0:05:38.10,GJ,,0,0,0,,{\c&H0000DDFF}Now{\c&H00FFFFFF} split your Canva
+Dialogue: 0,0:05:38.10,0:05:38.48,GJ,,0,0,0,,Now {\c&H0000DDFF}split{\c&H00FFFFFF} your Canva
+Dialogue: 0,0:05:38.48,0:05:38.66,GJ,,0,0,0,,Now split {\c&H0000DDFF}your{\c&H00FFFFFF} Canva
+Dialogue: 0,0:05:38.66,0:05:39.10,GJ,,0,0,0,,Now split your {\c&H0000DDFF}Canva{\c&H00FFFFFF}
+Dialogue: 0,0:05:38.98,0:05:39.16,GJ,,0,0,0,,{\c&H0000DDFF}clip{\c&H00FFFFFF} so every slide
+Dialogue: 0,0:05:39.16,0:05:39.36,GJ,,0,0,0,,clip {\c&H0000DDFF}so{\c&H00FFFFFF} every slide
+Dialogue: 0,0:05:39.36,0:05:39.60,GJ,,0,0,0,,clip so {\c&H0000DDFF}every{\c&H00FFFFFF} slide
+Dialogue: 0,0:05:39.60,0:05:40.04,GJ,,0,0,0,,clip so every {\c&H0000DDFF}slide{\c&H00FFFFFF}
+Dialogue: 0,0:05:39.92,0:05:40.32,GJ,,0,0,0,,{\c&H0000DDFF}change{\c&H00FFFFFF} lands on a
+Dialogue: 0,0:05:40.32,0:05:40.64,GJ,,0,0,0,,change {\c&H0000DDFF}lands{\c&H00FFFFFF} on a
+Dialogue: 0,0:05:40.64,0:05:40.88,GJ,,0,0,0,,change lands {\c&H0000DDFF}on{\c&H00FFFFFF} a
+Dialogue: 0,0:05:40.88,0:05:41.14,GJ,,0,0,0,,change lands on {\c&H0000DDFF}a{\c&H00FFFFFF}
+Dialogue: 0,0:05:41.02,0:05:41.30,GJ,,0,0,0,,{\c&H0000DDFF}beat.{\c&H00FFFFFF}
+Dialogue: 0,0:05:42.00,0:05:42.24,GJ,,0,0,0,,{\c&H0000DDFF}Select{\c&H00FFFFFF} the clip, playhead
+Dialogue: 0,0:05:42.24,0:05:42.46,GJ,,0,0,0,,Select {\c&H0000DDFF}the{\c&H00FFFFFF} clip, playhead
+Dialogue: 0,0:05:42.46,0:05:43.18,GJ,,0,0,0,,Select the {\c&H0000DDFF}clip,{\c&H00FFFFFF} playhead
+Dialogue: 0,0:05:43.18,0:05:43.58,GJ,,0,0,0,,Select the clip, {\c&H0000DDFF}playhead{\c&H00FFFFFF}
+Dialogue: 0,0:05:43.46,0:05:43.58,GJ,,0,0,0,,{\c&H0000DDFF}on{\c&H00FFFFFF} the beat, split.
+Dialogue: 0,0:05:43.58,0:05:43.70,GJ,,0,0,0,,on {\c&H0000DDFF}the{\c&H00FFFFFF} beat, split.
+Dialogue: 0,0:05:43.70,0:05:44.44,GJ,,0,0,0,,on the {\c&H0000DDFF}beat,{\c&H00FFFFFF} split.
+Dialogue: 0,0:05:44.44,0:05:44.80,GJ,,0,0,0,,on the beat, {\c&H0000DDFF}split.{\c&H00FFFFFF}
+Dialogue: 0,0:05:45.62,0:05:45.84,GJ,,0,0,0,,{\c&H0000DDFF}When{\c&H00FFFFFF} the visual hits
+Dialogue: 0,0:05:45.84,0:05:45.98,GJ,,0,0,0,,When {\c&H0000DDFF}the{\c&H00FFFFFF} visual hits
+Dialogue: 0,0:05:45.98,0:05:46.22,GJ,,0,0,0,,When the {\c&H0000DDFF}visual{\c&H00FFFFFF} hits
+Dialogue: 0,0:05:46.22,0:05:46.58,GJ,,0,0,0,,When the visual {\c&H0000DDFF}hits{\c&H00FFFFFF}
+Dialogue: 0,0:05:46.46,0:05:46.64,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} beat, the reel
+Dialogue: 0,0:05:46.64,0:05:47.46,GJ,,0,0,0,,the {\c&H0000DDFF}beat,{\c&H00FFFFFF} the reel
+Dialogue: 0,0:05:47.46,0:05:47.50,GJ,,0,0,0,,the beat, {\c&H0000DDFF}the{\c&H00FFFFFF} reel
+Dialogue: 0,0:05:47.50,0:05:47.78,GJ,,0,0,0,,the beat, the {\c&H0000DDFF}reel{\c&H00FFFFFF}
+Dialogue: 0,0:05:47.66,0:05:47.96,GJ,,0,0,0,,{\c&H0000DDFF}feels{\c&H00FFFFFF} expensive.
+Dialogue: 0,0:05:47.96,0:05:48.56,GJ,,0,0,0,,feels {\c&H0000DDFF}expensive.{\c&H00FFFFFF}
+Dialogue: 0,0:05:49.10,0:05:49.34,GJ,,0,0,0,,{\c&H0000DDFF}It's{\c&H00FFFFFF} It's a 5
+Dialogue: 0,0:05:49.34,0:05:49.34,GJ,,0,0,0,,It's {\c&H0000DDFF}It's{\c&H00FFFFFF} a 5
+Dialogue: 0,0:05:49.34,0:05:49.42,GJ,,0,0,0,,It's It's {\c&H0000DDFF}a{\c&H00FFFFFF} 5
+Dialogue: 0,0:05:49.42,0:05:49.78,GJ,,0,0,0,,It's It's a {\c&H0000DDFF}5{\c&H00FFFFFF}
+Dialogue: 0,0:05:49.66,0:05:49.80,GJ,,0,0,0,,{\c&H0000DDFF}minute{\c&H00FFFFFF} job and it's
+Dialogue: 0,0:05:49.80,0:05:50.18,GJ,,0,0,0,,minute {\c&H0000DDFF}job{\c&H00FFFFFF} and it's
+Dialogue: 0,0:05:50.18,0:05:50.48,GJ,,0,0,0,,minute job {\c&H0000DDFF}and{\c&H00FFFFFF} it's
+Dialogue: 0,0:05:50.48,0:05:50.80,GJ,,0,0,0,,minute job and {\c&H0000DDFF}it's{\c&H00FFFFFF}
+Dialogue: 0,0:05:50.68,0:05:50.84,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} single biggest upgrade
+Dialogue: 0,0:05:50.84,0:05:51.12,GJ,,0,0,0,,the {\c&H0000DDFF}single{\c&H00FFFFFF} biggest upgrade
+Dialogue: 0,0:05:51.12,0:05:51.42,GJ,,0,0,0,,the single {\c&H0000DDFF}biggest{\c&H00FFFFFF} upgrade
+Dialogue: 0,0:05:51.42,0:05:51.92,GJ,,0,0,0,,the single biggest {\c&H0000DDFF}upgrade{\c&H00FFFFFF}
+Dialogue: 0,0:05:51.80,0:05:52.00,GJ,,0,0,0,,{\c&H0000DDFF}you{\c&H00FFFFFF} can make.
+Dialogue: 0,0:05:52.00,0:05:52.12,GJ,,0,0,0,,you {\c&H0000DDFF}can{\c&H00FFFFFF} make.
+Dialogue: 0,0:05:52.12,0:05:52.56,GJ,,0,0,0,,you can {\c&H0000DDFF}make.{\c&H00FFFFFF}
+Dialogue: 0,0:05:53.24,0:05:53.34,GJ,,0,0,0,,{\c&H0000DDFF}If{\c&H00FFFFFF} there's any voiceover
+Dialogue: 0,0:05:53.34,0:05:53.58,GJ,,0,0,0,,If {\c&H0000DDFF}there's{\c&H00FFFFFF} any voiceover
+Dialogue: 0,0:05:53.58,0:05:53.74,GJ,,0,0,0,,If there's {\c&H0000DDFF}any{\c&H00FFFFFF} voiceover
+Dialogue: 0,0:05:53.74,0:05:54.40,GJ,,0,0,0,,If there's any {\c&H0000DDFF}voiceover{\c&H00FFFFFF}
+Dialogue: 0,0:05:54.28,0:05:54.62,GJ,,0,0,0,,{\c&H0000DDFF}or{\c&H00FFFFFF} talking in your
+Dialogue: 0,0:05:54.62,0:05:55.06,GJ,,0,0,0,,or {\c&H0000DDFF}talking{\c&H00FFFFFF} in your
+Dialogue: 0,0:05:55.06,0:05:55.26,GJ,,0,0,0,,or talking {\c&H0000DDFF}in{\c&H00FFFFFF} your
+Dialogue: 0,0:05:55.26,0:05:55.54,GJ,,0,0,0,,or talking in {\c&H0000DDFF}your{\c&H00FFFFFF}
+Dialogue: 0,0:05:55.42,0:05:56.22,GJ,,0,0,0,,{\c&H0000DDFF}reel,{\c&H00FFFFFF} captions are not
+Dialogue: 0,0:05:56.22,0:05:56.50,GJ,,0,0,0,,reel, {\c&H0000DDFF}captions{\c&H00FFFFFF} are not
+Dialogue: 0,0:05:56.50,0:05:56.64,GJ,,0,0,0,,reel, captions {\c&H0000DDFF}are{\c&H00FFFFFF} not
+Dialogue: 0,0:05:56.64,0:05:56.96,GJ,,0,0,0,,reel, captions are {\c&H0000DDFF}not{\c&H00FFFFFF}
+Dialogue: 0,0:05:56.84,0:05:57.82,GJ,,0,0,0,,{\c&H0000DDFF}optional.{\c&H00FFFFFF} Most people
+Dialogue: 0,0:05:57.82,0:05:57.96,GJ,,0,0,0,,optional. {\c&H0000DDFF}Most{\c&H00FFFFFF} people
+Dialogue: 0,0:05:57.96,0:05:58.36,GJ,,0,0,0,,optional. Most {\c&H0000DDFF}people{\c&H00FFFFFF}
+Dialogue: 0,0:05:58.24,0:05:58.50,GJ,,0,0,0,,{\c&H0000DDFF}watch{\c&H00FFFFFF} with the sound
+Dialogue: 0,0:05:58.50,0:05:58.70,GJ,,0,0,0,,watch {\c&H0000DDFF}with{\c&H00FFFFFF} the sound
+Dialogue: 0,0:05:58.70,0:05:58.84,GJ,,0,0,0,,watch with {\c&H0000DDFF}the{\c&H00FFFFFF} sound
+Dialogue: 0,0:05:58.84,0:05:59.20,GJ,,0,0,0,,watch with the {\c&H0000DDFF}sound{\c&H00FFFFFF}
+Dialogue: 0,0:05:59.08,0:06:00.04,GJ,,0,0,0,,{\c&H0000DDFF}off.{\c&H00FFFFFF} Text,
+Dialogue: 0,0:06:00.04,0:06:00.36,GJ,,0,0,0,,off. {\c&H0000DDFF}Text,{\c&H00FFFFFF}
+Dialogue: 0,0:06:00.76,0:06:00.88,GJ,,0,0,0,,{\c&H0000DDFF}auto{\c&H00FFFFFF} captions, generate.
+Dialogue: 0,0:06:00.88,0:06:01.92,GJ,,0,0,0,,auto {\c&H0000DDFF}captions,{\c&H00FFFFFF} generate.
+Dialogue: 0,0:06:01.92,0:06:02.06,GJ,,0,0,0,,auto captions, {\c&H0000DDFF}generate.{\c&H00FFFFFF}
+Dialogue: 0,0:06:02.74,0:06:02.96,GJ,,0,0,0,,{\c&H0000DDFF}CapCut{\c&H00FFFFFF} transcribes the whole
+Dialogue: 0,0:06:02.96,0:06:03.52,GJ,,0,0,0,,CapCut {\c&H0000DDFF}transcribes{\c&H00FFFFFF} the whole
+Dialogue: 0,0:06:03.52,0:06:03.68,GJ,,0,0,0,,CapCut transcribes {\c&H0000DDFF}the{\c&H00FFFFFF} whole
+Dialogue: 0,0:06:03.68,0:06:03.98,GJ,,0,0,0,,CapCut transcribes the {\c&H0000DDFF}whole{\c&H00FFFFFF}
+Dialogue: 0,0:06:03.86,0:06:04.12,GJ,,0,0,0,,{\c&H0000DDFF}thing{\c&H00FFFFFF} in about 10
+Dialogue: 0,0:06:04.12,0:06:04.28,GJ,,0,0,0,,thing {\c&H0000DDFF}in{\c&H00FFFFFF} about 10
+Dialogue: 0,0:06:04.28,0:06:04.48,GJ,,0,0,0,,thing in {\c&H0000DDFF}about{\c&H00FFFFFF} 10
+Dialogue: 0,0:06:04.48,0:06:04.88,GJ,,0,0,0,,thing in about {\c&H0000DDFF}10{\c&H00FFFFFF}
+Dialogue: 0,0:06:04.76,0:06:05.82,GJ,,0,0,0,,{\c&H0000DDFF}seconds.{\c&H00FFFFFF} Then style
+Dialogue: 0,0:06:05.82,0:06:05.94,GJ,,0,0,0,,seconds. {\c&H0000DDFF}Then{\c&H00FFFFFF} style
+Dialogue: 0,0:06:05.94,0:06:06.36,GJ,,0,0,0,,seconds. Then {\c&H0000DDFF}style{\c&H00FFFFFF}
+Dialogue: 0,0:06:06.24,0:06:06.42,GJ,,0,0,0,,{\c&H0000DDFF}them{\c&H00FFFFFF} once and it
+Dialogue: 0,0:06:06.42,0:06:06.66,GJ,,0,0,0,,them {\c&H0000DDFF}once{\c&H00FFFFFF} and it
+Dialogue: 0,0:06:06.66,0:06:07.22,GJ,,0,0,0,,them once {\c&H0000DDFF}and{\c&H00FFFFFF} it
+Dialogue: 0,0:06:07.22,0:06:07.44,GJ,,0,0,0,,them once and {\c&H0000DDFF}it{\c&H00FFFFFF}
+Dialogue: 0,0:06:07.32,0:06:07.62,GJ,,0,0,0,,{\c&H0000DDFF}applies{\c&H00FFFFFF} everywhere.
+Dialogue: 0,0:06:07.62,0:06:08.20,GJ,,0,0,0,,applies {\c&H0000DDFF}everywhere.{\c&H00FFFFFF}
+Dialogue: 0,0:06:08.78,0:06:08.92,GJ,,0,0,0,,{\c&H0000DDFF}Pick{\c&H00FFFFFF} a caption preset,
+Dialogue: 0,0:06:08.92,0:06:09.12,GJ,,0,0,0,,Pick {\c&H0000DDFF}a{\c&H00FFFFFF} caption preset,
+Dialogue: 0,0:06:09.12,0:06:09.34,GJ,,0,0,0,,Pick a {\c&H0000DDFF}caption{\c&H00FFFFFF} preset,
+Dialogue: 0,0:06:09.34,0:06:09.88,GJ,,0,0,0,,Pick a caption {\c&H0000DDFF}preset,{\c&H00FFFFFF}
+Dialogue: 0,0:06:10.12,0:06:10.30,GJ,,0,0,0,,{\c&H0000DDFF}but{\c&H00FFFFFF} change the colors
+Dialogue: 0,0:06:10.30,0:06:10.56,GJ,,0,0,0,,but {\c&H0000DDFF}change{\c&H00FFFFFF} the colors
+Dialogue: 0,0:06:10.56,0:06:10.76,GJ,,0,0,0,,but change {\c&H0000DDFF}the{\c&H00FFFFFF} colors
+Dialogue: 0,0:06:10.76,0:06:11.08,GJ,,0,0,0,,but change the {\c&H0000DDFF}colors{\c&H00FFFFFF}
+Dialogue: 0,0:06:10.96,0:06:11.24,GJ,,0,0,0,,{\c&H0000DDFF}to{\c&H00FFFFFF} yours.
+Dialogue: 0,0:06:11.24,0:06:11.60,GJ,,0,0,0,,to {\c&H0000DDFF}yours.{\c&H00FFFFFF}
+Dialogue: 0,0:06:12.34,0:06:12.60,GJ,,0,0,0,,{\c&H0000DDFF}I'm{\c&H00FFFFFF} matching the yellow
+Dialogue: 0,0:06:12.60,0:06:12.88,GJ,,0,0,0,,I'm {\c&H0000DDFF}matching{\c&H00FFFFFF} the yellow
+Dialogue: 0,0:06:12.88,0:06:13.04,GJ,,0,0,0,,I'm matching {\c&H0000DDFF}the{\c&H00FFFFFF} yellow
+Dialogue: 0,0:06:13.04,0:06:13.36,GJ,,0,0,0,,I'm matching the {\c&H0000DDFF}yellow{\c&H00FFFFFF}
+Dialogue: 0,0:06:13.24,0:06:13.52,GJ,,0,0,0,,{\c&H0000DDFF}from{\c&H00FFFFFF} the Canva design
+Dialogue: 0,0:06:13.52,0:06:13.70,GJ,,0,0,0,,from {\c&H0000DDFF}the{\c&H00FFFFFF} Canva design
+Dialogue: 0,0:06:13.70,0:06:14.00,GJ,,0,0,0,,from the {\c&H0000DDFF}Canva{\c&H00FFFFFF} design
+Dialogue: 0,0:06:14.00,0:06:14.42,GJ,,0,0,0,,from the Canva {\c&H0000DDFF}design{\c&H00FFFFFF}
+Dialogue: 0,0:06:14.30,0:06:14.60,GJ,,0,0,0,,{\c&H0000DDFF}so{\c&H00FFFFFF} the whole reel
+Dialogue: 0,0:06:14.60,0:06:14.74,GJ,,0,0,0,,so {\c&H0000DDFF}the{\c&H00FFFFFF} whole reel
+Dialogue: 0,0:06:14.74,0:06:14.94,GJ,,0,0,0,,so the {\c&H0000DDFF}whole{\c&H00FFFFFF} reel
+Dialogue: 0,0:06:14.94,0:06:15.32,GJ,,0,0,0,,so the whole {\c&H0000DDFF}reel{\c&H00FFFFFF}
+Dialogue: 0,0:06:15.20,0:06:15.54,GJ,,0,0,0,,{\c&H0000DDFF}feels{\c&H00FFFFFF} like one thing.
+Dialogue: 0,0:06:15.54,0:06:15.82,GJ,,0,0,0,,feels {\c&H0000DDFF}like{\c&H00FFFFFF} one thing.
+Dialogue: 0,0:06:15.82,0:06:16.10,GJ,,0,0,0,,feels like {\c&H0000DDFF}one{\c&H00FFFFFF} thing.
+Dialogue: 0,0:06:16.10,0:06:16.56,GJ,,0,0,0,,feels like one {\c&H0000DDFF}thing.{\c&H00FFFFFF}
+Dialogue: 0,0:06:16.44,0:06:17.40,GJ,,0,0,0,,{\c&H0000DDFF}bump{\c&H00FFFFFF} the size,
+Dialogue: 0,0:06:17.40,0:06:17.62,GJ,,0,0,0,,bump {\c&H0000DDFF}the{\c&H00FFFFFF} size,
+Dialogue: 0,0:06:17.62,0:06:18.14,GJ,,0,0,0,,bump the {\c&H0000DDFF}size,{\c&H00FFFFFF}
+Dialogue: 0,0:06:18.32,0:06:18.56,GJ,,0,0,0,,{\c&H0000DDFF}drag{\c&H00FFFFFF} them to the
+Dialogue: 0,0:06:18.56,0:06:18.74,GJ,,0,0,0,,drag {\c&H0000DDFF}them{\c&H00FFFFFF} to the
+Dialogue: 0,0:06:18.74,0:06:18.88,GJ,,0,0,0,,drag them {\c&H0000DDFF}to{\c&H00FFFFFF} the
+Dialogue: 0,0:06:18.88,0:06:19.14,GJ,,0,0,0,,drag them to {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:06:19.02,0:06:19.20,GJ,,0,0,0,,{\c&H0000DDFF}lower{\c&H00FFFFFF} third, once it's
+Dialogue: 0,0:06:19.20,0:06:20.10,GJ,,0,0,0,,lower {\c&H0000DDFF}third,{\c&H00FFFFFF} once it's
+Dialogue: 0,0:06:20.10,0:06:20.26,GJ,,0,0,0,,lower third, {\c&H0000DDFF}once{\c&H00FFFFFF} it's
+Dialogue: 0,0:06:20.26,0:06:20.62,GJ,,0,0,0,,lower third, once {\c&H0000DDFF}it's{\c&H00FFFFFF}
+Dialogue: 0,0:06:20.50,0:06:20.92,GJ,,0,0,0,,{\c&H0000DDFF}inside{\c&H00FFFFFF} that safe zone
+Dialogue: 0,0:06:20.92,0:06:21.16,GJ,,0,0,0,,inside {\c&H0000DDFF}that{\c&H00FFFFFF} safe zone
+Dialogue: 0,0:06:21.16,0:06:21.40,GJ,,0,0,0,,inside that {\c&H0000DDFF}safe{\c&H00FFFFFF} zone
+Dialogue: 0,0:06:21.40,0:06:21.72,GJ,,0,0,0,,inside that safe {\c&H0000DDFF}zone{\c&H00FFFFFF}
+Dialogue: 0,0:06:21.60,0:06:21.74,GJ,,0,0,0,,{\c&H0000DDFF}we{\c&H00FFFFFF} talked about,
+Dialogue: 0,0:06:21.74,0:06:21.96,GJ,,0,0,0,,we {\c&H0000DDFF}talked{\c&H00FFFFFF} about,
+Dialogue: 0,0:06:21.96,0:06:22.42,GJ,,0,0,0,,we talked {\c&H0000DDFF}about,{\c&H00FFFFFF}
+Dialogue: 0,0:06:22.88,0:06:23.36,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} turn on the
+Dialogue: 0,0:06:23.36,0:06:23.52,GJ,,0,0,0,,and {\c&H0000DDFF}turn{\c&H00FFFFFF} on the
+Dialogue: 0,0:06:23.52,0:06:23.68,GJ,,0,0,0,,and turn {\c&H0000DDFF}on{\c&H00FFFFFF} the
+Dialogue: 0,0:06:23.68,0:06:23.94,GJ,,0,0,0,,and turn on {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:06:23.82,0:06:23.98,GJ,,0,0,0,,{\c&H0000DDFF}word{\c&H00FFFFFF} -by -word animation
+Dialogue: 0,0:06:23.98,0:06:24.18,GJ,,0,0,0,,word {\c&H0000DDFF}-by{\c&H00FFFFFF} -word animation
+Dialogue: 0,0:06:24.18,0:06:24.46,GJ,,0,0,0,,word -by {\c&H0000DDFF}-word{\c&H00FFFFFF} animation
+Dialogue: 0,0:06:24.46,0:06:24.94,GJ,,0,0,0,,word -by -word {\c&H0000DDFF}animation{\c&H00FFFFFF}
+Dialogue: 0,0:06:24.82,0:06:25.16,GJ,,0,0,0,,{\c&H0000DDFF}so{\c&H00FFFFFF} they pop as
+Dialogue: 0,0:06:25.16,0:06:25.36,GJ,,0,0,0,,so {\c&H0000DDFF}they{\c&H00FFFFFF} pop as
+Dialogue: 0,0:06:25.36,0:06:25.56,GJ,,0,0,0,,so they {\c&H0000DDFF}pop{\c&H00FFFFFF} as
+Dialogue: 0,0:06:25.56,0:06:25.90,GJ,,0,0,0,,so they pop {\c&H0000DDFF}as{\c&H00FFFFFF}
+Dialogue: 0,0:06:25.78,0:06:26.00,GJ,,0,0,0,,{\c&H0000DDFF}they're{\c&H00FFFFFF} spoken.
+Dialogue: 0,0:06:26.00,0:06:26.48,GJ,,0,0,0,,they're {\c&H0000DDFF}spoken.{\c&H00FFFFFF}
+Dialogue: 0,0:06:27.30,0:06:27.52,GJ,,0,0,0,,{\c&H0000DDFF}Before{\c&H00FFFFFF} you move on,
+Dialogue: 0,0:06:27.52,0:06:27.68,GJ,,0,0,0,,Before {\c&H0000DDFF}you{\c&H00FFFFFF} move on,
+Dialogue: 0,0:06:27.68,0:06:27.86,GJ,,0,0,0,,Before you {\c&H0000DDFF}move{\c&H00FFFFFF} on,
+Dialogue: 0,0:06:27.86,0:06:28.32,GJ,,0,0,0,,Before you move {\c&H0000DDFF}on,{\c&H00FFFFFF}
+Dialogue: 0,0:06:28.68,0:06:29.02,GJ,,0,0,0,,{\c&H0000DDFF}actually{\c&H00FFFFFF} read them.
+Dialogue: 0,0:06:29.02,0:06:29.30,GJ,,0,0,0,,actually {\c&H0000DDFF}read{\c&H00FFFFFF} them.
+Dialogue: 0,0:06:29.30,0:06:29.74,GJ,,0,0,0,,actually read {\c&H0000DDFF}them.{\c&H00FFFFFF}
+Dialogue: 0,0:06:30.30,0:06:30.42,GJ,,0,0,0,,{\c&H0000DDFF}Auto{\c&H00FFFFFF} captions are about
+Dialogue: 0,0:06:30.42,0:06:30.80,GJ,,0,0,0,,Auto {\c&H0000DDFF}captions{\c&H00FFFFFF} are about
+Dialogue: 0,0:06:30.80,0:06:30.96,GJ,,0,0,0,,Auto captions {\c&H0000DDFF}are{\c&H00FFFFFF} about
+Dialogue: 0,0:06:30.96,0:06:31.30,GJ,,0,0,0,,Auto captions are {\c&H0000DDFF}about{\c&H00FFFFFF}
+Dialogue: 0,0:06:31.18,0:06:31.78,GJ,,0,0,0,,{\c&H0000DDFF}95{\c&H00FFFFFF} % right,
+Dialogue: 0,0:06:31.78,0:06:32.14,GJ,,0,0,0,,95 {\c&H0000DDFF}%{\c&H00FFFFFF} right,
+Dialogue: 0,0:06:32.14,0:06:32.58,GJ,,0,0,0,,95 % {\c&H0000DDFF}right,{\c&H00FFFFFF}
+Dialogue: 0,0:06:33.04,0:06:33.24,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} the 5 %
+Dialogue: 0,0:06:33.24,0:06:33.34,GJ,,0,0,0,,and {\c&H0000DDFF}the{\c&H00FFFFFF} 5 %
+Dialogue: 0,0:06:33.34,0:06:33.58,GJ,,0,0,0,,and the {\c&H0000DDFF}5{\c&H00FFFFFF} %
+Dialogue: 0,0:06:33.58,0:06:33.98,GJ,,0,0,0,,and the 5 {\c&H0000DDFF}%{\c&H00FFFFFF}
+Dialogue: 0,0:06:33.86,0:06:34.02,GJ,,0,0,0,,{\c&H0000DDFF}it{\c&H00FFFFFF} misses is always
+Dialogue: 0,0:06:34.02,0:06:34.32,GJ,,0,0,0,,it {\c&H0000DDFF}misses{\c&H00FFFFFF} is always
+Dialogue: 0,0:06:34.32,0:06:35.08,GJ,,0,0,0,,it misses {\c&H0000DDFF}is{\c&H00FFFFFF} always
+Dialogue: 0,0:06:35.08,0:06:35.54,GJ,,0,0,0,,it misses is {\c&H0000DDFF}always{\c&H00FFFFFF}
+Dialogue: 0,0:06:35.42,0:06:35.60,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} word that matters.
+Dialogue: 0,0:06:35.60,0:06:35.82,GJ,,0,0,0,,the {\c&H0000DDFF}word{\c&H00FFFFFF} that matters.
+Dialogue: 0,0:06:35.82,0:06:35.98,GJ,,0,0,0,,the word {\c&H0000DDFF}that{\c&H00FFFFFF} matters.
+Dialogue: 0,0:06:35.98,0:06:36.50,GJ,,0,0,0,,the word that {\c&H0000DDFF}matters.{\c&H00FFFFFF}
+Dialogue: 0,0:06:37.18,0:06:37.48,GJ,,0,0,0,,{\c&H0000DDFF}Your{\c&H00FFFFFF} brand name, the
+Dialogue: 0,0:06:37.48,0:06:37.74,GJ,,0,0,0,,Your {\c&H0000DDFF}brand{\c&H00FFFFFF} name, the
+Dialogue: 0,0:06:37.74,0:06:38.36,GJ,,0,0,0,,Your brand {\c&H0000DDFF}name,{\c&H00FFFFFF} the
+Dialogue: 0,0:06:38.36,0:06:38.64,GJ,,0,0,0,,Your brand name, {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:06:38.52,0:06:38.98,GJ,,0,0,0,,{\c&H0000DDFF}product,{\c&H00FFFFFF} the price.
+Dialogue: 0,0:06:38.98,0:06:38.98,GJ,,0,0,0,,product, {\c&H0000DDFF}the{\c&H00FFFFFF} price.
+Dialogue: 0,0:06:38.98,0:06:39.40,GJ,,0,0,0,,product, the {\c&H0000DDFF}price.{\c&H00FFFFFF}
+Dialogue: 0,0:06:40.04,0:06:40.16,GJ,,0,0,0,,{\c&H0000DDFF}Click{\c&H00FFFFFF} any caption on
+Dialogue: 0,0:06:40.16,0:06:40.36,GJ,,0,0,0,,Click {\c&H0000DDFF}any{\c&H00FFFFFF} caption on
+Dialogue: 0,0:06:40.36,0:06:40.66,GJ,,0,0,0,,Click any {\c&H0000DDFF}caption{\c&H00FFFFFF} on
+Dialogue: 0,0:06:40.66,0:06:40.98,GJ,,0,0,0,,Click any caption {\c&H0000DDFF}on{\c&H00FFFFFF}
+Dialogue: 0,0:06:40.86,0:06:40.98,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} timeline and fix
+Dialogue: 0,0:06:40.98,0:06:41.28,GJ,,0,0,0,,the {\c&H0000DDFF}timeline{\c&H00FFFFFF} and fix
+Dialogue: 0,0:06:41.28,0:06:41.48,GJ,,0,0,0,,the timeline {\c&H0000DDFF}and{\c&H00FFFFFF} fix
+Dialogue: 0,0:06:41.48,0:06:41.76,GJ,,0,0,0,,the timeline and {\c&H0000DDFF}fix{\c&H00FFFFFF}
+Dialogue: 0,0:06:41.64,0:06:41.80,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} text right there.
+Dialogue: 0,0:06:41.80,0:06:42.00,GJ,,0,0,0,,the {\c&H0000DDFF}text{\c&H00FFFFFF} right there.
+Dialogue: 0,0:06:42.00,0:06:42.26,GJ,,0,0,0,,the text {\c&H0000DDFF}right{\c&H00FFFFFF} there.
+Dialogue: 0,0:06:42.26,0:06:42.74,GJ,,0,0,0,,the text right {\c&H0000DDFF}there.{\c&H00FFFFFF}
+Dialogue: 0,0:06:42.62,0:06:43.56,GJ,,0,0,0,,{\c&H0000DDFF}A{\c&H00FFFFFF} typo in a
+Dialogue: 0,0:06:43.56,0:06:43.86,GJ,,0,0,0,,A {\c&H0000DDFF}typo{\c&H00FFFFFF} in a
+Dialogue: 0,0:06:43.86,0:06:44.06,GJ,,0,0,0,,A typo {\c&H0000DDFF}in{\c&H00FFFFFF} a
+Dialogue: 0,0:06:44.06,0:06:44.30,GJ,,0,0,0,,A typo in {\c&H0000DDFF}a{\c&H00FFFFFF}
+Dialogue: 0,0:06:44.18,0:06:44.42,GJ,,0,0,0,,{\c&H0000DDFF}caption{\c&H00FFFFFF} reads, as
+Dialogue: 0,0:06:44.42,0:06:45.44,GJ,,0,0,0,,caption {\c&H0000DDFF}reads,{\c&H00FFFFFF} as
+Dialogue: 0,0:06:45.44,0:06:45.66,GJ,,0,0,0,,caption reads, {\c&H0000DDFF}as{\c&H00FFFFFF}
+Dialogue: 0,0:06:45.54,0:06:46.12,GJ,,0,0,0,,{\c&H0000DDFF}careless.{\c&H00FFFFFF}
+Dialogue: 0,0:06:46.72,0:06:46.94,GJ,,0,0,0,,{\c&H0000DDFF}And{\c&H00FFFFFF} careless doesn't get
+Dialogue: 0,0:06:46.94,0:06:47.26,GJ,,0,0,0,,And {\c&H0000DDFF}careless{\c&H00FFFFFF} doesn't get
+Dialogue: 0,0:06:47.26,0:06:47.60,GJ,,0,0,0,,And careless {\c&H0000DDFF}doesn't{\c&H00FFFFFF} get
+Dialogue: 0,0:06:47.60,0:06:47.88,GJ,,0,0,0,,And careless doesn't {\c&H0000DDFF}get{\c&H00FFFFFF}
+Dialogue: 0,0:06:47.76,0:06:48.28,GJ,,0,0,0,,{\c&H0000DDFF}shared.{\c&H00FFFFFF}
+Dialogue: 0,0:06:49.02,0:06:49.20,GJ,,0,0,0,,{\c&H0000DDFF}Even{\c&H00FFFFFF} with pop animations,
+Dialogue: 0,0:06:49.20,0:06:49.38,GJ,,0,0,0,,Even {\c&H0000DDFF}with{\c&H00FFFFFF} pop animations,
+Dialogue: 0,0:06:49.38,0:06:49.62,GJ,,0,0,0,,Even with {\c&H0000DDFF}pop{\c&H00FFFFFF} animations,
+Dialogue: 0,0:06:49.62,0:06:50.20,GJ,,0,0,0,,Even with pop {\c&H0000DDFF}animations,{\c&H00FFFFFF}
+Dialogue: 0,0:06:50.76,0:06:50.94,GJ,,0,0,0,,{\c&H0000DDFF}static{\c&H00FFFFFF} slides need camera
+Dialogue: 0,0:06:50.94,0:06:51.28,GJ,,0,0,0,,static {\c&H0000DDFF}slides{\c&H00FFFFFF} need camera
+Dialogue: 0,0:06:51.28,0:06:51.52,GJ,,0,0,0,,static slides {\c&H0000DDFF}need{\c&H00FFFFFF} camera
+Dialogue: 0,0:06:51.52,0:06:51.96,GJ,,0,0,0,,static slides need {\c&H0000DDFF}camera{\c&H00FFFFFF}
+Dialogue: 0,0:06:51.84,0:06:52.88,GJ,,0,0,0,,{\c&H0000DDFF}energy.{\c&H00FFFFFF} Here's the
+Dialogue: 0,0:06:52.88,0:06:53.08,GJ,,0,0,0,,energy. {\c&H0000DDFF}Here's{\c&H00FFFFFF} the
+Dialogue: 0,0:06:53.08,0:06:53.32,GJ,,0,0,0,,energy. Here's {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:06:53.20,0:06:53.46,GJ,,0,0,0,,{\c&H0000DDFF}30{\c&H00FFFFFF} -second version of
+Dialogue: 0,0:06:53.46,0:06:53.66,GJ,,0,0,0,,30 {\c&H0000DDFF}-second{\c&H00FFFFFF} version of
+Dialogue: 0,0:06:53.66,0:06:53.98,GJ,,0,0,0,,30 -second {\c&H0000DDFF}version{\c&H00FFFFFF} of
+Dialogue: 0,0:06:53.98,0:06:54.26,GJ,,0,0,0,,30 -second version {\c&H0000DDFF}of{\c&H00FFFFFF}
+Dialogue: 0,0:06:54.14,0:06:54.26,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} punch -in. Play
+Dialogue: 0,0:06:54.26,0:06:54.42,GJ,,0,0,0,,a {\c&H0000DDFF}punch{\c&H00FFFFFF} -in. Play
+Dialogue: 0,0:06:54.42,0:06:55.08,GJ,,0,0,0,,a punch {\c&H0000DDFF}-in.{\c&H00FFFFFF} Play
+Dialogue: 0,0:06:55.08,0:06:55.40,GJ,,0,0,0,,a punch -in. {\c&H0000DDFF}Play{\c&H00FFFFFF}
+Dialogue: 0,0:06:55.28,0:06:55.44,GJ,,0,0,0,,{\c&H0000DDFF}head{\c&H00FFFFFF} at the start
+Dialogue: 0,0:06:55.44,0:06:55.56,GJ,,0,0,0,,head {\c&H0000DDFF}at{\c&H00FFFFFF} the start
+Dialogue: 0,0:06:55.56,0:06:55.70,GJ,,0,0,0,,head at {\c&H0000DDFF}the{\c&H00FFFFFF} start
+Dialogue: 0,0:06:55.70,0:06:56.02,GJ,,0,0,0,,head at the {\c&H0000DDFF}start{\c&H00FFFFFF}
+Dialogue: 0,0:06:55.90,0:06:56.00,GJ,,0,0,0,,{\c&H0000DDFF}of{\c&H00FFFFFF} a slide, select
+Dialogue: 0,0:06:56.00,0:06:56.12,GJ,,0,0,0,,of {\c&H0000DDFF}a{\c&H00FFFFFF} slide, select
+Dialogue: 0,0:06:56.12,0:06:56.76,GJ,,0,0,0,,of a {\c&H0000DDFF}slide,{\c&H00FFFFFF} select
+Dialogue: 0,0:06:56.76,0:06:57.16,GJ,,0,0,0,,of a slide, {\c&H0000DDFF}select{\c&H00FFFFFF}
+Dialogue: 0,0:06:57.04,0:06:57.26,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} clip, open the
+Dialogue: 0,0:06:57.26,0:06:57.82,GJ,,0,0,0,,the {\c&H0000DDFF}clip,{\c&H00FFFFFF} open the
+Dialogue: 0,0:06:57.82,0:06:58.10,GJ,,0,0,0,,the clip, {\c&H0000DDFF}open{\c&H00FFFFFF} the
+Dialogue: 0,0:06:58.10,0:06:58.38,GJ,,0,0,0,,the clip, open {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:06:58.26,0:06:58.48,GJ,,0,0,0,,{\c&H0000DDFF}scale{\c&H00FFFFFF} keyframe, click the
+Dialogue: 0,0:06:58.48,0:06:59.40,GJ,,0,0,0,,scale {\c&H0000DDFF}keyframe,{\c&H00FFFFFF} click the
+Dialogue: 0,0:06:59.40,0:06:59.62,GJ,,0,0,0,,scale keyframe, {\c&H0000DDFF}click{\c&H00FFFFFF} the
+Dialogue: 0,0:06:59.62,0:06:59.92,GJ,,0,0,0,,scale keyframe, click {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:06:59.80,0:07:00.70,GJ,,0,0,0,,{\c&H0000DDFF}diamond,{\c&H00FFFFFF} jump to the
+Dialogue: 0,0:07:00.70,0:07:00.88,GJ,,0,0,0,,diamond, {\c&H0000DDFF}jump{\c&H00FFFFFF} to the
+Dialogue: 0,0:07:00.88,0:07:01.04,GJ,,0,0,0,,diamond, jump {\c&H0000DDFF}to{\c&H00FFFFFF} the
+Dialogue: 0,0:07:01.04,0:07:01.26,GJ,,0,0,0,,diamond, jump to {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:07:01.14,0:07:01.32,GJ,,0,0,0,,{\c&H0000DDFF}end{\c&H00FFFFFF} of the slide,
+Dialogue: 0,0:07:01.32,0:07:01.44,GJ,,0,0,0,,end {\c&H0000DDFF}of{\c&H00FFFFFF} the slide,
+Dialogue: 0,0:07:01.44,0:07:01.58,GJ,,0,0,0,,end of {\c&H0000DDFF}the{\c&H00FFFFFF} slide,
+Dialogue: 0,0:07:01.58,0:07:02.00,GJ,,0,0,0,,end of the {\c&H0000DDFF}slide,{\c&H00FFFFFF}
+Dialogue: 0,0:07:02.32,0:07:02.54,GJ,,0,0,0,,{\c&H0000DDFF}scale{\c&H00FFFFFF} it up to
+Dialogue: 0,0:07:02.54,0:07:02.68,GJ,,0,0,0,,scale {\c&H0000DDFF}it{\c&H00FFFFFF} up to
+Dialogue: 0,0:07:02.68,0:07:02.80,GJ,,0,0,0,,scale it {\c&H0000DDFF}up{\c&H00FFFFFF} to
+Dialogue: 0,0:07:02.80,0:07:03.06,GJ,,0,0,0,,scale it up {\c&H0000DDFF}to{\c&H00FFFFFF}
+Dialogue: 0,0:07:02.94,0:07:03.18,GJ,,0,0,0,,{\c&H0000DDFF}about{\c&H00FFFFFF} 108%.
+Dialogue: 0,0:07:03.18,0:07:04.48,GJ,,0,0,0,,about {\c&H0000DDFF}108%.{\c&H00FFFFFF}
+Dialogue: 0,0:07:04.84,0:07:05.08,GJ,,0,0,0,,{\c&H0000DDFF}That's{\c&H00FFFFFF} it. A slow
+Dialogue: 0,0:07:05.08,0:07:05.68,GJ,,0,0,0,,That's {\c&H0000DDFF}it.{\c&H00FFFFFF} A slow
+Dialogue: 0,0:07:05.68,0:07:05.84,GJ,,0,0,0,,That's it. {\c&H0000DDFF}A{\c&H00FFFFFF} slow
+Dialogue: 0,0:07:05.84,0:07:06.20,GJ,,0,0,0,,That's it. A {\c&H0000DDFF}slow{\c&H00FFFFFF}
+Dialogue: 0,0:07:06.08,0:07:06.30,GJ,,0,0,0,,{\c&H0000DDFF}push{\c&H00FFFFFF} -in on every
+Dialogue: 0,0:07:06.30,0:07:06.44,GJ,,0,0,0,,push {\c&H0000DDFF}-in{\c&H00FFFFFF} on every
+Dialogue: 0,0:07:06.44,0:07:06.58,GJ,,0,0,0,,push -in {\c&H0000DDFF}on{\c&H00FFFFFF} every
+Dialogue: 0,0:07:06.58,0:07:06.94,GJ,,0,0,0,,push -in on {\c&H0000DDFF}every{\c&H00FFFFFF}
+Dialogue: 0,0:07:06.82,0:07:07.30,GJ,,0,0,0,,{\c&H0000DDFF}slide.{\c&H00FFFFFF}
+Dialogue: 0,0:07:08.10,0:07:08.30,GJ,,0,0,0,,{\c&H0000DDFF}Subtle,{\c&H00FFFFFF} constant motion.
+Dialogue: 0,0:07:08.30,0:07:08.68,GJ,,0,0,0,,Subtle, {\c&H0000DDFF}constant{\c&H00FFFFFF} motion.
+Dialogue: 0,0:07:08.68,0:07:09.20,GJ,,0,0,0,,Subtle, constant {\c&H0000DDFF}motion.{\c&H00FFFFFF}
+Dialogue: 0,0:07:10.32,0:07:10.78,GJ,,0,0,0,,{\c&H0000DDFF}Transitions.{\c&H00FFFFFF} 1.
+Dialogue: 0,0:07:10.78,0:07:11.56,GJ,,0,0,0,,Transitions. {\c&H0000DDFF}1.{\c&H00FFFFFF}
+Dialogue: 0,0:07:12.16,0:07:12.28,GJ,,0,0,0,,{\c&H0000DDFF}Pick{\c&H00FFFFFF} one. I use
+Dialogue: 0,0:07:12.28,0:07:12.96,GJ,,0,0,0,,Pick {\c&H0000DDFF}one.{\c&H00FFFFFF} I use
+Dialogue: 0,0:07:12.96,0:07:13.08,GJ,,0,0,0,,Pick one. {\c&H0000DDFF}I{\c&H00FFFFFF} use
+Dialogue: 0,0:07:13.08,0:07:13.32,GJ,,0,0,0,,Pick one. I {\c&H0000DDFF}use{\c&H00FFFFFF}
+Dialogue: 0,0:07:13.20,0:07:13.36,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} fast glitch or
+Dialogue: 0,0:07:13.36,0:07:13.54,GJ,,0,0,0,,a {\c&H0000DDFF}fast{\c&H00FFFFFF} glitch or
+Dialogue: 0,0:07:13.54,0:07:13.78,GJ,,0,0,0,,a fast {\c&H0000DDFF}glitch{\c&H00FFFFFF} or
+Dialogue: 0,0:07:13.78,0:07:14.10,GJ,,0,0,0,,a fast glitch {\c&H0000DDFF}or{\c&H00FFFFFF}
+Dialogue: 0,0:07:13.98,0:07:14.10,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} whip.
+Dialogue: 0,0:07:14.10,0:07:14.38,GJ,,0,0,0,,a {\c&H0000DDFF}whip.{\c&H00FFFFFF}
+Dialogue: 0,0:07:15.00,0:07:15.18,GJ,,0,0,0,,{\c&H0000DDFF}And{\c&H00FFFFFF} put it only
+Dialogue: 0,0:07:15.18,0:07:15.30,GJ,,0,0,0,,And {\c&H0000DDFF}put{\c&H00FFFFFF} it only
+Dialogue: 0,0:07:15.30,0:07:15.42,GJ,,0,0,0,,And put {\c&H0000DDFF}it{\c&H00FFFFFF} only
+Dialogue: 0,0:07:15.42,0:07:15.76,GJ,,0,0,0,,And put it {\c&H0000DDFF}only{\c&H00FFFFFF}
+Dialogue: 0,0:07:15.64,0:07:15.84,GJ,,0,0,0,,{\c&H0000DDFF}on{\c&H00FFFFFF} the beat drop.
+Dialogue: 0,0:07:15.84,0:07:15.96,GJ,,0,0,0,,on {\c&H0000DDFF}the{\c&H00FFFFFF} beat drop.
+Dialogue: 0,0:07:15.96,0:07:16.14,GJ,,0,0,0,,on the {\c&H0000DDFF}beat{\c&H00FFFFFF} drop.
+Dialogue: 0,0:07:16.14,0:07:16.50,GJ,,0,0,0,,on the beat {\c&H0000DDFF}drop.{\c&H00FFFFFF}
+Dialogue: 0,0:07:17.02,0:07:17.12,GJ,,0,0,0,,{\c&H0000DDFF}The{\c&H00FFFFFF} moment your hook
+Dialogue: 0,0:07:17.12,0:07:17.30,GJ,,0,0,0,,The {\c&H0000DDFF}moment{\c&H00FFFFFF} your hook
+Dialogue: 0,0:07:17.30,0:07:17.54,GJ,,0,0,0,,The moment {\c&H0000DDFF}your{\c&H00FFFFFF} hook
+Dialogue: 0,0:07:17.54,0:07:17.82,GJ,,0,0,0,,The moment your {\c&H0000DDFF}hook{\c&H00FFFFFF}
+Dialogue: 0,0:07:17.70,0:07:17.94,GJ,,0,0,0,,{\c&H0000DDFF}slide{\c&H00FFFFFF} smashes into the
+Dialogue: 0,0:07:17.94,0:07:18.36,GJ,,0,0,0,,slide {\c&H0000DDFF}smashes{\c&H00FFFFFF} into the
+Dialogue: 0,0:07:18.36,0:07:18.62,GJ,,0,0,0,,slide smashes {\c&H0000DDFF}into{\c&H00FFFFFF} the
+Dialogue: 0,0:07:18.62,0:07:18.90,GJ,,0,0,0,,slide smashes into {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:07:18.78,0:07:19.64,GJ,,0,0,0,,{\c&H0000DDFF}content,{\c&H00FFFFFF} a reel with
+Dialogue: 0,0:07:19.64,0:07:19.76,GJ,,0,0,0,,content, {\c&H0000DDFF}a{\c&H00FFFFFF} reel with
+Dialogue: 0,0:07:19.76,0:07:19.92,GJ,,0,0,0,,content, a {\c&H0000DDFF}reel{\c&H00FFFFFF} with
+Dialogue: 0,0:07:19.92,0:07:20.26,GJ,,0,0,0,,content, a reel {\c&H0000DDFF}with{\c&H00FFFFFF}
+Dialogue: 0,0:07:20.14,0:07:20.36,GJ,,0,0,0,,{\c&H0000DDFF}5{\c&H00FFFFFF} different transitions looks
+Dialogue: 0,0:07:20.36,0:07:20.66,GJ,,0,0,0,,5 {\c&H0000DDFF}different{\c&H00FFFFFF} transitions looks
+Dialogue: 0,0:07:20.66,0:07:21.14,GJ,,0,0,0,,5 different {\c&H0000DDFF}transitions{\c&H00FFFFFF} looks
+Dialogue: 0,0:07:21.14,0:07:21.48,GJ,,0,0,0,,5 different transitions {\c&H0000DDFF}looks{\c&H00FFFFFF}
+Dialogue: 0,0:07:21.36,0:07:21.56,GJ,,0,0,0,,{\c&H0000DDFF}like{\c&H00FFFFFF} a wedding video
+Dialogue: 0,0:07:21.56,0:07:21.68,GJ,,0,0,0,,like {\c&H0000DDFF}a{\c&H00FFFFFF} wedding video
+Dialogue: 0,0:07:21.68,0:07:21.86,GJ,,0,0,0,,like a {\c&H0000DDFF}wedding{\c&H00FFFFFF} video
+Dialogue: 0,0:07:21.86,0:07:22.32,GJ,,0,0,0,,like a wedding {\c&H0000DDFF}video{\c&H00FFFFFF}
+Dialogue: 0,0:07:22.20,0:07:22.44,GJ,,0,0,0,,{\c&H0000DDFF}from{\c&H00FFFFFF} 2011.
+Dialogue: 0,0:07:22.44,0:07:23.06,GJ,,0,0,0,,from {\c&H0000DDFF}2011.{\c&H00FFFFFF}
+Dialogue: 0,0:07:23.78,0:07:24.04,GJ,,0,0,0,,{\c&H0000DDFF}One{\c&H00FFFFFF} transition, used
+Dialogue: 0,0:07:24.04,0:07:24.84,GJ,,0,0,0,,One {\c&H0000DDFF}transition,{\c&H00FFFFFF} used
+Dialogue: 0,0:07:24.84,0:07:25.20,GJ,,0,0,0,,One transition, {\c&H0000DDFF}used{\c&H00FFFFFF}
+Dialogue: 0,0:07:25.08,0:07:25.80,GJ,,0,0,0,,{\c&H0000DDFF}once,{\c&H00FFFFFF} looks intentional.
+Dialogue: 0,0:07:25.80,0:07:26.06,GJ,,0,0,0,,once, {\c&H0000DDFF}looks{\c&H00FFFFFF} intentional.
+Dialogue: 0,0:07:26.06,0:07:26.72,GJ,,0,0,0,,once, looks {\c&H0000DDFF}intentional.{\c&H00FFFFFF}
+Dialogue: 0,0:07:27.48,0:07:27.70,GJ,,0,0,0,,{\c&H0000DDFF}Last{\c&H00FFFFFF} trick before export,
+Dialogue: 0,0:07:27.70,0:07:27.92,GJ,,0,0,0,,Last {\c&H0000DDFF}trick{\c&H00FFFFFF} before export,
+Dialogue: 0,0:07:27.92,0:07:28.22,GJ,,0,0,0,,Last trick {\c&H0000DDFF}before{\c&H00FFFFFF} export,
+Dialogue: 0,0:07:28.22,0:07:28.78,GJ,,0,0,0,,Last trick before {\c&H0000DDFF}export,{\c&H00FFFFFF}
+Dialogue: 0,0:07:29.16,0:07:29.20,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} this is the
+Dialogue: 0,0:07:29.20,0:07:29.32,GJ,,0,0,0,,and {\c&H0000DDFF}this{\c&H00FFFFFF} is the
+Dialogue: 0,0:07:29.32,0:07:29.44,GJ,,0,0,0,,and this {\c&H0000DDFF}is{\c&H00FFFFFF} the
+Dialogue: 0,0:07:29.44,0:07:29.70,GJ,,0,0,0,,and this is {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:07:29.58,0:07:29.80,GJ,,0,0,0,,{\c&H0000DDFF}one{\c&H00FFFFFF} almost nobody
+Dialogue: 0,0:07:29.80,0:07:30.42,GJ,,0,0,0,,one {\c&H0000DDFF}almost{\c&H00FFFFFF} nobody
+Dialogue: 0,0:07:30.42,0:07:30.98,GJ,,0,0,0,,one almost {\c&H0000DDFF}nobody{\c&H00FFFFFF}
+Dialogue: 0,0:07:30.86,0:07:31.68,GJ,,0,0,0,,{\c&H0000DDFF}uses,{\c&H00FFFFFF} make it loop.
+Dialogue: 0,0:07:31.68,0:07:31.90,GJ,,0,0,0,,uses, {\c&H0000DDFF}make{\c&H00FFFFFF} it loop.
+Dialogue: 0,0:07:31.90,0:07:32.06,GJ,,0,0,0,,uses, make {\c&H0000DDFF}it{\c&H00FFFFFF} loop.
+Dialogue: 0,0:07:32.06,0:07:32.36,GJ,,0,0,0,,uses, make it {\c&H0000DDFF}loop.{\c&H00FFFFFF}
+Dialogue: 0,0:07:32.84,0:07:33.02,GJ,,0,0,0,,{\c&H0000DDFF}Take{\c&H00FFFFFF} your last slide
+Dialogue: 0,0:07:33.02,0:07:33.20,GJ,,0,0,0,,Take {\c&H0000DDFF}your{\c&H00FFFFFF} last slide
+Dialogue: 0,0:07:33.20,0:07:33.40,GJ,,0,0,0,,Take your {\c&H0000DDFF}last{\c&H00FFFFFF} slide
+Dialogue: 0,0:07:33.40,0:07:33.82,GJ,,0,0,0,,Take your last {\c&H0000DDFF}slide{\c&H00FFFFFF}
+Dialogue: 0,0:07:33.70,0:07:33.90,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} make its final
+Dialogue: 0,0:07:33.90,0:07:34.06,GJ,,0,0,0,,and {\c&H0000DDFF}make{\c&H00FFFFFF} its final
+Dialogue: 0,0:07:34.06,0:07:34.22,GJ,,0,0,0,,and make {\c&H0000DDFF}its{\c&H00FFFFFF} final
+Dialogue: 0,0:07:34.22,0:07:34.60,GJ,,0,0,0,,and make its {\c&H0000DDFF}final{\c&H00FFFFFF}
+Dialogue: 0,0:07:34.48,0:07:34.82,GJ,,0,0,0,,{\c&H0000DDFF}frame{\c&H00FFFFFF} visually identical to
+Dialogue: 0,0:07:34.82,0:07:35.20,GJ,,0,0,0,,frame {\c&H0000DDFF}visually{\c&H00FFFFFF} identical to
+Dialogue: 0,0:07:35.20,0:07:35.60,GJ,,0,0,0,,frame visually {\c&H0000DDFF}identical{\c&H00FFFFFF} to
+Dialogue: 0,0:07:35.60,0:07:36.06,GJ,,0,0,0,,frame visually identical {\c&H0000DDFF}to{\c&H00FFFFFF}
+Dialogue: 0,0:07:35.94,0:07:36.12,GJ,,0,0,0,,{\c&H0000DDFF}your{\c&H00FFFFFF} first frame. Same
+Dialogue: 0,0:07:36.12,0:07:36.32,GJ,,0,0,0,,your {\c&H0000DDFF}first{\c&H00FFFFFF} frame. Same
+Dialogue: 0,0:07:36.32,0:07:37.32,GJ,,0,0,0,,your first {\c&H0000DDFF}frame.{\c&H00FFFFFF} Same
+Dialogue: 0,0:07:37.32,0:07:37.58,GJ,,0,0,0,,your first frame. {\c&H0000DDFF}Same{\c&H00FFFFFF}
+Dialogue: 0,0:07:37.46,0:07:38.04,GJ,,0,0,0,,{\c&H0000DDFF}background,{\c&H00FFFFFF} same layout.
+Dialogue: 0,0:07:38.04,0:07:38.16,GJ,,0,0,0,,background, {\c&H0000DDFF}same{\c&H00FFFFFF} layout.
+Dialogue: 0,0:07:38.16,0:07:38.58,GJ,,0,0,0,,background, same {\c&H0000DDFF}layout.{\c&H00FFFFFF}
+Dialogue: 0,0:07:39.08,0:07:39.22,GJ,,0,0,0,,{\c&H0000DDFF}When{\c&H00FFFFFF} the reel restarts,
+Dialogue: 0,0:07:39.22,0:07:39.34,GJ,,0,0,0,,When {\c&H0000DDFF}the{\c&H00FFFFFF} reel restarts,
+Dialogue: 0,0:07:39.34,0:07:39.54,GJ,,0,0,0,,When the {\c&H0000DDFF}reel{\c&H00FFFFFF} restarts,
+Dialogue: 0,0:07:39.54,0:07:40.16,GJ,,0,0,0,,When the reel {\c&H0000DDFF}restarts,{\c&H00FFFFFF}
+Dialogue: 0,0:07:40.04,0:07:40.40,GJ,,0,0,0,,{\c&H0000DDFF}there's{\c&H00FFFFFF} no seam.
+Dialogue: 0,0:07:40.40,0:07:40.58,GJ,,0,0,0,,there's {\c&H0000DDFF}no{\c&H00FFFFFF} seam.
+Dialogue: 0,0:07:40.58,0:07:41.08,GJ,,0,0,0,,there's no {\c&H0000DDFF}seam.{\c&H00FFFFFF}
+Dialogue: 0,0:07:41.58,0:07:41.78,GJ,,0,0,0,,{\c&H0000DDFF}People{\c&H00FFFFFF} watch it twice
+Dialogue: 0,0:07:41.78,0:07:42.06,GJ,,0,0,0,,People {\c&H0000DDFF}watch{\c&H00FFFFFF} it twice
+Dialogue: 0,0:07:42.06,0:07:42.24,GJ,,0,0,0,,People watch {\c&H0000DDFF}it{\c&H00FFFFFF} twice
+Dialogue: 0,0:07:42.24,0:07:42.58,GJ,,0,0,0,,People watch it {\c&H0000DDFF}twice{\c&H00FFFFFF}
+Dialogue: 0,0:07:42.46,0:07:42.74,GJ,,0,0,0,,{\c&H0000DDFF}without{\c&H00FFFFFF} noticing, your
+Dialogue: 0,0:07:42.74,0:07:43.66,GJ,,0,0,0,,without {\c&H0000DDFF}noticing,{\c&H00FFFFFF} your
+Dialogue: 0,0:07:43.66,0:07:43.96,GJ,,0,0,0,,without noticing, {\c&H0000DDFF}your{\c&H00FFFFFF}
+Dialogue: 0,0:07:43.84,0:07:44.14,GJ,,0,0,0,,{\c&H0000DDFF}average{\c&H00FFFFFF} watch time doubles,
+Dialogue: 0,0:07:44.14,0:07:44.38,GJ,,0,0,0,,average {\c&H0000DDFF}watch{\c&H00FFFFFF} time doubles,
+Dialogue: 0,0:07:44.38,0:07:44.66,GJ,,0,0,0,,average watch {\c&H0000DDFF}time{\c&H00FFFFFF} doubles,
+Dialogue: 0,0:07:44.66,0:07:45.16,GJ,,0,0,0,,average watch time {\c&H0000DDFF}doubles,{\c&H00FFFFFF}
+Dialogue: 0,0:07:45.54,0:07:45.68,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} watch time is
+Dialogue: 0,0:07:45.68,0:07:45.92,GJ,,0,0,0,,and {\c&H0000DDFF}watch{\c&H00FFFFFF} time is
+Dialogue: 0,0:07:45.92,0:07:46.16,GJ,,0,0,0,,and watch {\c&H0000DDFF}time{\c&H00FFFFFF} is
+Dialogue: 0,0:07:46.16,0:07:46.44,GJ,,0,0,0,,and watch time {\c&H0000DDFF}is{\c&H00FFFFFF}
+Dialogue: 0,0:07:46.32,0:07:46.46,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} metric Instagram actually
+Dialogue: 0,0:07:46.46,0:07:46.72,GJ,,0,0,0,,the {\c&H0000DDFF}metric{\c&H00FFFFFF} Instagram actually
+Dialogue: 0,0:07:46.72,0:07:47.20,GJ,,0,0,0,,the metric {\c&H0000DDFF}Instagram{\c&H00FFFFFF} actually
+Dialogue: 0,0:07:47.20,0:07:47.74,GJ,,0,0,0,,the metric Instagram {\c&H0000DDFF}actually{\c&H00FFFFFF}
+Dialogue: 0,0:07:47.62,0:07:47.90,GJ,,0,0,0,,{\c&H0000DDFF}ranks{\c&H00FFFFFF} on.
+Dialogue: 0,0:07:47.90,0:07:48.44,GJ,,0,0,0,,ranks {\c&H0000DDFF}on.{\c&H00FFFFFF}
+Dialogue: 0,0:07:49.06,0:07:49.28,GJ,,0,0,0,,{\c&H0000DDFF}Export{\c&H00FFFFFF} settings
+Dialogue: 0,0:07:49.28,0:07:49.76,GJ,,0,0,0,,Export {\c&H0000DDFF}settings{\c&H00FFFFFF}
+Dialogue: 0,0:07:49.64,0:07:51.00,GJ,,0,0,0,,{\c&H0000DDFF}1080p,{\c&H00FFFFFF}
+Dialogue: 0,0:07:51.28,0:07:51.56,GJ,,0,0,0,,{\c&H0000DDFF}60{\c&H00FFFFFF} frames a second,
+Dialogue: 0,0:07:51.56,0:07:51.76,GJ,,0,0,0,,60 {\c&H0000DDFF}frames{\c&H00FFFFFF} a second,
+Dialogue: 0,0:07:51.76,0:07:51.94,GJ,,0,0,0,,60 frames {\c&H0000DDFF}a{\c&H00FFFFFF} second,
+Dialogue: 0,0:07:51.94,0:07:52.36,GJ,,0,0,0,,60 frames a {\c&H0000DDFF}second,{\c&H00FFFFFF}
+Dialogue: 0,0:07:52.66,0:07:52.94,GJ,,0,0,0,,{\c&H0000DDFF}bitrate{\c&H00FFFFFF} on high, and
+Dialogue: 0,0:07:52.94,0:07:53.22,GJ,,0,0,0,,bitrate {\c&H0000DDFF}on{\c&H00FFFFFF} high, and
+Dialogue: 0,0:07:53.22,0:07:53.92,GJ,,0,0,0,,bitrate on {\c&H0000DDFF}high,{\c&H00FFFFFF} and
+Dialogue: 0,0:07:53.92,0:07:54.20,GJ,,0,0,0,,bitrate on high, {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:07:54.08,0:07:54.34,GJ,,0,0,0,,{\c&H0000DDFF}now{\c&H00FFFFFF} the thing I
+Dialogue: 0,0:07:54.34,0:07:54.52,GJ,,0,0,0,,now {\c&H0000DDFF}the{\c&H00FFFFFF} thing I
+Dialogue: 0,0:07:54.52,0:07:54.68,GJ,,0,0,0,,now the {\c&H0000DDFF}thing{\c&H00FFFFFF} I
+Dialogue: 0,0:07:54.68,0:07:54.96,GJ,,0,0,0,,now the thing {\c&H0000DDFF}I{\c&H00FFFFFF}
+Dialogue: 0,0:07:54.84,0:07:55.08,GJ,,0,0,0,,{\c&H0000DDFF}promised{\c&H00FFFFFF} you at the
+Dialogue: 0,0:07:55.08,0:07:55.28,GJ,,0,0,0,,promised {\c&H0000DDFF}you{\c&H00FFFFFF} at the
+Dialogue: 0,0:07:55.28,0:07:55.40,GJ,,0,0,0,,promised you {\c&H0000DDFF}at{\c&H00FFFFFF} the
+Dialogue: 0,0:07:55.40,0:07:55.68,GJ,,0,0,0,,promised you at {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:07:55.56,0:07:55.92,GJ,,0,0,0,,{\c&H0000DDFF}start.{\c&H00FFFFFF}
+Dialogue: 0,0:07:56.58,0:07:56.80,GJ,,0,0,0,,{\c&H0000DDFF}Before{\c&H00FFFFFF} you hit export,
+Dialogue: 0,0:07:56.80,0:07:56.96,GJ,,0,0,0,,Before {\c&H0000DDFF}you{\c&H00FFFFFF} hit export,
+Dialogue: 0,0:07:56.96,0:07:57.14,GJ,,0,0,0,,Before you {\c&H0000DDFF}hit{\c&H00FFFFFF} export,
+Dialogue: 0,0:07:57.14,0:07:57.62,GJ,,0,0,0,,Before you hit {\c&H0000DDFF}export,{\c&H00FFFFFF}
+Dialogue: 0,0:07:57.94,0:07:58.04,GJ,,0,0,0,,{\c&H0000DDFF}mute{\c&H00FFFFFF} the music track.
+Dialogue: 0,0:07:58.04,0:07:58.20,GJ,,0,0,0,,mute {\c&H0000DDFF}the{\c&H00FFFFFF} music track.
+Dialogue: 0,0:07:58.20,0:07:58.44,GJ,,0,0,0,,mute the {\c&H0000DDFF}music{\c&H00FFFFFF} track.
+Dialogue: 0,0:07:58.44,0:07:58.92,GJ,,0,0,0,,mute the music {\c&H0000DDFF}track.{\c&H00FFFFFF}
+Dialogue: 0,0:07:59.20,0:07:59.66,GJ,,0,0,0,,{\c&H0000DDFF}Yes,{\c&H00FFFFFF} delete it or
+Dialogue: 0,0:07:59.66,0:07:59.86,GJ,,0,0,0,,Yes, {\c&H0000DDFF}delete{\c&H00FFFFFF} it or
+Dialogue: 0,0:07:59.86,0:08:00.02,GJ,,0,0,0,,Yes, delete {\c&H0000DDFF}it{\c&H00FFFFFF} or
+Dialogue: 0,0:08:00.02,0:08:00.34,GJ,,0,0,0,,Yes, delete it {\c&H0000DDFF}or{\c&H00FFFFFF}
+Dialogue: 0,0:08:00.22,0:08:00.40,GJ,,0,0,0,,{\c&H0000DDFF}mute{\c&H00FFFFFF} it. Here's why.
+Dialogue: 0,0:08:00.40,0:08:00.90,GJ,,0,0,0,,mute {\c&H0000DDFF}it.{\c&H00FFFFFF} Here's why.
+Dialogue: 0,0:08:00.90,0:08:01.10,GJ,,0,0,0,,mute it. {\c&H0000DDFF}Here's{\c&H00FFFFFF} why.
+Dialogue: 0,0:08:01.10,0:08:01.50,GJ,,0,0,0,,mute it. Here's {\c&H0000DDFF}why.{\c&H00FFFFFF}
+Dialogue: 0,0:08:01.76,0:08:01.92,GJ,,0,0,0,,{\c&H0000DDFF}If{\c&H00FFFFFF} you bake a
+Dialogue: 0,0:08:01.92,0:08:02.00,GJ,,0,0,0,,If {\c&H0000DDFF}you{\c&H00FFFFFF} bake a
+Dialogue: 0,0:08:02.00,0:08:02.18,GJ,,0,0,0,,If you {\c&H0000DDFF}bake{\c&H00FFFFFF} a
+Dialogue: 0,0:08:02.18,0:08:02.44,GJ,,0,0,0,,If you bake {\c&H0000DDFF}a{\c&H00FFFFFF}
+Dialogue: 0,0:08:02.32,0:08:02.50,GJ,,0,0,0,,{\c&H0000DDFF}song{\c&H00FFFFFF} into your file,
+Dialogue: 0,0:08:02.50,0:08:02.72,GJ,,0,0,0,,song {\c&H0000DDFF}into{\c&H00FFFFFF} your file,
+Dialogue: 0,0:08:02.72,0:08:02.88,GJ,,0,0,0,,song into {\c&H0000DDFF}your{\c&H00FFFFFF} file,
+Dialogue: 0,0:08:02.88,0:08:03.28,GJ,,0,0,0,,song into your {\c&H0000DDFF}file,{\c&H00FFFFFF}
+Dialogue: 0,0:08:03.38,0:08:03.70,GJ,,0,0,0,,{\c&H0000DDFF}Instagram{\c&H00FFFFFF} hears it as
+Dialogue: 0,0:08:03.70,0:08:03.96,GJ,,0,0,0,,Instagram {\c&H0000DDFF}hears{\c&H00FFFFFF} it as
+Dialogue: 0,0:08:03.96,0:08:04.14,GJ,,0,0,0,,Instagram hears {\c&H0000DDFF}it{\c&H00FFFFFF} as
+Dialogue: 0,0:08:04.14,0:08:04.48,GJ,,0,0,0,,Instagram hears it {\c&H0000DDFF}as{\c&H00FFFFFF}
+Dialogue: 0,0:08:04.36,0:08:04.78,GJ,,0,0,0,,{\c&H0000DDFF}just{\c&H00FFFFFF} your audio.
+Dialogue: 0,0:08:04.78,0:08:05.46,GJ,,0,0,0,,just {\c&H0000DDFF}your{\c&H00FFFFFF} audio.
+Dialogue: 0,0:08:05.46,0:08:06.02,GJ,,0,0,0,,just your {\c&H0000DDFF}audio.{\c&H00FFFFFF}
+Dialogue: 0,0:08:06.66,0:08:06.94,GJ,,0,0,0,,{\c&H0000DDFF}But{\c&H00FFFFFF} trending audio only
+Dialogue: 0,0:08:06.94,0:08:07.32,GJ,,0,0,0,,But {\c&H0000DDFF}trending{\c&H00FFFFFF} audio only
+Dialogue: 0,0:08:07.32,0:08:07.66,GJ,,0,0,0,,But trending {\c&H0000DDFF}audio{\c&H00FFFFFF} only
+Dialogue: 0,0:08:07.66,0:08:08.00,GJ,,0,0,0,,But trending audio {\c&H0000DDFF}only{\c&H00FFFFFF}
+Dialogue: 0,0:08:07.88,0:08:08.14,GJ,,0,0,0,,{\c&H0000DDFF}helps{\c&H00FFFFFF} your reach if
+Dialogue: 0,0:08:08.14,0:08:08.32,GJ,,0,0,0,,helps {\c&H0000DDFF}your{\c&H00FFFFFF} reach if
+Dialogue: 0,0:08:08.32,0:08:08.54,GJ,,0,0,0,,helps your {\c&H0000DDFF}reach{\c&H00FFFFFF} if
+Dialogue: 0,0:08:08.54,0:08:09.04,GJ,,0,0,0,,helps your reach {\c&H0000DDFF}if{\c&H00FFFFFF}
+Dialogue: 0,0:08:08.92,0:08:09.10,GJ,,0,0,0,,{\c&H0000DDFF}it's{\c&H00FFFFFF} added inside Instagram.
+Dialogue: 0,0:08:09.10,0:08:09.38,GJ,,0,0,0,,it's {\c&H0000DDFF}added{\c&H00FFFFFF} inside Instagram.
+Dialogue: 0,0:08:09.38,0:08:09.74,GJ,,0,0,0,,it's added {\c&H0000DDFF}inside{\c&H00FFFFFF} Instagram.
+Dialogue: 0,0:08:09.74,0:08:10.36,GJ,,0,0,0,,it's added inside {\c&H0000DDFF}Instagram.{\c&H00FFFFFF}
+Dialogue: 0,0:08:10.94,0:08:11.26,GJ,,0,0,0,,{\c&H0000DDFF}That's{\c&H00FFFFFF} how the algorithm
+Dialogue: 0,0:08:11.26,0:08:11.38,GJ,,0,0,0,,That's {\c&H0000DDFF}how{\c&H00FFFFFF} the algorithm
+Dialogue: 0,0:08:11.38,0:08:11.50,GJ,,0,0,0,,That's how {\c&H0000DDFF}the{\c&H00FFFFFF} algorithm
+Dialogue: 0,0:08:11.50,0:08:11.98,GJ,,0,0,0,,That's how the {\c&H0000DDFF}algorithm{\c&H00FFFFFF}
+Dialogue: 0,0:08:11.86,0:08:12.28,GJ,,0,0,0,,{\c&H0000DDFF}files{\c&H00FFFFFF} your reel under
+Dialogue: 0,0:08:12.28,0:08:12.50,GJ,,0,0,0,,files {\c&H0000DDFF}your{\c&H00FFFFFF} reel under
+Dialogue: 0,0:08:12.50,0:08:12.66,GJ,,0,0,0,,files your {\c&H0000DDFF}reel{\c&H00FFFFFF} under
+Dialogue: 0,0:08:12.66,0:08:13.10,GJ,,0,0,0,,files your reel {\c&H0000DDFF}under{\c&H00FFFFFF}
+Dialogue: 0,0:08:12.98,0:08:13.24,GJ,,0,0,0,,{\c&H0000DDFF}that{\c&H00FFFFFF} sound.
+Dialogue: 0,0:08:13.24,0:08:13.74,GJ,,0,0,0,,that {\c&H0000DDFF}sound.{\c&H00FFFFFF}
+Dialogue: 0,0:08:14.36,0:08:15.04,GJ,,0,0,0,,{\c&H0000DDFF}So,{\c&H00FFFFFF} export silent
+Dialogue: 0,0:08:15.04,0:08:15.34,GJ,,0,0,0,,So, {\c&H0000DDFF}export{\c&H00FFFFFF} silent
+Dialogue: 0,0:08:15.34,0:08:15.94,GJ,,0,0,0,,So, export {\c&H0000DDFF}silent{\c&H00FFFFFF}
+Dialogue: 0,0:08:15.82,0:08:16.52,GJ,,0,0,0,,{\c&H0000DDFF}or{\c&H00FFFFFF} voiceover
+Dialogue: 0,0:08:16.52,0:08:17.14,GJ,,0,0,0,,or {\c&H0000DDFF}voiceover{\c&H00FFFFFF}
+Dialogue: 0,0:08:17.02,0:08:18.06,GJ,,0,0,0,,{\c&H0000DDFF}only.{\c&H00FFFFFF} Then add
+Dialogue: 0,0:08:18.06,0:08:18.28,GJ,,0,0,0,,only. {\c&H0000DDFF}Then{\c&H00FFFFFF} add
+Dialogue: 0,0:08:18.28,0:08:18.70,GJ,,0,0,0,,only. Then {\c&H0000DDFF}add{\c&H00FFFFFF}
+Dialogue: 0,0:08:18.58,0:08:18.76,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} trending version of
+Dialogue: 0,0:08:18.76,0:08:19.06,GJ,,0,0,0,,the {\c&H0000DDFF}trending{\c&H00FFFFFF} version of
+Dialogue: 0,0:08:19.06,0:08:19.36,GJ,,0,0,0,,the trending {\c&H0000DDFF}version{\c&H00FFFFFF} of
+Dialogue: 0,0:08:19.36,0:08:19.72,GJ,,0,0,0,,the trending version {\c&H0000DDFF}of{\c&H00FFFFFF}
+Dialogue: 0,0:08:19.60,0:08:19.72,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} track in the
+Dialogue: 0,0:08:19.72,0:08:19.98,GJ,,0,0,0,,the {\c&H0000DDFF}track{\c&H00FFFFFF} in the
+Dialogue: 0,0:08:19.98,0:08:20.14,GJ,,0,0,0,,the track {\c&H0000DDFF}in{\c&H00FFFFFF} the
+Dialogue: 0,0:08:20.14,0:08:20.36,GJ,,0,0,0,,the track in {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:08:20.24,0:08:20.68,GJ,,0,0,0,,{\c&H0000DDFF}Instagram{\c&H00FFFFFF} app when you
+Dialogue: 0,0:08:20.68,0:08:20.98,GJ,,0,0,0,,Instagram {\c&H0000DDFF}app{\c&H00FFFFFF} when you
+Dialogue: 0,0:08:20.98,0:08:21.16,GJ,,0,0,0,,Instagram app {\c&H0000DDFF}when{\c&H00FFFFFF} you
+Dialogue: 0,0:08:21.16,0:08:21.42,GJ,,0,0,0,,Instagram app when {\c&H0000DDFF}you{\c&H00FFFFFF}
+Dialogue: 0,0:08:21.30,0:08:22.10,GJ,,0,0,0,,{\c&H0000DDFF}post.{\c&H00FFFFFF} You get the
+Dialogue: 0,0:08:22.10,0:08:22.28,GJ,,0,0,0,,post. {\c&H0000DDFF}You{\c&H00FFFFFF} get the
+Dialogue: 0,0:08:22.28,0:08:22.42,GJ,,0,0,0,,post. You {\c&H0000DDFF}get{\c&H00FFFFFF} the
+Dialogue: 0,0:08:22.42,0:08:22.70,GJ,,0,0,0,,post. You get {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:08:22.58,0:08:22.80,GJ,,0,0,0,,{\c&H0000DDFF}beat{\c&H00FFFFFF} synced edit and
+Dialogue: 0,0:08:22.80,0:08:23.20,GJ,,0,0,0,,beat {\c&H0000DDFF}synced{\c&H00FFFFFF} edit and
+Dialogue: 0,0:08:23.20,0:08:23.46,GJ,,0,0,0,,beat synced {\c&H0000DDFF}edit{\c&H00FFFFFF} and
+Dialogue: 0,0:08:23.46,0:08:24.08,GJ,,0,0,0,,beat synced edit {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:08:23.96,0:08:24.08,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} algorithm credit.
+Dialogue: 0,0:08:24.08,0:08:24.52,GJ,,0,0,0,,the {\c&H0000DDFF}algorithm{\c&H00FFFFFF} credit.
+Dialogue: 0,0:08:24.52,0:08:25.00,GJ,,0,0,0,,the algorithm {\c&H0000DDFF}credit.{\c&H00FFFFFF}
+Dialogue: 0,0:08:25.50,0:08:25.78,GJ,,0,0,0,,{\c&H0000DDFF}That's{\c&H00FFFFFF} the whole trick.
+Dialogue: 0,0:08:25.78,0:08:25.90,GJ,,0,0,0,,That's {\c&H0000DDFF}the{\c&H00FFFFFF} whole trick.
+Dialogue: 0,0:08:25.90,0:08:26.10,GJ,,0,0,0,,That's the {\c&H0000DDFF}whole{\c&H00FFFFFF} trick.
+Dialogue: 0,0:08:26.10,0:08:26.54,GJ,,0,0,0,,That's the whole {\c&H0000DDFF}trick.{\c&H00FFFFFF}
+Dialogue: 0,0:08:26.92,0:08:27.02,GJ,,0,0,0,,{\c&H0000DDFF}And{\c&H00FFFFFF} when you do
+Dialogue: 0,0:08:27.02,0:08:27.12,GJ,,0,0,0,,And {\c&H0000DDFF}when{\c&H00FFFFFF} you do
+Dialogue: 0,0:08:27.12,0:08:27.30,GJ,,0,0,0,,And when {\c&H0000DDFF}you{\c&H00FFFFFF} do
+Dialogue: 0,0:08:27.30,0:08:27.56,GJ,,0,0,0,,And when you {\c&H0000DDFF}do{\c&H00FFFFFF}
+Dialogue: 0,0:08:27.44,0:08:27.78,GJ,,0,0,0,,{\c&H0000DDFF}post{\c&H00FFFFFF} it, the reel
+Dialogue: 0,0:08:27.78,0:08:28.40,GJ,,0,0,0,,post {\c&H0000DDFF}it,{\c&H00FFFFFF} the reel
+Dialogue: 0,0:08:28.40,0:08:28.50,GJ,,0,0,0,,post it, {\c&H0000DDFF}the{\c&H00FFFFFF} reel
+Dialogue: 0,0:08:28.50,0:08:28.82,GJ,,0,0,0,,post it, the {\c&H0000DDFF}reel{\c&H00FFFFFF}
+Dialogue: 0,0:08:28.70,0:08:28.88,GJ,,0,0,0,,{\c&H0000DDFF}we{\c&H00FFFFFF} just built plus
+Dialogue: 0,0:08:28.88,0:08:29.02,GJ,,0,0,0,,we {\c&H0000DDFF}just{\c&H00FFFFFF} built plus
+Dialogue: 0,0:08:29.02,0:08:29.40,GJ,,0,0,0,,we just {\c&H0000DDFF}built{\c&H00FFFFFF} plus
+Dialogue: 0,0:08:29.40,0:08:29.98,GJ,,0,0,0,,we just built {\c&H0000DDFF}plus{\c&H00FFFFFF}
+Dialogue: 0,0:08:29.86,0:08:30.06,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} trending audio at
+Dialogue: 0,0:08:30.06,0:08:30.34,GJ,,0,0,0,,the {\c&H0000DDFF}trending{\c&H00FFFFFF} audio at
+Dialogue: 0,0:08:30.34,0:08:30.74,GJ,,0,0,0,,the trending {\c&H0000DDFF}audio{\c&H00FFFFFF} at
+Dialogue: 0,0:08:30.74,0:08:31.46,GJ,,0,0,0,,the trending audio {\c&H0000DDFF}at{\c&H00FFFFFF}
+Dialogue: 0,0:08:31.34,0:08:31.62,GJ,,0,0,0,,{\c&H0000DDFF}low{\c&H00FFFFFF} volume under your
+Dialogue: 0,0:08:31.62,0:08:32.06,GJ,,0,0,0,,low {\c&H0000DDFF}volume{\c&H00FFFFFF} under your
+Dialogue: 0,0:08:32.06,0:08:32.26,GJ,,0,0,0,,low volume {\c&H0000DDFF}under{\c&H00FFFFFF} your
+Dialogue: 0,0:08:32.26,0:08:32.58,GJ,,0,0,0,,low volume under {\c&H0000DDFF}your{\c&H00FFFFFF}
+Dialogue: 0,0:08:32.46,0:08:33.46,GJ,,0,0,0,,{\c&H0000DDFF}voiceover,{\c&H00FFFFFF} a cover
+Dialogue: 0,0:08:33.46,0:08:33.68,GJ,,0,0,0,,voiceover, {\c&H0000DDFF}a{\c&H00FFFFFF} cover
+Dialogue: 0,0:08:33.68,0:08:33.96,GJ,,0,0,0,,voiceover, a {\c&H0000DDFF}cover{\c&H00FFFFFF}
+Dialogue: 0,0:08:33.84,0:08:34.20,GJ,,0,0,0,,{\c&H0000DDFF}frame{\c&H00FFFFFF} that's readable as
+Dialogue: 0,0:08:34.20,0:08:34.44,GJ,,0,0,0,,frame {\c&H0000DDFF}that's{\c&H00FFFFFF} readable as
+Dialogue: 0,0:08:34.44,0:08:34.66,GJ,,0,0,0,,frame that's {\c&H0000DDFF}readable{\c&H00FFFFFF} as
+Dialogue: 0,0:08:34.66,0:08:35.08,GJ,,0,0,0,,frame that's readable {\c&H0000DDFF}as{\c&H00FFFFFF}
+Dialogue: 0,0:08:34.96,0:08:35.08,GJ,,0,0,0,,{\c&H0000DDFF}a{\c&H00FFFFFF} thumbnail, and your
+Dialogue: 0,0:08:35.08,0:08:35.78,GJ,,0,0,0,,a {\c&H0000DDFF}thumbnail,{\c&H00FFFFFF} and your
+Dialogue: 0,0:08:35.78,0:08:36.04,GJ,,0,0,0,,a thumbnail, {\c&H0000DDFF}and{\c&H00FFFFFF} your
+Dialogue: 0,0:08:36.04,0:08:36.28,GJ,,0,0,0,,a thumbnail, and {\c&H0000DDFF}your{\c&H00FFFFFF}
+Dialogue: 0,0:08:36.16,0:08:36.32,GJ,,0,0,0,,{\c&H0000DDFF}hook{\c&H00FFFFFF} line repeated as
+Dialogue: 0,0:08:36.32,0:08:36.54,GJ,,0,0,0,,hook {\c&H0000DDFF}line{\c&H00FFFFFF} repeated as
+Dialogue: 0,0:08:36.54,0:08:36.90,GJ,,0,0,0,,hook line {\c&H0000DDFF}repeated{\c&H00FFFFFF} as
+Dialogue: 0,0:08:36.90,0:08:37.22,GJ,,0,0,0,,hook line repeated {\c&H0000DDFF}as{\c&H00FFFFFF}
+Dialogue: 0,0:08:37.10,0:08:37.28,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} first line of
+Dialogue: 0,0:08:37.28,0:08:37.44,GJ,,0,0,0,,the {\c&H0000DDFF}first{\c&H00FFFFFF} line of
+Dialogue: 0,0:08:37.44,0:08:37.72,GJ,,0,0,0,,the first {\c&H0000DDFF}line{\c&H00FFFFFF} of
+Dialogue: 0,0:08:37.72,0:08:37.96,GJ,,0,0,0,,the first line {\c&H0000DDFF}of{\c&H00FFFFFF}
+Dialogue: 0,0:08:37.84,0:08:37.94,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} caption.
+Dialogue: 0,0:08:37.94,0:08:38.42,GJ,,0,0,0,,the {\c&H0000DDFF}caption.{\c&H00FFFFFF}
+Dialogue: 0,0:08:39.26,0:08:39.34,GJ,,0,0,0,,{\c&H0000DDFF}Quick{\c&H00FFFFFF} checklist before this
+Dialogue: 0,0:08:39.34,0:08:39.76,GJ,,0,0,0,,Quick {\c&H0000DDFF}checklist{\c&H00FFFFFF} before this
+Dialogue: 0,0:08:39.76,0:08:40.12,GJ,,0,0,0,,Quick checklist {\c&H0000DDFF}before{\c&H00FFFFFF} this
+Dialogue: 0,0:08:40.12,0:08:40.46,GJ,,0,0,0,,Quick checklist before {\c&H0000DDFF}this{\c&H00FFFFFF}
+Dialogue: 0,0:08:40.34,0:08:40.54,GJ,,0,0,0,,{\c&H0000DDFF}thing{\c&H00FFFFFF} goes anywhere near
+Dialogue: 0,0:08:40.54,0:08:40.74,GJ,,0,0,0,,thing {\c&H0000DDFF}goes{\c&H00FFFFFF} anywhere near
+Dialogue: 0,0:08:40.74,0:08:41.06,GJ,,0,0,0,,thing goes {\c&H0000DDFF}anywhere{\c&H00FFFFFF} near
+Dialogue: 0,0:08:41.06,0:08:41.38,GJ,,0,0,0,,thing goes anywhere {\c&H0000DDFF}near{\c&H00FFFFFF}
+Dialogue: 0,0:08:41.26,0:08:41.48,GJ,,0,0,0,,{\c&H0000DDFF}your{\c&H00FFFFFF} profile. Run
+Dialogue: 0,0:08:41.48,0:08:42.48,GJ,,0,0,0,,your {\c&H0000DDFF}profile.{\c&H00FFFFFF} Run
+Dialogue: 0,0:08:42.48,0:08:42.74,GJ,,0,0,0,,your profile. {\c&H0000DDFF}Run{\c&H00FFFFFF}
+Dialogue: 0,0:08:42.62,0:08:42.96,GJ,,0,0,0,,{\c&H0000DDFF}every{\c&H00FFFFFF} reel through these
+Dialogue: 0,0:08:42.96,0:08:43.24,GJ,,0,0,0,,every {\c&H0000DDFF}reel{\c&H00FFFFFF} through these
+Dialogue: 0,0:08:43.24,0:08:43.50,GJ,,0,0,0,,every reel {\c&H0000DDFF}through{\c&H00FFFFFF} these
+Dialogue: 0,0:08:43.50,0:08:43.86,GJ,,0,0,0,,every reel through {\c&H0000DDFF}these{\c&H00FFFFFF}
+Dialogue: 0,0:08:43.74,0:08:44.78,GJ,,0,0,0,,{\c&H0000DDFF}five.{\c&H00FFFFFF} One,
+Dialogue: 0,0:08:44.78,0:08:45.22,GJ,,0,0,0,,five. {\c&H0000DDFF}One,{\c&H00FFFFFF}
+Dialogue: 0,0:08:45.54,0:08:45.64,GJ,,0,0,0,,{\c&H0000DDFF}does{\c&H00FFFFFF} something move in
+Dialogue: 0,0:08:45.64,0:08:45.88,GJ,,0,0,0,,does {\c&H0000DDFF}something{\c&H00FFFFFF} move in
+Dialogue: 0,0:08:45.88,0:08:46.20,GJ,,0,0,0,,does something {\c&H0000DDFF}move{\c&H00FFFFFF} in
+Dialogue: 0,0:08:46.20,0:08:46.48,GJ,,0,0,0,,does something move {\c&H0000DDFF}in{\c&H00FFFFFF}
+Dialogue: 0,0:08:46.36,0:08:46.46,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} first second? Two,
+Dialogue: 0,0:08:46.46,0:08:46.66,GJ,,0,0,0,,the {\c&H0000DDFF}first{\c&H00FFFFFF} second? Two,
+Dialogue: 0,0:08:46.66,0:08:47.44,GJ,,0,0,0,,the first {\c&H0000DDFF}second?{\c&H00FFFFFF} Two,
+Dialogue: 0,0:08:47.44,0:08:47.82,GJ,,0,0,0,,the first second? {\c&H0000DDFF}Two,{\c&H00FFFFFF}
+Dialogue: 0,0:08:48.04,0:08:48.20,GJ,,0,0,0,,{\c&H0000DDFF}does{\c&H00FFFFFF} it make sense
+Dialogue: 0,0:08:48.20,0:08:48.32,GJ,,0,0,0,,does {\c&H0000DDFF}it{\c&H00FFFFFF} make sense
+Dialogue: 0,0:08:48.32,0:08:48.48,GJ,,0,0,0,,does it {\c&H0000DDFF}make{\c&H00FFFFFF} sense
+Dialogue: 0,0:08:48.48,0:08:48.84,GJ,,0,0,0,,does it make {\c&H0000DDFF}sense{\c&H00FFFFFF}
+Dialogue: 0,0:08:48.72,0:08:48.98,GJ,,0,0,0,,{\c&H0000DDFF}on{\c&H00FFFFFF} mute? Three,
+Dialogue: 0,0:08:48.98,0:08:49.72,GJ,,0,0,0,,on {\c&H0000DDFF}mute?{\c&H00FFFFFF} Three,
+Dialogue: 0,0:08:49.72,0:08:50.12,GJ,,0,0,0,,on mute? {\c&H0000DDFF}Three,{\c&H00FFFFFF}
+Dialogue: 0,0:08:50.32,0:08:50.50,GJ,,0,0,0,,{\c&H0000DDFF}is{\c&H00FFFFFF} every word inside
+Dialogue: 0,0:08:50.50,0:08:50.72,GJ,,0,0,0,,is {\c&H0000DDFF}every{\c&H00FFFFFF} word inside
+Dialogue: 0,0:08:50.72,0:08:50.98,GJ,,0,0,0,,is every {\c&H0000DDFF}word{\c&H00FFFFFF} inside
+Dialogue: 0,0:08:50.98,0:08:51.42,GJ,,0,0,0,,is every word {\c&H0000DDFF}inside{\c&H00FFFFFF}
+Dialogue: 0,0:08:51.30,0:08:51.48,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} safe zone? Four,
+Dialogue: 0,0:08:51.48,0:08:51.66,GJ,,0,0,0,,the {\c&H0000DDFF}safe{\c&H00FFFFFF} zone? Four,
+Dialogue: 0,0:08:51.66,0:08:52.48,GJ,,0,0,0,,the safe {\c&H0000DDFF}zone?{\c&H00FFFFFF} Four,
+Dialogue: 0,0:08:52.48,0:08:52.96,GJ,,0,0,0,,the safe zone? {\c&H0000DDFF}Four,{\c&H00FFFFFF}
+Dialogue: 0,0:08:53.20,0:08:53.40,GJ,,0,0,0,,{\c&H0000DDFF}does{\c&H00FFFFFF} the ending loop
+Dialogue: 0,0:08:53.40,0:08:53.54,GJ,,0,0,0,,does {\c&H0000DDFF}the{\c&H00FFFFFF} ending loop
+Dialogue: 0,0:08:53.54,0:08:53.84,GJ,,0,0,0,,does the {\c&H0000DDFF}ending{\c&H00FFFFFF} loop
+Dialogue: 0,0:08:53.84,0:08:54.22,GJ,,0,0,0,,does the ending {\c&H0000DDFF}loop{\c&H00FFFFFF}
+Dialogue: 0,0:08:54.10,0:08:54.34,GJ,,0,0,0,,{\c&H0000DDFF}back{\c&H00FFFFFF} to the start?
+Dialogue: 0,0:08:54.34,0:08:54.48,GJ,,0,0,0,,back {\c&H0000DDFF}to{\c&H00FFFFFF} the start?
+Dialogue: 0,0:08:54.48,0:08:54.58,GJ,,0,0,0,,back to {\c&H0000DDFF}the{\c&H00FFFFFF} start?
+Dialogue: 0,0:08:54.58,0:08:54.98,GJ,,0,0,0,,back to the {\c&H0000DDFF}start?{\c&H00FFFFFF}
+Dialogue: 0,0:08:55.42,0:08:56.22,GJ,,0,0,0,,{\c&H0000DDFF}Five,{\c&H00FFFFFF} is the music
+Dialogue: 0,0:08:56.22,0:08:56.38,GJ,,0,0,0,,Five, {\c&H0000DDFF}is{\c&H00FFFFFF} the music
+Dialogue: 0,0:08:56.38,0:08:56.52,GJ,,0,0,0,,Five, is {\c&H0000DDFF}the{\c&H00FFFFFF} music
+Dialogue: 0,0:08:56.52,0:08:56.88,GJ,,0,0,0,,Five, is the {\c&H0000DDFF}music{\c&H00FFFFFF}
+Dialogue: 0,0:08:56.76,0:08:57.08,GJ,,0,0,0,,{\c&H0000DDFF}added{\c&H00FFFFFF} in Instagram not
+Dialogue: 0,0:08:57.08,0:08:57.24,GJ,,0,0,0,,added {\c&H0000DDFF}in{\c&H00FFFFFF} Instagram not
+Dialogue: 0,0:08:57.24,0:08:57.66,GJ,,0,0,0,,added in {\c&H0000DDFF}Instagram{\c&H00FFFFFF} not
+Dialogue: 0,0:08:57.66,0:08:58.22,GJ,,0,0,0,,added in Instagram {\c&H0000DDFF}not{\c&H00FFFFFF}
+Dialogue: 0,0:08:58.10,0:08:58.36,GJ,,0,0,0,,{\c&H0000DDFF}baked{\c&H00FFFFFF} into the file?
+Dialogue: 0,0:08:58.36,0:08:58.62,GJ,,0,0,0,,baked {\c&H0000DDFF}into{\c&H00FFFFFF} the file?
+Dialogue: 0,0:08:58.62,0:08:58.80,GJ,,0,0,0,,baked into {\c&H0000DDFF}the{\c&H00FFFFFF} file?
+Dialogue: 0,0:08:58.80,0:08:59.22,GJ,,0,0,0,,baked into the {\c&H0000DDFF}file?{\c&H00FFFFFF}
+Dialogue: 0,0:08:59.64,0:08:59.82,GJ,,0,0,0,,{\c&H0000DDFF}Five{\c&H00FFFFFF} yeses and you
+Dialogue: 0,0:08:59.82,0:09:00.22,GJ,,0,0,0,,Five {\c&H0000DDFF}yeses{\c&H00FFFFFF} and you
+Dialogue: 0,0:09:00.22,0:09:00.40,GJ,,0,0,0,,Five yeses {\c&H0000DDFF}and{\c&H00FFFFFF} you
+Dialogue: 0,0:09:00.40,0:09:00.64,GJ,,0,0,0,,Five yeses and {\c&H0000DDFF}you{\c&H00FFFFFF}
+Dialogue: 0,0:09:00.52,0:09:00.74,GJ,,0,0,0,,{\c&H0000DDFF}post{\c&H00FFFFFF} it. Any no,
+Dialogue: 0,0:09:00.74,0:09:01.08,GJ,,0,0,0,,post {\c&H0000DDFF}it.{\c&H00FFFFFF} Any no,
+Dialogue: 0,0:09:01.08,0:09:01.74,GJ,,0,0,0,,post it. {\c&H0000DDFF}Any{\c&H00FFFFFF} no,
+Dialogue: 0,0:09:01.74,0:09:02.16,GJ,,0,0,0,,post it. Any {\c&H0000DDFF}no,{\c&H00FFFFFF}
+Dialogue: 0,0:09:02.44,0:09:02.58,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} you now know
+Dialogue: 0,0:09:02.58,0:09:02.68,GJ,,0,0,0,,and {\c&H0000DDFF}you{\c&H00FFFFFF} now know
+Dialogue: 0,0:09:02.68,0:09:02.88,GJ,,0,0,0,,and you {\c&H0000DDFF}now{\c&H00FFFFFF} know
+Dialogue: 0,0:09:02.88,0:09:03.18,GJ,,0,0,0,,and you now {\c&H0000DDFF}know{\c&H00FFFFFF}
+Dialogue: 0,0:09:03.06,0:09:03.40,GJ,,0,0,0,,{\c&H0000DDFF}exactly{\c&H00FFFFFF} which two minutes
+Dialogue: 0,0:09:03.40,0:09:03.68,GJ,,0,0,0,,exactly {\c&H0000DDFF}which{\c&H00FFFFFF} two minutes
+Dialogue: 0,0:09:03.68,0:09:03.90,GJ,,0,0,0,,exactly which {\c&H0000DDFF}two{\c&H00FFFFFF} minutes
+Dialogue: 0,0:09:03.90,0:09:04.18,GJ,,0,0,0,,exactly which two {\c&H0000DDFF}minutes{\c&H00FFFFFF}
+Dialogue: 0,0:09:04.06,0:09:04.26,GJ,,0,0,0,,{\c&H0000DDFF}of{\c&H00FFFFFF} this video to
+Dialogue: 0,0:09:04.26,0:09:04.40,GJ,,0,0,0,,of {\c&H0000DDFF}this{\c&H00FFFFFF} video to
+Dialogue: 0,0:09:04.40,0:09:04.66,GJ,,0,0,0,,of this {\c&H0000DDFF}video{\c&H00FFFFFF} to
+Dialogue: 0,0:09:04.66,0:09:04.98,GJ,,0,0,0,,of this video {\c&H0000DDFF}to{\c&H00FFFFFF}
+Dialogue: 0,0:09:04.86,0:09:05.38,GJ,,0,0,0,,{\c&H0000DDFF}rewatch.{\c&H00FFFFFF}
+Dialogue: 0,0:09:06.26,0:09:06.26,GJ,,0,0,0,,{\c&H0000DDFF}So{\c&H00FFFFFF} that's the full
+Dialogue: 0,0:09:06.26,0:09:06.54,GJ,,0,0,0,,So {\c&H0000DDFF}that's{\c&H00FFFFFF} the full
+Dialogue: 0,0:09:06.54,0:09:06.62,GJ,,0,0,0,,So that's {\c&H0000DDFF}the{\c&H00FFFFFF} full
+Dialogue: 0,0:09:06.62,0:09:06.96,GJ,,0,0,0,,So that's the {\c&H0000DDFF}full{\c&H00FFFFFF}
+Dialogue: 0,0:09:06.84,0:09:07.38,GJ,,0,0,0,,{\c&H0000DDFF}system.{\c&H00FFFFFF}
+Dialogue: 0,0:09:08.06,0:09:08.20,GJ,,0,0,0,,{\c&H0000DDFF}Canva{\c&H00FFFFFF} for a branded
+Dialogue: 0,0:09:08.20,0:09:08.36,GJ,,0,0,0,,Canva {\c&H0000DDFF}for{\c&H00FFFFFF} a branded
+Dialogue: 0,0:09:08.36,0:09:08.48,GJ,,0,0,0,,Canva for {\c&H0000DDFF}a{\c&H00FFFFFF} branded
+Dialogue: 0,0:09:08.48,0:09:08.82,GJ,,0,0,0,,Canva for a {\c&H0000DDFF}branded{\c&H00FFFFFF}
+Dialogue: 0,0:09:08.70,0:09:09.10,GJ,,0,0,0,,{\c&H0000DDFF}animated{\c&H00FFFFFF} base, hook,
+Dialogue: 0,0:09:09.10,0:09:10.06,GJ,,0,0,0,,animated {\c&H0000DDFF}base,{\c&H00FFFFFF} hook,
+Dialogue: 0,0:09:10.06,0:09:10.22,GJ,,0,0,0,,animated base, {\c&H0000DDFF}hook,{\c&H00FFFFFF}
+Dialogue: 0,0:09:10.36,0:09:10.90,GJ,,0,0,0,,{\c&H0000DDFF}value,{\c&H00FFFFFF} loop,
+Dialogue: 0,0:09:10.90,0:09:11.16,GJ,,0,0,0,,value, {\c&H0000DDFF}loop,{\c&H00FFFFFF}
+Dialogue: 0,0:09:11.76,0:09:11.78,GJ,,0,0,0,,{\c&H0000DDFF}cap{\c&H00FFFFFF} cut for the
+Dialogue: 0,0:09:11.78,0:09:11.98,GJ,,0,0,0,,cap {\c&H0000DDFF}cut{\c&H00FFFFFF} for the
+Dialogue: 0,0:09:11.98,0:09:12.18,GJ,,0,0,0,,cap cut {\c&H0000DDFF}for{\c&H00FFFFFF} the
+Dialogue: 0,0:09:12.18,0:09:12.40,GJ,,0,0,0,,cap cut for {\c&H0000DDFF}the{\c&H00FFFFFF}
+Dialogue: 0,0:09:12.28,0:09:12.44,GJ,,0,0,0,,{\c&H0000DDFF}beat{\c&H00FFFFFF} sync, the captions,
+Dialogue: 0,0:09:12.44,0:09:13.10,GJ,,0,0,0,,beat {\c&H0000DDFF}sync,{\c&H00FFFFFF} the captions,
+Dialogue: 0,0:09:13.10,0:09:13.22,GJ,,0,0,0,,beat sync, {\c&H0000DDFF}the{\c&H00FFFFFF} captions,
+Dialogue: 0,0:09:13.22,0:09:13.72,GJ,,0,0,0,,beat sync, the {\c&H0000DDFF}captions,{\c&H00FFFFFF}
+Dialogue: 0,0:09:14.02,0:09:14.12,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} punch ins, and
+Dialogue: 0,0:09:14.12,0:09:14.34,GJ,,0,0,0,,the {\c&H0000DDFF}punch{\c&H00FFFFFF} ins, and
+Dialogue: 0,0:09:14.34,0:09:14.94,GJ,,0,0,0,,the punch {\c&H0000DDFF}ins,{\c&H00FFFFFF} and
+Dialogue: 0,0:09:14.94,0:09:15.16,GJ,,0,0,0,,the punch ins, {\c&H0000DDFF}and{\c&H00FFFFFF}
+Dialogue: 0,0:09:15.04,0:09:15.16,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} silent export that
+Dialogue: 0,0:09:15.16,0:09:15.50,GJ,,0,0,0,,the {\c&H0000DDFF}silent{\c&H00FFFFFF} export that
+Dialogue: 0,0:09:15.50,0:09:15.96,GJ,,0,0,0,,the silent {\c&H0000DDFF}export{\c&H00FFFFFF} that
+Dialogue: 0,0:09:15.96,0:09:16.60,GJ,,0,0,0,,the silent export {\c&H0000DDFF}that{\c&H00FFFFFF}
+Dialogue: 0,0:09:16.48,0:09:16.68,GJ,,0,0,0,,{\c&H0000DDFF}keeps{\c&H00FFFFFF} the algorithm on
+Dialogue: 0,0:09:16.68,0:09:16.90,GJ,,0,0,0,,keeps {\c&H0000DDFF}the{\c&H00FFFFFF} algorithm on
+Dialogue: 0,0:09:16.90,0:09:17.20,GJ,,0,0,0,,keeps the {\c&H0000DDFF}algorithm{\c&H00FFFFFF} on
+Dialogue: 0,0:09:17.20,0:09:17.62,GJ,,0,0,0,,keeps the algorithm {\c&H0000DDFF}on{\c&H00FFFFFF}
+Dialogue: 0,0:09:17.50,0:09:17.66,GJ,,0,0,0,,{\c&H0000DDFF}your{\c&H00FFFFFF} side. Total cost,
+Dialogue: 0,0:09:17.66,0:09:18.58,GJ,,0,0,0,,your {\c&H0000DDFF}side.{\c&H00FFFFFF} Total cost,
+Dialogue: 0,0:09:18.58,0:09:18.74,GJ,,0,0,0,,your side. {\c&H0000DDFF}Total{\c&H00FFFFFF} cost,
+Dialogue: 0,0:09:18.74,0:09:19.20,GJ,,0,0,0,,your side. Total {\c&H0000DDFF}cost,{\c&H00FFFFFF}
+Dialogue: 0,0:09:19.44,0:09:19.78,GJ,,0,0,0,,{\c&H0000DDFF}nothing.{\c&H00FFFFFF}
+Dialogue: 0,0:09:20.68,0:09:20.90,GJ,,0,0,0,,{\c&H0000DDFF}Total{\c&H00FFFFFF} time. About
+Dialogue: 0,0:09:20.90,0:09:21.88,GJ,,0,0,0,,Total {\c&H0000DDFF}time.{\c&H00FFFFFF} About
+Dialogue: 0,0:09:21.88,0:09:22.22,GJ,,0,0,0,,Total time. {\c&H0000DDFF}About{\c&H00FFFFFF}
+Dialogue: 0,0:09:22.10,0:09:22.48,GJ,,0,0,0,,{\c&H0000DDFF}15{\c&H00FFFFFF} minutes once you've
+Dialogue: 0,0:09:22.48,0:09:22.74,GJ,,0,0,0,,15 {\c&H0000DDFF}minutes{\c&H00FFFFFF} once you've
+Dialogue: 0,0:09:22.74,0:09:22.96,GJ,,0,0,0,,15 minutes {\c&H0000DDFF}once{\c&H00FFFFFF} you've
+Dialogue: 0,0:09:22.96,0:09:23.32,GJ,,0,0,0,,15 minutes once {\c&H0000DDFF}you've{\c&H00FFFFFF}
+Dialogue: 0,0:09:23.20,0:09:23.30,GJ,,0,0,0,,{\c&H0000DDFF}done{\c&H00FFFFFF} it twice. If
+Dialogue: 0,0:09:23.30,0:09:23.44,GJ,,0,0,0,,done {\c&H0000DDFF}it{\c&H00FFFFFF} twice. If
+Dialogue: 0,0:09:23.44,0:09:24.20,GJ,,0,0,0,,done it {\c&H0000DDFF}twice.{\c&H00FFFFFF} If
+Dialogue: 0,0:09:24.20,0:09:24.46,GJ,,0,0,0,,done it twice. {\c&H0000DDFF}If{\c&H00FFFFFF}
+Dialogue: 0,0:09:24.34,0:09:24.46,GJ,,0,0,0,,{\c&H0000DDFF}you{\c&H00FFFFFF} want the Canva
+Dialogue: 0,0:09:24.46,0:09:24.60,GJ,,0,0,0,,you {\c&H0000DDFF}want{\c&H00FFFFFF} the Canva
+Dialogue: 0,0:09:24.60,0:09:24.76,GJ,,0,0,0,,you want {\c&H0000DDFF}the{\c&H00FFFFFF} Canva
+Dialogue: 0,0:09:24.76,0:09:25.18,GJ,,0,0,0,,you want the {\c&H0000DDFF}Canva{\c&H00FFFFFF}
+Dialogue: 0,0:09:25.06,0:09:25.28,GJ,,0,0,0,,{\c&H0000DDFF}side{\c&H00FFFFFF} to go deeper,
+Dialogue: 0,0:09:25.28,0:09:25.44,GJ,,0,0,0,,side {\c&H0000DDFF}to{\c&H00FFFFFF} go deeper,
+Dialogue: 0,0:09:25.44,0:09:25.60,GJ,,0,0,0,,side to {\c&H0000DDFF}go{\c&H00FFFFFF} deeper,
+Dialogue: 0,0:09:25.60,0:09:26.06,GJ,,0,0,0,,side to go {\c&H0000DDFF}deeper,{\c&H00FFFFFF}
+Dialogue: 0,0:09:26.78,0:09:27.02,GJ,,0,0,0,,{\c&H0000DDFF}labels,{\c&H00FFFFFF} avatars, full designs,
+Dialogue: 0,0:09:27.02,0:09:27.58,GJ,,0,0,0,,labels, {\c&H0000DDFF}avatars,{\c&H00FFFFFF} full designs,
+Dialogue: 0,0:09:27.58,0:09:27.72,GJ,,0,0,0,,labels, avatars, {\c&H0000DDFF}full{\c&H00FFFFFF} designs,
+Dialogue: 0,0:09:27.72,0:09:28.26,GJ,,0,0,0,,labels, avatars, full {\c&H0000DDFF}designs,{\c&H00FFFFFF}
+Dialogue: 0,0:09:28.66,0:09:28.82,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} playlist on screen
+Dialogue: 0,0:09:28.82,0:09:29.06,GJ,,0,0,0,,the {\c&H0000DDFF}playlist{\c&H00FFFFFF} on screen
+Dialogue: 0,0:09:29.06,0:09:29.34,GJ,,0,0,0,,the playlist {\c&H0000DDFF}on{\c&H00FFFFFF} screen
+Dialogue: 0,0:09:29.34,0:09:29.76,GJ,,0,0,0,,the playlist on {\c&H0000DDFF}screen{\c&H00FFFFFF}
+Dialogue: 0,0:09:29.64,0:09:29.88,GJ,,0,0,0,,{\c&H0000DDFF}has{\c&H00FFFFFF} you covered.
+Dialogue: 0,0:09:29.88,0:09:30.12,GJ,,0,0,0,,has {\c&H0000DDFF}you{\c&H00FFFFFF} covered.
+Dialogue: 0,0:09:30.12,0:09:30.62,GJ,,0,0,0,,has you {\c&H0000DDFF}covered.{\c&H00FFFFFF}
+Dialogue: 0,0:09:31.42,0:09:31.44,GJ,,0,0,0,,{\c&H0000DDFF}Subscribe{\c&H00FFFFFF} if this saved
+Dialogue: 0,0:09:31.44,0:09:31.64,GJ,,0,0,0,,Subscribe {\c&H0000DDFF}if{\c&H00FFFFFF} this saved
+Dialogue: 0,0:09:31.64,0:09:31.78,GJ,,0,0,0,,Subscribe if {\c&H0000DDFF}this{\c&H00FFFFFF} saved
+Dialogue: 0,0:09:31.78,0:09:32.14,GJ,,0,0,0,,Subscribe if this {\c&H0000DDFF}saved{\c&H00FFFFFF}
+Dialogue: 0,0:09:32.02,0:09:32.24,GJ,,0,0,0,,{\c&H0000DDFF}you{\c&H00FFFFFF} some guesswork
+Dialogue: 0,0:09:32.24,0:09:32.48,GJ,,0,0,0,,you {\c&H0000DDFF}some{\c&H00FFFFFF} guesswork
+Dialogue: 0,0:09:32.48,0:09:33.54,GJ,,0,0,0,,you some {\c&H0000DDFF}guesswork{\c&H00FFFFFF}
+Dialogue: 0,0:09:33.42,0:09:33.78,GJ,,0,0,0,,{\c&H0000DDFF}and{\c&H00FFFFFF} I'll see you
+Dialogue: 0,0:09:33.78,0:09:33.92,GJ,,0,0,0,,and {\c&H0000DDFF}I'll{\c&H00FFFFFF} see you
+Dialogue: 0,0:09:33.92,0:09:34.08,GJ,,0,0,0,,and I'll {\c&H0000DDFF}see{\c&H00FFFFFF} you
+Dialogue: 0,0:09:34.08,0:09:34.30,GJ,,0,0,0,,and I'll see {\c&H0000DDFF}you{\c&H00FFFFFF}
+Dialogue: 0,0:09:34.18,0:09:34.30,GJ,,0,0,0,,{\c&H0000DDFF}in{\c&H00FFFFFF} the next one.
+Dialogue: 0,0:09:34.30,0:09:34.38,GJ,,0,0,0,,in {\c&H0000DDFF}the{\c&H00FFFFFF} next one.
+Dialogue: 0,0:09:34.38,0:09:34.58,GJ,,0,0,0,,in the {\c&H0000DDFF}next{\c&H00FFFFFF} one.
+Dialogue: 0,0:09:34.58,0:09:34.94,GJ,,0,0,0,,in the next {\c&H0000DDFF}one.{\c&H00FFFFFF}

@@ -1,0 +1,151 @@
+{
+  "slug": "real-estate",
+  "topic": "#2 Real Estate listing kit",
+  "shotDir": "long-23",
+  "project": "gj-long-23",
+  "composition": "Long23Estate",
+  "thumb": "GJThumb23",
+  "promos": [
+    "PromoEstateLicence",
+    "PromoEstateHierarchy",
+    "PromoEstateLock",
+    "PromoEstateExports"
+  ],
+  "promoNames": {
+    "PromoEstateLicence": "promo-estate-licence",
+    "PromoEstateHierarchy": "promo-estate-hierarchy",
+    "PromoEstateLock": "promo-lock-compliance-band",
+    "PromoEstateExports": "promo-three-exports"
+  },
+  "adAfter": [
+    "05-the-hierarchy",
+    "09-three-exports"
+  ],
+  "images": [
+    {
+      "name": "agency-window",
+      "prompt": "Photograph of an estate agency shop window from the pavement on a bright overcast day, rows of empty white display card holders behind the glass with no legible text, reflections of a quiet street, shallow depth of field, documentary style, no people in frame"
+    },
+    {
+      "name": "viewing-handout",
+      "prompt": "Photograph of a single printed property handout lying on a clean kitchen worktop in a bright empty house, soft daylight from a window to the left, no legible text on the page, a set of keys beside it, shallow depth of field, documentary style, no people"
+    },
+    {
+      "name": "shooting-room",
+      "prompt": "Photograph taken from the corner of a bright empty living room being photographed, a camera on a tripod in the foreground pointing into the room, lamps switched on, soft overcast daylight through large windows, shallow depth of field, no people in frame, no legible text"
+    },
+    {
+      "name": "for-sale-board",
+      "prompt": "Photograph of a blank estate agent board on a post outside a suburban house, board completely plain with no text or logo, hedge and front garden, soft afternoon light, shallow depth of field, documentary style, no people"
+    },
+    {
+      "name": "brochure-stack",
+      "prompt": "Photograph of a neat stack of printed property brochures on a desk beside a laptop and a mug, warm window light, pages plain with no legible text, shallow depth of field, tidy and professional, documentary photography, no people"
+    }
+  ],
+  "product": {
+    "name": "Real Estate Listing Kit",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "real-estate",
+    "slug": "real-estate-listing-kit",
+    "description": "An editable four-page Canva listing kit at A4 portrait (210 x 297 mm), every page sharing the same navy compliance band and the same fifteen millimetre guide: 1 the window card, 2 the property flyer front, 3 the flyer back sized for a floor plan, and 4 a brochure page with the image top-left and room for copy. Photo frames are already placed to the geometry on the window-card map \u2014 drop your own photographs straight in. Plus six reference sheets: the Canva licence clauses on model releases in plain English with the source printed so you can take it to your broker, the window-card map drawn to scale, the property photography shot list, the portal export spec sheet, the hierarchy guide, and the compliance-band sheet (Genius Junkie)",
+    "stripeProduct": "prod_VBARx7uzfwYWWb",
+    "stripePrice": "price_1UAo6HLqu5srzOz93WT0XArD",
+    "stripe": "https://buy.stripe.com/28EeVe5V9gBZbAw7Q3aR20n",
+    "canvaDesign": "DAHT8dV3z9U",
+    "canvaEditUrl": "https://www.canva.com/design/DAHT8dV3z9U/edit"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-10-01T17:00:00.000Z",
+  "timeline": {
+    "total": 574.9,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-two-things.mp3": 35.75,
+      "03-what-a.mp3": 71.525,
+      "04-set-it.mp3": 107.1,
+      "05-the-hierarchy.mp3": 141.675,
+      "06-the-photograph.mp3": 211.8,
+      "07-what-to.mp3": 271.275,
+      "08-your-name.mp3": 333.225,
+      "09-three-exports.mp3": 367.175,
+      "10-the-social.mp3": 406.75,
+      "11-why-this.mp3": 439.45,
+      "12-the-checklist.mp3": 479.825,
+      "13-the-pack.mp3": 512.5,
+      "14-outro.mp3": 547.175
+    },
+    "adWindows": [
+      [
+        210.4,
+        211.8
+      ],
+      [
+        405.35,
+        406.75
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-two-things.mp3",
+        "at": 35.75
+      },
+      {
+        "file": "03-what-a.mp3",
+        "at": 71.525
+      },
+      {
+        "file": "04-set-it.mp3",
+        "at": 107.1
+      },
+      {
+        "file": "05-the-hierarchy.mp3",
+        "at": 141.675
+      },
+      {
+        "file": "06-the-photograph.mp3",
+        "at": 211.8
+      },
+      {
+        "file": "07-what-to.mp3",
+        "at": 271.275
+      },
+      {
+        "file": "08-your-name.mp3",
+        "at": 333.225
+      },
+      {
+        "file": "09-three-exports.mp3",
+        "at": 367.175
+      },
+      {
+        "file": "10-the-social.mp3",
+        "at": 406.75
+      },
+      {
+        "file": "11-why-this.mp3",
+        "at": 439.45
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 479.825
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 512.5
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 547.175
+      }
+    ]
+  }
+}

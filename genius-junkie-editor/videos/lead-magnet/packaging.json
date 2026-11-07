@@ -1,0 +1,61 @@
+{
+  "slug": "lead-magnet",
+  "slateNumber": 10,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "8:55",
+  "titles": {
+    "A": "How to Make a Lead Magnet in Canva (And the Delivery Everyone Gets Wrong)",
+    "B": "Lead Magnet in Canva 2026 — the Pages, the Form, the Email and the Follow-Up",
+    "C": "Your Free Guide Is Going Straight to Spam — and It's the Attachment"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "lead magnet canva",
+    "how to make a lead magnet",
+    "canva lead magnet tutorial",
+    "free ebook canva",
+    "canva pdf lead magnet",
+    "email list building",
+    "canva form email capture",
+    "lead magnet ideas",
+    "opt in freebie canva",
+    "canva tutorial 2026",
+    "email marketing beginners",
+    "deliver lead magnet email",
+    "lead magnet not arriving",
+    "thank you page tips",
+    "canva ebook template",
+    "welcome email sequence"
+  ],
+  "adBreaks": [
+    "3:25.6",
+    "6:27.5"
+  ],
+  "product": {
+    "name": "Lead Magnet Kit",
+    "price": "£4.99",
+    "page": "https://geniusjunkie.net/lead-magnet-kit/",
+    "files": "Editable 5-page Canva template + 5 reference PDFs (promise worksheet, all four emails, form wording, launch checklist, read-me)"
+  },
+  "cutaways": [
+    "creator-laptop",
+    "sofa-reading",
+    "printed-checklist",
+    "phone-inbox",
+    "handshake-cafe"
+  ],
+  "shorts": {
+    "promo-never-attach": {
+      "title": "Never attach your lead magnet #shorts",
+      "description": "Attachments are one of the most reliable ways to land in spam. Mailchimp's own docs say they can slow or stop bulk delivery - which is why it hosts your file for you instead, capped at 10 MB. Host it, link to it. Full lead magnet tutorial on the channel.",
+      "publishAt": "2026-08-23T12:00:00.000Z"
+    },
+    "promo-one-field-form": {
+      "title": "Your opt-in form needs one field #shorts",
+      "description": "Every extra field costs you sign-ups, and you do not need their phone number for a PDF. Put the promise above the field in the same words as the cover, and label the button with what they get - not \"Submit\". Full lead magnet tutorial on the channel.",
+      "publishAt": "2026-08-24T12:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-08-22T17:00:00.000Z"
+}

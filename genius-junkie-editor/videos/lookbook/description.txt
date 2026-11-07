@@ -1,0 +1,37 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+A lookbook is the one Canva design people actually send to a printer — and it is where two settings quietly ruin the job. This is the full build, plus the part nobody mentions: the colour profile you need for print is behind Canva's paywall.
+
+Canva's own help page says PDF Print offers a "color profile (RGB or CMYK) selection option" — and the same page lists CMYK colour profile options among the features restricted to Pro, Teams, Education and Nonprofit accounts. So PDF Print works on a free plan. The CMYK choice inside it does not, which means your print file leaves in RGB and somebody else's software decides what your brand colours become. Bright orange, electric blue and anything neon land noticeably duller. Deep teal, burgundy and charcoal barely move.
+
+There are three honest ways round it on a free account, and all three are in the video.
+
+The second trap is free to fix: bleed. A guillotine is accurate to about a millimetre, and a millimetre of drift on a coloured page leaves a white stripe down the edge. Run the background past the trim and tick "Crop marks and bleed" at download.
+
+CHAPTERS
+0:00 It came back flat
+0:36 Two exports, not one
+1:12 Size, and why bleed exists
+1:54 Setting up the canvas
+2:30 Building a spread
+3:19 The colour trap
+4:11 What to do about it
+4:49 Photos that survive paper
+5:25 Exporting both versions
+6:04 The digital version is the one that sells
+6:37 What to send the print shop
+7:11 The checklist
+7:41 The kit
+8:05 Outro
+
+THE LOOKBOOK KIT — £4.99
+The editable Canva template at A4 landscape, margins and grid already in place: cover, six spreads sharing one layout, contact page. Plus the RGB vs CMYK colour guide, the bleed and trim map drawn to scale, the photo prep sheet, a fill-in-the-blanks print-shop brief with the proof request, the export checklist for both versions, and six spread layout recipes.
+https://geniusjunkie.net/lookbook-kit/
+
+Every pack, plus the ones that never go public: https://geniusjunkie.net/template-club/
+
+SOURCES
+Canva — Choose the right download file type: https://www.canva.com/help/download-file-types/
+
+#canva #lookbook #canvatutorial #printdesign #cmyk

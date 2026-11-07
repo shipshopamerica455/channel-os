@@ -1,0 +1,155 @@
+{
+  "slug": "certificates",
+  "topic": "Slate 2 #4 \u2014 Certificates + Bulk Create",
+  "shotDir": "long-15",
+  "project": "gj-long-15",
+  "composition": "Long15Cert",
+  "thumb": "GJThumb15",
+  "promos": [
+    "PromoCertAdvanced",
+    "PromoCertBoxes",
+    "PromoCertPreview",
+    "PromoCertImages"
+  ],
+  "promoNames": {
+    "PromoCertAdvanced": "promo-advanced-options",
+    "PromoCertBoxes": "promo-separate-text-boxes",
+    "PromoCertPreview": "promo-preview-review-only",
+    "PromoCertImages": "promo-drive-link-prints"
+  },
+  "adAfter": [
+    "05-building-the",
+    "09-putting-photos"
+  ],
+  "images": [
+    {
+      "name": "teacher-desk",
+      "prompt": "a teacher's desk in a bright classroom with a laptop, a stack of paper and a mug, sunlight through a window, shallow depth of field, photographic, no readable screen text"
+    },
+    {
+      "name": "printed-certificates",
+      "prompt": "a neat stack of printed award certificates on a wooden desk beside a pen, warm side light, one sheet slightly fanned out, clean editorial photography, no readable text"
+    },
+    {
+      "name": "tired-admin",
+      "prompt": "a person at a laptop late in the evening rubbing their eyes, a large pile of paperwork beside them, warm lamp light, shallow depth of field, photographic, no readable screen text"
+    },
+    {
+      "name": "handing-award",
+      "prompt": "two people at a school event, one handing over a framed award to the other, both smiling, bright hall softly out of focus behind them, photographic, shallow depth of field, no readable text"
+    },
+    {
+      "name": "wall-of-frames",
+      "prompt": "a wall with several simple picture frames hanging in a row in a bright room, soft daylight from the side, clean editorial interior photography, no readable text"
+    },
+    {
+      "name": "thumb-hero",
+      "prompt": "a printed award certificate lying flat on a warm neutral desk beside a fountain pen, bright soft daylight from the left, generous empty space on the left of the frame, clean editorial product photography, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Certificate + Bulk Create Kit",
+    "description": "Editable Canva certificate with the placeholder text boxes already separated, centred and fixed-width, plus the data sheet headings, the bulk-create checklist, the placeholder guide and a wording bank (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "certificates",
+    "slug": "certificate-bulk-create-kit",
+    "canvaDesign": "DAHSn6R3ydI",
+    "canvaEditUrl": "https://www.canva.com/design/DAHSn6R3ydI/edit",
+    "stripeProduct": "prod_V5to77TBAMnx9k",
+    "stripePrice": "price_1U5i0pLqu5srzOz9eO8thuGP",
+    "stripe": "https://buy.stripe.com/28EeVe5V999x3401rFaR20f"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-09-09T17:00:00.000Z",
+  "timeline": {
+    "total": 559.03,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-honest.mp3": 36.026,
+      "03-how-bulk.mp3": 74.151,
+      "04-designing-the.mp3": 114.751,
+      "05-building-the.mp3": 154.026,
+      "06-the-setting.mp3": 207.226,
+      "07-the-data.mp3": 264.126,
+      "08-connecting-and.mp3": 312.551,
+      "09-putting-photos.mp3": 355.726,
+      "10-generating-and.mp3": 399.276,
+      "11-sending-them.mp3": 444.226,
+      "12-the-checklist.mp3": 482.276,
+      "13-the-pack.mp3": 515.001,
+      "14-outro.mp3": 534.226
+    },
+    "adWindows": [
+      [
+        205.83,
+        207.23
+      ],
+      [
+        397.88,
+        399.28
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-honest.mp3",
+        "at": 36.026
+      },
+      {
+        "file": "03-how-bulk.mp3",
+        "at": 74.151
+      },
+      {
+        "file": "04-designing-the.mp3",
+        "at": 114.751
+      },
+      {
+        "file": "05-building-the.mp3",
+        "at": 154.026
+      },
+      {
+        "file": "06-the-setting.mp3",
+        "at": 207.226
+      },
+      {
+        "file": "07-the-data.mp3",
+        "at": 264.126
+      },
+      {
+        "file": "08-connecting-and.mp3",
+        "at": 312.551
+      },
+      {
+        "file": "09-putting-photos.mp3",
+        "at": 355.726
+      },
+      {
+        "file": "10-generating-and.mp3",
+        "at": 399.276
+      },
+      {
+        "file": "11-sending-them.mp3",
+        "at": 444.226
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 482.276
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 515.001
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 534.226
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "channel": "Genius Junkie",
+  "channel_id": "UCz8eVGSEicfswKIe4XAp7Kw",
+  "niche": "Canva / CapCut / AI design tutorials — screen-recording led, beginner-friendly, do-this-then-that",
+
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "crf": 18,
+    "preset": "medium",
+    "pix_fmt": "yuv420p"
+  },
+
+  "shorts": {
+    "width": 1080,
+    "height": 1920,
+    "max_seconds": 58
+  },
+
+  "colors": {
+    "ink": "#0f172a",
+    "accent": "#e91e8c",
+    "highlight": "#ffdd00",
+    "paper": "#ffffff",
+    "muted": "#64748b"
+  },
+
+  "captions": {
+    "font": "Arial Black",
+    "size_long": 54,
+    "size_short": 78,
+    "outline": 4,
+    "shadow": 2,
+    "margin_v_long": 90,
+    "margin_v_short": 320,
+    "words_per_chunk": 4,
+    "max_chunk_seconds": 1.6,
+    "highlight_active_word": true,
+    "uppercase": false
+  },
+
+  "cut": {
+    "min_silence": 0.55,
+    "silence_db": -32,
+    "keep_pad": 0.16,
+    "min_keep": 0.12,
+    "strip_fillers": true,
+    "fillers": [
+      "um", "uh", "erm", "hmm", "mmm", "ah", "eh",
+      "basically", "literally", "obviously",
+      "you know", "sort of", "kind of", "i mean", "and so", "so yeah", "okay so"
+    ],
+    "protected_fillers": ["kind of", "sort of"]
+  },
+
+  "zoom": {
+    "enabled": true,
+    "hold_seconds": 3.5,
+    "transition_seconds": 0.55,
+    "max_zoom": 1.75,
+    "min_zoom": 1.0,
+    "margin": 0.30,
+    "merge_tolerance": 0.08,
+    "open_wide_seconds": 2.0
+  },
+
+  "audio": {
+    "loudnorm_i": -14,
+    "loudnorm_tp": -1.5,
+    "loudnorm_lra": 11,
+    "music_bed_db": -28
+  },
+
+  "packaging": {
+    "title_max_chars": 70,
+    "title_pattern": "How to {task} in {tool} ({qualifier})",
+    "thumbnail_variants": 3,
+    "description_footer": "\n\n🎓 Genius Junkie — practical Canva, CapCut & AI design tutorials.\n👉 Subscribe: https://www.youtube.com/channel/UCz8eVGSEicfswKIe4XAp7Kw?sub_confirmation=1\n"
+  }
+}

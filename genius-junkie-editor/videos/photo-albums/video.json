@@ -1,0 +1,151 @@
+{
+  "slug": "photo-albums",
+  "topic": "#1 Photo Album / Photo Book",
+  "shotDir": "long-22",
+  "project": "gj-long-22",
+  "composition": "Long22Album",
+  "thumb": "GJThumb22",
+  "promos": [
+    "PromoAlbumGutter",
+    "PromoAlbumPages",
+    "PromoAlbumGloss",
+    "PromoAlbumBinding"
+  ],
+  "adAfter": [
+    "05-build-the",
+    "09-getting-it"
+  ],
+  "images": [
+    {
+      "name": "open-album-spread",
+      "prompt": "Photograph of an open hardcover photo album lying on a pale wooden table in soft daylight, the pages curving down into the centre binding so the fold is clearly visible, printed photographs of landscapes on both pages, no legible text, shallow depth of field, documentary style, no people in frame"
+    },
+    {
+      "name": "album-stack",
+      "prompt": "Photograph of three finished hardcover photo books stacked on a linen surface beside a small pile of loose printed photographs, warm window light from the left, no legible text on the covers, shallow depth of field, calm and tidy, documentary photography, no people"
+    },
+    {
+      "name": "photos-on-desk",
+      "prompt": "Overhead photograph of dozens of loose printed holiday photographs spread across a wooden desk being sorted into small groups, a notebook and pencil to one side, bright even daylight, no legible text, shallow depth of field, no faces visible in the photographs"
+    },
+    {
+      "name": "bindery",
+      "prompt": "Photograph inside a small book bindery, freshly bound books clamped in a press on a work bench with adhesive along the spines, warm industrial daylight, no people in frame, shallow depth of field, documentary photography, no legible text"
+    },
+    {
+      "name": "album-gift",
+      "prompt": "Photograph of a hardcover photo album resting on a kitchen table beside two mugs of tea in warm late afternoon light, the album closed, a soft domestic setting slightly blurred behind, no legible text, shallow depth of field, no people in frame"
+    }
+  ],
+  "product": {
+    "name": "Photo Album Kit",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "photo-albums",
+    "slug": "photo-album-kit",
+    "description": "An editable Canva photo album template at eight by six inches landscape \u2014 four guided pages (right-hand and left-hand versions of two layouts: a full-page hero and a two-photo stack), with the 0.75 inch gutter keep-out already placed on the correct inner edge of every page and the photo frames sitting inside the half-inch safe margin. Duplicate the pages to reach your twenty. Plus the gutter and safe-zone map, the twenty-page planner, the photo resolution checking sheet, a fill-in-the-blanks print-shop brief that asks the layflat question for you, the binding guide quoted from Canva's own page, and six spread layout recipes (Genius Junkie)",
+    "stripeProduct": "prod_VB5109hFtAixxm",
+    "stripePrice": "price_1UAir2Lqu5srzOz97w4zsZKC",
+    "stripe": "https://buy.stripe.com/00w9AU3N1etR6gcdanaR20m",
+    "canvaDesign": "DAHT7JBRC1Q",
+    "canvaEditUrl": "https://www.canva.com/design/DAHT7JBRC1Q/edit"
+  },
+  "publishAt": "2026-09-29T17:00:00.000Z",
+  "timeline": {
+    "total": 552.85,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-two-things.mp3": 32.575,
+      "03-set-the.mp3": 67.65,
+      "04-plan-twenty.mp3": 103.675,
+      "05-build-the.mp3": 138.825,
+      "06-the-binding.mp3": 183.375,
+      "07-the-photos.mp3": 262.1,
+      "08-the-cover.mp3": 300.3,
+      "09-getting-it.mp3": 334.775,
+      "10-the-same.mp3": 390.375,
+      "11-why-this.mp3": 423.6,
+      "12-the-checklist.mp3": 461.675,
+      "13-the-pack.mp3": 491.45,
+      "14-outro.mp3": 526.025
+    },
+    "adWindows": [
+      [
+        181.98,
+        183.38
+      ],
+      [
+        388.98,
+        390.38
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-two-things.mp3",
+        "at": 32.575
+      },
+      {
+        "file": "03-set-the.mp3",
+        "at": 67.65
+      },
+      {
+        "file": "04-plan-twenty.mp3",
+        "at": 103.675
+      },
+      {
+        "file": "05-build-the.mp3",
+        "at": 138.825
+      },
+      {
+        "file": "06-the-binding.mp3",
+        "at": 183.375
+      },
+      {
+        "file": "07-the-photos.mp3",
+        "at": 262.1
+      },
+      {
+        "file": "08-the-cover.mp3",
+        "at": 300.3
+      },
+      {
+        "file": "09-getting-it.mp3",
+        "at": 334.775
+      },
+      {
+        "file": "10-the-same.mp3",
+        "at": 390.375
+      },
+      {
+        "file": "11-why-this.mp3",
+        "at": 423.6
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 461.675
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 491.45
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 526.025
+      }
+    ]
+  },
+  "promoNames": {
+    "PromoAlbumGutter": "promo-album-gutter",
+    "PromoAlbumPages": "promo-album-pages",
+    "PromoAlbumGloss": "promo-gloss-prints-darker",
+    "PromoAlbumBinding": "promo-layflat-or-not"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  }
+}

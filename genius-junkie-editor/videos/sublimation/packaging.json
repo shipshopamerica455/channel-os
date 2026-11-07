@@ -1,0 +1,94 @@
+{
+  "slug": "sublimation",
+  "slateNumber": "S6 #2",
+  "voice": "Kokoro bm_fable",
+  "runtime": "9:11",
+  "titles": {
+    "A": "How to Make Sublimation Designs in Canva (2026)",
+    "B": "Canva for Sublimation — Sizing, the White Ink Problem and the Export",
+    "C": "In Sublimation, White Is Not a Colour — and Canva Does Not Warn You"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make sublimation designs in canva",
+    "canva for sublimation",
+    "sublimation designs canva",
+    "canva sublimation tutorial",
+    "sublimation for beginners canva",
+    "no white ink sublimation",
+    "canva transparent png sublimation",
+    "sublimation mug design canva",
+    "sublimation shirt design canva",
+    "canva sublimation size",
+    "mirror sublimation design",
+    "sublimation blanks polyester",
+    "canva rgb cmyk print",
+    "canva tutorial 2026",
+    "sublimation printing canva"
+  ],
+  "adBreaks": [
+    "3:20.1",
+    "6:31.2"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-05",
+    "topTenMedian": 44477,
+    "freshInTopTen": "2/10",
+    "note": "NOT the biggest number the probe returned — 'digital downloads to sell on etsy canva' measured 150,933 and was CUT, because our own five attempts in that family got 3/15/26/102/119 views. That niche belongs to personality-led money channels. Sublimation is a MAKER query, which is the shape this channel wins. 464-video catalogue check found no sublimation coverage at all."
+  },
+  "product": {
+    "name": "Sticker & Illustration Kit",
+    "price": "£4.99",
+    "slug": "sticker-illustration-kit",
+    "existing": true,
+    "verified": "200 on 2026-10-05",
+    "note": "ALREADY BUILT and live. HONEST FIT, stated in the script: original flat vector artwork made for this channel, so no Canva licence problem, and the style (solid shapes, bold colour, no soft white vignettes) is exactly what sublimates well. NOT built as a sublimation pack. Second video pointing at this pack after tshirt-pod — deliberate, same reasoning as party-printables-kit across wedding + thank you cards. DO NOT run commerce."
+  },
+  "freeAsset": {
+    "name": "Canva Sublimation Card",
+    "slug": "get-sublimation-card",
+    "status": "built before upload",
+    "note": "NEW one-pager, never carved out of a pack."
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-sub-white": {
+      "composition": "PromoSubWhite",
+      "title": "In sublimation, white is not a colour #shorts",
+      "voSlice": "213.3-244.5",
+      "description": "There is no white ink in sublimation. Every white area in your design is not printed at all — it is a window onto whatever the blank is.\n\nPress this design on a white mug and it is exactly what you drew, because every white area is left alone and what shows through is a white mug.\n\nSame file, same press, on a pale blue mug. The lettering inside the banner is blue. The starburst has gone see-through — the navy outline is still there, but the middle of it is mug.\n\nNothing failed. The file was always like this and the white mug was hiding it.\n\nThe fix takes ten seconds: drop a mid-tone rectangle behind your whole design in Canva and look at what survives. Anything that changes colour was never ink.\n\n📄 Free sublimation card: https://geniusjunkie.net/get-sublimation-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-13T12:00:00.000Z",
+      "id": "7PH7U5pB6VM"
+    },
+    "promo-sub-polyester": {
+      "composition": "PromoSubPolyester",
+      "title": "Sublimation does not work on cotton #shorts",
+      "voSlice": "255.0-272.5",
+      "description": "Epson, who make the printers, put the rule in one line: dye-sublimation printing requires polyester fabrics or polymer-coated surfaces.\n\nThat is not a preference. The dye turns to gas and bonds with polyester. On cotton there is nothing for it to bond to, so it sits on the surface looking completely acceptable — for about one wash. Then it is gone.\n\nHard goods are the same rule in a different form. Mugs, tumblers, slate, metal signs: they are not polyester, they are coated with a polymer, and that coating is what takes the dye. An uncoated mug from a supermarket will take nothing at all.\n\nAnd light blanks only. On a dark blank the ink is translucent and simply disappears into it.\n\n📄 Free sublimation card: https://geniusjunkie.net/get-sublimation-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-13T19:00:00.000Z",
+      "id": "MXP1bhVCRlY"
+    },
+    "promo-sub-myth": {
+      "composition": "PromoSubMyth",
+      "title": "The transparent PNG rule everyone gets backwards #shorts",
+      "voSlice": "337.8-366.0",
+      "description": "Everyone tells you to export a transparent PNG or you will get a white box. That is true for print on demand, where a provider lays white ink onto a dark shirt. It is not true for sublimation.\n\nYour sublimation printer has no white ink at all, so a white background and a transparent background do exactly the same thing. No ink. The blank shows through.\n\nWhich sounds like good news and is the opposite. It means a white rectangle you forgot about costs you nothing, and a white starburst you were relying on costs you everything — and the file looks identical either way.\n\nSo export transparent anyway. Not for the printer. For you. On a transparent PNG you can see the windows: open it on a dark background and every window lights up.\n\n📄 Free sublimation card: https://geniusjunkie.net/get-sublimation-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-14T12:00:00.000Z",
+      "id": "Q67D5akxNRc"
+    },
+    "promo-sub-mirror": {
+      "composition": "PromoSubMirror",
+      "title": "Mirrored twice is the same as not mirrored #shorts",
+      "voSlice": "403.5-427.5",
+      "description": "Sublimation prints onto paper and then you press the paper face down onto the blank, so the image flips. Something in the chain has to mirror it.\n\nCanva has a flip — select everything, Flip, Horizontal.\n\nBut most sublimation printer software mirrors for you automatically, and some of it does so without telling you. Mirror in Canva as well and you have mirrored twice, which is the same as not mirroring at all — and you find out when the text comes out backwards on a blank you have just paid for.\n\nSo check your printer software first. If it mirrors, do nothing in Canva. If it does not, flip in Canva. One or the other, never both — and write down which one you chose.\n\n📄 Free sublimation card: https://geniusjunkie.net/get-sublimation-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-14T19:00:00.000Z",
+      "id": "l1AzG3Tt0o0"
+    }
+  },
+  "publishAt": "2026-10-11T17:00:00.000Z",
+  "schedulingNote": "NOT YET SCHEDULED — ask the user first. The 2-day cadence after the t-shirt video's 9 Oct would be 11 Oct 17:00 UTC. `publish` allocates the four Shorts slots itself against YouTube's actual occupancy.",
+  "postUploadNote": "Shorts descriptions carry no youtu.be link — the long-form ID does not exist until the same upload run. Patch all four straight after `publish` (videos.update needs the FULL snippet or YouTube blanks what you omit).",
+  "longformId": "1KzL1spQAcc",
+  "uploadNote": "Long-form uploaded MANUALLY 6 Oct 2026 17:0x — the gj-sublimation-longform scheduled task (due 11:30) never fired; no lastRunAt was recorded. The four Shorts remain with gj-sublimation-shorts on 7 Oct, slots allocated 13 Oct 12:00/19:00 and 14 Oct 12:00/19:00."
+}

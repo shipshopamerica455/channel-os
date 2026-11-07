@@ -1,0 +1,41 @@
+{
+  "slug": "invoice-template",
+  "slateNumber": 6,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "8:25",
+  "titles": {
+    "A": "How to Make an Invoice Template in Canva (Get Paid Faster)",
+    "B": "Canva Invoice Template — The 8 Things Every Invoice Needs to Get Paid",
+    "C": "Clients Paying You Late? Your Invoice Is the Problem — Fix It in Canva"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "invoice template canva", "canva invoice", "how to make an invoice",
+    "freelance invoice template", "invoice design canva", "get paid faster freelance",
+    "invoice numbering system", "canva small business", "professional invoice template",
+    "invoice for freelancers", "canva tutorial", "self employed invoice",
+    "invoice payment terms", "canva table tutorial", "small business invoicing", "invoice pdf"
+  ],
+  "publishAt": "2026-08-14T17:00:00Z",
+  "adBreaks": ["3:53.6", "6:14.4"],
+  "product": {
+    "name": "Invoice Template Pack",
+    "price": "£4.99",
+    "page": "https://geniusjunkie.net/invoice-template-pack/",
+    "canvaTemplate": "canva.link/<invoice-template.canvaTemplate>",
+    "files": ["invoice-sample.pdf", "invoice-tracker.pdf", "invoice-pack-guide.pdf"]
+  },
+  "shorts": {
+    "promo-numbering": {
+      "title": "Your invoice number is a tax record, not admin #shorts",
+      "description": "INV-2026-041 → 042 → 043. Sequential, never reused, and never starting at 001. The full invoice tutorial is on the channel.",
+      "publishAt": "2026-08-15T12:00:00Z"
+    },
+    "promo-loud-total": {
+      "title": "One number on your invoice should be loud #shorts",
+      "description": "Not underlined. Not italic. Boxed. There should be exactly one number a skimming client can quote back. Full invoice tutorial on the channel.",
+      "publishAt": "2026-08-16T12:00:00Z"
+    }
+  }
+}

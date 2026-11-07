@@ -1,0 +1,150 @@
+{
+  "slug": "infographics",
+  "topic": "How to Make an Infographic in Canva",
+  "shotDir": "long-34",
+  "project": "gj-infographics",
+  "composition": "Infographics",
+  "thumb": "GJThumb34",
+  "promos": [
+    "PromoInfoRed",
+    "PromoInfoMaths",
+    "PromoInfoShapes",
+    "PromoInfoStamp"
+  ],
+  "adAfter": [
+    "05-what-goes",
+    "09-what-it"
+  ],
+  "images": [
+    {
+      "name": "pinned-board",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of a printed infographic pinned to a studio corkboard beside a laptop, soft daylight from a window, shallow depth of field, tactile and considered, text indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "blocked-at-the-wall",
+      "after": "S06",
+      "prompt": "Photographic shot of a person sitting back from a laptop at a desk in low evening light, hand on forehead, posture of hitting an unexpected limit, face not visible, shallow depth of field, muted and quiet, no readable text"
+    },
+    {
+      "name": "phone-in-hand",
+      "after": "S09",
+      "prompt": "Photographic close-up of a phone held in one hand showing a tall colourful graphic scrolled small, warm indoor light, very shallow depth of field, the screen content indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "print-proof",
+      "after": "S11",
+      "prompt": "Warm photographic overhead of a large printed chart laid on a wooden desk with a pencil and a mug, late afternoon light, shallow depth of field, quietly professional, text indistinct, no readable text"
+    },
+    {
+      "name": "studio-evening",
+      "after": "S14",
+      "prompt": "Photographic shot of a small home studio at dusk — a laptop, printed sheets on the wall, a lamp, a window — warm lamp light, shallow depth of field, a quiet workspace at rest, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Presentation Kit",
+    "price": "£4.99",
+    "existing": "presentation-kit",
+    "note": "ALREADY BUILT (verified live, 200 on 6 Oct 2026). HONEST FIT, stated in the close: the kit's chart pages and callout blocks are the same components an infographic is assembled from, but it was built for decks. The close says 'the chart and callout pages this is made of', never 'an infographic pack'. DO NOT run commerce. View-and-list first — the free rung does the funnel work."
+  },
+  "publishAt": "2026-10-17T17:00:00.000Z",
+  "promoNames": {
+    "PromoInfoRed": "promo-info-red",
+    "PromoInfoMaths": "promo-info-maths",
+    "PromoInfoShapes": "promo-info-shapes",
+    "PromoInfoStamp": "promo-info-stamp"
+  },
+  "freeAsset": {
+    "name": "Canva Infographic Size Card",
+    "slug": "get-infographic-size-card",
+    "note": "NEW one-pager: the 8000 x 3125 ceiling and 40 x 40 floor quoted, the design-small-export-big arithmetic worked (450x3000 -> 2x -> 900x6000), the 0.5-3.125x multiplier range, Canva's own three recommended shapes side by side, the thumbnail test, and the seven pre-export checks."
+  },
+  "timeline": {
+    "total": 536.83,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 41.425,
+      "03-the-size.mp3": 73,
+      "04-design-small.mp3": 116.325,
+      "05-what-goes.mp3": 166.375,
+      "06-the-trap.mp3": 209.625,
+      "07-the-three.mp3": 256.5,
+      "08-the-extracts.mp3": 300.2,
+      "09-what-it.mp3": 339.15,
+      "10-the-export.mp3": 379.526,
+      "11-where-the.mp3": 419.676,
+      "12-keeping-the.mp3": 455.476,
+      "13-the-checks.mp3": 487.101,
+      "14-close.mp3": 516.626
+    },
+    "adWindows": [
+      [
+        208.23,
+        209.63
+      ],
+      [
+        378.13,
+        379.53
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 41.425
+      },
+      {
+        "file": "03-the-size.mp3",
+        "at": 73
+      },
+      {
+        "file": "04-design-small.mp3",
+        "at": 116.325
+      },
+      {
+        "file": "05-what-goes.mp3",
+        "at": 166.375
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 209.625
+      },
+      {
+        "file": "07-the-three.mp3",
+        "at": 256.5
+      },
+      {
+        "file": "08-the-extracts.mp3",
+        "at": 300.2
+      },
+      {
+        "file": "09-what-it.mp3",
+        "at": 339.15
+      },
+      {
+        "file": "10-the-export.mp3",
+        "at": 379.526
+      },
+      {
+        "file": "11-where-the.mp3",
+        "at": 419.676
+      },
+      {
+        "file": "12-keeping-the.mp3",
+        "at": 455.476
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 487.101
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 516.626
+      }
+    ]
+  }
+}

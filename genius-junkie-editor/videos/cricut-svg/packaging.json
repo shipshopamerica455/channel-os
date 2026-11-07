@@ -1,0 +1,94 @@
+{
+  "slug": "cricut-svg",
+  "slateNumber": "S6 #3",
+  "voice": "Kokoro bm_fable",
+  "runtime": "9:18",
+  "titles": {
+    "A": "How to Make SVG Files in Canva for Cricut (2026)",
+    "B": "Canva to Cricut — the Unsupported List, the Path Limit and the Weld",
+    "C": "Why Cricut Design Space Refuses Your Canva SVG"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make svg files in canva for cricut",
+    "canva svg cricut",
+    "canva to cricut",
+    "cricut design space canva",
+    "canva cut file",
+    "svg from canva",
+    "cricut unsupported items",
+    "canva svg export",
+    "cricut design space upload error",
+    "canva vector elements",
+    "cricut weld",
+    "print then cut canva",
+    "canva pro svg",
+    "cricut svg tutorial",
+    "canva tutorial 2026"
+  ],
+  "adBreaks": [
+    "3:21.3",
+    "6:29.8"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-05",
+    "topTenMedian": 35941,
+    "freshInTopTen": "3/10",
+    "note": "Maker query with stale incumbents — the shape that carried the planner and sublimation rows. 464-video catalogue check found no Cricut or SVG coverage at all."
+  },
+  "product": {
+    "name": "Sticker & Illustration Kit",
+    "price": "£4.99",
+    "slug": "sticker-illustration-kit",
+    "existing": true,
+    "verified": "200 on 2026-10-05",
+    "note": "NARROW HONEST FIT, stated in the script and in the description. The kit is an editable Canva sticker sheet with cut lines and safe margins plus four reference PDFs — it contains NO SVG files, so it does NOT serve the SVG-cutting job this video is mostly about. It serves the OTHER job the video covers: Print Then Cut. The close says 'if the job you actually want is sticker sheets'. DO NOT run commerce. THIRD consecutive video on this pack — see schedulingNote."
+  },
+  "freeAsset": {
+    "name": "Canva → Cricut Export Card",
+    "slug": "get-cricut-export-card",
+    "status": "built before upload",
+    "note": "NEW one-pager, never carved out of a pack."
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-cut-refused": {
+      "composition": "PromoCutRefused",
+      "title": "Why Cricut refuses your Canva SVG #shorts",
+      "voSlice": "212.9-240.0",
+      "description": "Cricut's help pages list what an SVG may not contain: pattern fills, clipping paths, editable text, linked images. A clipping path is their term for one shape masking another — which is exactly what every Canva frame is, and every photo you have dropped into a shape.\n\nSo you export, you upload, and Design Space says \"Your file includes unsupported items.\" That is the entire message. It does not say which item and it does not highlight anything.\n\nThe culprit here is the photo in the circle. Replace it with a flat colour, export again, and the same design goes straight in — and comes in as separate layers.\n\nWhen Design Space refuses a Canva file, look for a frame or a photo first. It is almost always that.\n\n📄 Free export card: https://geniusjunkie.net/get-cricut-export-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-15T12:00:00.000Z",
+      "id": "8FZ7MSfegIU"
+    },
+    "promo-cut-vector": {
+      "composition": "PromoCutVector",
+      "title": "Not every Canva element is a vector #shorts",
+      "voSlice": "131.5-147.0",
+      "description": "Canva mixes true vector elements and raster ones in the same search results — the same way it mixes free and Pro — and it does not label them either way. There is no filter for it.\n\nSo test it yourself before you build anything around it. Drop the element on the canvas and scale it up enormously, four or five times the page. A vector stays perfectly crisp at any size. A raster goes soft, then blocky, and you will see it immediately.\n\nGenerally the flat single-colour shapes and line icons are vectors. Anything photographic, anything with a soft shadow baked in, anything that looks painted or textured, is not.\n\nTwo seconds per element, before you spend twenty minutes composing with something that will never cut.\n\n📄 Free export card: https://geniusjunkie.net/get-cricut-export-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-15T19:00:00.000Z",
+      "id": "Y8smxgKykFk"
+    },
+    "promo-cut-paths": {
+      "composition": "PromoCutPaths",
+      "title": "Your SVG stops at 5,000 paths #shorts",
+      "voSlice": "302.9-324.9",
+      "description": "Cricut's help pages state that SVGs are restricted to five thousand paths, and more than five thousand causes an upload error.\n\nA path is roughly one outline. A simple icon might be three. A word in a script font is one per letter. A detailed mandala, a leafy wreath, a distressed texture, a halftone pattern — those run to thousands very quickly, and a texture overlay on its own can blow the whole budget.\n\nYou cannot see the count in Canva. What you can do is notice when a design is getting busy and ask whether the detail is going to survive being cut anyway.\n\nIt usually is not. A shape two millimetres across does not cut, it tears. The path limit and the physical limit tend to arrive together.\n\n📄 Free export card: https://geniusjunkie.net/get-cricut-export-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-16T12:00:00.000Z",
+      "id": "YV1WTbcnDsA"
+    },
+    "promo-cut-weld": {
+      "composition": "PromoCutWeld",
+      "title": "Canva outlines your text, then it cuts through every join #shorts",
+      "voSlice": "356.6-380.0",
+      "description": "Cricut will not accept editable text in an SVG — it has to be shapes. Canva handles that for you automatically, converting text to outlines on export.\n\nBut outlining turns every letter into its own separate closed shape. Use a script font where the letters touch and every one of those overlaps is now a cut line running straight through the join. You get your word in pieces.\n\nThe fix is Cricut's own tool, not Canva's: select the letters in Design Space and Weld. In their words, it joins shapes by removing any overlapping cut lines — wherever cut paths have intersected, only the exterior cut path remains.\n\nAnd note this first: once a project has been welded and saved, it cannot be unwelded. Duplicate before you weld.\n\n📄 Free export card: https://geniusjunkie.net/get-cricut-export-card/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-16T19:00:00.000Z",
+      "id": "abfWITNESl0"
+    }
+  },
+  "publishAt": "2026-10-13T17:00:00.000Z",
+  "schedulingNote": "SCHEDULED 5 Oct 2026 at the user's instruction. Long-form 13 Oct 17:00 UTC. UPLOAD RUNS 7 Oct, not 6 Oct: a release costs ~8,050 YouTube quota units (5 x videos.insert at 1,600 + thumbnail), so two releases in one day is 16,100 against a 10,000/day allowance and would fail partway. Sublimation uploads 6 Oct, this one 7 Oct. Publish dates are unaffected either way.",
+  "slateNote": "THIRD consecutive video pointing at sticker-illustration-kit. More front doors to one pack is sound precedent (party-printables-kit took two), but three in a row says the catalogue is short of packs rather than that this one is versatile. A real SVG/cut-file pack is the obvious gap and the one thing that would convert this audience the same week.",
+  "postUploadNote": "Shorts descriptions carry no youtu.be link — the long-form ID does not exist until the same upload run. Patch all four straight after `publish` (videos.update needs the FULL snippet or YouTube blanks what you omit).",
+  "longformId": "9DKTsbzdFkE"
+}

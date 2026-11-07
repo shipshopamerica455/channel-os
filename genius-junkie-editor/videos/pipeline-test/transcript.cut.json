@@ -1,0 +1,254 @@
+{
+  "duration": 19.427000000000003,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.66,
+      "text": "Welcome back to Genius Junkie.",
+      "words": [
+        {
+          "word": "Welcome",
+          "start": 0.0,
+          "end": 0.3
+        },
+        {
+          "word": "back",
+          "start": 0.3,
+          "end": 0.56
+        },
+        {
+          "word": "to",
+          "start": 0.56,
+          "end": 0.76
+        },
+        {
+          "word": "Genius",
+          "start": 0.76,
+          "end": 1.1
+        },
+        {
+          "word": "Junkie.",
+          "start": 1.1,
+          "end": 1.66
+        }
+      ]
+    },
+    {
+      "start": 2.36,
+      "end": 6.6,
+      "text": "Today I'm going to show you, how to size product labels in Canva.",
+      "words": [
+        {
+          "word": "Today",
+          "start": 2.36,
+          "end": 2.48
+        },
+        {
+          "word": "I'm",
+          "start": 2.48,
+          "end": 2.84
+        },
+        {
+          "word": "going",
+          "start": 2.84,
+          "end": 3.02
+        },
+        {
+          "word": "to",
+          "start": 3.02,
+          "end": 3.24
+        },
+        {
+          "word": "show",
+          "start": 3.24,
+          "end": 3.5
+        },
+        {
+          "word": "you,",
+          "start": 3.5,
+          "end": 3.7
+        },
+        {
+          "word": "how",
+          "start": 4.52,
+          "end": 4.62
+        },
+        {
+          "word": "to",
+          "start": 4.62,
+          "end": 4.82
+        },
+        {
+          "word": "size",
+          "start": 4.82,
+          "end": 5.0
+        },
+        {
+          "word": "product",
+          "start": 5.0,
+          "end": 5.38
+        },
+        {
+          "word": "labels",
+          "start": 5.38,
+          "end": 5.92
+        },
+        {
+          "word": "in",
+          "start": 5.92,
+          "end": 6.18
+        },
+        {
+          "word": "Canva.",
+          "start": 6.18,
+          "end": 6.6
+        }
+      ]
+    },
+    {
+      "start": 7.093,
+      "end": 9.173,
+      "text": "So first, click on the file menu.",
+      "words": [
+        {
+          "word": "So",
+          "start": 7.093,
+          "end": 7.193
+        },
+        {
+          "word": "first,",
+          "start": 7.193,
+          "end": 7.473
+        },
+        {
+          "word": "click",
+          "start": 8.093,
+          "end": 8.333
+        },
+        {
+          "word": "on",
+          "start": 8.333,
+          "end": 8.513
+        },
+        {
+          "word": "the",
+          "start": 8.513,
+          "end": 8.633
+        },
+        {
+          "word": "file",
+          "start": 8.633,
+          "end": 8.873
+        },
+        {
+          "word": "menu.",
+          "start": 8.873,
+          "end": 9.173
+        }
+      ]
+    },
+    {
+      "start": 9.895,
+      "end": 12.095,
+      "text": "And, custom size.",
+      "words": [
+        {
+          "word": "And,",
+          "start": 9.895,
+          "end": 10.115
+        },
+        {
+          "word": "custom",
+          "start": 11.255,
+          "end": 11.575
+        },
+        {
+          "word": "size.",
+          "start": 11.575,
+          "end": 12.095
+        }
+      ]
+    },
+    {
+      "start": 12.956,
+      "end": 13.976,
+      "text": "type in 50mm.",
+      "words": [
+        {
+          "word": "type",
+          "start": 12.956,
+          "end": 13.236
+        },
+        {
+          "word": "in",
+          "start": 13.236,
+          "end": 13.416
+        },
+        {
+          "word": "50mm.",
+          "start": 13.416,
+          "end": 13.976
+        }
+      ]
+    },
+    {
+      "start": 15.907,
+      "end": 16.627,
+      "text": "there is to it.",
+      "words": [
+        {
+          "word": "there",
+          "start": 15.907,
+          "end": 16.107
+        },
+        {
+          "word": "is",
+          "start": 16.107,
+          "end": 16.287
+        },
+        {
+          "word": "to",
+          "start": 16.287,
+          "end": 16.427
+        },
+        {
+          "word": "it.",
+          "start": 16.427,
+          "end": 16.627
+        }
+      ]
+    },
+    {
+      "start": 17.131,
+      "end": 19.151,
+      "text": "this helped, subscribe for more.",
+      "words": [
+        {
+          "word": "this",
+          "start": 17.131,
+          "end": 17.291
+        },
+        {
+          "word": "helped,",
+          "start": 17.291,
+          "end": 17.591
+        },
+        {
+          "word": "subscribe",
+          "start": 18.111,
+          "end": 18.311
+        },
+        {
+          "word": "for",
+          "start": 18.311,
+          "end": 18.911
+        },
+        {
+          "word": "more.",
+          "start": 18.911,
+          "end": 19.151
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "slug": "canva-for-teachers",
+  "slateNumber": 17,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "9:27",
+  "titles": {
+    "A": "Canva for Teachers 2026 — Assign Work So Every Student Gets Their Own Copy",
+    "B": "How to Use Canva for Education — Set Up, Assign, and Mark a Whole Class",
+    "C": "Stop Sharing Canva Links With Your Class (Do This Instead)"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "canva for teachers",
+    "canva for education",
+    "canva classroom",
+    "how to use canva in the classroom",
+    "canva assign students",
+    "canva education tutorial",
+    "teacher worksheets canva",
+    "google classroom canva",
+    "canva lesson activities",
+    "canva template link",
+    "classroom resources canva",
+    "canva education eligibility",
+    "exit ticket template",
+    "do now template",
+    "canva tutorial 2026",
+    "teaching resources"
+  ],
+  "adBreaks": [
+    "3:40.6",
+    "6:35.3"
+  ],
+  "product": {
+    "name": "Classroom Kit",
+    "price": "£4.99",
+    "url": "https://geniusjunkie.net/classroom-kit/"
+  },
+  "cutaways": [
+    "classroom-desks",
+    "teacher-laptop",
+    "students-tablets",
+    "worksheet-stack",
+    "marking-evening"
+  ],
+  "shorts": {
+    "promo-teach-assign": {
+      "title": "The Canva assignment code that dies in 4 hours #shorts",
+      "description": "Canva gives teachers two ways to hand work out and they are not equivalent. The assignment LINK stays active for 30 days and you can deactivate it whenever you like. The assignment CODE - the one you read out and students type in - expires in 4 hours. So if you set a code up the night before, it is already dead when the bell goes. Generate codes in the lesson, and use the link for anything you plan in advance. Both do the important thing: every student gets their own copy instead of all thirty editing the same file. Full Canva for Teachers walkthrough on the channel.",
+      "publishAt": "2026-09-22T12:00:00.000Z"
+    },
+    "promo-teach-shells": {
+      "title": "Why Canva eats your Sunday #shorts",
+      "description": "Building a new activity page every week is why Canva stops being worth it by half term. Build six shells once instead, with no subject content in any of them: a do-now with four boxes, an exit ticket with three questions and a confidence scale, a vocabulary page, a comparison grid, a labelled diagram frame and a reading response. Then Tuesday is not designing - it is typing this week's words into a page that already exists and pressing Assign. Every activity comes out consistent because it is literally the same page. Full Canva for Teachers guide on the channel.",
+      "publishAt": "2026-09-23T12:00:00.000Z"
+    },
+    "promo-submitting-locks-work": {
+      "title": "Submitting locks their work — warn the class first #shorts",
+      "description": "Once a student presses Send to teacher their design becomes read-only. That is deliberate; it is the equivalent of handing the book in. If they need to change something you request changes and they resubmit, and if they just want to keep tinkering there is Make a copy, which leaves the submission alone. Say it before you hand the assignment out.\n\n▶️ Full tutorial: https://youtu.be/3pdDIEcRuwU\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-22T19:00:00.000Z",
+      "youtubeId": "RfGStiVK6Zg"
+    },
+    "promo-no-education-account": {
+      "title": "No Canva education account? One link still works #shorts",
+      "description": "Tutors, homeschool parents, lecturers, librarians and teachers not currently in post cannot get the education account or the Assign button. Use Share, then Template link. Canva's own wording: \"Anyone with the link can use this design as a template.\" Everyone gets their own copy and your original is untouched. You lose the marking side, not the teaching part.\n\n▶️ Full tutorial: https://youtu.be/3pdDIEcRuwU\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-23T19:00:00.000Z",
+      "youtubeId": "dQAh8Y_sqcI"
+    }
+  },
+  "publishAt": "2026-09-21T17:00:00.000Z"
+}

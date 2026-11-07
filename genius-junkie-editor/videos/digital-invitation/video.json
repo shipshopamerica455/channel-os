@@ -1,0 +1,150 @@
+{
+  "slug": "digital-invitation",
+  "topic": "How to Make a Clickable Digital Invitation in Canva (2027)",
+  "shotDir": "long-39",
+  "project": "gj-digital-invitation",
+  "composition": "DigitalInvitation",
+  "thumb": "GJThumb39",
+  "promos": [
+    "PromoDiDead",
+    "PromoDiFix",
+    "PromoDiPdf",
+    "PromoDiTeaser"
+  ],
+  "adAfter": [
+    "05-make-it",
+    "09-publish-it"
+  ],
+  "images": [
+    {
+      "name": "group-chat",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of a hand holding a phone above a kitchen table, a group chat open on the screen with a colourful picture message, soft morning light, very shallow depth of field, face not visible, screen content indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "paper-envelope",
+      "after": "S04",
+      "prompt": "Photographic close-up of a cream paper envelope with a dusty-pink wax seal lying on a linen tablecloth, a sprig of eucalyptus beside it, soft window light, shallow depth of field, elegant and quiet, no writing, no readable text"
+    },
+    {
+      "name": "thumb-tap",
+      "after": "S06",
+      "prompt": "Photographic close-up of a thumb about to tap a phone screen held at a cafe table, warm afternoon light, very shallow depth of field, a sense of anticipation, face not visible, screen content indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "door-arrival",
+      "after": "S10",
+      "prompt": "Photographic shot of friends arriving at a front door in the evening holding a bottle and a small gift, warm light spilling from the hallway, string lights, shallow depth of field, faces turned away or out of focus, joyful and welcoming, no readable text"
+    },
+    {
+      "name": "party-table",
+      "after": "S14",
+      "prompt": "Photographic shot of a birthday dinner table set for guests, lit candles, place settings, small flowers, warm evening light, shallow depth of field, festive and calm, no people, all printing indistinct, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Party & Event Printables Kit",
+    "price": "£4.99",
+    "existing": "party-printables-kit",
+    "note": "EXISTING pack. Honest fit, stated in the close: the PRINTED side (place cards, menu, thank-you cards), never 'a digital invitation template'. DO NOT run commerce."
+  },
+  "publishAt": "2026-10-31T17:00:00.000Z",
+  "freeAsset": {
+    "name": "Digital Invitation Send Card",
+    "slug": "get-digital-invitation-send-card",
+    "note": "NEW one-pager: Canva's own words on where links survive (PDF, presenting) and die (PNG/JPG/MP4/social/flattened PDF); 3-page build; publish steps + 5-site limit; seven checks."
+  },
+  "timeline": {
+    "total": 522.68,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 37.525,
+      "03-start-from.mp3": 74.075,
+      "04-the-envelope.mp3": 114.675,
+      "05-make-it.mp3": 151.25,
+      "06-the-trap.mp3": 195.875,
+      "07-the-details.mp3": 257.7,
+      "08-built-for.mp3": 295.25,
+      "09-publish-it.mp3": 330.75,
+      "10-sending-it.mp3": 371.825,
+      "11-one-build.mp3": 411.725,
+      "12-the-checks.mp3": 445.05,
+      "13-the-pack.mp3": 475.1,
+      "14-close.mp3": 501.4
+    },
+    "adWindows": [
+      [
+        194.48,
+        195.88
+      ],
+      [
+        370.43,
+        371.83
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 37.525
+      },
+      {
+        "file": "03-start-from.mp3",
+        "at": 74.075
+      },
+      {
+        "file": "04-the-envelope.mp3",
+        "at": 114.675
+      },
+      {
+        "file": "05-make-it.mp3",
+        "at": 151.25
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 195.875
+      },
+      {
+        "file": "07-the-details.mp3",
+        "at": 257.7
+      },
+      {
+        "file": "08-built-for.mp3",
+        "at": 295.25
+      },
+      {
+        "file": "09-publish-it.mp3",
+        "at": 330.75
+      },
+      {
+        "file": "10-sending-it.mp3",
+        "at": 371.825
+      },
+      {
+        "file": "11-one-build.mp3",
+        "at": 411.725
+      },
+      {
+        "file": "12-the-checks.mp3",
+        "at": 445.05
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 475.1
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 501.4
+      }
+    ]
+  },
+  "promoNames": {
+    "PromoDiDead": "promo-di-dead",
+    "PromoDiFix": "promo-di-fix",
+    "PromoDiPdf": "promo-di-pdf",
+    "PromoDiTeaser": "promo-di-teaser"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "slug": "photo-calendar",
+  "topic": "How to Make a Photo Calendar in Canva",
+  "shotDir": "long-36",
+  "project": "gj-photo-calendar",
+  "composition": "PhotoCalendar",
+  "thumb": "GJThumb36",
+  "promos": [
+    "PromoCalSliver",
+    "PromoCalDrag",
+    "PromoCalPixels",
+    "PromoCalKitchen"
+  ],
+  "adAfter": [
+    "05-the-photo",
+    "09-what-it"
+  ],
+  "images": [
+    {
+      "name": "calendar-on-wall",
+      "after": "S01",
+      "prompt": "Warm photographic shot of a printed photo calendar hanging on a kitchen wall beside a doorway, soft morning daylight, shallow depth of field, homely and lived-in, the printed content indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "trimmed-edge",
+      "after": "S06",
+      "prompt": "Photographic close-up of hands holding a freshly trimmed printed page over a desk in low light, posture of close inspection of an edge, face not visible, shallow depth of field, quiet and focused, printed content indistinct, no readable text"
+    },
+    {
+      "name": "photos-on-table",
+      "after": "S07",
+      "prompt": "Warm photographic overhead of printed family photographs spread across a wooden table beside a laptop, late afternoon light, shallow depth of field, nostalgic and tactile, faces turned away and images indistinct, no readable text"
+    },
+    {
+      "name": "across-the-kitchen",
+      "after": "S09",
+      "prompt": "Photographic shot down a domestic kitchen towards a wall calendar seen from a distance, warm lamp and window light, shallow depth of field, everyday domestic scene, the calendar content indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "wrapped-gift",
+      "after": "S14",
+      "prompt": "Photographic shot of a wrapped flat gift with twine and a sprig of greenery on a wooden table at dusk, warm lamp light, shallow depth of field, quiet and generous, no readable text"
+    }
+  ],
+  "product": {
+    "name": "2027 Calendar Kit",
+    "price": "£4.99",
+    "existing": "2027-calendar-kit",
+    "note": "ALREADY BUILT (verified live, 200 on 16 Oct 2026). The CLOSEST pack fit of the three view-and-list rows: the kit's twelve dated month grids are literally what goes under the photograph. The close says 'the twelve month pages this is made of' — accurate, because it is a grid pack and the photo half is the viewer's own. DO NOT run commerce."
+  },
+  "publishAt": "2026-10-21T17:00:00.000Z",
+  "promoNames": {
+    "PromoCalSliver": "promo-cal-sliver",
+    "PromoCalDrag": "promo-cal-drag",
+    "PromoCalPixels": "promo-cal-pixels",
+    "PromoCalKitchen": "promo-cal-kitchen"
+  },
+  "freeAsset": {
+    "name": "Canva Photo Calendar Print Card",
+    "slug": "get-photo-calendar-print-card",
+    "note": "NEW one-pager: the 0.125 in / 3.175 mm bleed quoted with the 'cannot be changed' wording, the pixel table (A4/A3/Letter, with and without bleed), the 2,500-pixel long-edge rule and why messaged photos fail it, the 50 MB / 250 million pixel upload ceiling, the PDF Print settings, and the seven pre-export checks."
+  },
+  "music": "FIRST VIDEO WITH A BED — run `gj music photo-calendar` before `master`.",
+  "timeline": {
+    "total": 527.58,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 34.425,
+      "03-the-size.mp3": 65.475,
+      "04-which-photos.mp3": 109.975,
+      "05-the-photo.mp3": 158.45,
+      "06-the-trap.mp3": 198.8,
+      "07-the-pixels.mp3": 249.075,
+      "08-the-dates.mp3": 291.875,
+      "09-what-it.mp3": 330.2,
+      "10-the-export.mp3": 368.3,
+      "11-getting-it.mp3": 408.775,
+      "12-next-year.mp3": 442.426,
+      "13-the-checks.mp3": 474.351,
+      "14-close.mp3": 505.276
+    },
+    "adWindows": [
+      [
+        197.4,
+        198.8
+      ],
+      [
+        366.9,
+        368.3
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 34.425
+      },
+      {
+        "file": "03-the-size.mp3",
+        "at": 65.475
+      },
+      {
+        "file": "04-which-photos.mp3",
+        "at": 109.975
+      },
+      {
+        "file": "05-the-photo.mp3",
+        "at": 158.45
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 198.8
+      },
+      {
+        "file": "07-the-pixels.mp3",
+        "at": 249.075
+      },
+      {
+        "file": "08-the-dates.mp3",
+        "at": 291.875
+      },
+      {
+        "file": "09-what-it.mp3",
+        "at": 330.2
+      },
+      {
+        "file": "10-the-export.mp3",
+        "at": 368.3
+      },
+      {
+        "file": "11-getting-it.mp3",
+        "at": 408.775
+      },
+      {
+        "file": "12-next-year.mp3",
+        "at": 442.426
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 474.351
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 505.276
+      }
+    ]
+  }
+}

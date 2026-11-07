@@ -1,0 +1,66 @@
+{
+  "slug": "photo-albums",
+  "slateNumber": "S3 #1",
+  "voice": "Kokoro bm_fable",
+  "runtime": "9:13",
+  "titles": {
+    "A": "How to Make a Photo Album in Canva 2026 — Print-Ready Photo Book (20 Pages)",
+    "B": "Canva Photo Book Tutorial — Spreads, Page Count and the Binding Trap",
+    "C": "Your Canva Photo Album Is Not Layflat — The Fold Eats Your Best Spread"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "canva photo album",
+    "canva photo book",
+    "how to make a photo album in canva",
+    "canva photo book tutorial",
+    "photo book canva",
+    "canva album tutorial",
+    "print photo book",
+    "canva print",
+    "photo album design",
+    "canva tutorial 2026",
+    "photo book layout",
+    "layflat binding",
+    "canva photo books",
+    "make a photo book",
+    "canva print ready",
+    "genius junkie"
+  ],
+  "adBreaks": [
+    "3:02.0",
+    "6:29.0"
+  ],
+  "product": {
+    "name": "Photo Album Kit",
+    "price": "£4.99",
+    "slug": "photo-album-kit"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-album-gutter": {
+      "title": "Canva photo books are not layflat #shorts",
+      "description": "Asked whether they offer layflat binding, Canva's own photo books page answers: \"No, we don't offer layflat binding at this time. We do, however, offer PUR binding using a strong bookbinding adhesive.\" PUR is a good adhesive — it opens flatter than ordinary perfect binding and the book will not fall apart. But it is not layflat, so the centre of every two-page spread curves down into the gutter. Put a face, a line of text or a horizon across that centre and it comes back bent and shadowed. Skies, water and blurred backgrounds cross the middle happily, because nobody can tell where a cloud was meant to be.\n\nFull tutorial on the channel — the twenty-page minimum, the gutter guides and the two-minute fold test.",
+      "publishAt": "2026-09-30T12:00:00.000Z"
+    },
+    "promo-album-pages": {
+      "title": "Canva photo books have a 20 page minimum #shorts",
+      "description": "From Canva's own photo books page: \"Design for a front cover, back cover and from 20 to 98 inside pages.\" Twenty inside pages is a floor, not a suggestion — so twelve pages of holiday is not a twelve-page book, it is a twenty-page book. Plan the twenty as sections before you place a single photo and you get to choose which story earns an extra spread, instead of hunting for eight more photos to pad out the end.\n\nFull tutorial on the channel — the binding trap, the gutter guides and the two-minute fold test.",
+      "publishAt": "2026-10-01T12:00:00.000Z"
+    },
+    "promo-gloss-prints-darker": {
+      "title": "Gloss paper prints your photos darker #shorts",
+      "description": "Canva photo book inside pages are 148 gsm gloss, and gloss deepens contrast — so photos that are already dark print darker still. If a picture is moody on screen, lift the shadows slightly before you place it or you lose the detail entirely. Same reason a phone photo that looks fine on a laptop can land soft on paper.\n\n▶️ Full tutorial: https://youtu.be/Z3U8lf58AoE\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-30T19:00:00.000Z",
+      "youtubeId": "Bsz9lzeECHY"
+    },
+    "promo-layflat-or-not": {
+      "title": "Ask your printer this before you lay out a photo book #shorts",
+      "description": "One question changes how you lay out the whole book: is this layflat, or perfect bound? Layflat means you can relax the gutter rule and design proper full spreads. Perfect bound or PUR means the centre of every spread curves into the spine, so keep faces, text and horizons out of the fold. Ask before you design, not after.\n\n▶️ Full tutorial: https://youtu.be/Z3U8lf58AoE\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-01T19:00:00.000Z",
+      "youtubeId": "A8kMpqhoAkE"
+    }
+  },
+  "publishAt": "2026-09-29T17:00:00.000Z"
+}

@@ -1,0 +1,150 @@
+{
+  "slug": "newsletter",
+  "topic": "How to Make a Newsletter in Canva",
+  "shotDir": "long-35",
+  "project": "gj-newsletter",
+  "composition": "Newsletter",
+  "thumb": "GJThumb35",
+  "promos": [
+    "PromoNlDead",
+    "PromoNlFlatten",
+    "PromoNlDpi",
+    "PromoNlPhone"
+  ],
+  "adAfter": [
+    "05-the-blocks",
+    "09-what-it"
+  ],
+  "images": [
+    {
+      "name": "noticeboard",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of a printed community noticeboard with pinned paper sheets and a cork surface, soft daylight from a window, shallow depth of field, tactile and familiar, text indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "dead-click",
+      "after": "S06",
+      "prompt": "Photographic shot of a person's hand resting on a laptop trackpad in low evening light, posture of pausing mid-task after something did not respond, face not visible, shallow depth of field, muted and quiet, screen content indistinct, no readable text"
+    },
+    {
+      "name": "printed-run",
+      "after": "S07",
+      "prompt": "Warm photographic overhead of a stack of freshly printed A4 sheets beside an office printer on a desk, late afternoon light, shallow depth of field, quietly busy, text indistinct, no readable text"
+    },
+    {
+      "name": "phone-on-sofa",
+      "after": "S09",
+      "prompt": "Photographic close-up of a phone held in one hand showing a zoomed-out document page, warm indoor lamp light, very shallow depth of field, relaxed evening setting, screen content indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "desk-at-dusk",
+      "after": "S14",
+      "prompt": "Photographic shot of a small home office at dusk — a laptop, a stack of printed sheets, a lamp, a window — warm lamp light, shallow depth of field, a quiet workspace at rest, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Digital Magazine Kit",
+    "price": "£4.99",
+    "existing": "digital-magazine-kit",
+    "note": "ALREADY BUILT (verified live, 200 on 10 Oct 2026). HONEST FIT, stated in the close: the kit's multi-page grids, masthead bands and column layouts are the same components a newsletter is assembled from, but it was built for magazines — the close says 'the multi-page layouts and masthead structures this is made of', never 'a newsletter pack'. DO NOT run commerce. View-and-list first — the free rung does the funnel work."
+  },
+  "publishAt": "2026-10-19T17:00:00.000Z",
+  "promoNames": {
+    "PromoNlDead": "promo-nl-dead",
+    "PromoNlFlatten": "promo-nl-flatten",
+    "PromoNlDpi": "promo-nl-dpi",
+    "PromoNlPhone": "promo-nl-phone"
+  },
+  "freeAsset": {
+    "name": "Canva Newsletter Export Card",
+    "slug": "get-newsletter-export-card",
+    "note": "NEW one-pager: the link-survival table (editor / JPG / PNG / PDF Standard / PDF Print / flattened PDF), Canva's flatten wording quoted alongside what it costs, the 96 vs 300 DPI split, the phone-size test, and the seven pre-send checks."
+  },
+  "timeline": {
+    "total": 525.7,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 37,
+      "03-the-size.mp3": 68.6,
+      "04-the-grid.mp3": 110.55,
+      "05-the-blocks.mp3": 151.55,
+      "06-the-trap.mp3": 193.075,
+      "07-ninety-six.mp3": 245.45,
+      "08-writing-it.mp3": 292.3,
+      "09-what-it.mp3": 328.525,
+      "10-the-export.mp3": 366.325,
+      "11-sending-it.mp3": 405.725,
+      "12-make-it.mp3": 440.551,
+      "13-the-checks.mp3": 475.651,
+      "14-close.mp3": 503.526
+    },
+    "adWindows": [
+      [
+        191.68,
+        193.08
+      ],
+      [
+        364.93,
+        366.33
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 37
+      },
+      {
+        "file": "03-the-size.mp3",
+        "at": 68.6
+      },
+      {
+        "file": "04-the-grid.mp3",
+        "at": 110.55
+      },
+      {
+        "file": "05-the-blocks.mp3",
+        "at": 151.55
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 193.075
+      },
+      {
+        "file": "07-ninety-six.mp3",
+        "at": 245.45
+      },
+      {
+        "file": "08-writing-it.mp3",
+        "at": 292.3
+      },
+      {
+        "file": "09-what-it.mp3",
+        "at": 328.525
+      },
+      {
+        "file": "10-the-export.mp3",
+        "at": 366.325
+      },
+      {
+        "file": "11-sending-it.mp3",
+        "at": 405.725
+      },
+      {
+        "file": "12-make-it.mp3",
+        "at": 440.551
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 475.651
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 503.526
+      }
+    ]
+  }
+}

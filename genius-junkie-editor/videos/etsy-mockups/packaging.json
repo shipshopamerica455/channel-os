@@ -1,0 +1,61 @@
+{
+  "slug": "etsy-mockups",
+  "slateNumber": 8,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "8:46",
+  "titles": {
+    "A": "How to Make Etsy Listing Photos & Mockups in Canva (No Camera Needed)",
+    "B": "Etsy Listing Photos in Canva — All 10 Slots, Built for the 5:4 Search Crop",
+    "C": "Etsy Is Cropping Your First Photo and You Can't See It — Fix It in Canva"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "etsy listing photos",
+    "etsy mockups canva",
+    "canva mockup tutorial",
+    "etsy listing images",
+    "etsy product photography",
+    "etsy seller tips",
+    "canva for etsy",
+    "etsy listing image size",
+    "etsy photo tips",
+    "product mockups free",
+    "etsy digital downloads",
+    "canva tutorial 2026",
+    "etsy shop tips",
+    "listing photos that sell",
+    "etsy search crop",
+    "mockup without camera"
+  ],
+  "adBreaks": [
+    "3:01.5",
+    "6:34.0"
+  ],
+  "product": {
+    "name": "Etsy Listing Image Kit",
+    "price": "£4.99",
+    "page": "https://geniusjunkie.net/etsy-listing-image-kit/",
+    "files": "10-slot Canva template (5:4 safe band marked) + 6 reference PDFs"
+  },
+  "cutaways": [
+    "etsy-browsing",
+    "framed-on-wall",
+    "maker-desk",
+    "parcel-unbox",
+    "phone-shop"
+  ],
+  "shorts": {
+    "promo-5x4-crop": {
+      "title": "Etsy crops your first photo to 5:4 #shorts",
+      "description": "You upload 2000x2000 as Etsy recommends. Search results show 570x456 - the middle 80%. Anything in the top or bottom 10% is gone. Full Etsy listing photo tutorial on the channel.",
+      "publishAt": "2026-08-19T12:00:00.000Z"
+    },
+    "promo-mockup-trick": {
+      "title": "Product mockups in Canva, one drag #shorts",
+      "description": "Elements, search \"frame mockup\", pick one with the placeholder icon, drag your design onto it. Then turn shadows on or it reads as fake. Full Etsy listing photo tutorial on the channel.",
+      "publishAt": "2026-08-20T12:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-08-18T17:00:00.000Z"
+}

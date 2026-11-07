@@ -1,0 +1,163 @@
+{
+  "slug": "gift-tags",
+  "topic": "How to Make Printable Christmas Gift Tags in Canva (10 Per Sheet)",
+  "shotDir": "long-41",
+  "project": "gj-gift-tags",
+  "composition": "GiftTags",
+  "thumb": "GJThumb41",
+  "promos": [
+    "PromoGtTrap",
+    "PromoGtFix",
+    "PromoGtFit",
+    "PromoGtFree"
+  ],
+  "adAfter": [
+    "05-the-ten",
+    "09-download-and"
+  ],
+  "images": [
+    {
+      "name": "wrapped-gifts",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of wrapped Christmas presents in brown kraft paper tied with red and white twine, small printed gift tags attached, pine sprigs, soft fairy lights, very shallow depth of field, cosy evening glow, tag writing indistinct, no readable text"
+    },
+    {
+      "name": "wasted-card",
+      "after": "S06",
+      "prompt": "Photographic overhead shot of a messy pile of printed card sheets on a desk, each sheet almost empty with one small gift tag printed on it, a printer tray beside, late evening lamp light, shallow depth of field, a sense of wasted paper and mild frustration, no readable text"
+    },
+    {
+      "name": "cutting-tags",
+      "after": "S10",
+      "prompt": "Photographic close-up of hands sliding a sheet of printed festive gift tags through a paper trimmer on a wooden table, cut tags stacked neatly beside a hole punch and a spool of ribbon, warm daylight, shallow depth of field, calm and satisfying, no readable text"
+    },
+    {
+      "name": "birthday-gift",
+      "after": "S11",
+      "prompt": "Photographic shot of a birthday present wrapped in pastel paper with a balloon-patterned gift tag on a ribbon, on a sunny kitchen table with a cake out of focus behind, bright cheerful daylight, shallow depth of field, tag writing indistinct, no readable text"
+    },
+    {
+      "name": "tree-presents",
+      "after": "S14",
+      "prompt": "Photographic shot of presents under a glowing Christmas tree, every gift with a matching handmade paper tag on twine, warm living room light, cosy and generous feeling, shallow depth of field, no people, tag writing indistinct, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Printable Gift Tag Kit",
+    "price": "£4.99",
+    "folder": "gift-tags",
+    "slug": "printable-gift-tag-kit",
+    "new": true,
+    "description": "Print-ready gift tag sheets — 24 Christmas designs and 12 all-year designs, 10 tags per sheet in US Letter (4.25 x 2.2 in) and A4 (105 x 59.4 mm), pale cut lines on the inside guides, a 9 mm safe border, write-on To/From lines and a punch circle, plus a read-me with print settings and the five cuts. No Canva plan needed. (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "note": "NEW PACK — printable PDFs only, no Canva template, so no CANVA_LINK step. Free rung = names CSV + cutting guide (built new).",
+    "stripeProduct": "prod_VYSAafILQUpvxa",
+    "stripePrice": "price_1UXLFtLqu5srzOz9V6kJXI05",
+    "stripe": "https://buy.stripe.com/14A6oI4R53Pd8ok1rFaR20v"
+  },
+  "publishAt": null,
+  "freeAsset": {
+    "name": "Gift Tag Names Sheet + Cutting Guide",
+    "slug": "get-gift-tag-names-sheet",
+    "note": "NEW: 10-column names CSV (Name 1..Name 10, one row per sheet) + one-page cutting guide (5 cuts, safe border, print at 100%). Not carved from the pack.",
+    "status": "LIVE — published 2 Nov 2026; /get-gift-tag-names-sheet/ public, /gift-tag-names-sheet/ members"
+  },
+  "timeline": {
+    "total": 510.88,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 34.575,
+      "03-the-sheet.mp3": 65.425,
+      "04-the-first.mp3": 106.651,
+      "05-the-ten.mp3": 145.626,
+      "06-the-trap.mp3": 188.426,
+      "07-the-names.mp3": 247.676,
+      "08-the-free.mp3": 287.152,
+      "09-download-and.mp3": 323.877,
+      "10-five-cuts.mp3": 367.377,
+      "11-all-year.mp3": 402.277,
+      "12-the-checks.mp3": 433.902,
+      "13-the-pack.mp3": 458.477,
+      "14-close.mp3": 485.077
+    },
+    "adWindows": [
+      [
+        187.03,
+        188.43
+      ],
+      [
+        365.98,
+        367.38
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 34.575
+      },
+      {
+        "file": "03-the-sheet.mp3",
+        "at": 65.425
+      },
+      {
+        "file": "04-the-first.mp3",
+        "at": 106.651
+      },
+      {
+        "file": "05-the-ten.mp3",
+        "at": 145.626
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 188.426
+      },
+      {
+        "file": "07-the-names.mp3",
+        "at": 247.676
+      },
+      {
+        "file": "08-the-free.mp3",
+        "at": 287.152
+      },
+      {
+        "file": "09-download-and.mp3",
+        "at": 323.877
+      },
+      {
+        "file": "10-five-cuts.mp3",
+        "at": 367.377
+      },
+      {
+        "file": "11-all-year.mp3",
+        "at": 402.277
+      },
+      {
+        "file": "12-the-checks.mp3",
+        "at": 433.902
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 458.477
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 485.077
+      }
+    ]
+  },
+  "promoNames": {
+    "PromoGtTrap": "promo-gt-trap",
+    "PromoGtFix": "promo-gt-fix",
+    "PromoGtFit": "promo-gt-fit",
+    "PromoGtFree": "promo-gt-free"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  }
+}

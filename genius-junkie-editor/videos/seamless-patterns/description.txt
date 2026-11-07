@@ -1,0 +1,65 @@
+The canvas edge in Canva is a crop, not a wrap. Anything you push past the edge
+is cut off there, and nothing appears on the other side to continue it.
+
+Which means you can build a pattern that looks completely finished on your
+screen, export it, tile it, and watch a hard grid of seams appear — straight
+lines through your design every tile width, where the motifs stop dead at the
+boundary. And Canva will not show you that seam. There is no offset preview, no
+tile preview, no wrap mode. The design looks perfect right up until it is on
+fabric.
+
+The fix is exact arithmetic, and Canva does give you the tool for it: Position
+→ Advanced, and typed X and Y values.
+
+📄 FREE — The Canva Seamless Repeat Card: the offset arithmetic including the
+four-corner case, the marketplace spec, and the seam test, on one page:
+https://geniusjunkie.net/get-seamless-repeat-card/
+
+🎨 Seamless Pattern Kit — a Canva tile with the offset structure already built,
+a 2 × 2 proof sheet, and the marketplace spec:
+https://geniusjunkie.net/seamless-pattern-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 The canvas edge is a crop, not a wrap
+0:40 The free card, and three principles
+1:12 Pick a repeat, not a pixel count
+1:58 The background goes past the edge
+2:40 Scatter the middle, leave the edges
+3:24 THE TRAP — typed numbers, never dragged
+4:17 Export it and tile it
+4:58 Sparser than feels right
+5:37 Three settings that matter
+6:20 Colourways inherit the geometry
+6:57 One tile is not one product
+7:35 Patterns outlive the file you made them in
+8:07 The seven checks
+8:36 Close
+
+THE RULE
+Every element touching an edge needs a twin on the opposite edge, placed by
+TYPED coordinates — never dragged:
+· crosses the RIGHT edge  → twin at X − canvas width
+· crosses the BOTTOM edge → twin at Y − canvas height
+The other coordinate must stay IDENTICAL. And a motif in a CORNER needs FOUR
+copies — the original, one at X−width, one at Y−height, and one with both.
+
+SPOONFLOWER'S PUBLISHED SPEC, AS AN EXAMPLE
+· "Your files should be a JPG or PNG, saved at your preferred print dimensions
+  and 150 DPI, and under 40 MB."
+· "Spoonflower converts all files to 150 DPI when they are uploaded to the
+  site." So the physical repeat size is your decision; the resolution is not.
+· "Spoonflower prints using sRGB color mode" — not CMYK.
+· "Be sure any background colors in your file extend to the edge of the file,
+  otherwise the design will look broken up into separate squares as opposed to
+  a seamless repeating layout."
+Inches × 150 = pixels. An 8 inch repeat is 1200 px square.
+Other marketplaces differ — check your own spec page.
+Verified 5 October 2026.
+
+NOT CLAIMED IN THIS VIDEO: what any marketplace pays, what a listing costs,
+what royalty rate to expect, or which marketplace is best. None of that was
+checked against a seller-terms page, so none of it is stated.
+
+#canva #seamlesspattern #surfacepatterndesign #canvatutorial #patterndesign

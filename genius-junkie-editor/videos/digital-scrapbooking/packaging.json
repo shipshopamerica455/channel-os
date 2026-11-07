@@ -1,0 +1,72 @@
+{
+  "slug": "digital-scrapbooking",
+  "slateNumber": 16,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "9:30",
+  "titles": {
+    "A": "How to Make a Digital Scrapbook in Canva (Print-Ready, 12 × 12)",
+    "B": "Digital Scrapbooking in Canva 2026 — Six Layouts, One Evening",
+    "C": "The Photo You Cropped Out Is Still in Your Canva PDF"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "digital scrapbooking",
+    "canva scrapbook",
+    "how to make a scrapbook in canva",
+    "digital scrapbook tutorial",
+    "canva photo book",
+    "photo album canva",
+    "12x12 scrapbook template",
+    "printable scrapbook",
+    "canva tutorial 2026",
+    "scrapbook layouts",
+    "memory book canva",
+    "canva flatten pdf",
+    "print ready pdf canva",
+    "family photo album",
+    "canva page size",
+    "photo book template"
+  ],
+  "adBreaks": [
+    "3:46.3",
+    "6:40.9"
+  ],
+  "product": {
+    "name": "Scrapbook + Photo Book Kit",
+    "price": "£4.99",
+    "url": "https://geniusjunkie.net/scrapbook-photo-book-kit/"
+  },
+  "cutaways": [
+    "scrapbook-desk",
+    "photo-box",
+    "turning-pages",
+    "printed-album",
+    "print-shop"
+  ],
+  "shorts": {
+    "promo-scrap-crop": {
+      "title": "The photo you cropped out is still in your Canva PDF #shorts",
+      "description": "Cropping in Canva is hiding, not deleting - the photo is whole underneath and the crop is just a window over it. Canva's own help centre says that if you download a design containing cropped images to PDF, the PDF will include the original image, and someone could use a PDF editor to get the full uncropped image back out. In a family scrapbook that is a privacy problem, not a design one: everyone you cropped out is still in the file you emailed round. The fix is one checkbox - Share, Download, tick Flatten PDF, which converts the file into a static image. Full digital scrapbook tutorial on the channel.",
+      "publishAt": "2026-09-20T12:00:00.000Z"
+    },
+    "promo-scrap-layouts": {
+      "title": "Why your scrapbook takes all weekend #shorts",
+      "description": "The first scrapbook takes a weekend, the second should take an evening, and the difference is whether you built layouts or built pages. Take one finished spread, delete the photos out of it, keep the frames, the text box and the spacing, and duplicate it - that empty page is a layout. Six of them is a kit: one hero, hero and three, four up, a writing page, full bleed, and a breather. Next time you are not designing, you are pouring photos into slots, and every page matches because the geometry never moved. Full Canva scrapbook build on the channel.",
+      "publishAt": "2026-09-21T12:00:00.000Z"
+    },
+    "promo-whatsapp-wrecks-photos": {
+      "title": "WhatsApp already wrecked those photos #shorts",
+      "description": "Messaging apps compress pictures hard, and you do not find out until it is printed. If you are making a scrapbook for somebody else, ask for the originals in a shared folder. And decide up front what they are getting — a print-ready PDF, a home-printable PDF, or the editable Canva template. Three products, three prices.\n\n▶️ Full tutorial: https://youtu.be/xpHDCqp87LE\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-20T19:00:00.000Z",
+      "youtubeId": "cGnu-z3mFNs"
+    },
+    "promo-one-pdf-per-page": {
+      "title": "Print shops want one PDF per page #shorts",
+      "description": "In Download, open Advanced settings and turn on \"Download pages as separate files\". You get a zip with one PDF per page, which is what most print shops actually want. On Free the toggle is visible but will not turn on. And if a printer says your file is blurry, Canva's own advice is: flatten it, and double the dimensions of the design.\n\n▶️ Full tutorial: https://youtu.be/xpHDCqp87LE\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-21T19:00:00.000Z",
+      "youtubeId": "fvlVZKj8H1g"
+    }
+  },
+  "publishAt": "2026-09-19T17:00:00.000Z"
+}

@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GJ,Arial Black,78,&H00FFFFFF,&H00FFFFFF,&H002A170F,&H80000000,-1,0,0,0,100,100,0,0,1,4,2,2,60,60,320,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.52,0:00:00.62,GJ,,0,0,0,,{\c&H0000DDFF}how{\c&H00FFFFFF} to size product
+Dialogue: 0,0:00:00.62,0:00:00.82,GJ,,0,0,0,,how {\c&H0000DDFF}to{\c&H00FFFFFF} size product
+Dialogue: 0,0:00:00.82,0:00:01.00,GJ,,0,0,0,,how to {\c&H0000DDFF}size{\c&H00FFFFFF} product
+Dialogue: 0,0:00:01.00,0:00:01.50,GJ,,0,0,0,,how to size {\c&H0000DDFF}product{\c&H00FFFFFF}
+Dialogue: 0,0:00:01.38,0:00:01.92,GJ,,0,0,0,,{\c&H0000DDFF}labels{\c&H00FFFFFF} in Canva.
+Dialogue: 0,0:00:01.92,0:00:02.18,GJ,,0,0,0,,labels {\c&H0000DDFF}in{\c&H00FFFFFF} Canva.
+Dialogue: 0,0:00:02.18,0:00:02.72,GJ,,0,0,0,,labels in {\c&H0000DDFF}Canva.{\c&H00FFFFFF}
+Dialogue: 0,0:00:03.09,0:00:03.19,GJ,,0,0,0,,{\c&H0000DDFF}So{\c&H00FFFFFF} first, click on
+Dialogue: 0,0:00:03.19,0:00:04.09,GJ,,0,0,0,,So {\c&H0000DDFF}first,{\c&H00FFFFFF} click on
+Dialogue: 0,0:00:04.09,0:00:04.33,GJ,,0,0,0,,So first, {\c&H0000DDFF}click{\c&H00FFFFFF} on
+Dialogue: 0,0:00:04.33,0:00:04.63,GJ,,0,0,0,,So first, click {\c&H0000DDFF}on{\c&H00FFFFFF}
+Dialogue: 0,0:00:04.51,0:00:04.63,GJ,,0,0,0,,{\c&H0000DDFF}the{\c&H00FFFFFF} file menu.
+Dialogue: 0,0:00:04.63,0:00:04.87,GJ,,0,0,0,,the {\c&H0000DDFF}file{\c&H00FFFFFF} menu.
+Dialogue: 0,0:00:04.87,0:00:05.29,GJ,,0,0,0,,the file {\c&H0000DDFF}menu.{\c&H00FFFFFF}
+Dialogue: 0,0:00:05.89,0:00:06.24,GJ,,0,0,0,,{\c&H0000DDFF}And,{\c&H00FFFFFF}
+Dialogue: 0,0:00:07.25,0:00:07.58,GJ,,0,0,0,,{\c&H0000DDFF}custom{\c&H00FFFFFF} size.
+Dialogue: 0,0:00:07.58,0:00:08.21,GJ,,0,0,0,,custom {\c&H0000DDFF}size.{\c&H00FFFFFF}
+Dialogue: 0,0:00:08.96,0:00:09.24,GJ,,0,0,0,,{\c&H0000DDFF}type{\c&H00FFFFFF} in 50mm.
+Dialogue: 0,0:00:09.24,0:00:09.42,GJ,,0,0,0,,type {\c&H0000DDFF}in{\c&H00FFFFFF} 50mm.
+Dialogue: 0,0:00:09.42,0:00:10.10,GJ,,0,0,0,,type in {\c&H0000DDFF}50mm.{\c&H00FFFFFF}

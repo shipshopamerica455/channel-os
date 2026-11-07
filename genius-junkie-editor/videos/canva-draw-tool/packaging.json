@@ -1,0 +1,61 @@
+{
+  "slug": "canva-draw-tool",
+  "slateNumber": 12,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "8:47",
+  "titles": {
+    "A": "How to Use the Canva Draw Tool in 2026 (And the Limit That Stops It Saving)",
+    "B": "Canva Draw Tool 2026 — Brushes, Shape Assist, Tracing and the Sticker Sheet",
+    "C": "Your Canva Drawings Are Not Being Saved — Here's Why"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "canva draw tool",
+    "how to draw in canva",
+    "canva drawing",
+    "canva draw tutorial",
+    "canva stickers",
+    "how to make stickers in canva",
+    "canva shape assist",
+    "canva tracing photo",
+    "canva tutorial 2026",
+    "canva free plan",
+    "digital stickers etsy",
+    "canva brushes",
+    "canva drawings not saving",
+    "canva stroke limit",
+    "sticker sheet canva",
+    "canva pen tool"
+  ],
+  "adBreaks": [
+    "3:07.6",
+    "6:23.7"
+  ],
+  "product": {
+    "name": "Sticker + Illustration Starter Kit",
+    "price": "£4.99",
+    "page": "https://geniusjunkie.net/sticker-illustration-kit/",
+    "files": "Editable 4-page Canva template (sticker sheet with cut lines, tracing page, brush-test page, palette page) + 5 reference PDFs (brush settings, shape assist, stroke budget planner, sticker checklist, read-me)"
+  },
+  "cutaways": [
+    "sketching-hands",
+    "lost-work",
+    "tracing-paper",
+    "colour-swatches",
+    "sticker-sheet"
+  ],
+  "shorts": {
+    "promo-stroke-limit": {
+      "title": "Your Canva drawings are not being saved #shorts",
+      "description": "Canva has a stroke limit of 1 MB per design - not per page, per design. Past it, Canva stops SAVING your drawings while still letting you draw them. The brush works, the strokes appear, nothing is written to the file. You find out when you refresh. The fix takes ten seconds: duplicate the design when a page is finished and carry on in the copy. Full Canva draw tool tutorial on the channel.",
+      "publishAt": "2026-08-31T12:00:00.000Z"
+    },
+    "promo-pause-one-second": {
+      "title": "Draw it badly, then wait one second #shorts",
+      "description": "You do not need a steady hand in Canva. Draw the shape, then hold still for one second before you lift - Canva snaps it into a clean one. It works on rectangles, arrows, triangles, circles, stars, lines, hearts and diamonds. Lift straight away and nothing happens, which is exactly why almost nobody finds it. Full Canva draw tool tutorial on the channel.",
+      "publishAt": "2026-09-01T12:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-08-30T17:00:00.000Z"
+}

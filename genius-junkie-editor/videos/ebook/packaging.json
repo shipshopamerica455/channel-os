@@ -1,0 +1,80 @@
+{
+  "slug": "ebook",
+  "slateNumber": "S5 #3",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:47",
+  "titles": {
+    "A": "How to Make and Sell an Ebook in Canva (The Export Everyone Gets Wrong)",
+    "B": "Canva Ebook — Page Size, Clickable Contents, and the Right Export",
+    "C": "Your Canva Ebook Is Too Big to Download"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make an ebook in canva",
+    "sell an ebook canva",
+    "canva ebook tutorial",
+    "canva pdf export",
+    "pdf standard vs pdf print",
+    "canva flatten pdf",
+    "clickable contents page pdf",
+    "canva ebook template",
+    "digital product canva",
+    "ebook file size",
+    "canva download settings",
+    "ebook cover canva",
+    "sell digital downloads",
+    "canva for authors",
+    "canva tutorial 2026"
+  ],
+  "adBreaks": [
+    "4:16.8",
+    "6:10.0"
+  ],
+  "product": {
+    "name": "Lead Magnet Kit",
+    "price": "£4.99",
+    "slug": "lead-magnet-kit",
+    "existing": true,
+    "note": "ALREADY BUILT (verified live, 200). HONEST FIT: the kit's ebook/PDF layout templates and delivery setup transfer, but it was built for a free opt-in rather than a paid ebook — the script says 'layout templates and the delivery setup', never 'everything you need to sell'. DO NOT run commerce."
+  },
+  "freeAsset": {
+    "name": "Canva Export Decision Card",
+    "slug": "get-export-decision-card",
+    "status": "to build"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-ebook-export": {
+      "composition": "PromoEbookExport",
+      "title": "Stop exporting ebooks as PDF Print #shorts",
+      "voSlice": "209.6-238.0",
+      "description": "Canva's own help pages: PDF Standard is \"for multi-page and text-heavy documents\" and you use it \"if you intend to share your file through email\". PDF Print is \"for printing\".\n\nAn ebook is read on a screen. 300 DPI buys nothing a screen can show — a screen cannot display more than about 96 DPI anyway.\n\nWhat it does cost you is a file of tens of megabytes, and a buyer on mobile data watching a download bar that is not moving.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free export decision card: https://geniusjunkie.net/get-export-decision-card/\n📘 Lead Magnet Kit: https://geniusjunkie.net/lead-magnet-kit/",
+      "publishAt": "2026-10-09T12:00:00.000Z"
+    },
+    "promo-ebook-flatten": {
+      "composition": "PromoEbookFlatten",
+      "title": "Flatten PDF kills your contents page #shorts",
+      "voSlice": "262.4-285.0",
+      "description": "On a pitch deck, Flatten PDF is exactly right — it stops people editing your file and locks your fonts.\n\nOn an ebook it costs you two things. Canva says flattening \"may increase file size, especially with high-resolution images\". And it turns your pages into images, so every link you built — the whole contents page, every back-to-contents — stops working.\n\nThe page looks identical. Nothing in it is clickable.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free export decision card: https://geniusjunkie.net/get-export-decision-card/\n📘 Lead Magnet Kit: https://geniusjunkie.net/lead-magnet-kit/",
+      "publishAt": "2026-10-09T19:00:00.000Z"
+    },
+    "promo-ebook-contents": {
+      "composition": "PromoEbookContents",
+      "title": "Make your PDF contents page actually jump #shorts",
+      "voSlice": "165.0-187.0",
+      "description": "Select the chapter line, hit the link button, and here is the part people miss: you are not linking to a website. In the link box, CHOOSE THE PAGE. Canva offers you the pages in this design.\n\nNow the reader can jump. That is the difference between a document somebody opens once and a reference somebody keeps.\n\nBuild the contents page LAST — links point at page numbers, so inserting a page shifts everything below it.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free export decision card: https://geniusjunkie.net/get-export-decision-card/\n📘 Lead Magnet Kit: https://geniusjunkie.net/lead-magnet-kit/",
+      "publishAt": "2026-10-10T12:00:00.000Z"
+    },
+    "promo-ebook-cover": {
+      "composition": "PromoEbookCover",
+      "title": "Your ebook cover is seen at thumbnail size #shorts",
+      "voSlice": "374.0-394.0",
+      "description": "On a storefront your cover is a thumbnail a couple of centimetres across. The elegant thin serif and the three-line subtitle that look beautiful at full size turn into grey mush.\n\nSo build it, then shrink it on screen to about the size of a postage stamp and look. If you cannot read the title, it is not finished.\n\nFewer words, heavier type, more contrast than feels comfortable. A cover is a sign, not a page.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free export decision card: https://geniusjunkie.net/get-export-decision-card/\n📘 Lead Magnet Kit: https://geniusjunkie.net/lead-magnet-kit/",
+      "publishAt": "2026-10-10T19:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-10-07T17:00:00.000Z",
+  "schedulingNote": "Not scheduled. Ask before setting a date.",
+  "note": "REBUILT 5 Oct after the parseScript \\Z bug truncated every section at its first letter z. Voice regenerated from scratch; caption coverage verified clean on all 14 sections."
+}

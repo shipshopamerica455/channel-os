@@ -1,0 +1,95 @@
+{
+  "slug": "tshirt-pod",
+  "slateNumber": "S6 #1",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:50",
+  "titles": {
+    "A": "How to Design T-Shirts in Canva for Print on Demand (2026)",
+    "B": "Canva T-Shirt Design for Print on Demand \u2014 the Licence Rule and the Print File Size",
+    "C": "Canva's Licence Bans Pro Elements on T-Shirts You Sell"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to design t shirts in canva",
+    "canva t shirt design",
+    "print on demand canva",
+    "canva print on demand",
+    "t shirt design for print on demand",
+    "canva tshirt tutorial",
+    "printful canva",
+    "canva transparent png",
+    "canva commercial use",
+    "canva licence t shirts",
+    "pod t shirt design",
+    "print file size t shirt",
+    "canva for etsy t shirts",
+    "design t shirts to sell",
+    "canva tutorial 2026"
+  ],
+  "adBreaks": [
+    "4:16.8",
+    "5:40.9"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-05",
+    "topTenMedian": 355038,
+    "freshInTopTen": "3/10",
+    "note": "The largest top-10 median this channel has measured, with stale incumbents. The 443-video catalogue check found no existing t-shirt POD video \u2014 the nearest is mockup-adjacent."
+  },
+  "product": {
+    "name": "Sticker & Illustration Kit",
+    "price": "\u00a34.99",
+    "slug": "sticker-illustration-kit",
+    "existing": true,
+    "verified": "200 on 2026-10-05",
+    "note": "ALREADY BUILT and live. HONEST FIT, and the script says so out loud: original artwork made for this channel, so it carries no Canva licence problem and can legally go on apparel \u2014 but it was NOT built as a POD pack. The close says 'ready-made illustration assets you can legally put on a shirt', never 'a t-shirt bundle'. DO NOT run commerce. This row is deliberately view-and-list first; the free rung does the funnel work."
+  },
+  "freeAsset": {
+    "name": "Canva POD Licence & Size Card",
+    "slug": "get-pod-licence-card",
+    "status": "404 at time of packaging \u2014 built before upload",
+    "note": "NEW one-pager, never carved out of a pack: both licence clauses quoted verbatim, how to filter elements to Free, the print-file dimensions with the check-your-provider caveat, the transparent-PNG Pro requirement, and the six pre-upload checks."
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-pod-crown": {
+      "composition": "PromoPodCrown",
+      "title": "Canva's licence bans Pro elements on t-shirts #shorts",
+      "voSlice": "232.0\u2013256.2",
+      "description": "Canva's Content Licence Agreement has a list of things you may not do with Pro content, and it names them: use or display the content on venues involving the sale of on demand products, including postcards, mugs, t-shirts, posters.\n\nT-shirts. Named. In the prohibited list.\n\nThe same agreement is just as clear the other way about free content \u2014 it allows prints and other reproductions for resale. So one element with a crown on it turns a legal product into a licence violation.\n\nAnd the crown is the only difference you can see. It sits in the corner of the thumbnail in the elements panel, and once the element is on your canvas you cannot see it at all. Filter every element search to Free, every single time.\n\n\ud83d\udcc4 Free licence & size card: https://geniusjunkie.net/get-pod-licence-card/\n\ud83c\udfa8 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-11T12:00:00.000Z"
+    },
+    "promo-pod-white-box": {
+      "composition": "PromoPodWhiteBox",
+      "title": "Why your t-shirt design prints as a white box #shorts",
+      "voSlice": "301.2\u2013314.8",
+      "description": "Your artwork has to sit on nothing. If the PNG exports with a white rectangle behind it, that rectangle prints \u2014 a white box on a black shirt \u2014 and the first you hear about it is a refund.\n\nDownload, PNG, then the setting that matters: transparent background. Canva's help pages are explicit that this one is paid \u2014 it is only available on Pro, Teams, Business, Education and Nonprofits.\n\nThen check it. Open the PNG on a dark background. Your computer's preview shows transparency as a chequerboard. If you see white where you expected nothing, the toggle did not take.\n\n\ud83d\udcc4 Free licence & size card: https://geniusjunkie.net/get-pod-licence-card/\n\ud83c\udfa8 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-11T19:00:00.000Z"
+    },
+    "promo-pod-irony": {
+      "composition": "PromoPodIrony",
+      "title": "You need Canva Pro to export it. Pro is what breaks it. #shorts",
+      "voSlice": "317.0\u2013335.2",
+      "description": "This is the genuinely silly bit, and nobody says both halves out loud.\n\nYou need Canva Pro to export a transparent PNG, because that export is a paid feature. And you must not use Pro elements in the design you are exporting, because Canva's licence names t-shirts in the list of prohibited uses of Pro content.\n\nBoth are true at the same time. A free plan can design a legal shirt and cannot export it properly. A Pro plan can export it properly and can very easily make it illegal.\n\nSo: pay for Pro for the export, and filter every element search to Free anyway. Knowing that is most of the job.\n\n\ud83d\udcc4 Free licence & size card: https://geniusjunkie.net/get-pod-licence-card/\n\ud83c\udfa8 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-12T12:00:00.000Z"
+    },
+    "promo-pod-niche": {
+      "composition": "PromoPodNiche",
+      "title": "The t-shirts that sell are not the pretty ones #shorts",
+      "voSlice": "419.6\u2013438.6",
+      "description": "The shirts that sell are almost never beautiful. They are specific \u2014 a phrase that one group of people recognises and everyone else does not.\n\nWhich means the research is not what looks good. It is which group am I making this for, and what do they say to each other.\n\nNiche down further than feels sensible. Not nurses \u2014 night shift nurses. Not dog owners \u2014 people whose greyhound has taken the sofa.\n\nPrint on demand is not really a design business. It is a research business with a design step on the end, and the people doing well at it are not better illustrators than you.\n\n\ud83d\udcc4 Free licence & size card: https://geniusjunkie.net/get-pod-licence-card/\n\ud83c\udfa8 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-12T19:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-10-09T17:00:00.000Z",
+  "schedulingNote": "SCHEDULED 5 Oct 2026 at the user's instruction. Long-form 9 Oct 17:00 UTC; Shorts 11 Oct 12:00/19:00 and 12 Oct 12:00/19:00 \u2014 the 9th and 10th were already full, so the allocator walked forward rather than double-booking. All uploaded as private drafts.",
+  "postUploadNote": "DONE \u2014 all four Shorts patched with https://youtu.be/s5C0HTnbeLA after upload, verified present. videos.update needs the FULL snippet or YouTube blanks the omitted fields.",
+  "longformId": "s5C0HTnbeLA",
+  "shortIds": {
+    "promo-pod-crown": "_VXHU8hIJvQ",
+    "promo-pod-white-box": "eEakl0fhvz4",
+    "promo-pod-irony": "PCrG6aDFVEQ",
+    "promo-pod-niche": "RrqnTw8Ptbg"
+  }
+}

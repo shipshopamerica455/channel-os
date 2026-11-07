@@ -1,0 +1,54 @@
+Lay out a folded card the way it looks right on screen and the back of it prints
+upside down. Every time. It is not a Canva bug — it is what folding is.
+
+Fold a sheet in half and the top half turns over, so the panel that becomes the
+back of your card sits at 180° to the front. Your design does not know that. It
+prints the back the right way up ON THE SHEET, which is the wrong way up ON THE
+CARD. Nothing warns you, because nothing in Canva knows you are going to fold it.
+
+This is the whole card — outside, inside, fold, cut, and what to write.
+
+📄 FREE — The Fold & Print Card: the panel layout drawn out, both page sizes and
+the settings, on one page:
+https://geniusjunkie.net/get-fold-and-print-card/
+
+🎉 Party & Event Printables Kit — invitations, tags, table numbers and thank you
+cards, all editable and all set up to fold:
+https://geniusjunkie.net/party-printables-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 Why the back prints upside down
+0:30 The free card, and three principles
+1:15 The size, and what it folds from
+2:02 The margin, and the fold line
+2:38 Designing the front panel
+3:16 THE TRAP — the back is upside down
+3:57 The inside, which needs no rotation
+4:49 Printing one
+5:25 The fold itself
+5:53 Four up on an A4 sheet
+6:52 What to write
+7:23 Making it a product
+7:54 Six checks
+8:26 Close
+
+THE LAYOUT
+· A6 card (105 x 148 mm) folds from an A5 sheet (210 x 148 mm, landscape)
+· US equivalent: a 5.5 x 4.25 in card from an 8.5 x 5.5 in sheet
+· Page 1 = the OUTSIDE. Page 2 = the INSIDE. Two pages, one sheet.
+· RIGHT panel = the front. LEFT panel = the back.
+· The LEFT panel's content must be rotated 180° on the sheet
+· The INSIDE is never rotated — it reads as one spread
+· 10 mm margin all round (home printers cannot reach the edge)
+· Fold guide at 105 mm, the exact centre
+· Export PDF Print (300 DPI), not PDF Standard (96 DPI)
+
+ON DOUBLE-SIDED PRINTING: your printer calls it "flip on long edge" or "flip on
+short edge", and the names are not consistent between makes. This video does not
+tell you which one yours needs, because it depends on your printer. Print one,
+fold it, look at it — if the inside is upside down, change the flip edge and
+print one more. Two sheets of paper, and faster than reasoning about it.
+
+#canva #thankyoucards #canvatutorial #printableathome #papercraft

@@ -1,0 +1,150 @@
+{
+  "slug": "ebook",
+  "topic": "How to Make and Sell an Ebook in Canva",
+  "shotDir": "long-29",
+  "project": "gj-ebook",
+  "composition": "EbookCanva",
+  "thumb": "GJThumb29",
+  "promos": [
+    "PromoEbookExport",
+    "PromoEbookFlatten",
+    "PromoEbookContents",
+    "PromoEbookCover"
+  ],
+  "promoNames": {
+    "PromoEbookExport": "promo-ebook-export",
+    "PromoEbookFlatten": "promo-ebook-flatten",
+    "PromoEbookContents": "promo-ebook-contents",
+    "PromoEbookCover": "promo-ebook-cover"
+  },
+  "adAfter": [
+    "06-the-trap",
+    "09-what-the"
+  ],
+  "images": [
+    {
+      "name": "reading-on-laptop",
+      "after": "S01",
+      "prompt": "Warm photographic shot over the shoulder of a person reading a document on a laptop at a kitchen table, morning light, a mug beside it, screen content indistinct and unreadable, shallow depth of field, calm and focused, face not visible"
+    },
+    {
+      "name": "download-stalled",
+      "after": "S06",
+      "prompt": "Photographic close-up of a hand holding a phone at a cafe table, the screen glare obscuring content, posture suggesting waiting, warm ambient light, shallow depth of field, mild impatience implied, face not visible, no readable text"
+    },
+    {
+      "name": "thumbnail-size",
+      "after": "S10",
+      "prompt": "Photographic shot of a tablet on a desk showing a grid of small colourful rectangles like a storefront of covers, deliberately out of focus so no text is readable, warm overhead light, shallow depth of field"
+    },
+    {
+      "name": "writing-the-book",
+      "after": "S11",
+      "prompt": "Warm photographic image of a person typing at a laptop in a home study, notebook and pen beside them, late afternoon light through a window, shallow depth of field, absorbed and unhurried, face not visible"
+    },
+    {
+      "name": "ebook-delivered",
+      "after": "S14",
+      "prompt": "Photographic close-up of a phone on a table showing a completed download notification shape, deliberately unreadable, warm evening light, a cup of tea beside it, shallow depth of field, quietly satisfying"
+    }
+  ],
+  "product": {
+    "name": "Lead Magnet Kit",
+    "price": "£4.99",
+    "existing": "lead-magnet-kit",
+    "note": "Points at the ALREADY-BUILT lead-magnet-kit (verified live, 200). HONEST FIT: the kit's ebook/PDF layout templates and delivery setup transfer, but it was built for a free opt-in rather than a paid ebook — the script says 'layout templates and the delivery setup', never 'everything you need to sell'. DO NOT run commerce."
+  },
+  "freeAsset": {
+    "name": "Canva Export Decision Card",
+    "slug": "get-export-decision-card",
+    "note": "NEW one-pager: which export for which job (screen / print / editable), what Flatten does and when it is wrong, what Compress PDF is, and the contents-link test."
+  },
+  "publishAt": "2026-10-07T17:00:00.000Z",
+  "timeline": {
+    "total": 527.15,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 34.375,
+      "03-the-page.mp3": 70.925,
+      "04-type-size.mp3": 110.15,
+      "05-the-contents.mp3": 157.425,
+      "06-the-trap.mp3": 208.025,
+      "07-and-do.mp3": 258.15,
+      "08-if-the.mp3": 298.85,
+      "09-what-the.mp3": 336.05,
+      "10-a-cover.mp3": 371.375,
+      "11-pricing-the.mp3": 408.2,
+      "12-updating-it.mp3": 441.625,
+      "13-the-checks.mp3": 479.025,
+      "14-close.mp3": 505.55
+    },
+    "adWindows": [
+      [
+        256.75,
+        258.15
+      ],
+      [
+        369.98,
+        371.38
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 34.375
+      },
+      {
+        "file": "03-the-page.mp3",
+        "at": 70.925
+      },
+      {
+        "file": "04-type-size.mp3",
+        "at": 110.15
+      },
+      {
+        "file": "05-the-contents.mp3",
+        "at": 157.425
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 208.025
+      },
+      {
+        "file": "07-and-do.mp3",
+        "at": 258.15
+      },
+      {
+        "file": "08-if-the.mp3",
+        "at": 298.85
+      },
+      {
+        "file": "09-what-the.mp3",
+        "at": 336.05
+      },
+      {
+        "file": "10-a-cover.mp3",
+        "at": 371.375
+      },
+      {
+        "file": "11-pricing-the.mp3",
+        "at": 408.2
+      },
+      {
+        "file": "12-updating-it.mp3",
+        "at": 441.625
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 479.025
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 505.55
+      }
+    ]
+  }
+}

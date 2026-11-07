@@ -1,0 +1,79 @@
+Your photo calendar is going to print with a white line down the edge of every
+single month, and you will not see it until all twelve are in the box.
+
+Canva adds the bleed OUTSIDE your page. Their words: "Canva adds 0.125 inches
+(3.175 mm) on all sides for products that trim or get cut" — and you cannot
+change it: "These are fixed and are measured based on our print
+specifications."
+
+So a photo you dropped in to fit the page is three millimetres short on all four
+sides. On screen it looks perfect. The trimmer cuts through where your photo
+already ended, and because no two copies are cut in exactly the same place, the
+sliver moves from edge to edge across the months.
+
+The fix is one drag, and it is Canva's own instruction: "resize or stretch your
+background to cover them."
+
+This builds a photo calendar properly — the pages, the photographs, the grid,
+the bleed, the pixel arithmetic and the export.
+
+📄 FREE — The Canva Photo Calendar Print Card: the bleed, the pixel table and
+the seven checks, on one page:
+https://geniusjunkie.net/get-photo-calendar-print-card/
+
+📅 2027 Calendar Kit — the twelve dated month pages that go under the
+photograph: https://geniusjunkie.net/2027-calendar-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 A white line down the edge of every month
+0:34 The free card, and three principles
+1:05 Thirteen pages, not twelve
+1:50 Which photos actually work
+2:38 The photo well and the grid
+3:18 THE TRAP — watch the trimmer land
+4:09 The pixels you have left
+4:51 The dates
+5:30 What it looks like at arm's length
+6:08 The export
+6:48 Getting it printed
+7:22 Next year
+7:54 The seven checks
+8:25 Close
+
+THE BLEED
+· Canva adds 0.125 in (3.175 mm) on all sides, outside your page. Fixed.
+· File → Settings → Show print bleed. A dashed border appears.
+· Canva's fix: "resize or stretch your background to cover them."
+· It costs three millimetres of picture and it saves the whole calendar.
+
+THE PIXELS
+page                300 dpi page     + Canva's bleed
+A4   210 × 297 mm   2480 × 3508      2565 × 3583
+A3   297 × 420 mm   3508 × 4961      3583 × 5036
+Letter 8.5 × 11 in  2550 × 3300      2625 × 3375
+
+Rule of thumb: about 2,500 px on the long edge for an A4 page — BEFORE you
+crop. A photo straight off a modern phone clears it. The ones that fail are the
+copies: messaged, downloaded or emailed photos are compressed on the way, often
+to around 1,600 px, and it is invisible on screen.
+
+Canva's upload ceiling at the other end: under 50 MB and no more than 250
+million total pixels (JPEG, PNG, HEIC/HEIF, WebP).
+
+THE EXPORT
+PDF Print — Canva: 300 dpi, "with bleed, crop marks, and color profile (RGB or
+CMYK) selection option". Tick crop marks AND bleed. Not PDF Standard (96 dpi,
+prints soft), and not JPG or PNG (thirteen files, no crop marks).
+
+(Canva Help Centre — Use margins, bleed, rulers, and crop marks; Check file
+upload formats and requirements; Choose the right download file type.)
+Verified 16 October 2026.
+
+NOT CLAIMED IN THIS VIDEO: what Canva Print or any print shop charges,
+turnaround times, paper weights or binding prices. None was checked against a
+price page while writing this, so none is stated — ask your printer the three
+questions in the video instead.
+
+#canva #photocalendar #canvatutorial #diygift #printdesign

@@ -1,0 +1,149 @@
+{
+  "slug": "digital-magazine",
+  "topic": "#9 Digital Magazine in Canva 2026 (flipbook export)",
+  "shotDir": "long-10",
+  "project": "gj-long-10",
+  "composition": "Long10Mag",
+  "thumb": "GJThumb10",
+  "promos": [
+    "PromoMagFlatten",
+    "PromoMagContents"
+  ],
+  "promoNames": {
+    "PromoMagFlatten": "promo-flatten-trap",
+    "PromoMagContents": "promo-contents-jump"
+  },
+  "adAfter": [
+    "05-the-cover",
+    "08-publishing-it"
+  ],
+  "images": [
+    {
+      "name": "tablet-reading",
+      "prompt": "a person absorbed reading a magazine on a tablet held in both hands, warm cafe window light behind, shallow depth of field, photographic, no readable text on the screen"
+    },
+    {
+      "name": "magazine-flip",
+      "prompt": "close-up of hands turning a page of a glossy printed magazine on a wooden table, the page caught mid-lift, warm daylight, shallow depth of field, photographic, no readable text"
+    },
+    {
+      "name": "layout-desk",
+      "prompt": "a designer's desk from above with printed photo proofs, a colour swatch strip and a large monitor, warm morning light, plants at the edge of frame, photographic, no readable screen text"
+    },
+    {
+      "name": "back-issues",
+      "prompt": "a shelf of matching magazine spines lined up in a bright studio, consistent colour palette across the run, soft daylight, photographic, no readable text"
+    },
+    {
+      "name": "sofa-phone",
+      "prompt": "a person relaxed on a sofa in warm evening lamp light reading something on a phone, cosy living room out of focus behind, photographic, no readable screen text"
+    },
+    {
+      "name": "thumb-hero",
+      "prompt": "a tablet lying flat on a warm neutral desk showing an open magazine layout, a small stack of printed magazines beside it, bright soft daylight from the left, generous empty space on the left of the frame, clean editorial product photography, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Digital Magazine Kit",
+    "description": "Editable multi-page Canva magazine template with the contents-page links already wired, plus grid/type spec, export checklist, link map and flatplan (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "magazine",
+    "slug": "digital-magazine-kit",
+    "stripeProduct": "prod_V2xHuaocG3lxra",
+    "stripePrice": "price_1U2rN4Lqu5srzOz9u5QJxTeD",
+    "stripe": "https://buy.stripe.com/bJe14o4R5bhF6gceeraR20a"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-08-20T17:00:00.000Z",
+  "timeline": {
+    "total": 522,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-what-a.mp3": 37.775,
+      "03-canvas-setup.mp3": 78.65,
+      "04-the-grid.mp3": 120.15,
+      "05-the-cover.mp3": 159.875,
+      "06-the-checkbox.mp3": 207.925,
+      "07-the-links.mp3": 257.525,
+      "08-publishing-it.mp3": 301.05,
+      "09-if-you.mp3": 342.1,
+      "10-one-design.mp3": 380.525,
+      "11-the-mistakes.mp3": 419.75,
+      "12-the-checklist.mp3": 456.825,
+      "13-the-shortcut.mp3": 481.6,
+      "14-outro.mp3": 497.425
+    },
+    "adWindows": [
+      [
+        206.53,
+        207.93
+      ],
+      [
+        340.7,
+        342.1
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-what-a.mp3",
+        "at": 37.775
+      },
+      {
+        "file": "03-canvas-setup.mp3",
+        "at": 78.65
+      },
+      {
+        "file": "04-the-grid.mp3",
+        "at": 120.15
+      },
+      {
+        "file": "05-the-cover.mp3",
+        "at": 159.875
+      },
+      {
+        "file": "06-the-checkbox.mp3",
+        "at": 207.925
+      },
+      {
+        "file": "07-the-links.mp3",
+        "at": 257.525
+      },
+      {
+        "file": "08-publishing-it.mp3",
+        "at": 301.05
+      },
+      {
+        "file": "09-if-you.mp3",
+        "at": 342.1
+      },
+      {
+        "file": "10-one-design.mp3",
+        "at": 380.525
+      },
+      {
+        "file": "11-the-mistakes.mp3",
+        "at": 419.75
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 456.825
+      },
+      {
+        "file": "13-the-shortcut.mp3",
+        "at": 481.6
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 497.425
+      }
+    ]
+  }
+}

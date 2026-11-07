@@ -1,0 +1,154 @@
+{
+  "slug": "calendar-2027",
+  "topic": "Slate 2 #5 \u2014 2027 Calendar (seasonal, must ship before October)",
+  "shotDir": "long-16",
+  "project": "gj-long-16",
+  "composition": "Long16Cal",
+  "thumb": "GJThumb16",
+  "promos": [
+    "PromoCalShift",
+    "PromoCalFebruary",
+    "PromoCalHolidays",
+    "PromoCalBleed"
+  ],
+  "promoNames": {
+    "PromoCalShift": "promo-last-years-calendar",
+    "PromoCalFebruary": "promo-february-check",
+    "PromoCalHolidays": "promo-holidays-wrong-half",
+    "PromoCalBleed": "promo-two-files-two-buyers"
+  },
+  "adAfter": [
+    "05-building-the",
+    "09-dates-you"
+  ],
+  "images": [
+    {
+      "name": "wall-calendar",
+      "prompt": "a simple paper wall calendar hanging on a plain painted wall in a bright room, soft daylight from the side, a small plant just out of focus below, clean editorial interior photography, no readable text"
+    },
+    {
+      "name": "writing-on-calendar",
+      "prompt": "a hand writing on a paper wall calendar with a pen, close up, warm daylight, shallow depth of field, photographic, no readable text"
+    },
+    {
+      "name": "printer-output",
+      "prompt": "sheets of paper coming out of a home printer on a desk in a bright room, warm side light, shallow depth of field, clean editorial photography, no readable text"
+    },
+    {
+      "name": "desk-calendar",
+      "prompt": "a small easel desk calendar standing on a tidy wooden desk beside a mug and a pen, morning light through a window, shallow depth of field, photographic, no readable text"
+    },
+    {
+      "name": "wrapping-gift",
+      "prompt": "hands wrapping a flat rectangular gift in brown paper on a table with string and scissors beside it, warm lamp light, cosy, shallow depth of field, photographic, no readable text"
+    },
+    {
+      "name": "thumb-hero",
+      "prompt": "a blank paper wall calendar lying flat on a warm neutral desk beside a pen, bright soft daylight from the left, generous empty space on the left of the frame, clean editorial product photography, no readable text"
+    }
+  ],
+  "product": {
+    "name": "2027 Calendar Kit",
+    "description": "Editable Canva calendar with all twelve 2027 month grids already correct, in A4 and US Letter wall plus A5 desk, with the grid reference sheet, the print checklist, the date-shift explainer and the Etsy listing guide (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "calendar2027",
+    "slug": "2027-calendar-kit",
+    "stripeProduct": "prod_V68Gza7Gbep9tH",
+    "stripePrice": "price_1U5vzhLqu5srzOz91emEw57D",
+    "stripe": "https://buy.stripe.com/14AeVe2IX2L95c84DRaR20g",
+    "canvaDesign": "DAHSr4Q-_t0"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-09-17T17:00:00.000Z",
+  "timeline": {
+    "total": 571.83,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-why-every.mp3": 33.8,
+      "03-the-twelve.mp3": 72.175,
+      "04-setting-it.mp3": 122.025,
+      "05-building-the.mp3": 165.675,
+      "06-why-last.mp3": 220.225,
+      "07-the-other.mp3": 276.475,
+      "08-making-it.mp3": 336.6,
+      "09-dates-you.mp3": 376.225,
+      "10-printing-it.mp3": 420.575,
+      "11-selling-it.mp3": 462.1,
+      "12-the-checklist.mp3": 501.6,
+      "13-the-pack.mp3": 532.1,
+      "14-outro.mp3": 548.575
+    },
+    "adWindows": [
+      [
+        218.83,
+        220.23
+      ],
+      [
+        419.18,
+        420.58
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-why-every.mp3",
+        "at": 33.8
+      },
+      {
+        "file": "03-the-twelve.mp3",
+        "at": 72.175
+      },
+      {
+        "file": "04-setting-it.mp3",
+        "at": 122.025
+      },
+      {
+        "file": "05-building-the.mp3",
+        "at": 165.675
+      },
+      {
+        "file": "06-why-last.mp3",
+        "at": 220.225
+      },
+      {
+        "file": "07-the-other.mp3",
+        "at": 276.475
+      },
+      {
+        "file": "08-making-it.mp3",
+        "at": 336.6
+      },
+      {
+        "file": "09-dates-you.mp3",
+        "at": 376.225
+      },
+      {
+        "file": "10-printing-it.mp3",
+        "at": 420.575
+      },
+      {
+        "file": "11-selling-it.mp3",
+        "at": 462.1
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 501.6
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 532.1
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 548.575
+      }
+    ]
+  }
+}

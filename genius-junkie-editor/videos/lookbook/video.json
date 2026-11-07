@@ -1,0 +1,151 @@
+{
+  "slug": "lookbook",
+  "topic": "#9 Lookbook",
+  "shotDir": "long-20",
+  "project": "gj-long-20",
+  "composition": "Long20Look",
+  "thumb": "GJThumb20",
+  "promos": [
+    "PromoLookColour",
+    "PromoLookBleed",
+    "PromoLookDpi",
+    "PromoLookProof"
+  ],
+  "adAfter": [
+    "05-building-a",
+    "09-exporting-both"
+  ],
+  "images": [
+    {
+      "name": "printed-lookbook",
+      "prompt": "Photograph of an open printed fashion lookbook lying on a pale wooden table in bright daylight, glossy pages showing blocks of colour and photography but no legible text, a cup of coffee to one side, shallow depth of field, documentary style, no people, no faces"
+    },
+    {
+      "name": "print-shop",
+      "prompt": "Photograph inside a small commercial print shop, stacks of freshly trimmed catalogues on a work bench beside a guillotine cutter, warm industrial daylight, no people in frame, shallow depth of field, documentary photography, no legible text"
+    },
+    {
+      "name": "colour-swatches-print",
+      "prompt": "Overhead photograph of a printed CMYK colour swatch fan opened across a white desk beside a laptop, crisp even daylight, rich saturated inks visible, shallow depth of field, no legible text, clean and tidy"
+    },
+    {
+      "name": "product-shoot",
+      "prompt": "Photograph of a simple product photography setup on a table, one folded garment on a plain backdrop with a softbox light to the side, warm daylight, no people, shallow depth of field, documentary style, no legible text"
+    },
+    {
+      "name": "buyer-email",
+      "prompt": "Photograph over the shoulder of someone at a laptop in a bright studio space with rails of clothing blurred behind them, face not visible, calm focused mood, warm natural light, shallow depth of field, no legible text on the screen"
+    }
+  ],
+  "product": {
+    "name": "Lookbook Kit",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "lookbook",
+    "slug": "lookbook-kit",
+    "description": "An editable Canva lookbook at A4 landscape \u2014 cover, six spreads on one shared grid and a contact page, with the margins set and the backgrounds already bleeding past the trim \u2014 plus the plain-English RGB vs CMYK colour guide, the bleed and trim map, the photo prep sheet, a fill-in-the-blanks print-shop brief, the export checklist for the print and screen versions, and six spread layout recipes (Genius Junkie)",
+    "stripeProduct": "prod_VAAbyxJHHJ8SGg",
+    "stripePrice": "price_1U9qGBLqu5srzOz9LTNj9zhM",
+    "stripe": "https://buy.stripe.com/6oU4gA83h2L96gc3zNaR20k",
+    "canvaDesign": "DAHTsfpkvPw",
+    "canvaEditUrl": "https://www.canva.com/design/DAHTsfpkvPw/edit"
+  },
+  "publishAt": "2026-09-25T17:00:00.000Z",
+  "promoNames": {
+    "PromoLookColour": "promo-look-colour",
+    "PromoLookBleed": "promo-look-bleed",
+    "PromoLookDpi": "promo-look-dpi",
+    "PromoLookProof": "promo-look-proof"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "timeline": {
+    "total": 508.98,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-two-lookbooks.mp3": 36.15,
+      "03-size-and.mp3": 72.05,
+      "04-setting-up.mp3": 113.95,
+      "05-building-a.mp3": 150.1,
+      "06-the-colour.mp3": 198.825,
+      "07-what-to.mp3": 251.35,
+      "08-photos-that.mp3": 289.475,
+      "09-exporting-both.mp3": 324.725,
+      "10-the-digital.mp3": 363.7,
+      "11-what-to.mp3": 397.375,
+      "12-the-checklist.mp3": 431.25,
+      "13-the-pack.mp3": 461.225,
+      "14-outro.mp3": 485
+    },
+    "adWindows": [
+      [
+        197.43,
+        198.83
+      ],
+      [
+        362.3,
+        363.7
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-two-lookbooks.mp3",
+        "at": 36.15
+      },
+      {
+        "file": "03-size-and.mp3",
+        "at": 72.05
+      },
+      {
+        "file": "04-setting-up.mp3",
+        "at": 113.95
+      },
+      {
+        "file": "05-building-a.mp3",
+        "at": 150.1
+      },
+      {
+        "file": "06-the-colour.mp3",
+        "at": 198.825
+      },
+      {
+        "file": "07-what-to.mp3",
+        "at": 251.35
+      },
+      {
+        "file": "08-photos-that.mp3",
+        "at": 289.475
+      },
+      {
+        "file": "09-exporting-both.mp3",
+        "at": 324.725
+      },
+      {
+        "file": "10-the-digital.mp3",
+        "at": 363.7
+      },
+      {
+        "file": "11-what-to.mp3",
+        "at": 397.375
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 431.25
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 461.225
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 485
+      }
+    ]
+  }
+}

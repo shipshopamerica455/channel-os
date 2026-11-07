@@ -1,0 +1,151 @@
+{
+  "slug": "digital-scrapbooking",
+  "topic": "Slate 2 #6 \u2014 Digital Scrapbooking in Canva",
+  "shotDir": "long-17",
+  "project": "gj-long-17",
+  "composition": "Long17Scrap",
+  "thumb": "GJThumb17",
+  "promos": [
+    "PromoScrapCrop",
+    "PromoScrapLayouts",
+    "PromoScrapCompress",
+    "PromoScrapSeparate"
+  ],
+  "adAfter": [
+    "05-building-a",
+    "09-exporting-it"
+  ],
+  "images": [
+    {
+      "name": "scrapbook-desk",
+      "prompt": "Overhead photograph of a bright wooden table covered in loose printed family photographs being sorted into piles, a mug of tea at the edge, warm morning daylight from a window, soft natural shadows, shallow depth of field, candid documentary style, no text, no people's faces visible, warm and inviting"
+    },
+    {
+      "name": "photo-box",
+      "prompt": "Close photograph of an old cardboard shoebox open on a table, filled with decades of loose printed snapshots, a pair of hands lifting one out, warm lamp light, dust motes in the air, nostalgic but bright and clean, shallow depth of field, documentary photography, no text"
+    },
+    {
+      "name": "turning-pages",
+      "prompt": "Photograph of two people side by side on a sofa turning the thick pages of a large printed photo album on their laps, seen over the shoulder so faces are not visible, warm living room light, cosy and affectionate, shallow depth of field, candid documentary style, no text"
+    },
+    {
+      "name": "printed-album",
+      "prompt": "Photograph of a finished square hardback photo book lying open on a clean pale table beside a stack of two more closed albums, bright even daylight, crisp product photography with soft shadows, the open pages showing a simple photo layout, no legible text, minimal and premium"
+    },
+    {
+      "name": "print-shop",
+      "prompt": "Photograph of a small print shop counter with a large format printer behind it and a stack of freshly printed square photo pages on the counter, bright clean workshop light, friendly independent business feel, documentary style, no legible text, no faces"
+    }
+  ],
+  "product": {
+    "name": "Scrapbook + Photo Book Kit",
+    "description": "Editable Canva scrapbook \u2014 twelve by twelve for print plus a US Letter home-printable version, a cover and six aligned layout pages, with the layout recipes sheet, the photo prep guide, the export checklist, a print-shop brief and a journaling prompt bank (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "scrapbook",
+    "slug": "scrapbook-photo-book-kit",
+    "stripeProduct": "prod_V6JPgoYteNyENJ",
+    "stripePrice": "price_1U66meLqu5srzOz95BRNy03C",
+    "stripe": "https://buy.stripe.com/9B6dRa4R52L99so3zNaR20h",
+    "canvaDesign": "DAHSuvwrPLg",
+    "canvaDesignLetter": "DAHSuqer6ZI"
+  },
+  "publishAt": "2026-09-19T17:00:00.000Z",
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "timeline": {
+    "total": 570.2,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-two.mp3": 40.575,
+      "03-the-page.mp3": 83.25,
+      "04-getting-the.mp3": 129.775,
+      "05-building-a.mp3": 172.85,
+      "06-the-crop.mp3": 227.65,
+      "07-the-checkbox.mp3": 274.525,
+      "08-how-big.mp3": 318.4,
+      "09-exporting-it.mp3": 352.75,
+      "10-make-the.mp3": 402.275,
+      "11-if-you.mp3": 444.35,
+      "12-the-checklist.mp3": 482,
+      "13-the-pack.mp3": 516.975,
+      "14-outro.mp3": 541.326
+    },
+    "adWindows": [
+      [
+        226.25,
+        227.65
+      ],
+      [
+        400.88,
+        402.28
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-two.mp3",
+        "at": 40.575
+      },
+      {
+        "file": "03-the-page.mp3",
+        "at": 83.25
+      },
+      {
+        "file": "04-getting-the.mp3",
+        "at": 129.775
+      },
+      {
+        "file": "05-building-a.mp3",
+        "at": 172.85
+      },
+      {
+        "file": "06-the-crop.mp3",
+        "at": 227.65
+      },
+      {
+        "file": "07-the-checkbox.mp3",
+        "at": 274.525
+      },
+      {
+        "file": "08-how-big.mp3",
+        "at": 318.4
+      },
+      {
+        "file": "09-exporting-it.mp3",
+        "at": 352.75
+      },
+      {
+        "file": "10-make-the.mp3",
+        "at": 402.275
+      },
+      {
+        "file": "11-if-you.mp3",
+        "at": 444.35
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 482
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 516.975
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 541.326
+      }
+    ]
+  },
+  "promoNames": {
+    "PromoScrapCrop": "promo-scrap-crop",
+    "PromoScrapLayouts": "promo-scrap-layouts",
+    "PromoScrapCompress": "promo-whatsapp-wrecks-photos",
+    "PromoScrapSeparate": "promo-one-pdf-per-page"
+  }
+}

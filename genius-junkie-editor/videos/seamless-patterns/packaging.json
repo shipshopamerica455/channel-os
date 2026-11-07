@@ -1,0 +1,92 @@
+{
+  "slug": "seamless-patterns",
+  "slateNumber": "S6 #4",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:59",
+  "titles": {
+    "A": "How to Make Seamless Patterns in Canva (2026)",
+    "B": "Canva Seamless Patterns — the Offset Arithmetic, the Seam Test and the Repeat Size",
+    "C": "Your Canva Pattern Has a Seam — and Canva Will Not Show You"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make seamless patterns in canva",
+    "canva seamless pattern",
+    "seamless repeat canva",
+    "canva pattern tutorial",
+    "surface pattern design canva",
+    "seamless tile canva",
+    "canva offset pattern",
+    "spoonflower canva",
+    "pattern repeat size",
+    "digital paper canva",
+    "canva position advanced",
+    "seamless pattern for fabric",
+    "sell patterns online",
+    "canva tutorial 2026",
+    "repeating pattern canva"
+  ],
+  "adBreaks": [
+    "3:23.0",
+    "6:18.9"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-05",
+    "topTenMedian": 21210,
+    "freshInTopTen": "4/10",
+    "note": "The THINNEST row on slate 6, chosen anyway because it is the only one whose PRODUCT fixes a real gap — tshirt-pod, sublimation and cricut-svg all had to point at sticker-illustration-kit and by the Cricut video the fit had worn through."
+  },
+  "product": {
+    "name": "Seamless Pattern Kit",
+    "price": "£4.99",
+    "slug": "seamless-pattern-kit",
+    "new": true,
+    "stripeVerified": "200 on 2026-10-06",
+    "note": "NEW PACK, built this run — the first for the print-on-demand audience the last three videos created. Canva design DAHXOfY6o8A (3 pages: instructions 1080, tile 1200x1200, proof sheet 2400x2400), 5 reference PDFs live at /content/files/<kit-base>/patternkit/, Stripe product+price+payment link created, landing page live. THE BUYER-FACING 'use as template' LINK IS STILL MISSING — it is UI-only and needs Annieth's own Chrome; the thank-you page holds until then."
+  },
+  "freeAsset": {
+    "name": "Canva Seamless Repeat Card",
+    "slug": "get-seamless-repeat-card",
+    "status": "built before upload"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-pat-seam": {
+      "composition": "PromoPatSeam",
+      "title": "Canva will not show you the seam #shorts",
+      "voSlice": "9.1-29.6",
+      "description": "The canvas edge in Canva is a crop, not a wrap. Anything you push past the edge is cut off there, and nothing appears on the other side to continue it.\n\nWhich means you can build a pattern that looks completely finished on your screen, export it, tile it, and watch a hard grid of seams appear — straight lines through your design every tile width, where the motifs stop dead at the boundary.\n\nAnd Canva will not show you that seam. There is no offset preview, no tile preview, no wrap mode. The design looks perfect right up until it is on fabric.\n\n📄 Free repeat card: https://geniusjunkie.net/get-seamless-repeat-card/\n🎨 Seamless Pattern Kit: https://geniusjunkie.net/seamless-pattern-kit/",
+      "publishAt": "2026-10-17T12:00:00.000Z",
+      "id": "gpdONNna3Ps"
+    },
+    "promo-pat-offset": {
+      "composition": "PromoPatOffset",
+      "title": "Typed numbers. Never dragged. #shorts",
+      "voSlice": "218.0-240.0",
+      "description": "Select the motif, Position, Advanced, and read the X value. Say the tile is 1200 pixels wide and the motif sits at X of 1140. Duplicate it and set the duplicate's X to 1140 minus 1200 — which is minus 60. Negative. It sits mostly off the canvas to the left with exactly the missing piece showing.\n\nLeave Y alone. Both copies must share it exactly. Same rule vertically: Y minus the canvas height for anything crossing the top or bottom.\n\nAnd a motif in a corner needs four copies — the original, one at X minus width, one at Y minus height, and one with both. Miss the fourth and you get a seam at every corner point, which is the most noticeable kind.\n\n📄 Free repeat card: https://geniusjunkie.net/get-seamless-repeat-card/\n🎨 Seamless Pattern Kit: https://geniusjunkie.net/seamless-pattern-kit/",
+      "publishAt": "2026-10-17T19:00:00.000Z",
+      "id": "yecq3JUkZB4"
+    },
+    "promo-pat-test": {
+      "composition": "PromoPatTest",
+      "title": "The only honest seam test #shorts",
+      "voSlice": "264.7-293.0",
+      "description": "You cannot check a seam inside Canva. There is no tile preview, and your eye is not going to catch a two-pixel misalignment on a square you have been staring at for an hour.\n\nSo export and tile it. Download as PNG, make a second Canva design at exactly twice the tile size, and drop the PNG in four times — at 0 and 0, 0 and 1200, 1200 and 0, and 1200 and 1200. Typed, again.\n\nThen look at the two lines where they meet. Any motif that crosses a join should continue perfectly. Any stripe of background colour, any sliced leaf, any shift in tone — that is a seam, and it will print. Fix it in the original, export again, re-test.\n\n📄 Free repeat card: https://geniusjunkie.net/get-seamless-repeat-card/\n🎨 Seamless Pattern Kit: https://geniusjunkie.net/seamless-pattern-kit/",
+      "publishAt": "2026-10-18T12:00:00.000Z",
+      "id": "hh4NG26wSOE"
+    },
+    "promo-pat-colour": {
+      "composition": "PromoPatColour",
+      "title": "One correct tile is five products #shorts",
+      "voSlice": "385.5-412.0",
+      "description": "Once a tile is genuinely seamless, the seams do not care what colour anything is. So duplicate the page, select the background, change it. Select the motifs, recolour them. The geometry is untouched, which means the tile is still seamless — you have not moved anything.\n\nFive colourways from one correct tile: a neutral, a dark, a bright, a pastel, and one seasonal.\n\nThis is also why the arithmetic is worth doing properly the first time. Get one tile right and every variation inherits it. Get it slightly wrong and you have just made five broken products instead of one.\n\n📄 Free repeat card: https://geniusjunkie.net/get-seamless-repeat-card/\n🎨 Seamless Pattern Kit: https://geniusjunkie.net/seamless-pattern-kit/",
+      "publishAt": "2026-10-18T19:00:00.000Z",
+      "id": "a-KFVfrdqVI"
+    }
+  },
+  "publishAt": "2026-10-15T17:00:00.000Z",
+  "schedulingNote": "SCHEDULED 6 Oct 2026 at Annieth's instruction. Long-form public 15 Oct 17:00 UTC. Upload runs in TWO parts on separate mornings (12 + 13 Oct): a release is ~8,050 units of a 10,000/day allowance SHARED with every other channel on this Mac, so long-form and Shorts cannot go the same day.",
+  "postUploadNote": "Shorts descriptions carry no youtu.be link — patch all four after publish with the FULL snippet.",
+  "longformId": "-ZGZiT0tIZ0"
+}

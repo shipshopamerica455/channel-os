@@ -1,0 +1,74 @@
+Every link in your Canva newsletter is probably dead, and nothing told you.
+
+Canva's own help page says it plainly: "Hyperlinks will only work if you
+download your design as a PDF (except flattened PDFs)", and "Image formats like
+JPG and PNG do not support hyperlinks regardless of the image source". So if you
+exported a JPG and pasted it into an email — which is what most people do —
+every link in it is a picture of a link.
+
+And here is the part that catches careful people. If your fonts came out wrong
+on somebody else's machine and you ticked FLATTEN to fix them, which is Canva's
+own suggestion, you just killed every link in the file a second time. Flattening
+merges every layer into one image, and your links were layers.
+
+This builds a newsletter properly: the page, the grid, the masthead, the blocks,
+the export decision, and the five-minute test that catches all three things that
+actually go wrong.
+
+📄 FREE — The Canva Newsletter Export Card: the link-survival table, the flatten
+warning and the 96 vs 300 DPI split, on one page:
+https://geniusjunkie.net/get-newsletter-export-card/
+
+📰 Digital Magazine Kit — the multi-page layouts and masthead structures a
+newsletter is assembled from (built for magazines, and the same components):
+https://geniusjunkie.net/digital-magazine-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 Your links are dead, and nothing told you
+0:37 The free card, and three principles
+1:08 The page, and how many of them
+1:50 The grid and the masthead
+2:31 Blocks, not a wall
+3:13 THE TRAP — watch the link die twice
+4:05 Ninety-six or three hundred
+4:52 Writing it so it gets read
+5:28 What it looks like on a phone
+6:06 The export, as a decision
+6:45 The five-minute send test
+7:20 Make it a template
+7:55 The seven checks
+8:23 Close
+
+DO YOUR LINKS SURVIVE?
+· In the Canva editor — YES (which is why nobody catches this)
+· PDF Standard, 96 dpi — YES
+· PDF Print, 300 dpi — YES
+· PDF with FLATTEN ticked — NO
+· JPG — NO
+· PNG — NO
+· Posted to social media — NO
+Links can be put on text, elements, images and videos, and one can point at
+another page inside the same design — but none of that survives an image export.
+
+CANVA'S PUBLISHED WORDING
+· "Hyperlinks will only work if you download your design as a PDF (except
+  flattened PDFs)."
+· "Image formats like JPG and PNG do not support hyperlinks regardless of the
+  image source."
+· Flattening "converts your design with multiple layers into one" and "ensures
+  fonts display accurately and secures your design".
+· PDF Standard: "for illustrations, text, and graphics with a resolution of
+  96 dpi". PDF Print: "for printing with a resolution of 300 dpi, with bleed,
+  crop marks, and color profile (RGB or CMYK) selection option".
+(Canva Help Centre — Add hyperlinks; Download designs as flattened PDF; Choose
+the right download file type.) Verified 10 October 2026.
+
+NOT CLAIMED IN THIS VIDEO: how any email client renders or clips a message, at
+what size Gmail truncates, what any email platform charges, open rates, click
+rates or deliverability. Gmail's own sending-guidelines page was checked while
+writing this and does not carry a clipping figure, so no number is stated — send
+yourself a test instead.
+
+#canva #newsletter #canvatutorial #schoolnewsletter #graphicdesign

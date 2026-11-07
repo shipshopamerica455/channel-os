@@ -1,0 +1,151 @@
+{
+  "slug": "canva-draw-tool",
+  "topic": "Slate 2 #1 \u2014 Canva Draw Tool 2026 (biggest uncovered cluster)",
+  "shotDir": "long-13",
+  "project": "gj-long-13",
+  "composition": "Long13Draw",
+  "thumb": "GJThumb13",
+  "promos": [
+    "PromoDrawLimit",
+    "PromoDrawShape"
+  ],
+  "promoNames": {
+    "PromoDrawLimit": "promo-stroke-limit",
+    "PromoDrawShape": "promo-pause-one-second"
+  },
+  "adAfter": [
+    "05-drawing-the",
+    "09-the-eraser"
+  ],
+  "images": [
+    {
+      "name": "sketching-hands",
+      "prompt": "close-up of hands sketching in an open notebook on a bright wooden desk, pens and a coffee cup just out of focus beside it, warm daylight from the left, shallow depth of field, photographic, no readable text"
+    },
+    {
+      "name": "lost-work",
+      "prompt": "a person sitting back from a laptop at a home desk with both hands on their head in frustration, soft window light, warm neutral room slightly out of focus behind, photographic, shallow depth of field, no readable screen text"
+    },
+    {
+      "name": "tracing-paper",
+      "prompt": "a sheet of translucent tracing paper laid over a photograph on a bright desk, a fine pen resting on top, soft overhead daylight, clean editorial photography, shallow depth of field, no readable text"
+    },
+    {
+      "name": "colour-swatches",
+      "prompt": "a fan of paper colour swatch cards spread on a pale wooden desk in warm daylight, four colours dominant, clean editorial product photography, shallow depth of field, no readable text"
+    },
+    {
+      "name": "sticker-sheet",
+      "prompt": "a printed sheet of paper stickers on a bright desk with small scissors and a craft knife beside it, some stickers partly cut out, warm daylight from above, clean editorial photography, no readable text"
+    },
+    {
+      "name": "thumb-hero",
+      "prompt": "a graphics tablet and a stylus resting on a warm neutral desk beside a small stack of colourful paper cut-outs, bright soft daylight from the left, generous empty space on the left of the frame, clean editorial product photography, no readable screen text"
+    }
+  ],
+  "product": {
+    "name": "Sticker + Illustration Starter Kit",
+    "description": "Editable Canva sticker sheet with cut lines and safe margins, a tracing page, a brush-test page and a palette page, plus the brush settings cheat sheet, the shape-assist list, the stroke-budget planner and the sticker checklist (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "stickerkit",
+    "slug": "sticker-illustration-kit",
+    "stripeProduct": "prod_V5GpuVIx5850Mb",
+    "stripePrice": "price_1U56I2Lqu5srzOz9jqS8BzvG",
+    "stripe": "https://buy.stripe.com/6oU9AU83hadBaws9YbaR20d",
+    "canvaDesign": "DAHSfa9aqUY",
+    "canvaEditUrl": "https://www.canva.com/design/DAHSfa9aqUY/edit"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-08-30T17:00:00.000Z",
+  "timeline": {
+    "total": 527.45,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-why-you.mp3": 32.85,
+      "03-the-four.mp3": 71.475,
+      "04-settings-and.mp3": 109.65,
+      "05-drawing-the.mp3": 143.675,
+      "06-the-limit.mp3": 189,
+      "07-draw-badly.mp3": 241.7,
+      "08-tracing-a.mp3": 296.1,
+      "09-the-eraser.mp3": 347.7,
+      "10-the-colour.mp3": 385.125,
+      "11-exporting-and.mp3": 430.325,
+      "12-the-checklist.mp3": 463.9,
+      "13-the-pack.mp3": 488.425,
+      "14-outro.mp3": 506
+    },
+    "adWindows": [
+      [
+        187.6,
+        189
+      ],
+      [
+        383.73,
+        385.13
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-why-you.mp3",
+        "at": 32.85
+      },
+      {
+        "file": "03-the-four.mp3",
+        "at": 71.475
+      },
+      {
+        "file": "04-settings-and.mp3",
+        "at": 109.65
+      },
+      {
+        "file": "05-drawing-the.mp3",
+        "at": 143.675
+      },
+      {
+        "file": "06-the-limit.mp3",
+        "at": 189
+      },
+      {
+        "file": "07-draw-badly.mp3",
+        "at": 241.7
+      },
+      {
+        "file": "08-tracing-a.mp3",
+        "at": 296.1
+      },
+      {
+        "file": "09-the-eraser.mp3",
+        "at": 347.7
+      },
+      {
+        "file": "10-the-colour.mp3",
+        "at": 385.125
+      },
+      {
+        "file": "11-exporting-and.mp3",
+        "at": 430.325
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 463.9
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 488.425
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 506
+      }
+    ]
+  }
+}

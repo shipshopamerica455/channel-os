@@ -1,0 +1,50 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+Two invitations, same design, same paper, same printer — and one looks like it
+came from a shop while the other looks like it came out of a spare room. The
+difference is two settings, and neither of them is in Canva.
+
+In this tutorial we design an A6 invitation properly and then get it out of the
+printer at the size you actually made it — plus the favour tags, the table
+numbers and the thank-you cards, which are the same job at a different size.
+
+⚠️ THE TWO THINGS YOUR PRINTER DOES
+
+1. It cannot print to the edge. Consumer printers have a non-printable margin of
+roughly three to six millimetres, so a card designed edge to edge comes out with
+a white border.
+
+2. The print dialog shrinks your design. Every dialog defaults to some version of
+"Fit" — Fit to printable area, Shrink oversized pages, Scale to fit. It scales
+the document down by a few percent, and that is enough that a five by seven card
+no longer fits five by seven envelopes.
+
+The fix is free: design inside a ten millimetre margin, set page sizing to ACTUAL
+SIZE, and lay four A6 cards up on one A4 sheet so the trim cuts through the
+artwork — which gives you full bleed on a printer that cannot do full bleed.
+
+🎈 THE PARTY PRINTABLES KIT — £4.99, or free in the Template Club
+The A6 invitation, favour tag, table number and thank-you card, plus the four-up
+A4 sheets already laid out. Works for a baby shower, a birthday, a christening or
+a leaving do. With the card and envelope chart, the print-dialog guide, the paper
+guide, the trimming guide and the pre-print checklist.
+→ https://geniusjunkie.net/party-printables-kit/
+
+⏱ CHAPTERS
+00:00  Two invitations, same printer
+00:33  The size decides the envelope
+01:33  Design inside a margin
+02:09  What actually goes on the card
+02:44  The four-up sheet
+03:28  The setting that shrinks everything
+04:30  Paper, and why it matters more than the design
+05:23  The rest of the set
+05:59  Cutting them neatly
+06:43  If you are not printing it yourself
+07:15  Why this is worth the afternoon
+07:47  The checklist
+08:17  The pack
+08:49  One thing worth remembering
+
+#canva #babyshower #partyprintables #canvatutorial #printathome

@@ -1,0 +1,61 @@
+{
+  "slug": "digital-magazine",
+  "slateNumber": 9,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "8:42",
+  "titles": {
+    "A": "How to Make a Digital Magazine in Canva 2026 (Links That Actually Work)",
+    "B": "Digital Magazine in Canva — the Grid, the Contents Page and the Flipbook Truth",
+    "C": "One Canva Checkbox Kills Every Link in Your Magazine — Here's the Fix"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "digital magazine canva",
+    "canva magazine tutorial",
+    "how to make a digital magazine",
+    "canva flipbook",
+    "interactive pdf canva",
+    "canva pdf links",
+    "lead magnet canva",
+    "canva magazine template",
+    "ebook in canva",
+    "canva publish as website",
+    "magazine layout canva",
+    "canva tutorial 2026",
+    "sponsor media kit",
+    "canva hyperlinks",
+    "flatten pdf canva",
+    "digital publication design"
+  ],
+  "adBreaks": [
+    "3:26.5",
+    "5:40.7"
+  ],
+  "product": {
+    "name": "Digital Magazine Kit",
+    "price": "£4.99",
+    "page": "https://geniusjunkie.net/digital-magazine-kit/",
+    "files": "Editable 5-page Canva magazine template + 6 reference PDFs"
+  },
+  "cutaways": [
+    "tablet-reading",
+    "magazine-flip",
+    "layout-desk",
+    "back-issues",
+    "sofa-phone"
+  ],
+  "shorts": {
+    "promo-flatten-trap": {
+      "title": "The Canva checkbox that kills every link #shorts",
+      "description": "Flatten PDF sounds like housekeeping. It bakes every layer into a flat image and strips every hyperlink out of the document - sponsor links, product links, your whole contents page. And the file still looks perfect. Full digital magazine tutorial on the channel.",
+      "publishAt": "2026-08-21T12:00:00.000Z"
+    },
+    "promo-contents-jump": {
+      "title": "Make a Canva contents page that actually jumps #shorts",
+      "description": "Select the line, hit Link, choose \"Pages in this document\" - the option almost nobody uses. One thumb navigates a 40-page magazine. But links die on text with an effect applied. Full digital magazine tutorial on the channel.",
+      "publishAt": "2026-08-22T12:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-08-20T17:00:00.000Z"
+}

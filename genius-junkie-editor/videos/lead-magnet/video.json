@@ -1,0 +1,149 @@
+{
+  "slug": "lead-magnet",
+  "topic": "#10 Lead magnet / full ebook build",
+  "shotDir": "long-11",
+  "project": "gj-long-11",
+  "composition": "Long11Lead",
+  "thumb": "GJThumb11",
+  "promos": [
+    "PromoLeadAttach",
+    "PromoLeadForm"
+  ],
+  "promoNames": {
+    "PromoLeadAttach": "promo-never-attach",
+    "PromoLeadForm": "promo-one-field-form"
+  },
+  "adAfter": [
+    "05-build-the",
+    "09-the-thank"
+  ],
+  "images": [
+    {
+      "name": "phone-inbox",
+      "prompt": "close-up of hands holding a phone in a bright kitchen, checking an inbox, warm morning light through a window behind, shallow depth of field, photographic, no readable screen text"
+    },
+    {
+      "name": "printed-checklist",
+      "prompt": "a printed checklist on a wooden desk with a pen resting on it and a coffee cup beside, a few boxes ticked, warm daylight from the side, photographic, no readable text"
+    },
+    {
+      "name": "creator-laptop",
+      "prompt": "a small business creator working at a laptop in a bright home studio with plants and shelves behind, relaxed and focused, photographic, no readable screen text"
+    },
+    {
+      "name": "handshake-cafe",
+      "prompt": "two people talking warmly across a small cafe table with notebooks open between them, soft window light, shallow depth of field, photographic, no readable text"
+    },
+    {
+      "name": "sofa-reading",
+      "prompt": "a person on a sofa in warm evening lamp light reading a short printed guide, cosy living room out of focus behind, photographic, no readable text"
+    },
+    {
+      "name": "thumb-hero",
+      "prompt": "a phone lying flat on a warm neutral desk beside a small printed guide and a pen, bright soft daylight from the left, generous empty space on the left of the frame, clean editorial product photography, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Lead Magnet Kit",
+    "description": "Editable Canva lead-magnet template (cover, what-you-get page, content and checklist layouts, one-step last page) plus the form wording, the delivery email and a three-email sequence written out (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "leadmagnet",
+    "slug": "lead-magnet-kit",
+    "stripeProduct": "prod_V38f3HWC9JklKL",
+    "stripePrice": "price_1U32NnLqu5srzOz9tiTJYdHV",
+    "stripe": "https://buy.stripe.com/8x29AUdnB99xdIE9YbaR20b"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-08-22T17:00:00.000Z",
+  "timeline": {
+    "total": 535.08,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-four.mp3": 36.425,
+      "03-pick-one.mp3": 73.375,
+      "04-canvas-setup.mp3": 116.3,
+      "05-build-the.mp3": 153.625,
+      "06-the-delivery.mp3": 206.95,
+      "07-the-form.mp3": 266.125,
+      "08-the-delivery.mp3": 309.05,
+      "09-the-thank.mp3": 348.65,
+      "10-what-happens.mp3": 388.9,
+      "11-the-mistakes.mp3": 426.9,
+      "12-the-checklist.mp3": 463.125,
+      "13-the-shortcut.mp3": 491.675,
+      "14-outro.mp3": 509.775
+    },
+    "adWindows": [
+      [
+        205.55,
+        206.95
+      ],
+      [
+        387.5,
+        388.9
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-four.mp3",
+        "at": 36.425
+      },
+      {
+        "file": "03-pick-one.mp3",
+        "at": 73.375
+      },
+      {
+        "file": "04-canvas-setup.mp3",
+        "at": 116.3
+      },
+      {
+        "file": "05-build-the.mp3",
+        "at": 153.625
+      },
+      {
+        "file": "06-the-delivery.mp3",
+        "at": 206.95
+      },
+      {
+        "file": "07-the-form.mp3",
+        "at": 266.125
+      },
+      {
+        "file": "08-the-delivery.mp3",
+        "at": 309.05
+      },
+      {
+        "file": "09-the-thank.mp3",
+        "at": 348.65
+      },
+      {
+        "file": "10-what-happens.mp3",
+        "at": 388.9
+      },
+      {
+        "file": "11-the-mistakes.mp3",
+        "at": 426.9
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 463.125
+      },
+      {
+        "file": "13-the-shortcut.mp3",
+        "at": 491.675
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 509.775
+      }
+    ]
+  }
+}

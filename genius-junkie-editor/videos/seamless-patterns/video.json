@@ -1,0 +1,164 @@
+{
+  "slug": "seamless-patterns",
+  "topic": "How to Make Seamless Patterns in Canva",
+  "shotDir": "long-33",
+  "project": "gj-seamless-patterns",
+  "composition": "SeamlessPatterns",
+  "thumb": "GJThumb33",
+  "promos": [
+    "PromoPatSeam",
+    "PromoPatOffset",
+    "PromoPatTest",
+    "PromoPatColour"
+  ],
+  "adAfter": [
+    "05-the-motifs",
+    "09-the-export"
+  ],
+  "images": [
+    {
+      "name": "printed-fabric",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of printed patterned cotton fabric draped over a wooden table in a bright studio, soft daylight, shallow depth of field, tactile and inviting, pattern indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "seam-reveal",
+      "after": "S06",
+      "prompt": "Photographic shot of a person's hands holding up a length of printed fabric to the window light, posture of close inspection, face not visible, shallow depth of field, quiet and focused, pattern indistinct, no readable text"
+    },
+    {
+      "name": "fabric-bolts",
+      "after": "S08",
+      "prompt": "Warm photographic image of rolled bolts of patterned fabric stacked on a shelf in a small studio, late afternoon light, shallow depth of field, abundant and crafty, patterns indistinct, no readable text"
+    },
+    {
+      "name": "wrapped-gifts",
+      "after": "S11",
+      "prompt": "Photographic overhead of gifts wrapped in patterned paper on a wooden desk with twine and scissors, warm lamp light, shallow depth of field, cheerful, patterns indistinct, no readable text"
+    },
+    {
+      "name": "pattern-studio",
+      "after": "S14",
+      "prompt": "Photographic shot of a small home textile studio at dusk — folded patterned fabric, a laptop, a mug, a window — warm lamp light, shallow depth of field, a quiet business at rest, patterns indistinct, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Seamless Pattern Kit",
+    "price": "£4.99",
+    "folder": "patternkit",
+    "slug": "seamless-pattern-kit",
+    "new": true,
+    "note": "NEW PACK — the first built for the print-on-demand audience the last three videos created. tshirt-pod, sublimation and cricut-svg all had to point at sticker-illustration-kit and by the Cricut video the fit had worn through. Contains the editable Canva tile with the offset structure already built, a 2x2 proof sheet at exactly twice the tile size, and five reference PDFs.",
+    "description": "Editable Canva seamless pattern tile — 1200 x 1200 px (an 8 inch repeat at 150 DPI) with the offset structure already built, plus a 2400 x 2400 proof sheet for the 2x2 seam test, and five reference PDFs: the offset arithmetic worked including the corner case, the marketplace spec with the inches x 150 table, the seam-test method, the scale and colourway guide, and a read-me (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "canvaDesign": "DAHXOfY6o8A",
+    "canvaEditUrl": "https://www.canva.com/design/DAHXOfY6o8A/edit",
+    "stripeProduct": "prod_VOHPIGW0kWNMIS",
+    "stripePrice": "price_1UNUqLLqu5srzOz90KOBoojm",
+    "stripe": "https://buy.stripe.com/aFa00kfvJ71p5c8fivaR20p"
+  },
+  "publishAt": "2026-10-15T17:00:00.000Z",
+  "promoNames": {
+    "PromoPatSeam": "promo-pat-seam",
+    "PromoPatOffset": "promo-pat-offset",
+    "PromoPatTest": "promo-pat-test",
+    "PromoPatColour": "promo-pat-colour"
+  },
+  "freeAsset": {
+    "name": "Canva Seamless Repeat Card",
+    "slug": "get-seamless-repeat-card",
+    "note": "NEW one-pager: the edge-is-a-crop rule, the Position > Advanced offset arithmetic including the four-corner case, the 2x2 seam test, the Spoonflower spec quoted (150 DPI, sRGB, 40 MB, background to the edge), and the seven pre-listing checks."
+  },
+  "timeline": {
+    "total": 539.55,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 40.2,
+      "03-the-tile.mp3": 72.275,
+      "04-the-background.mp3": 118.95,
+      "05-the-motifs.mp3": 160.625,
+      "06-the-trap.mp3": 204.425,
+      "07-the-seam.mp3": 257.075,
+      "08-scale-and.mp3": 298.625,
+      "09-the-export.mp3": 337.475,
+      "10-colourways-one.mp3": 380.275,
+      "11-where-the.mp3": 417.975,
+      "12-keeping-the.mp3": 455.175,
+      "13-the-checks.mp3": 487.775,
+      "14-close.mp3": 516.825
+    },
+    "adWindows": [
+      [
+        203.03,
+        204.43
+      ],
+      [
+        378.88,
+        380.28
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 40.2
+      },
+      {
+        "file": "03-the-tile.mp3",
+        "at": 72.275
+      },
+      {
+        "file": "04-the-background.mp3",
+        "at": 118.95
+      },
+      {
+        "file": "05-the-motifs.mp3",
+        "at": 160.625
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 204.425
+      },
+      {
+        "file": "07-the-seam.mp3",
+        "at": 257.075
+      },
+      {
+        "file": "08-scale-and.mp3",
+        "at": 298.625
+      },
+      {
+        "file": "09-the-export.mp3",
+        "at": 337.475
+      },
+      {
+        "file": "10-colourways-one.mp3",
+        "at": 380.275
+      },
+      {
+        "file": "11-where-the.mp3",
+        "at": 417.975
+      },
+      {
+        "file": "12-keeping-the.mp3",
+        "at": 455.175
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 487.775
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 516.825
+      }
+    ]
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  }
+}

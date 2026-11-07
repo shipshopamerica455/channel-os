@@ -1,0 +1,151 @@
+{
+  "slug": "baby-shower",
+  "topic": "#3 Baby Shower Invitations \u2014 party printables consolidation",
+  "shotDir": "long-24",
+  "project": "gj-long-24",
+  "composition": "Long24Invite",
+  "thumb": "GJThumb24",
+  "promos": [
+    "PromoInviteActualSize",
+    "PromoInviteFourUp",
+    "PromoInviteCutting",
+    "PromoInviteTags"
+  ],
+  "promoNames": {
+    "PromoInviteActualSize": "promo-invite-actual-size",
+    "PromoInviteFourUp": "promo-invite-four-up",
+    "PromoInviteCutting": "promo-the-cut-gives-you-away",
+    "PromoInviteTags": "promo-punch-after-cut"
+  },
+  "adAfter": [
+    "05-the-four",
+    "09-cutting-them"
+  ],
+  "images": [
+    {
+      "name": "invitation-envelope",
+      "prompt": "Photograph of a single blank cream invitation card lying on a pale linen tablecloth beside an open envelope, soft window light from the left, no legible text anywhere, a sprig of eucalyptus to one side, shallow depth of field, documentary style, no people"
+    },
+    {
+      "name": "home-printer",
+      "prompt": "Photograph of a small white home inkjet printer on a desk with a single sheet of card emerging from it, warm daylight from a window behind, no legible text on the sheet, shallow depth of field, tidy home office, documentary style, no people"
+    },
+    {
+      "name": "cutting-mat",
+      "prompt": "Overhead photograph of a green self-healing cutting mat with a steel ruler and a craft knife laid on it beside several freshly trimmed blank cream cards, bright even daylight, no legible text, shallow depth of field, tidy and precise, no people"
+    },
+    {
+      "name": "party-table",
+      "prompt": "Photograph of a softly styled celebration table with pale linen, small vases of white flowers and blank folded place cards, warm afternoon light, muted pastel palette, no legible text, shallow depth of field, documentary style, no people in frame"
+    },
+    {
+      "name": "card-stack",
+      "prompt": "Photograph of a neat stack of blank cream cards on a wooden desk beside a paper trimmer and a small pile of envelopes, warm window light, no legible text, shallow depth of field, calm and tidy, documentary photography, no people"
+    }
+  ],
+  "product": {
+    "name": "Party Printables Kit",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "baby-shower",
+    "slug": "party-printables-kit",
+    "description": "An editable Canva card template at A6 (105 x 148 mm) \u2014 four pages, each with the background running full bleed and the ten millimetre type area already placed, so everything you write sits where the printer can actually reach: the invitation, the table number, the thank-you card and a spare. A Canva design holds one page size, so the A4 four-up layup and the 50 x 90 mm favour tag are on the printed sheets instead \u2014 sheet one draws the tiling to scale and it is a two-minute job. Plus five reference sheets: the card size and envelope chart, the print-dialog guide with the setting named for Acrobat, Chrome, macOS and Windows, the paper weight guide, the trimming guide, and the pre-print checklist (Genius Junkie)",
+    "stripeProduct": "prod_VBBEw221sZZK3g",
+    "stripePrice": "price_1UAos5Lqu5srzOz9DxKokS34",
+    "stripe": "https://buy.stripe.com/8x2cN63N199xawsfivaR20o",
+    "canvaDesign": "DAHT8ujB-FU",
+    "canvaEditUrl": "https://www.canva.com/design/DAHT8ujB-FU/edit"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-10-03T17:00:00.000Z",
+  "timeline": {
+    "total": 555.35,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-size.mp3": 33.575,
+      "03-design-inside.mp3": 93.2,
+      "04-what-actually.mp3": 129.95,
+      "05-the-four.mp3": 164.6,
+      "06-the-setting.mp3": 208.7,
+      "07-paper-and.mp3": 270.225,
+      "08-the-rest.mp3": 323.025,
+      "09-cutting-them.mp3": 359.175,
+      "10-if-you.mp3": 403.4,
+      "11-why-this.mp3": 435.15,
+      "12-the-checklist.mp3": 467.425,
+      "13-the-pack.mp3": 497.425,
+      "14-outro.mp3": 529.375
+    },
+    "adWindows": [
+      [
+        207.3,
+        208.7
+      ],
+      [
+        402,
+        403.4
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-size.mp3",
+        "at": 33.575
+      },
+      {
+        "file": "03-design-inside.mp3",
+        "at": 93.2
+      },
+      {
+        "file": "04-what-actually.mp3",
+        "at": 129.95
+      },
+      {
+        "file": "05-the-four.mp3",
+        "at": 164.6
+      },
+      {
+        "file": "06-the-setting.mp3",
+        "at": 208.7
+      },
+      {
+        "file": "07-paper-and.mp3",
+        "at": 270.225
+      },
+      {
+        "file": "08-the-rest.mp3",
+        "at": 323.025
+      },
+      {
+        "file": "09-cutting-them.mp3",
+        "at": 359.175
+      },
+      {
+        "file": "10-if-you.mp3",
+        "at": 403.4
+      },
+      {
+        "file": "11-why-this.mp3",
+        "at": 435.15
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 467.425
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 497.425
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 529.375
+      }
+    ]
+  }
+}

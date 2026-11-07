@@ -1,0 +1,151 @@
+{
+  "slug": "canva-for-teachers",
+  "topic": "Slate 2 #7 — Canva for Teachers classroom kit",
+  "shotDir": "long-18",
+  "project": "gj-long-18",
+  "composition": "Long18Teach",
+  "thumb": "GJThumb18",
+  "promos": [
+    "PromoTeachAssign",
+    "PromoTeachShells",
+    "PromoTeachReadOnly",
+    "PromoTeachNoAccount"
+  ],
+  "adAfter": [
+    "05-building-the",
+    "09-if-your"
+  ],
+  "images": [
+    {
+      "name": "classroom-desks",
+      "prompt": "Photograph of a bright primary school classroom from the back, empty desks with tablets and paper on them, big windows, colourful but tidy displays on the walls, warm natural daylight, shallow depth of field, documentary style, no people, no legible text"
+    },
+    {
+      "name": "teacher-laptop",
+      "prompt": "Photograph over the shoulder of a teacher sitting at a classroom desk working on a laptop in the evening, warm lamp light, marking piles beside them, face not visible, cosy and calm, shallow depth of field, documentary photography, no legible text on screen"
+    },
+    {
+      "name": "students-tablets",
+      "prompt": "Photograph of three school children aged about ten working on tablets at a shared classroom table, seen from behind and to the side so faces are not visible, bright daylight, engaged and calm, candid documentary style, no legible text"
+    },
+    {
+      "name": "worksheet-stack",
+      "prompt": "Close overhead photograph of a neat stack of printed worksheets on a wooden classroom desk beside a mug and a red pen, bright even daylight, crisp and clean, shallow depth of field, no legible text on the pages"
+    },
+    {
+      "name": "marking-evening",
+      "prompt": "Photograph of a kitchen table at night with a laptop open and a cup of tea, a teacher's hand resting beside the trackpad, warm low light, quiet end-of-day mood, shallow depth of field, documentary style, no faces, no legible text"
+    }
+  ],
+  "product": {
+    "name": "Classroom Kit",
+    "description": "Six editable Canva activity shells — do-now, exit ticket, vocabulary, comparison grid, labelled diagram and reading response — with real empty answer boxes and locked furniture, plus the eligibility and set-up sheet, the assign-and-collect walkthrough, a parental consent letter for under-13s and a term of prompts (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "classroom",
+    "slug": "classroom-kit",
+    "stripeProduct": "prod_V6NWrBShr3c8zg",
+    "stripePrice": "price_1U6AlnLqu5srzOz9qdDt2Jif",
+    "stripe": "https://buy.stripe.com/aFa8wQ1ETgBZ1ZW0nBaR20i",
+    "canvaDesign": "DAHSvsEhtjI",
+    "canvaEditUrl": "https://www.canva.com/design/DAHSvsEhtjI/edit"
+  },
+  "publishAt": "2026-09-21T17:00:00.000Z",
+  "promoNames": {
+    "PromoTeachAssign": "promo-teach-assign",
+    "PromoTeachShells": "promo-teach-shells",
+    "PromoTeachReadOnly": "promo-submitting-locks-work",
+    "PromoTeachNoAccount": "promo-no-education-account"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "timeline": {
+    "total": 567.3,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-same-file.mp3": 35.25,
+      "03-can-you.mp3": 72.25,
+      "04-getting-set.mp3": 127.175,
+      "05-building-the.mp3": 171.025,
+      "06-the-assign.mp3": 222.025,
+      "07-what-the.mp3": 266.5,
+      "08-marking-without.mp3": 306.85,
+      "09-if-your.mp3": 346.55,
+      "10-the-thing.mp3": 396.65,
+      "11-if-you.mp3": 437.9,
+      "12-the-checklist.mp3": 478.825,
+      "13-the-pack.mp3": 511.35,
+      "14-outro.mp3": 538.925
+    },
+    "adWindows": [
+      [
+        220.63,
+        222.03
+      ],
+      [
+        395.25,
+        396.65
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-same-file.mp3",
+        "at": 35.25
+      },
+      {
+        "file": "03-can-you.mp3",
+        "at": 72.25
+      },
+      {
+        "file": "04-getting-set.mp3",
+        "at": 127.175
+      },
+      {
+        "file": "05-building-the.mp3",
+        "at": 171.025
+      },
+      {
+        "file": "06-the-assign.mp3",
+        "at": 222.025
+      },
+      {
+        "file": "07-what-the.mp3",
+        "at": 266.5
+      },
+      {
+        "file": "08-marking-without.mp3",
+        "at": 306.85
+      },
+      {
+        "file": "09-if-your.mp3",
+        "at": 346.55
+      },
+      {
+        "file": "10-the-thing.mp3",
+        "at": 396.65
+      },
+      {
+        "file": "11-if-you.mp3",
+        "at": 437.9
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 478.825
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 511.35
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 538.925
+      }
+    ]
+  }
+}

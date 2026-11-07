@@ -1,0 +1,57 @@
+📄 FREE — The Presentation & Pitch Deck Checklist — One idea per slide, and the pre-flight check before you present.
+https://geniusjunkie.net/get-presentation-design-checklist/
+
+Every pitch deck tutorial shows you how to lay one out. Almost none of them tell
+you what happens to the file after you send it — which is the only part an
+investor actually experiences.
+
+Because a pitch deck is not a presentation you give. It is a file that gets
+forwarded, opened without you in the room, and read in silence on somebody's
+phone. So this builds all ten slides in Canva, in order — and then covers the
+half nobody teaches.
+
+⚠️ The thing to know: **crop is a mask, not a delete.** Crop a screenshot to hide
+a number you are not ready to share, export as a PDF, and the number is still in
+the file. Canva's own documentation says a PDF export "will include the original
+image", and that "someone could use a third-party tool (for example, a PDF
+editor) to get the full, uncropped image from your PDF export."
+
+✅ The fix is one checkbox — **Flatten PDF** — which Canva says "converts the file
+into a static image, preventing editing in software like Adobe Acrobat" and
+"ensures fonts display accurately". It makes the file bigger. Tick it anyway.
+
+📝 And the checkbox sitting right next to it: **Include notes**. It exists so you
+can print your own cue cards. Tick it by accident and you have emailed an
+investor every private speaker note you wrote to yourself.
+
+🖥️ On PowerPoint, in Canva's own words: PPTX files "may look different when
+opened in Microsoft PowerPoint", you may need to install the fonts you used, and
+animations and embedded videos are not supported at all. Send a PDF by default.
+
+📄 PITCH DECK KIT (the editable ten-slide Canva deck with the type sizes and
+margins already set, plus the ten-slide brief, the traction worksheet, the send
+checklist and the three investor emails written out):
+https://geniusjunkie.net/pitch-deck-kit/ — £4.99
+🎓 Or FREE with the Template Club (every pack + all future releases):
+https://geniusjunkie.net/template-club/
+
+CHAPTERS
+0:01 The number that is still in your PDF
+0:32 A deck is a file, not a presentation
+1:08 The ten slides, in order
+2:02 Setup, and the font decision
+2:40 Building the first three slides
+3:44 What your PDF is still carrying
+4:40 The traction slide
+5:35 Speaker notes, and the leak
+6:11 PowerPoint, honestly
+6:51 Sending it
+7:30 Presenting it live
+8:05 The checklist
+8:33 The kit
+8:49 Outro
+
+TOOLS
+Canva (free plan is enough)
+
+#canva #pitchdeck #startup #fundraising #canvatutorial

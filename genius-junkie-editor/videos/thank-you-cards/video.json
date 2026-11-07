@@ -1,0 +1,150 @@
+{
+  "slug": "thank-you-cards",
+  "topic": "How to Make Thank You Cards in Canva (Folded, Print at Home)",
+  "shotDir": "long-28",
+  "project": "gj-thank-you-cards",
+  "composition": "ThankYouCards",
+  "thumb": "GJThumb28",
+  "promos": [
+    "PromoCardFold",
+    "PromoCardInside",
+    "PromoCardScore",
+    "PromoCardFourUp"
+  ],
+  "promoNames": {
+    "PromoCardFold": "promo-card-fold",
+    "PromoCardInside": "promo-card-inside",
+    "PromoCardScore": "promo-card-score",
+    "PromoCardFourUp": "promo-card-fourup"
+  },
+  "adAfter": [
+    "06-the-trap",
+    "09-the-fold"
+  ],
+  "images": [
+    {
+      "name": "writing-the-card",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of hands writing in a folded cream card at a kitchen table, fountain pen, soft morning light from a window, a cup of tea out of focus behind, shallow depth of field, intimate and calm, no readable text"
+    },
+    {
+      "name": "upside-down-card",
+      "after": "S06",
+      "prompt": "Photographic close-up of a folded paper card standing on a desk, clearly printed the wrong way up, a person's hand pausing beside it, warm lamp light, shallow depth of field, quiet frustration implied by posture only, face not visible, no readable text"
+    },
+    {
+      "name": "scoring-the-fold",
+      "after": "S09",
+      "prompt": "Macro photograph of a bone folder being drawn along a steel ruler across cream card stock on a cutting mat, warm side light raking across the paper texture, shallow depth of field, tactile and precise, no readable text"
+    },
+    {
+      "name": "cards-stacked",
+      "after": "S10",
+      "prompt": "Overhead photograph of a neat stack of freshly trimmed cream folded cards beside a steel ruler and craft knife on a wooden desk, warm daylight, shallow depth of field, satisfying order, no readable text"
+    },
+    {
+      "name": "card-posted",
+      "after": "S14",
+      "prompt": "Warm photographic image of a hand placing a sealed envelope into a postbox slot, late afternoon golden light, shallow depth of field, hopeful and human, face not visible, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Party & Event Printables Kit",
+    "price": "£4.99",
+    "existing": "party-printables-kit",
+    "note": "Sells the ALREADY-BUILT party-printables-kit (verified live, 200). SECOND video pointing at it, deliberately — more front doors to one product beats a second product nobody has found. DO NOT run commerce; it would mint a duplicate Stripe product."
+  },
+  "freeAsset": {
+    "name": "Fold & Print Card",
+    "slug": "get-fold-and-print-card",
+    "note": "NEW one-pager: the half-fold panel diagram with the rotated back panel drawn out, A5→A6 and the US equivalent, the 10 mm margin, the flip-edge test, and score-before-folding."
+  },
+  "publishAt": "2026-10-05T17:00:00.000Z",
+  "timeline": {
+    "total": 527.73,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 30.6,
+      "03-the-size.mp3": 75.825,
+      "04-the-margin.mp3": 122.975,
+      "05-designing-the.mp3": 158.875,
+      "06-the-trap.mp3": 196.275,
+      "07-the-inside.mp3": 237.875,
+      "08-printing-one.mp3": 289.2,
+      "09-the-fold.mp3": 325.15,
+      "10-four-up.mp3": 378.05,
+      "11-what-to.mp3": 412.375,
+      "12-making-it.mp3": 443.725,
+      "13-the-checks.mp3": 474.05,
+      "14-close.mp3": 506
+    },
+    "adWindows": [
+      [
+        236.48,
+        237.88
+      ],
+      [
+        376.65,
+        378.05
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 30.6
+      },
+      {
+        "file": "03-the-size.mp3",
+        "at": 75.825
+      },
+      {
+        "file": "04-the-margin.mp3",
+        "at": 122.975
+      },
+      {
+        "file": "05-designing-the.mp3",
+        "at": 158.875
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 196.275
+      },
+      {
+        "file": "07-the-inside.mp3",
+        "at": 237.875
+      },
+      {
+        "file": "08-printing-one.mp3",
+        "at": 289.2
+      },
+      {
+        "file": "09-the-fold.mp3",
+        "at": 325.15
+      },
+      {
+        "file": "10-four-up.mp3",
+        "at": 378.05
+      },
+      {
+        "file": "11-what-to.mp3",
+        "at": 412.375
+      },
+      {
+        "file": "12-making-it.mp3",
+        "at": 443.725
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 474.05
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 506
+      }
+    ]
+  }
+}

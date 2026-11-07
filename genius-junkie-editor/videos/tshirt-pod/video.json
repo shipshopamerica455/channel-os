@@ -1,0 +1,150 @@
+{
+  "slug": "tshirt-pod",
+  "topic": "How to Design T-Shirts in Canva for Print on Demand",
+  "shotDir": "long-30",
+  "project": "gj-tshirt-pod",
+  "composition": "TshirtPOD",
+  "thumb": "GJThumb30",
+  "promos": [
+    "PromoPodCrown",
+    "PromoPodWhiteBox",
+    "PromoPodIrony",
+    "PromoPodNiche"
+  ],
+  "promoNames": {
+    "PromoPodCrown": "promo-pod-crown",
+    "PromoPodWhiteBox": "promo-pod-white-box",
+    "PromoPodIrony": "promo-pod-irony",
+    "PromoPodNiche": "promo-pod-niche"
+  },
+  "adAfter": [
+    "06-the-trap",
+    "08-the-transparent"
+  ],
+  "images": [
+    {
+      "name": "printed-tee",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of a freshly printed graphic t-shirt folded on a wooden table in a small home studio, soft daylight from a window, shallow depth of field, tactile and satisfying, design indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "takedown-notice",
+      "after": "S06",
+      "prompt": "Photographic shot of a person sitting back from a laptop at a desk in low evening light, posture suggesting bad news just read, face not visible, shallow depth of field, muted and quiet, no readable text"
+    },
+    {
+      "name": "thin-lines-fail",
+      "after": "S09",
+      "prompt": "Macro photograph of printed ink on dark cotton fabric, the weave clearly visible, fine detail breaking up into the texture, raking side light, very shallow depth of field, no readable text"
+    },
+    {
+      "name": "niche-crowd",
+      "after": "S11",
+      "prompt": "Warm photographic image of three friends laughing together outdoors wearing plain graphic tees, late afternoon light, shallow depth of field, candid and specific, faces turned away or cropped, designs indistinct, no readable text"
+    },
+    {
+      "name": "packing-orders",
+      "after": "S14",
+      "prompt": "Photographic overhead of a small home workspace with folded shirts, a laptop and packing materials on a wooden desk, warm lamp light, shallow depth of field, quietly busy, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Sticker & Illustration Kit",
+    "price": "£4.99",
+    "existing": "sticker-illustration-kit",
+    "note": "ALREADY BUILT (verified live, 200). HONEST FIT: original artwork made for this channel, so it carries NO Canva licence problem and can legally go on apparel — but it was not built as a POD pack. The close says 'ready-made illustration assets you can legally put on a shirt', never 'a t-shirt bundle'. DO NOT run commerce. This row is deliberately view-and-list first."
+  },
+  "freeAsset": {
+    "name": "Canva POD Licence & Size Card",
+    "slug": "get-pod-licence-card",
+    "note": "NEW one-pager: both licence clauses quoted verbatim, how to filter elements to Free, print-file dimensions with the check-your-provider caveat, the transparent-PNG Pro requirement, and the six pre-upload checks."
+  },
+  "publishAt": "2026-10-09T17:00:00.000Z",
+  "timeline": {
+    "total": 530,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 40.15,
+      "03-the-canvas.mp3": 76.625,
+      "04-designing-for.mp3": 122.9,
+      "05-the-elements.mp3": 162.2,
+      "06-the-trap.mp3": 203.5,
+      "07-how-to.mp3": 258.225,
+      "08-the-transparent.mp3": 296.55,
+      "09-checking-the.mp3": 342.25,
+      "10-the-mockup.mp3": 379.875,
+      "11-what-actually.mp3": 416.575,
+      "12-the-folder.mp3": 453.55,
+      "13-the-checks.mp3": 480.525,
+      "14-close.mp3": 508.2
+    },
+    "adWindows": [
+      [
+        256.83,
+        258.23
+      ],
+      [
+        340.85,
+        342.25
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 40.15
+      },
+      {
+        "file": "03-the-canvas.mp3",
+        "at": 76.625
+      },
+      {
+        "file": "04-designing-for.mp3",
+        "at": 122.9
+      },
+      {
+        "file": "05-the-elements.mp3",
+        "at": 162.2
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 203.5
+      },
+      {
+        "file": "07-how-to.mp3",
+        "at": 258.225
+      },
+      {
+        "file": "08-the-transparent.mp3",
+        "at": 296.55
+      },
+      {
+        "file": "09-checking-the.mp3",
+        "at": 342.25
+      },
+      {
+        "file": "10-the-mockup.mp3",
+        "at": 379.875
+      },
+      {
+        "file": "11-what-actually.mp3",
+        "at": 416.575
+      },
+      {
+        "file": "12-the-folder.mp3",
+        "at": 453.55
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 480.525
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 508.2
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "pitch-deck",
+  "slateNumber": 13,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "9:14",
+  "titles": {
+    "A": "How to Make a Pitch Deck in Canva 2026 (And the Checkbox Before You Send It)",
+    "B": "Pitch Deck in Canva 2026 — All Ten Slides, the Traction Slide, and the Export",
+    "C": "Your Cropped-Out Numbers Are Still Inside the PDF You Sent"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "pitch deck",
+    "how to make a pitch deck",
+    "pitch deck canva",
+    "canva presentation",
+    "startup pitch deck",
+    "investor deck",
+    "pitch deck template",
+    "canva tutorial 2026",
+    "fundraising deck",
+    "seed round deck",
+    "pitch deck slides",
+    "traction slide",
+    "canva pdf export",
+    "flatten pdf canva",
+    "pitch deck design",
+    "deck for investors"
+  ],
+  "adBreaks": [
+    "3:43.4",
+    "6:50.4"
+  ],
+  "product": {
+    "name": "Pitch Deck Kit",
+    "price": "£4.99",
+    "page": "https://geniusjunkie.net/pitch-deck-kit/",
+    "files": "Editable 10-slide Canva deck + 5 reference PDFs (ten-slide brief, traction worksheet, send checklist, three investor emails, read-me)"
+  },
+  "cutaways": [
+    "founder-desk",
+    "reading-on-phone",
+    "worried-laptop",
+    "meeting-pitch",
+    "printed-deck"
+  ],
+  "shorts": {
+    "promo-crop-is-a-mask": {
+      "title": "Crop is a mask, not a delete #shorts",
+      "description": "Crop a number out of a screenshot, export the deck as a PDF, and the number is still in the file. Canva's own docs: a PDF export \"will include the original image\", and someone could use a PDF editor to get the full uncropped image back. The fix is one checkbox - Flatten PDF - which converts the file to a static image and stops anyone editing it in Acrobat. Full pitch deck tutorial on the channel.",
+      "publishAt": "2026-09-04T12:00:00.000Z"
+    },
+    "promo-include-notes": {
+      "title": "Do not send your speaker notes #shorts",
+      "description": "Canva's Notes are only visible in Presenter View - the right place for what you want to say but not show. But the PDF download has an Include notes checkbox, sitting right next to the one you actually want. Tick it by accident and you have emailed an investor every private note you wrote to yourself. Full pitch deck tutorial on the channel.",
+      "publishAt": "2026-09-05T12:00:00.000Z"
+    },
+    "promo-four-pixel-headline": {
+      "title": "Your headline moved four pixels and they noticed #shorts",
+      "description": "Pick a distance from the edge on slide one and never change it. The eye catches a headline that shifts between slides even when it cannot say why — and that consistency is most of what people mean when they call a deck professional. Not the colours. Not the icons.\n\n▶️ Full tutorial: https://youtu.be/BjXRcCgODEk\n📄 Free checklist: https://geniusjunkie.net/get-presentation-design-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-04T19:00:00.000Z",
+      "youtubeId": "cSd_xrBiAX4"
+    },
+    "promo-send-a-pdf": {
+      "title": "Send a PPTX and the layout breaks on their machine #shorts",
+      "description": "Send a PDF by default: it looks identical everywhere and, flattened, it cannot be edited. Only send PPTX when they have actually said they want to edit it — and when you do, tell them which font you used, or the layout collapses on their computer. One sentence saves an embarrassing email.\n\n▶️ Full tutorial: https://youtu.be/BjXRcCgODEk\n📄 Free checklist: https://geniusjunkie.net/get-presentation-design-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-09-05T19:00:00.000Z",
+      "youtubeId": "MADWpy-3Dsc"
+    }
+  },
+  "publishAt": "2026-09-03T17:00:00.000Z"
+}

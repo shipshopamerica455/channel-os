@@ -1,0 +1,9349 @@
+{
+  "source": "screencast.mp4",
+  "model": "small.en",
+  "duration": 575.082357,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 8.36,
+      "text": "This reel took me 11 minutes to make. It cost me nothing, and it's the exact three-part formula behind almost every viral reel on your feed right now.",
+      "words": [
+        {
+          "word": "This",
+          "start": 0.0,
+          "end": 0.28
+        },
+        {
+          "word": "reel",
+          "start": 0.28,
+          "end": 0.48
+        },
+        {
+          "word": "took",
+          "start": 0.48,
+          "end": 0.7
+        },
+        {
+          "word": "me",
+          "start": 0.7,
+          "end": 0.88
+        },
+        {
+          "word": "11",
+          "start": 0.88,
+          "end": 1.14
+        },
+        {
+          "word": "minutes",
+          "start": 1.14,
+          "end": 1.38
+        },
+        {
+          "word": "to",
+          "start": 1.38,
+          "end": 1.58
+        },
+        {
+          "word": "make.",
+          "start": 1.58,
+          "end": 1.82
+        },
+        {
+          "word": "It",
+          "start": 2.22,
+          "end": 2.32
+        },
+        {
+          "word": "cost",
+          "start": 2.32,
+          "end": 2.48
+        },
+        {
+          "word": "me",
+          "start": 2.48,
+          "end": 2.7
+        },
+        {
+          "word": "nothing,",
+          "start": 2.7,
+          "end": 3.0
+        },
+        {
+          "word": "and",
+          "start": 3.42,
+          "end": 3.6
+        },
+        {
+          "word": "it's",
+          "start": 3.6,
+          "end": 3.74
+        },
+        {
+          "word": "the",
+          "start": 3.74,
+          "end": 3.88
+        },
+        {
+          "word": "exact",
+          "start": 3.88,
+          "end": 4.22
+        },
+        {
+          "word": "three",
+          "start": 4.22,
+          "end": 4.5
+        },
+        {
+          "word": "-part",
+          "start": 4.5,
+          "end": 4.74
+        },
+        {
+          "word": "formula",
+          "start": 4.74,
+          "end": 5.18
+        },
+        {
+          "word": "behind",
+          "start": 5.18,
+          "end": 5.5
+        },
+        {
+          "word": "almost",
+          "start": 5.5,
+          "end": 5.74
+        },
+        {
+          "word": "every",
+          "start": 5.74,
+          "end": 6.14
+        },
+        {
+          "word": "viral",
+          "start": 6.14,
+          "end": 6.46
+        },
+        {
+          "word": "reel",
+          "start": 6.46,
+          "end": 6.74
+        },
+        {
+          "word": "on",
+          "start": 6.74,
+          "end": 7.32
+        },
+        {
+          "word": "your",
+          "start": 7.32,
+          "end": 7.46
+        },
+        {
+          "word": "feed",
+          "start": 7.46,
+          "end": 7.68
+        },
+        {
+          "word": "right",
+          "start": 7.68,
+          "end": 7.92
+        },
+        {
+          "word": "now.",
+          "start": 7.92,
+          "end": 8.36
+        }
+      ]
+    },
+    {
+      "start": 8.9,
+      "end": 14.94,
+      "text": "A scroll-stopping hook, punchy captions that move, and one editing trick at the end that most people never use.",
+      "words": [
+        {
+          "word": "A",
+          "start": 8.9,
+          "end": 9.12
+        },
+        {
+          "word": "scroll",
+          "start": 9.12,
+          "end": 9.34
+        },
+        {
+          "word": "-stopping",
+          "start": 9.34,
+          "end": 9.7
+        },
+        {
+          "word": "hook,",
+          "start": 9.7,
+          "end": 10.02
+        },
+        {
+          "word": "punchy",
+          "start": 10.36,
+          "end": 10.64
+        },
+        {
+          "word": "captions",
+          "start": 10.64,
+          "end": 11.0
+        },
+        {
+          "word": "that",
+          "start": 11.0,
+          "end": 11.22
+        },
+        {
+          "word": "move,",
+          "start": 11.22,
+          "end": 11.54
+        },
+        {
+          "word": "and",
+          "start": 11.96,
+          "end": 12.06
+        },
+        {
+          "word": "one",
+          "start": 12.06,
+          "end": 12.28
+        },
+        {
+          "word": "editing",
+          "start": 12.28,
+          "end": 12.62
+        },
+        {
+          "word": "trick",
+          "start": 12.62,
+          "end": 12.9
+        },
+        {
+          "word": "at",
+          "start": 12.9,
+          "end": 13.1
+        },
+        {
+          "word": "the",
+          "start": 13.1,
+          "end": 13.28
+        },
+        {
+          "word": "end",
+          "start": 13.28,
+          "end": 13.5
+        },
+        {
+          "word": "that",
+          "start": 13.5,
+          "end": 13.7
+        },
+        {
+          "word": "most",
+          "start": 13.7,
+          "end": 13.9
+        },
+        {
+          "word": "people",
+          "start": 13.9,
+          "end": 14.14
+        },
+        {
+          "word": "never",
+          "start": 14.14,
+          "end": 14.48
+        },
+        {
+          "word": "use.",
+          "start": 14.48,
+          "end": 14.94
+        }
+      ]
+    },
+    {
+      "start": 15.58,
+      "end": 20.06,
+      "text": "And the whole thing is just Canva plus CapCut, both on the free plan.",
+      "words": [
+        {
+          "word": "And",
+          "start": 15.58,
+          "end": 15.74
+        },
+        {
+          "word": "the",
+          "start": 15.74,
+          "end": 15.82
+        },
+        {
+          "word": "whole",
+          "start": 15.82,
+          "end": 16.0
+        },
+        {
+          "word": "thing",
+          "start": 16.0,
+          "end": 16.26
+        },
+        {
+          "word": "is",
+          "start": 16.26,
+          "end": 16.48
+        },
+        {
+          "word": "just",
+          "start": 16.48,
+          "end": 16.74
+        },
+        {
+          "word": "Canva",
+          "start": 16.74,
+          "end": 17.16
+        },
+        {
+          "word": "plus",
+          "start": 17.16,
+          "end": 17.58
+        },
+        {
+          "word": "CapCut,",
+          "start": 17.58,
+          "end": 18.32
+        },
+        {
+          "word": "both",
+          "start": 18.84,
+          "end": 19.04
+        },
+        {
+          "word": "on",
+          "start": 19.04,
+          "end": 19.38
+        },
+        {
+          "word": "the",
+          "start": 19.38,
+          "end": 19.5
+        },
+        {
+          "word": "free",
+          "start": 19.5,
+          "end": 19.7
+        },
+        {
+          "word": "plan.",
+          "start": 19.7,
+          "end": 20.06
+        }
+      ]
+    },
+    {
+      "start": 20.84,
+      "end": 25.48,
+      "text": "By the end of this video, you'll have your own reel, built from scratch, exported the right way,",
+      "words": [
+        {
+          "word": "By",
+          "start": 20.84,
+          "end": 21.04
+        },
+        {
+          "word": "the",
+          "start": 21.04,
+          "end": 21.16
+        },
+        {
+          "word": "end",
+          "start": 21.16,
+          "end": 21.28
+        },
+        {
+          "word": "of",
+          "start": 21.28,
+          "end": 21.38
+        },
+        {
+          "word": "this",
+          "start": 21.38,
+          "end": 21.54
+        },
+        {
+          "word": "video,",
+          "start": 21.54,
+          "end": 21.8
+        },
+        {
+          "word": "you'll",
+          "start": 21.94,
+          "end": 22.1
+        },
+        {
+          "word": "have",
+          "start": 22.1,
+          "end": 22.24
+        },
+        {
+          "word": "your",
+          "start": 22.24,
+          "end": 22.4
+        },
+        {
+          "word": "own",
+          "start": 22.4,
+          "end": 22.6
+        },
+        {
+          "word": "reel,",
+          "start": 22.6,
+          "end": 22.92
+        },
+        {
+          "word": "built",
+          "start": 23.32,
+          "end": 23.5
+        },
+        {
+          "word": "from",
+          "start": 23.5,
+          "end": 23.74
+        },
+        {
+          "word": "scratch,",
+          "start": 23.74,
+          "end": 24.06
+        },
+        {
+          "word": "exported",
+          "start": 24.42,
+          "end": 24.78
+        },
+        {
+          "word": "the",
+          "start": 24.78,
+          "end": 24.98
+        },
+        {
+          "word": "right",
+          "start": 24.98,
+          "end": 25.14
+        },
+        {
+          "word": "way,",
+          "start": 25.14,
+          "end": 25.48
+        }
+      ]
+    },
+    {
+      "start": 25.48,
+      "end": 32.22,
+      "text": "and I'll show you the one export mistake that quietly kills your reach on Instagram, so stick around for that.",
+      "words": [
+        {
+          "word": "and",
+          "start": 25.48,
+          "end": 26.46
+        },
+        {
+          "word": "I'll",
+          "start": 26.46,
+          "end": 26.78
+        },
+        {
+          "word": "show",
+          "start": 26.78,
+          "end": 26.94
+        },
+        {
+          "word": "you",
+          "start": 26.94,
+          "end": 27.16
+        },
+        {
+          "word": "the",
+          "start": 27.16,
+          "end": 27.36
+        },
+        {
+          "word": "one",
+          "start": 27.36,
+          "end": 27.66
+        },
+        {
+          "word": "export",
+          "start": 27.66,
+          "end": 28.12
+        },
+        {
+          "word": "mistake",
+          "start": 28.12,
+          "end": 28.54
+        },
+        {
+          "word": "that",
+          "start": 28.54,
+          "end": 28.8
+        },
+        {
+          "word": "quietly",
+          "start": 28.8,
+          "end": 29.16
+        },
+        {
+          "word": "kills",
+          "start": 29.16,
+          "end": 29.58
+        },
+        {
+          "word": "your",
+          "start": 29.58,
+          "end": 29.78
+        },
+        {
+          "word": "reach",
+          "start": 29.78,
+          "end": 30.02
+        },
+        {
+          "word": "on",
+          "start": 30.02,
+          "end": 30.22
+        },
+        {
+          "word": "Instagram,",
+          "start": 30.22,
+          "end": 30.68
+        },
+        {
+          "word": "so",
+          "start": 31.1,
+          "end": 31.22
+        },
+        {
+          "word": "stick",
+          "start": 31.22,
+          "end": 31.46
+        },
+        {
+          "word": "around",
+          "start": 31.46,
+          "end": 31.76
+        },
+        {
+          "word": "for",
+          "start": 31.76,
+          "end": 31.98
+        },
+        {
+          "word": "that.",
+          "start": 31.98,
+          "end": 32.22
+        }
+      ]
+    },
+    {
+      "start": 32.68,
+      "end": 33.58,
+      "text": "Let's get into Canva.",
+      "words": [
+        {
+          "word": "Let's",
+          "start": 32.68,
+          "end": 32.88
+        },
+        {
+          "word": "get",
+          "start": 32.88,
+          "end": 32.98
+        },
+        {
+          "word": "into",
+          "start": 32.98,
+          "end": 33.18
+        },
+        {
+          "word": "Canva.",
+          "start": 33.18,
+          "end": 33.58
+        }
+      ]
+    },
+    {
+      "start": 34.44,
+      "end": 35.92,
+      "text": "First thing, the Canvas.",
+      "words": [
+        {
+          "word": "First",
+          "start": 34.44,
+          "end": 34.58
+        },
+        {
+          "word": "thing,",
+          "start": 34.58,
+          "end": 34.86
+        },
+        {
+          "word": "the",
+          "start": 35.42,
+          "end": 35.56
+        },
+        {
+          "word": "Canvas.",
+          "start": 35.56,
+          "end": 35.92
+        }
+      ]
+    },
+    {
+      "start": 36.72,
+      "end": 41.4,
+      "text": "In Canva, click Create a Design, top right, and search for Instagram Reel.",
+      "words": [
+        {
+          "word": "In",
+          "start": 36.72,
+          "end": 36.84
+        },
+        {
+          "word": "Canva,",
+          "start": 36.84,
+          "end": 37.26
+        },
+        {
+          "word": "click",
+          "start": 37.64,
+          "end": 37.92
+        },
+        {
+          "word": "Create",
+          "start": 37.92,
+          "end": 38.34
+        },
+        {
+          "word": "a",
+          "start": 38.34,
+          "end": 38.52
+        },
+        {
+          "word": "Design,",
+          "start": 38.52,
+          "end": 38.88
+        },
+        {
+          "word": "top",
+          "start": 39.36,
+          "end": 39.52
+        },
+        {
+          "word": "right,",
+          "start": 39.52,
+          "end": 39.74
+        },
+        {
+          "word": "and",
+          "start": 40.1,
+          "end": 40.18
+        },
+        {
+          "word": "search",
+          "start": 40.18,
+          "end": 40.38
+        },
+        {
+          "word": "for",
+          "start": 40.38,
+          "end": 40.6
+        },
+        {
+          "word": "Instagram",
+          "start": 40.6,
+          "end": 41.04
+        },
+        {
+          "word": "Reel.",
+          "start": 41.04,
+          "end": 41.4
+        }
+      ]
+    },
+    {
+      "start": 41.92,
+      "end": 45.62,
+      "text": "You want the video 1, 1080 by 1920, portrait.",
+      "words": [
+        {
+          "word": "You",
+          "start": 41.92,
+          "end": 42.12
+        },
+        {
+          "word": "want",
+          "start": 42.12,
+          "end": 42.28
+        },
+        {
+          "word": "the",
+          "start": 42.28,
+          "end": 42.42
+        },
+        {
+          "word": "video",
+          "start": 42.42,
+          "end": 42.66
+        },
+        {
+          "word": "1,",
+          "start": 42.66,
+          "end": 43.04
+        },
+        {
+          "word": "1080",
+          "start": 43.46,
+          "end": 43.7
+        },
+        {
+          "word": "by",
+          "start": 43.7,
+          "end": 44.14
+        },
+        {
+          "word": "1920,",
+          "start": 44.14,
+          "end": 44.88
+        },
+        {
+          "word": "portrait.",
+          "start": 45.44,
+          "end": 45.62
+        }
+      ]
+    },
+    {
+      "start": 46.4,
+      "end": 49.66,
+      "text": "Don't grab a story template or a post and try to stretch it later,",
+      "words": [
+        {
+          "word": "Don't",
+          "start": 46.4,
+          "end": 46.64
+        },
+        {
+          "word": "grab",
+          "start": 46.64,
+          "end": 46.78
+        },
+        {
+          "word": "a",
+          "start": 46.78,
+          "end": 46.96
+        },
+        {
+          "word": "story",
+          "start": 46.96,
+          "end": 47.12
+        },
+        {
+          "word": "template",
+          "start": 47.12,
+          "end": 47.58
+        },
+        {
+          "word": "or",
+          "start": 47.58,
+          "end": 48.0
+        },
+        {
+          "word": "a",
+          "start": 48.0,
+          "end": 48.12
+        },
+        {
+          "word": "post",
+          "start": 48.12,
+          "end": 48.36
+        },
+        {
+          "word": "and",
+          "start": 48.36,
+          "end": 48.7
+        },
+        {
+          "word": "try",
+          "start": 48.7,
+          "end": 48.86
+        },
+        {
+          "word": "to",
+          "start": 48.86,
+          "end": 48.98
+        },
+        {
+          "word": "stretch",
+          "start": 48.98,
+          "end": 49.18
+        },
+        {
+          "word": "it",
+          "start": 49.18,
+          "end": 49.36
+        },
+        {
+          "word": "later,",
+          "start": 49.36,
+          "end": 49.66
+        }
+      ]
+    },
+    {
+      "start": 50.0,
+      "end": 54.52,
+      "text": "because your text will sit in the wrong safe zones and Instagram will crop right over it.",
+      "words": [
+        {
+          "word": "because",
+          "start": 50.0,
+          "end": 50.38
+        },
+        {
+          "word": "your",
+          "start": 50.38,
+          "end": 50.56
+        },
+        {
+          "word": "text",
+          "start": 50.56,
+          "end": 50.78
+        },
+        {
+          "word": "will",
+          "start": 50.78,
+          "end": 50.98
+        },
+        {
+          "word": "sit",
+          "start": 50.98,
+          "end": 51.14
+        },
+        {
+          "word": "in",
+          "start": 51.14,
+          "end": 51.3
+        },
+        {
+          "word": "the",
+          "start": 51.3,
+          "end": 51.46
+        },
+        {
+          "word": "wrong",
+          "start": 51.46,
+          "end": 51.66
+        },
+        {
+          "word": "safe",
+          "start": 51.66,
+          "end": 51.96
+        },
+        {
+          "word": "zones",
+          "start": 51.96,
+          "end": 52.22
+        },
+        {
+          "word": "and",
+          "start": 52.22,
+          "end": 52.48
+        },
+        {
+          "word": "Instagram",
+          "start": 52.48,
+          "end": 52.92
+        },
+        {
+          "word": "will",
+          "start": 52.92,
+          "end": 53.14
+        },
+        {
+          "word": "crop",
+          "start": 53.14,
+          "end": 53.38
+        },
+        {
+          "word": "right",
+          "start": 53.38,
+          "end": 54.0
+        },
+        {
+          "word": "over",
+          "start": 54.0,
+          "end": 54.26
+        },
+        {
+          "word": "it.",
+          "start": 54.26,
+          "end": 54.52
+        }
+      ]
+    },
+    {
+      "start": 54.52,
+      "end": 57.78,
+      "text": "Before you touch anything else, look at the edges of the canvas.",
+      "words": [
+        {
+          "word": "Before",
+          "start": 54.52,
+          "end": 55.12
+        },
+        {
+          "word": "you",
+          "start": 55.12,
+          "end": 55.3
+        },
+        {
+          "word": "touch",
+          "start": 55.3,
+          "end": 55.48
+        },
+        {
+          "word": "anything",
+          "start": 55.48,
+          "end": 55.82
+        },
+        {
+          "word": "else,",
+          "start": 55.82,
+          "end": 56.12
+        },
+        {
+          "word": "look",
+          "start": 56.54,
+          "end": 56.62
+        },
+        {
+          "word": "at",
+          "start": 56.62,
+          "end": 56.72
+        },
+        {
+          "word": "the",
+          "start": 56.72,
+          "end": 56.82
+        },
+        {
+          "word": "edges",
+          "start": 56.82,
+          "end": 57.06
+        },
+        {
+          "word": "of",
+          "start": 57.06,
+          "end": 57.26
+        },
+        {
+          "word": "the",
+          "start": 57.26,
+          "end": 57.38
+        },
+        {
+          "word": "canvas.",
+          "start": 57.38,
+          "end": 57.78
+        }
+      ]
+    },
+    {
+      "start": 58.8,
+      "end": 62.1,
+      "text": "The top 15% and the bottom 20% are danger zones.",
+      "words": [
+        {
+          "word": "The",
+          "start": 58.8,
+          "end": 58.88
+        },
+        {
+          "word": "top",
+          "start": 58.88,
+          "end": 59.08
+        },
+        {
+          "word": "15",
+          "start": 59.08,
+          "end": 59.48
+        },
+        {
+          "word": "%",
+          "start": 59.48,
+          "end": 59.84
+        },
+        {
+          "word": "and",
+          "start": 59.84,
+          "end": 60.12
+        },
+        {
+          "word": "the",
+          "start": 60.12,
+          "end": 60.22
+        },
+        {
+          "word": "bottom",
+          "start": 60.22,
+          "end": 60.5
+        },
+        {
+          "word": "20",
+          "start": 60.5,
+          "end": 60.84
+        },
+        {
+          "word": "%",
+          "start": 60.84,
+          "end": 61.16
+        },
+        {
+          "word": "are",
+          "start": 61.16,
+          "end": 61.36
+        },
+        {
+          "word": "danger",
+          "start": 61.36,
+          "end": 61.72
+        },
+        {
+          "word": "zones.",
+          "start": 61.72,
+          "end": 62.1
+        }
+      ]
+    },
+    {
+      "start": 63.28,
+      "end": 65.34,
+      "text": "That's where Instagram lays its own interface.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 63.28,
+          "end": 63.46
+        },
+        {
+          "word": "where",
+          "start": 63.46,
+          "end": 63.58
+        },
+        {
+          "word": "Instagram",
+          "start": 63.58,
+          "end": 64.04
+        },
+        {
+          "word": "lays",
+          "start": 64.04,
+          "end": 64.36
+        },
+        {
+          "word": "its",
+          "start": 64.36,
+          "end": 64.62
+        },
+        {
+          "word": "own",
+          "start": 64.62,
+          "end": 64.82
+        },
+        {
+          "word": "interface.",
+          "start": 64.82,
+          "end": 65.34
+        }
+      ]
+    },
+    {
+      "start": 65.94,
+      "end": 68.86,
+      "text": "Your caption, the audio tag, the share buttons.",
+      "words": [
+        {
+          "word": "Your",
+          "start": 65.94,
+          "end": 66.04
+        },
+        {
+          "word": "caption,",
+          "start": 66.04,
+          "end": 66.38
+        },
+        {
+          "word": "the",
+          "start": 67.02,
+          "end": 67.12
+        },
+        {
+          "word": "audio",
+          "start": 67.12,
+          "end": 67.38
+        },
+        {
+          "word": "tag,",
+          "start": 67.38,
+          "end": 67.76
+        },
+        {
+          "word": "the",
+          "start": 68.2,
+          "end": 68.32
+        },
+        {
+          "word": "share",
+          "start": 68.32,
+          "end": 68.52
+        },
+        {
+          "word": "buttons.",
+          "start": 68.52,
+          "end": 68.86
+        }
+      ]
+    },
+    {
+      "start": 69.56,
+      "end": 71.62,
+      "text": "Anything important lives in the middle of the frame.",
+      "words": [
+        {
+          "word": "Anything",
+          "start": 69.56,
+          "end": 69.84
+        },
+        {
+          "word": "important",
+          "start": 69.84,
+          "end": 70.24
+        },
+        {
+          "word": "lives",
+          "start": 70.24,
+          "end": 70.56
+        },
+        {
+          "word": "in",
+          "start": 70.56,
+          "end": 70.72
+        },
+        {
+          "word": "the",
+          "start": 70.72,
+          "end": 70.84
+        },
+        {
+          "word": "middle",
+          "start": 70.84,
+          "end": 70.98
+        },
+        {
+          "word": "of",
+          "start": 70.98,
+          "end": 71.18
+        },
+        {
+          "word": "the",
+          "start": 71.18,
+          "end": 71.34
+        },
+        {
+          "word": "frame.",
+          "start": 71.34,
+          "end": 71.62
+        }
+      ]
+    },
+    {
+      "start": 72.32,
+      "end": 74.04,
+      "text": "Keep that in your head the whole way through.",
+      "words": [
+        {
+          "word": "Keep",
+          "start": 72.32,
+          "end": 72.44
+        },
+        {
+          "word": "that",
+          "start": 72.44,
+          "end": 72.66
+        },
+        {
+          "word": "in",
+          "start": 72.66,
+          "end": 72.78
+        },
+        {
+          "word": "your",
+          "start": 72.78,
+          "end": 72.9
+        },
+        {
+          "word": "head",
+          "start": 72.9,
+          "end": 73.06
+        },
+        {
+          "word": "the",
+          "start": 73.06,
+          "end": 73.2
+        },
+        {
+          "word": "whole",
+          "start": 73.2,
+          "end": 73.42
+        },
+        {
+          "word": "way",
+          "start": 73.42,
+          "end": 73.66
+        },
+        {
+          "word": "through.",
+          "start": 73.66,
+          "end": 74.04
+        }
+      ]
+    },
+    {
+      "start": 74.9,
+      "end": 77.14,
+      "text": "Slide one is your hook, and it has one job.",
+      "words": [
+        {
+          "word": "Slide",
+          "start": 74.9,
+          "end": 75.14
+        },
+        {
+          "word": "one",
+          "start": 75.14,
+          "end": 75.32
+        },
+        {
+          "word": "is",
+          "start": 75.32,
+          "end": 75.44
+        },
+        {
+          "word": "your",
+          "start": 75.44,
+          "end": 75.58
+        },
+        {
+          "word": "hook,",
+          "start": 75.58,
+          "end": 75.82
+        },
+        {
+          "word": "and",
+          "start": 76.24,
+          "end": 76.34
+        },
+        {
+          "word": "it",
+          "start": 76.34,
+          "end": 76.42
+        },
+        {
+          "word": "has",
+          "start": 76.42,
+          "end": 76.56
+        },
+        {
+          "word": "one",
+          "start": 76.56,
+          "end": 76.82
+        },
+        {
+          "word": "job.",
+          "start": 76.82,
+          "end": 77.14
+        }
+      ]
+    },
+    {
+      "start": 77.62,
+      "end": 78.16,
+      "text": "Stop the thumb.",
+      "words": [
+        {
+          "word": "Stop",
+          "start": 77.62,
+          "end": 77.76
+        },
+        {
+          "word": "the",
+          "start": 77.76,
+          "end": 77.94
+        },
+        {
+          "word": "thumb.",
+          "start": 77.94,
+          "end": 78.16
+        }
+      ]
+    },
+    {
+      "start": 78.72,
+      "end": 82.7,
+      "text": "You've got well under a second, so we're doing big text, high contrast, no clutter.",
+      "words": [
+        {
+          "word": "You've",
+          "start": 78.72,
+          "end": 78.9
+        },
+        {
+          "word": "got",
+          "start": 78.9,
+          "end": 79.02
+        },
+        {
+          "word": "well",
+          "start": 79.02,
+          "end": 79.26
+        },
+        {
+          "word": "under",
+          "start": 79.26,
+          "end": 79.46
+        },
+        {
+          "word": "a",
+          "start": 79.46,
+          "end": 79.62
+        },
+        {
+          "word": "second,",
+          "start": 79.62,
+          "end": 79.86
+        },
+        {
+          "word": "so",
+          "start": 80.02,
+          "end": 80.16
+        },
+        {
+          "word": "we're",
+          "start": 80.16,
+          "end": 80.28
+        },
+        {
+          "word": "doing",
+          "start": 80.28,
+          "end": 80.52
+        },
+        {
+          "word": "big",
+          "start": 80.52,
+          "end": 80.76
+        },
+        {
+          "word": "text,",
+          "start": 80.76,
+          "end": 81.06
+        },
+        {
+          "word": "high",
+          "start": 81.36,
+          "end": 81.52
+        },
+        {
+          "word": "contrast,",
+          "start": 81.52,
+          "end": 81.94
+        },
+        {
+          "word": "no",
+          "start": 82.3,
+          "end": 82.42
+        },
+        {
+          "word": "clutter.",
+          "start": 82.42,
+          "end": 82.7
+        }
+      ]
+    },
+    {
+      "start": 82.7,
+      "end": 85.44,
+      "text": "click text, add a heading, and type your hook.",
+      "words": [
+        {
+          "word": "click",
+          "start": 82.7,
+          "end": 83.48
+        },
+        {
+          "word": "text,",
+          "start": 83.48,
+          "end": 83.86
+        },
+        {
+          "word": "add",
+          "start": 84.16,
+          "end": 84.28
+        },
+        {
+          "word": "a",
+          "start": 84.28,
+          "end": 84.4
+        },
+        {
+          "word": "heading,",
+          "start": 84.4,
+          "end": 84.56
+        },
+        {
+          "word": "and",
+          "start": 84.8,
+          "end": 84.9
+        },
+        {
+          "word": "type",
+          "start": 84.9,
+          "end": 85.08
+        },
+        {
+          "word": "your",
+          "start": 85.08,
+          "end": 85.24
+        },
+        {
+          "word": "hook.",
+          "start": 85.24,
+          "end": 85.44
+        }
+      ]
+    },
+    {
+      "start": 86.02,
+      "end": 88.24,
+      "text": "I'm using three Canva Tricks nobody shows you,",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 86.02,
+          "end": 86.16
+        },
+        {
+          "word": "using",
+          "start": 86.16,
+          "end": 86.36
+        },
+        {
+          "word": "three",
+          "start": 86.36,
+          "end": 86.66
+        },
+        {
+          "word": "Canva",
+          "start": 86.66,
+          "end": 86.98
+        },
+        {
+          "word": "Tricks",
+          "start": 86.98,
+          "end": 87.24
+        },
+        {
+          "word": "nobody",
+          "start": 87.24,
+          "end": 87.54
+        },
+        {
+          "word": "shows",
+          "start": 87.54,
+          "end": 87.92
+        },
+        {
+          "word": "you,",
+          "start": 87.92,
+          "end": 88.24
+        }
+      ]
+    },
+    {
+      "start": 88.48,
+      "end": 91.34,
+      "text": "but the formula is a number, a promise,",
+      "words": [
+        {
+          "word": "but",
+          "start": 88.48,
+          "end": 88.76
+        },
+        {
+          "word": "the",
+          "start": 88.76,
+          "end": 88.92
+        },
+        {
+          "word": "formula",
+          "start": 88.92,
+          "end": 89.22
+        },
+        {
+          "word": "is",
+          "start": 89.22,
+          "end": 89.72
+        },
+        {
+          "word": "a",
+          "start": 89.72,
+          "end": 90.24
+        },
+        {
+          "word": "number,",
+          "start": 90.24,
+          "end": 90.46
+        },
+        {
+          "word": "a",
+          "start": 90.94,
+          "end": 91.08
+        },
+        {
+          "word": "promise,",
+          "start": 91.08,
+          "end": 91.34
+        }
+      ]
+    },
+    {
+      "start": 91.8,
+      "end": 92.74,
+      "text": "and a hint of a secret.",
+      "words": [
+        {
+          "word": "and",
+          "start": 91.8,
+          "end": 91.96
+        },
+        {
+          "word": "a",
+          "start": 91.96,
+          "end": 92.04
+        },
+        {
+          "word": "hint",
+          "start": 92.04,
+          "end": 92.16
+        },
+        {
+          "word": "of",
+          "start": 92.16,
+          "end": 92.32
+        },
+        {
+          "word": "a",
+          "start": 92.32,
+          "end": 92.44
+        },
+        {
+          "word": "secret.",
+          "start": 92.44,
+          "end": 92.74
+        }
+      ]
+    },
+    {
+      "start": 93.36,
+      "end": 93.78,
+      "text": "Steal that.",
+      "words": [
+        {
+          "word": "Steal",
+          "start": 93.36,
+          "end": 93.5
+        },
+        {
+          "word": "that.",
+          "start": 93.5,
+          "end": 93.78
+        }
+      ]
+    },
+    {
+      "start": 94.28,
+      "end": 96.64,
+      "text": "If you're staring at a blank heading wondering what to write,",
+      "words": [
+        {
+          "word": "If",
+          "start": 94.28,
+          "end": 94.5
+        },
+        {
+          "word": "you're",
+          "start": 94.5,
+          "end": 94.68
+        },
+        {
+          "word": "staring",
+          "start": 94.68,
+          "end": 94.94
+        },
+        {
+          "word": "at",
+          "start": 94.94,
+          "end": 95.14
+        },
+        {
+          "word": "a",
+          "start": 95.14,
+          "end": 95.26
+        },
+        {
+          "word": "blank",
+          "start": 95.26,
+          "end": 95.44
+        },
+        {
+          "word": "heading",
+          "start": 95.44,
+          "end": 95.72
+        },
+        {
+          "word": "wondering",
+          "start": 95.72,
+          "end": 96.02
+        },
+        {
+          "word": "what",
+          "start": 96.02,
+          "end": 96.28
+        },
+        {
+          "word": "to",
+          "start": 96.28,
+          "end": 96.42
+        },
+        {
+          "word": "write,",
+          "start": 96.42,
+          "end": 96.64
+        }
+      ]
+    },
+    {
+      "start": 96.98,
+      "end": 100.02,
+      "text": "here are the three hook formulas that carry most viral reels.",
+      "words": [
+        {
+          "word": "here",
+          "start": 96.98,
+          "end": 97.32
+        },
+        {
+          "word": "are",
+          "start": 97.32,
+          "end": 97.44
+        },
+        {
+          "word": "the",
+          "start": 97.44,
+          "end": 97.58
+        },
+        {
+          "word": "three",
+          "start": 97.58,
+          "end": 97.78
+        },
+        {
+          "word": "hook",
+          "start": 97.78,
+          "end": 98.0
+        },
+        {
+          "word": "formulas",
+          "start": 98.0,
+          "end": 98.38
+        },
+        {
+          "word": "that",
+          "start": 98.38,
+          "end": 98.66
+        },
+        {
+          "word": "carry",
+          "start": 98.66,
+          "end": 98.9
+        },
+        {
+          "word": "most",
+          "start": 98.9,
+          "end": 99.2
+        },
+        {
+          "word": "viral",
+          "start": 99.2,
+          "end": 99.58
+        },
+        {
+          "word": "reels.",
+          "start": 99.58,
+          "end": 100.02
+        }
+      ]
+    },
+    {
+      "start": 100.82,
+      "end": 102.38,
+      "text": "One, the number promise,",
+      "words": [
+        {
+          "word": "One,",
+          "start": 100.82,
+          "end": 101.0
+        },
+        {
+          "word": "the",
+          "start": 101.52,
+          "end": 101.76
+        },
+        {
+          "word": "number",
+          "start": 101.76,
+          "end": 101.96
+        },
+        {
+          "word": "promise,",
+          "start": 101.96,
+          "end": 102.38
+        }
+      ]
+    },
+    {
+      "start": 103.68,
+      "end": 105.68,
+      "text": "three Canva Tricks nobody shows you.",
+      "words": [
+        {
+          "word": "three",
+          "start": 103.68,
+          "end": 103.94
+        },
+        {
+          "word": "Canva",
+          "start": 103.94,
+          "end": 104.32
+        },
+        {
+          "word": "Tricks",
+          "start": 104.32,
+          "end": 104.56
+        },
+        {
+          "word": "nobody",
+          "start": 104.56,
+          "end": 104.82
+        },
+        {
+          "word": "shows",
+          "start": 104.82,
+          "end": 105.12
+        },
+        {
+          "word": "you.",
+          "start": 105.12,
+          "end": 105.68
+        }
+      ]
+    },
+    {
+      "start": 106.22,
+      "end": 108.02,
+      "text": "Two, the callout.",
+      "words": [
+        {
+          "word": "Two,",
+          "start": 106.22,
+          "end": 106.74
+        },
+        {
+          "word": "the",
+          "start": 107.36,
+          "end": 107.58
+        },
+        {
+          "word": "callout.",
+          "start": 107.58,
+          "end": 108.02
+        }
+      ]
+    },
+    {
+      "start": 108.68,
+      "end": 111.5,
+      "text": "If you sell on Etsy, stop making this mistake.",
+      "words": [
+        {
+          "word": "If",
+          "start": 108.68,
+          "end": 109.2
+        },
+        {
+          "word": "you",
+          "start": 109.2,
+          "end": 109.34
+        },
+        {
+          "word": "sell",
+          "start": 109.34,
+          "end": 109.56
+        },
+        {
+          "word": "on",
+          "start": 109.56,
+          "end": 109.74
+        },
+        {
+          "word": "Etsy,",
+          "start": 109.74,
+          "end": 109.98
+        },
+        {
+          "word": "stop",
+          "start": 110.52,
+          "end": 110.64
+        },
+        {
+          "word": "making",
+          "start": 110.64,
+          "end": 110.88
+        },
+        {
+          "word": "this",
+          "start": 110.88,
+          "end": 111.14
+        },
+        {
+          "word": "mistake.",
+          "start": 111.14,
+          "end": 111.5
+        }
+      ]
+    },
+    {
+      "start": 112.8,
+      "end": 116.08,
+      "text": "You name your exact viewer and they physically cannot scroll past.",
+      "words": [
+        {
+          "word": "You",
+          "start": 112.8,
+          "end": 112.92
+        },
+        {
+          "word": "name",
+          "start": 112.92,
+          "end": 113.18
+        },
+        {
+          "word": "your",
+          "start": 113.18,
+          "end": 113.38
+        },
+        {
+          "word": "exact",
+          "start": 113.38,
+          "end": 113.68
+        },
+        {
+          "word": "viewer",
+          "start": 113.68,
+          "end": 114.04
+        },
+        {
+          "word": "and",
+          "start": 114.04,
+          "end": 114.5
+        },
+        {
+          "word": "they",
+          "start": 114.5,
+          "end": 114.64
+        },
+        {
+          "word": "physically",
+          "start": 114.64,
+          "end": 114.92
+        },
+        {
+          "word": "cannot",
+          "start": 114.92,
+          "end": 115.3
+        },
+        {
+          "word": "scroll",
+          "start": 115.3,
+          "end": 115.64
+        },
+        {
+          "word": "past.",
+          "start": 115.64,
+          "end": 116.08
+        }
+      ]
+    },
+    {
+      "start": 116.56,
+      "end": 116.86,
+      "text": "Three.",
+      "words": [
+        {
+          "word": "Three.",
+          "start": 116.56,
+          "end": 116.86
+        }
+      ]
+    },
+    {
+      "start": 117.34,
+      "end": 117.96,
+      "text": "The forbidden one.",
+      "words": [
+        {
+          "word": "The",
+          "start": 117.34,
+          "end": 117.42
+        },
+        {
+          "word": "forbidden",
+          "start": 117.42,
+          "end": 117.66
+        },
+        {
+          "word": "one.",
+          "start": 117.66,
+          "end": 117.96
+        }
+      ]
+    },
+    {
+      "start": 119.1,
+      "end": 120.56,
+      "text": "I wasn't going to share this.",
+      "words": [
+        {
+          "word": "I",
+          "start": 119.1,
+          "end": 119.38
+        },
+        {
+          "word": "wasn't",
+          "start": 119.38,
+          "end": 119.64
+        },
+        {
+          "word": "going",
+          "start": 119.64,
+          "end": 119.76
+        },
+        {
+          "word": "to",
+          "start": 119.76,
+          "end": 119.94
+        },
+        {
+          "word": "share",
+          "start": 119.94,
+          "end": 120.14
+        },
+        {
+          "word": "this.",
+          "start": 120.14,
+          "end": 120.56
+        }
+      ]
+    },
+    {
+      "start": 121.62,
+      "end": 122.74,
+      "text": "Curiosity does the rest.",
+      "words": [
+        {
+          "word": "Curiosity",
+          "start": 121.62,
+          "end": 121.8
+        },
+        {
+          "word": "does",
+          "start": 121.8,
+          "end": 122.26
+        },
+        {
+          "word": "the",
+          "start": 122.26,
+          "end": 122.44
+        },
+        {
+          "word": "rest.",
+          "start": 122.44,
+          "end": 122.74
+        }
+      ]
+    },
+    {
+      "start": 123.42,
+      "end": 127.82,
+      "text": "Write yours with one of those three and you're ahead of 90% of the feed before you've touched",
+      "words": [
+        {
+          "word": "Write",
+          "start": 123.42,
+          "end": 123.54
+        },
+        {
+          "word": "yours",
+          "start": 123.54,
+          "end": 123.8
+        },
+        {
+          "word": "with",
+          "start": 123.8,
+          "end": 124.1
+        },
+        {
+          "word": "one",
+          "start": 124.1,
+          "end": 124.28
+        },
+        {
+          "word": "of",
+          "start": 124.28,
+          "end": 124.4
+        },
+        {
+          "word": "those",
+          "start": 124.4,
+          "end": 124.56
+        },
+        {
+          "word": "three",
+          "start": 124.56,
+          "end": 124.92
+        },
+        {
+          "word": "and",
+          "start": 124.92,
+          "end": 125.4
+        },
+        {
+          "word": "you're",
+          "start": 125.4,
+          "end": 125.58
+        },
+        {
+          "word": "ahead",
+          "start": 125.58,
+          "end": 125.8
+        },
+        {
+          "word": "of",
+          "start": 125.8,
+          "end": 125.98
+        },
+        {
+          "word": "90",
+          "start": 125.98,
+          "end": 126.24
+        },
+        {
+          "word": "%",
+          "start": 126.24,
+          "end": 126.54
+        },
+        {
+          "word": "of",
+          "start": 126.54,
+          "end": 126.72
+        },
+        {
+          "word": "the",
+          "start": 126.72,
+          "end": 126.84
+        },
+        {
+          "word": "feed",
+          "start": 126.84,
+          "end": 127.08
+        },
+        {
+          "word": "before",
+          "start": 127.08,
+          "end": 127.38
+        },
+        {
+          "word": "you've",
+          "start": 127.38,
+          "end": 127.62
+        },
+        {
+          "word": "touched",
+          "start": 127.62,
+          "end": 127.82
+        }
+      ]
+    },
+    {
+      "start": 127.82,
+      "end": 128.68,
+      "text": "a single animation.",
+      "words": [
+        {
+          "word": "a",
+          "start": 127.82,
+          "end": 128.02
+        },
+        {
+          "word": "single",
+          "start": 128.02,
+          "end": 128.22
+        },
+        {
+          "word": "animation.",
+          "start": 128.22,
+          "end": 128.68
+        }
+      ]
+    },
+    {
+      "start": 129.56,
+      "end": 131.06,
+      "text": "Now make it impossible to ignore.",
+      "words": [
+        {
+          "word": "Now",
+          "start": 129.56,
+          "end": 129.82
+        },
+        {
+          "word": "make",
+          "start": 129.82,
+          "end": 129.98
+        },
+        {
+          "word": "it",
+          "start": 129.98,
+          "end": 130.1
+        },
+        {
+          "word": "impossible",
+          "start": 130.1,
+          "end": 130.38
+        },
+        {
+          "word": "to",
+          "start": 130.38,
+          "end": 130.72
+        },
+        {
+          "word": "ignore.",
+          "start": 130.72,
+          "end": 131.06
+        }
+      ]
+    },
+    {
+      "start": 131.94,
+      "end": 133.6,
+      "text": "Font map matters more than you think.",
+      "words": [
+        {
+          "word": "Font",
+          "start": 131.94,
+          "end": 132.06
+        },
+        {
+          "word": "map",
+          "start": 132.06,
+          "end": 132.26
+        },
+        {
+          "word": "matters",
+          "start": 132.26,
+          "end": 132.74
+        },
+        {
+          "word": "more",
+          "start": 132.74,
+          "end": 133.0
+        },
+        {
+          "word": "than",
+          "start": 133.0,
+          "end": 133.18
+        },
+        {
+          "word": "you",
+          "start": 133.18,
+          "end": 133.32
+        },
+        {
+          "word": "think.",
+          "start": 133.32,
+          "end": 133.6
+        }
+      ]
+    },
+    {
+      "start": 134.12,
+      "end": 134.68,
+      "text": "Go bold.",
+      "words": [
+        {
+          "word": "Go",
+          "start": 134.12,
+          "end": 134.3
+        },
+        {
+          "word": "bold.",
+          "start": 134.3,
+          "end": 134.68
+        }
+      ]
+    },
+    {
+      "start": 134.94,
+      "end": 135.3,
+      "text": "Go heavy.",
+      "words": [
+        {
+          "word": "Go",
+          "start": 134.94,
+          "end": 135.04
+        },
+        {
+          "word": "heavy.",
+          "start": 135.04,
+          "end": 135.3
+        }
+      ]
+    },
+    {
+      "start": 135.86,
+      "end": 140.96,
+      "text": "I'm using Archivo Black. Bump the size until it nearly touches the edges, then",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 135.86,
+          "end": 136.38
+        },
+        {
+          "word": "using",
+          "start": 136.38,
+          "end": 136.6
+        },
+        {
+          "word": "Archivo",
+          "start": 136.6,
+          "end": 137.04
+        },
+        {
+          "word": "Black.",
+          "start": 137.04,
+          "end": 137.44
+        },
+        {
+          "word": "Bump",
+          "start": 138.4,
+          "end": 138.48
+        },
+        {
+          "word": "the",
+          "start": 138.48,
+          "end": 138.66
+        },
+        {
+          "word": "size",
+          "start": 138.66,
+          "end": 138.92
+        },
+        {
+          "word": "until",
+          "start": 138.92,
+          "end": 139.18
+        },
+        {
+          "word": "it",
+          "start": 139.18,
+          "end": 139.32
+        },
+        {
+          "word": "nearly",
+          "start": 139.32,
+          "end": 139.5
+        },
+        {
+          "word": "touches",
+          "start": 139.5,
+          "end": 139.84
+        },
+        {
+          "word": "the",
+          "start": 139.84,
+          "end": 140.04
+        },
+        {
+          "word": "edges,",
+          "start": 140.04,
+          "end": 140.3
+        },
+        {
+          "word": "then",
+          "start": 140.74,
+          "end": 140.96
+        }
+      ]
+    },
+    {
+      "start": 140.96,
+      "end": 144.68,
+      "text": "set your two colors, one for the background, one for the text, and make",
+      "words": [
+        {
+          "word": "set",
+          "start": 140.96,
+          "end": 141.14
+        },
+        {
+          "word": "your",
+          "start": 141.14,
+          "end": 141.28
+        },
+        {
+          "word": "two",
+          "start": 141.28,
+          "end": 141.46
+        },
+        {
+          "word": "colors,",
+          "start": 141.46,
+          "end": 141.82
+        },
+        {
+          "word": "one",
+          "start": 142.24,
+          "end": 142.48
+        },
+        {
+          "word": "for",
+          "start": 142.48,
+          "end": 142.62
+        },
+        {
+          "word": "the",
+          "start": 142.62,
+          "end": 142.76
+        },
+        {
+          "word": "background,",
+          "start": 142.76,
+          "end": 143.14
+        },
+        {
+          "word": "one",
+          "start": 143.42,
+          "end": 143.54
+        },
+        {
+          "word": "for",
+          "start": 143.54,
+          "end": 143.7
+        },
+        {
+          "word": "the",
+          "start": 143.7,
+          "end": 143.84
+        },
+        {
+          "word": "text,",
+          "start": 143.84,
+          "end": 144.1
+        },
+        {
+          "word": "and",
+          "start": 144.46,
+          "end": 144.54
+        },
+        {
+          "word": "make",
+          "start": 144.54,
+          "end": 144.68
+        }
+      ]
+    },
+    {
+      "start": 144.68,
+      "end": 149.42,
+      "text": "them fight each other. Dark background, electric text. If your brand colors are",
+      "words": [
+        {
+          "word": "them",
+          "start": 144.68,
+          "end": 144.86
+        },
+        {
+          "word": "fight",
+          "start": 144.86,
+          "end": 145.04
+        },
+        {
+          "word": "each",
+          "start": 145.04,
+          "end": 145.24
+        },
+        {
+          "word": "other.",
+          "start": 145.24,
+          "end": 145.48
+        },
+        {
+          "word": "Dark",
+          "start": 146.18,
+          "end": 146.28
+        },
+        {
+          "word": "background,",
+          "start": 146.28,
+          "end": 146.76
+        },
+        {
+          "word": "electric",
+          "start": 147.16,
+          "end": 147.34
+        },
+        {
+          "word": "text.",
+          "start": 147.34,
+          "end": 147.74
+        },
+        {
+          "word": "If",
+          "start": 148.36,
+          "end": 148.52
+        },
+        {
+          "word": "your",
+          "start": 148.52,
+          "end": 148.68
+        },
+        {
+          "word": "brand",
+          "start": 148.68,
+          "end": 148.96
+        },
+        {
+          "word": "colors",
+          "start": 148.96,
+          "end": 149.22
+        },
+        {
+          "word": "are",
+          "start": 149.22,
+          "end": 149.42
+        }
+      ]
+    },
+    {
+      "start": 149.42,
+      "end": 155.1,
+      "text": "soft pastels, this is the one place you betray them. One more layer. Select the",
+      "words": [
+        {
+          "word": "soft",
+          "start": 149.42,
+          "end": 149.7
+        },
+        {
+          "word": "pastels,",
+          "start": 149.7,
+          "end": 150.22
+        },
+        {
+          "word": "this",
+          "start": 150.86,
+          "end": 151.08
+        },
+        {
+          "word": "is",
+          "start": 151.08,
+          "end": 151.22
+        },
+        {
+          "word": "the",
+          "start": 151.22,
+          "end": 151.4
+        },
+        {
+          "word": "one",
+          "start": 151.4,
+          "end": 151.62
+        },
+        {
+          "word": "place",
+          "start": 151.62,
+          "end": 151.92
+        },
+        {
+          "word": "you",
+          "start": 151.92,
+          "end": 152.16
+        },
+        {
+          "word": "betray",
+          "start": 152.16,
+          "end": 152.42
+        },
+        {
+          "word": "them.",
+          "start": 152.42,
+          "end": 152.76
+        },
+        {
+          "word": "One",
+          "start": 153.32,
+          "end": 153.58
+        },
+        {
+          "word": "more",
+          "start": 153.58,
+          "end": 153.8
+        },
+        {
+          "word": "layer.",
+          "start": 153.8,
+          "end": 154.1
+        },
+        {
+          "word": "Select",
+          "start": 154.64,
+          "end": 154.88
+        },
+        {
+          "word": "the",
+          "start": 154.88,
+          "end": 155.1
+        }
+      ]
+    },
+    {
+      "start": 155.1,
+      "end": 160.14,
+      "text": "text, hit effects, and add a background. That little color block behind the words.",
+      "words": [
+        {
+          "word": "text,",
+          "start": 155.1,
+          "end": 155.44
+        },
+        {
+          "word": "hit",
+          "start": 156.04,
+          "end": 156.18
+        },
+        {
+          "word": "effects,",
+          "start": 156.18,
+          "end": 156.5
+        },
+        {
+          "word": "and",
+          "start": 156.8,
+          "end": 156.92
+        },
+        {
+          "word": "add",
+          "start": 156.92,
+          "end": 157.06
+        },
+        {
+          "word": "a",
+          "start": 157.06,
+          "end": 157.18
+        },
+        {
+          "word": "background.",
+          "start": 157.18,
+          "end": 157.54
+        },
+        {
+          "word": "That",
+          "start": 158.2,
+          "end": 158.48
+        },
+        {
+          "word": "little",
+          "start": 158.48,
+          "end": 158.8
+        },
+        {
+          "word": "color",
+          "start": 158.8,
+          "end": 159.08
+        },
+        {
+          "word": "block",
+          "start": 159.08,
+          "end": 159.38
+        },
+        {
+          "word": "behind",
+          "start": 159.38,
+          "end": 159.72
+        },
+        {
+          "word": "the",
+          "start": 159.72,
+          "end": 159.86
+        },
+        {
+          "word": "words.",
+          "start": 159.86,
+          "end": 160.14
+        }
+      ]
+    },
+    {
+      "start": 160.14,
+      "end": 165.78,
+      "text": "words. It keeps your hook readable, even when the video behind it gets busy. That one click",
+      "words": [
+        {
+          "word": "words.",
+          "start": 160.14,
+          "end": 160.32
+        },
+        {
+          "word": "It",
+          "start": 160.96,
+          "end": 161.18
+        },
+        {
+          "word": "keeps",
+          "start": 161.18,
+          "end": 161.4
+        },
+        {
+          "word": "your",
+          "start": 161.4,
+          "end": 161.58
+        },
+        {
+          "word": "hook",
+          "start": 161.58,
+          "end": 161.74
+        },
+        {
+          "word": "readable,",
+          "start": 161.74,
+          "end": 162.16
+        },
+        {
+          "word": "even",
+          "start": 162.7,
+          "end": 162.86
+        },
+        {
+          "word": "when",
+          "start": 162.86,
+          "end": 163.04
+        },
+        {
+          "word": "the",
+          "start": 163.04,
+          "end": 163.2
+        },
+        {
+          "word": "video",
+          "start": 163.2,
+          "end": 163.42
+        },
+        {
+          "word": "behind",
+          "start": 163.42,
+          "end": 163.72
+        },
+        {
+          "word": "it",
+          "start": 163.72,
+          "end": 163.88
+        },
+        {
+          "word": "gets",
+          "start": 163.88,
+          "end": 164.04
+        },
+        {
+          "word": "busy.",
+          "start": 164.04,
+          "end": 164.36
+        },
+        {
+          "word": "That",
+          "start": 165.08,
+          "end": 165.26
+        },
+        {
+          "word": "one",
+          "start": 165.26,
+          "end": 165.52
+        },
+        {
+          "word": "click",
+          "start": 165.52,
+          "end": 165.78
+        }
+      ]
+    },
+    {
+      "start": 165.78,
+      "end": 168.22,
+      "text": "is doing more work than any transition you'll add later.",
+      "words": [
+        {
+          "word": "is",
+          "start": 165.78,
+          "end": 165.94
+        },
+        {
+          "word": "doing",
+          "start": 165.94,
+          "end": 166.12
+        },
+        {
+          "word": "more",
+          "start": 166.12,
+          "end": 166.36
+        },
+        {
+          "word": "work",
+          "start": 166.36,
+          "end": 166.6
+        },
+        {
+          "word": "than",
+          "start": 166.6,
+          "end": 166.8
+        },
+        {
+          "word": "any",
+          "start": 166.8,
+          "end": 167.04
+        },
+        {
+          "word": "transition",
+          "start": 167.04,
+          "end": 167.44
+        },
+        {
+          "word": "you'll",
+          "start": 167.44,
+          "end": 167.72
+        },
+        {
+          "word": "add",
+          "start": 167.72,
+          "end": 167.88
+        },
+        {
+          "word": "later.",
+          "start": 167.88,
+          "end": 168.22
+        }
+      ]
+    },
+    {
+      "start": 169.04,
+      "end": 174.82,
+      "text": "Now duplicate that slide three times, the little duplicate icon, right here. Same background,",
+      "words": [
+        {
+          "word": "Now",
+          "start": 169.04,
+          "end": 169.22
+        },
+        {
+          "word": "duplicate",
+          "start": 169.22,
+          "end": 169.58
+        },
+        {
+          "word": "that",
+          "start": 169.58,
+          "end": 170.02
+        },
+        {
+          "word": "slide",
+          "start": 170.02,
+          "end": 170.38
+        },
+        {
+          "word": "three",
+          "start": 170.38,
+          "end": 170.66
+        },
+        {
+          "word": "times,",
+          "start": 170.66,
+          "end": 171.08
+        },
+        {
+          "word": "the",
+          "start": 171.52,
+          "end": 171.6
+        },
+        {
+          "word": "little",
+          "start": 171.6,
+          "end": 171.82
+        },
+        {
+          "word": "duplicate",
+          "start": 171.82,
+          "end": 172.2
+        },
+        {
+          "word": "icon,",
+          "start": 172.2,
+          "end": 172.7
+        },
+        {
+          "word": "right",
+          "start": 173.24,
+          "end": 173.38
+        },
+        {
+          "word": "here.",
+          "start": 173.38,
+          "end": 173.76
+        },
+        {
+          "word": "Same",
+          "start": 174.3,
+          "end": 174.42
+        },
+        {
+          "word": "background,",
+          "start": 174.42,
+          "end": 174.82
+        }
+      ]
+    },
+    {
+      "start": 175.2,
+      "end": 180.32,
+      "text": "same fonts, same positions. That consistency is what makes it feel designed instead of",
+      "words": [
+        {
+          "word": "same",
+          "start": 175.2,
+          "end": 175.36
+        },
+        {
+          "word": "fonts,",
+          "start": 175.36,
+          "end": 175.68
+        },
+        {
+          "word": "same",
+          "start": 175.96,
+          "end": 176.08
+        },
+        {
+          "word": "positions.",
+          "start": 176.08,
+          "end": 176.5
+        },
+        {
+          "word": "That",
+          "start": 177.12,
+          "end": 177.4
+        },
+        {
+          "word": "consistency",
+          "start": 177.4,
+          "end": 177.88
+        },
+        {
+          "word": "is",
+          "start": 177.88,
+          "end": 178.42
+        },
+        {
+          "word": "what",
+          "start": 178.42,
+          "end": 178.6
+        },
+        {
+          "word": "makes",
+          "start": 178.6,
+          "end": 178.86
+        },
+        {
+          "word": "it",
+          "start": 178.86,
+          "end": 179.1
+        },
+        {
+          "word": "feel",
+          "start": 179.1,
+          "end": 179.32
+        },
+        {
+          "word": "designed",
+          "start": 179.32,
+          "end": 179.8
+        },
+        {
+          "word": "instead",
+          "start": 179.8,
+          "end": 180.16
+        },
+        {
+          "word": "of",
+          "start": 180.16,
+          "end": 180.32
+        }
+      ]
+    },
+    {
+      "start": 180.32,
+      "end": 185.02,
+      "text": "thrown together, and it means the text lands in the same spot every slide which matters",
+      "words": [
+        {
+          "word": "thrown",
+          "start": 180.32,
+          "end": 180.6
+        },
+        {
+          "word": "together,",
+          "start": 180.6,
+          "end": 181.06
+        },
+        {
+          "word": "and",
+          "start": 181.5,
+          "end": 181.68
+        },
+        {
+          "word": "it",
+          "start": 181.68,
+          "end": 181.78
+        },
+        {
+          "word": "means",
+          "start": 181.78,
+          "end": 182.06
+        },
+        {
+          "word": "the",
+          "start": 182.06,
+          "end": 182.32
+        },
+        {
+          "word": "text",
+          "start": 182.32,
+          "end": 182.58
+        },
+        {
+          "word": "lands",
+          "start": 182.58,
+          "end": 182.88
+        },
+        {
+          "word": "in",
+          "start": 182.88,
+          "end": 183.06
+        },
+        {
+          "word": "the",
+          "start": 183.06,
+          "end": 183.18
+        },
+        {
+          "word": "same",
+          "start": 183.18,
+          "end": 183.4
+        },
+        {
+          "word": "spot",
+          "start": 183.4,
+          "end": 183.7
+        },
+        {
+          "word": "every",
+          "start": 183.7,
+          "end": 184.0
+        },
+        {
+          "word": "slide",
+          "start": 184.0,
+          "end": 184.4
+        },
+        {
+          "word": "which",
+          "start": 184.4,
+          "end": 184.68
+        },
+        {
+          "word": "matters",
+          "start": 184.68,
+          "end": 185.02
+        }
+      ]
+    },
+    {
+      "start": 185.02,
+      "end": 191.64,
+      "text": "when we animate. Slides 2, 3, and 4 are your actual content. One idea per slide, one line",
+      "words": [
+        {
+          "word": "when",
+          "start": 185.02,
+          "end": 185.24
+        },
+        {
+          "word": "we",
+          "start": 185.24,
+          "end": 185.4
+        },
+        {
+          "word": "animate.",
+          "start": 185.4,
+          "end": 185.78
+        },
+        {
+          "word": "Slides",
+          "start": 186.54,
+          "end": 186.66
+        },
+        {
+          "word": "2,",
+          "start": 186.66,
+          "end": 186.98
+        },
+        {
+          "word": "3,",
+          "start": 187.1,
+          "end": 187.34
+        },
+        {
+          "word": "and",
+          "start": 187.42,
+          "end": 187.5
+        },
+        {
+          "word": "4",
+          "start": 187.5,
+          "end": 187.74
+        },
+        {
+          "word": "are",
+          "start": 187.74,
+          "end": 187.98
+        },
+        {
+          "word": "your",
+          "start": 187.98,
+          "end": 188.22
+        },
+        {
+          "word": "actual",
+          "start": 188.22,
+          "end": 188.68
+        },
+        {
+          "word": "content.",
+          "start": 188.68,
+          "end": 189.2
+        },
+        {
+          "word": "One",
+          "start": 189.76,
+          "end": 189.96
+        },
+        {
+          "word": "idea",
+          "start": 189.96,
+          "end": 190.28
+        },
+        {
+          "word": "per",
+          "start": 190.28,
+          "end": 190.5
+        },
+        {
+          "word": "slide,",
+          "start": 190.5,
+          "end": 190.82
+        },
+        {
+          "word": "one",
+          "start": 191.08,
+          "end": 191.42
+        },
+        {
+          "word": "line",
+          "start": 191.42,
+          "end": 191.64
+        }
+      ]
+    },
+    {
+      "start": 191.64,
+      "end": 197.0,
+      "text": "of setup, and one line of payoff. Nobody reads a paragraph in a reel. If a slide needs more",
+      "words": [
+        {
+          "word": "of",
+          "start": 191.64,
+          "end": 191.8
+        },
+        {
+          "word": "setup,",
+          "start": 191.8,
+          "end": 192.0
+        },
+        {
+          "word": "and",
+          "start": 192.26,
+          "end": 192.38
+        },
+        {
+          "word": "one",
+          "start": 192.38,
+          "end": 192.58
+        },
+        {
+          "word": "line",
+          "start": 192.58,
+          "end": 192.76
+        },
+        {
+          "word": "of",
+          "start": 192.76,
+          "end": 192.92
+        },
+        {
+          "word": "payoff.",
+          "start": 192.92,
+          "end": 193.18
+        },
+        {
+          "word": "Nobody",
+          "start": 193.94,
+          "end": 194.14
+        },
+        {
+          "word": "reads",
+          "start": 194.14,
+          "end": 194.46
+        },
+        {
+          "word": "a",
+          "start": 194.46,
+          "end": 194.62
+        },
+        {
+          "word": "paragraph",
+          "start": 194.62,
+          "end": 195.0
+        },
+        {
+          "word": "in",
+          "start": 195.0,
+          "end": 195.2
+        },
+        {
+          "word": "a",
+          "start": 195.2,
+          "end": 195.32
+        },
+        {
+          "word": "reel.",
+          "start": 195.32,
+          "end": 195.48
+        },
+        {
+          "word": "If",
+          "start": 196.02,
+          "end": 196.16
+        },
+        {
+          "word": "a",
+          "start": 196.16,
+          "end": 196.32
+        },
+        {
+          "word": "slide",
+          "start": 196.32,
+          "end": 196.52
+        },
+        {
+          "word": "needs",
+          "start": 196.52,
+          "end": 196.72
+        },
+        {
+          "word": "more",
+          "start": 196.72,
+          "end": 197.0
+        }
+      ]
+    },
+    {
+      "start": 197.0,
+      "end": 201.12,
+      "text": "than two short lines, it's two slides. Let's make it feel alive.",
+      "words": [
+        {
+          "word": "than",
+          "start": 197.0,
+          "end": 197.18
+        },
+        {
+          "word": "two",
+          "start": 197.18,
+          "end": 197.4
+        },
+        {
+          "word": "short",
+          "start": 197.4,
+          "end": 197.68
+        },
+        {
+          "word": "lines,",
+          "start": 197.68,
+          "end": 198.0
+        },
+        {
+          "word": "it's",
+          "start": 198.26,
+          "end": 198.54
+        },
+        {
+          "word": "two",
+          "start": 198.54,
+          "end": 198.72
+        },
+        {
+          "word": "slides.",
+          "start": 198.72,
+          "end": 199.06
+        },
+        {
+          "word": "Let's",
+          "start": 199.74,
+          "end": 199.96
+        },
+        {
+          "word": "make",
+          "start": 199.96,
+          "end": 200.1
+        },
+        {
+          "word": "it",
+          "start": 200.1,
+          "end": 200.28
+        },
+        {
+          "word": "feel",
+          "start": 200.28,
+          "end": 200.54
+        },
+        {
+          "word": "alive.",
+          "start": 200.54,
+          "end": 201.12
+        }
+      ]
+    },
+    {
+      "start": 202.34,
+      "end": 206.34,
+      "text": "Photos or graphics. Click elements, and if you're dropping a product shot or a face in,",
+      "words": [
+        {
+          "word": "Photos",
+          "start": 202.34,
+          "end": 202.34
+        },
+        {
+          "word": "or",
+          "start": 202.34,
+          "end": 202.52
+        },
+        {
+          "word": "graphics.",
+          "start": 202.52,
+          "end": 202.82
+        },
+        {
+          "word": "Click",
+          "start": 203.34,
+          "end": 203.5
+        },
+        {
+          "word": "elements,",
+          "start": 203.5,
+          "end": 203.8
+        },
+        {
+          "word": "and",
+          "start": 204.0,
+          "end": 204.18
+        },
+        {
+          "word": "if",
+          "start": 204.18,
+          "end": 204.28
+        },
+        {
+          "word": "you're",
+          "start": 204.28,
+          "end": 204.42
+        },
+        {
+          "word": "dropping",
+          "start": 204.42,
+          "end": 204.68
+        },
+        {
+          "word": "a",
+          "start": 204.68,
+          "end": 204.96
+        },
+        {
+          "word": "product",
+          "start": 204.96,
+          "end": 205.18
+        },
+        {
+          "word": "shot",
+          "start": 205.18,
+          "end": 205.44
+        },
+        {
+          "word": "or",
+          "start": 205.44,
+          "end": 205.72
+        },
+        {
+          "word": "a",
+          "start": 205.72,
+          "end": 205.82
+        },
+        {
+          "word": "face",
+          "start": 205.82,
+          "end": 206.04
+        },
+        {
+          "word": "in,",
+          "start": 206.04,
+          "end": 206.34
+        }
+      ]
+    },
+    {
+      "start": 206.68,
+      "end": 212.44,
+      "text": "use Edit Photo and Background Remover. Yes, that's now on the free tier. So it sits on",
+      "words": [
+        {
+          "word": "use",
+          "start": 206.68,
+          "end": 206.94
+        },
+        {
+          "word": "Edit",
+          "start": 206.94,
+          "end": 207.2
+        },
+        {
+          "word": "Photo",
+          "start": 207.2,
+          "end": 207.46
+        },
+        {
+          "word": "and",
+          "start": 207.46,
+          "end": 207.76
+        },
+        {
+          "word": "Background",
+          "start": 207.76,
+          "end": 208.1
+        },
+        {
+          "word": "Remover.",
+          "start": 208.1,
+          "end": 208.54
+        },
+        {
+          "word": "Yes,",
+          "start": 209.26,
+          "end": 209.58
+        },
+        {
+          "word": "that's",
+          "start": 209.94,
+          "end": 210.28
+        },
+        {
+          "word": "now",
+          "start": 210.28,
+          "end": 210.5
+        },
+        {
+          "word": "on",
+          "start": 210.5,
+          "end": 210.74
+        },
+        {
+          "word": "the",
+          "start": 210.74,
+          "end": 210.86
+        },
+        {
+          "word": "free",
+          "start": 210.86,
+          "end": 211.04
+        },
+        {
+          "word": "tier.",
+          "start": 211.04,
+          "end": 211.32
+        },
+        {
+          "word": "So",
+          "start": 211.74,
+          "end": 211.96
+        },
+        {
+          "word": "it",
+          "start": 211.96,
+          "end": 212.06
+        },
+        {
+          "word": "sits",
+          "start": 212.06,
+          "end": 212.22
+        },
+        {
+          "word": "on",
+          "start": 212.22,
+          "end": 212.44
+        }
+      ]
+    },
+    {
+      "start": 212.44,
+      "end": 218.34,
+      "text": "your color instead of inside a white box. Animation time, and here's the rule. One animation",
+      "words": [
+        {
+          "word": "your",
+          "start": 212.44,
+          "end": 212.56
+        },
+        {
+          "word": "color",
+          "start": 212.56,
+          "end": 212.84
+        },
+        {
+          "word": "instead",
+          "start": 212.84,
+          "end": 213.3
+        },
+        {
+          "word": "of",
+          "start": 213.3,
+          "end": 213.48
+        },
+        {
+          "word": "inside",
+          "start": 213.48,
+          "end": 213.9
+        },
+        {
+          "word": "a",
+          "start": 213.9,
+          "end": 214.16
+        },
+        {
+          "word": "white",
+          "start": 214.16,
+          "end": 214.36
+        },
+        {
+          "word": "box.",
+          "start": 214.36,
+          "end": 214.86
+        },
+        {
+          "word": "Animation",
+          "start": 215.7,
+          "end": 216.0
+        },
+        {
+          "word": "time,",
+          "start": 216.0,
+          "end": 216.4
+        },
+        {
+          "word": "and",
+          "start": 216.62,
+          "end": 216.62
+        },
+        {
+          "word": "here's",
+          "start": 216.62,
+          "end": 216.88
+        },
+        {
+          "word": "the",
+          "start": 216.88,
+          "end": 217.0
+        },
+        {
+          "word": "rule.",
+          "start": 217.0,
+          "end": 217.2
+        },
+        {
+          "word": "One",
+          "start": 217.74,
+          "end": 218.0
+        },
+        {
+          "word": "animation",
+          "start": 218.0,
+          "end": 218.34
+        }
+      ]
+    },
+    {
+      "start": 218.34,
+      "end": 223.84,
+      "text": "style for the whole reel. Select the page, click animate, and look at these. For reels",
+      "words": [
+        {
+          "word": "style",
+          "start": 218.34,
+          "end": 218.74
+        },
+        {
+          "word": "for",
+          "start": 218.74,
+          "end": 219.02
+        },
+        {
+          "word": "the",
+          "start": 219.02,
+          "end": 219.14
+        },
+        {
+          "word": "whole",
+          "start": 219.14,
+          "end": 219.34
+        },
+        {
+          "word": "reel.",
+          "start": 219.34,
+          "end": 219.58
+        },
+        {
+          "word": "Select",
+          "start": 220.14,
+          "end": 220.4
+        },
+        {
+          "word": "the",
+          "start": 220.4,
+          "end": 220.58
+        },
+        {
+          "word": "page,",
+          "start": 220.58,
+          "end": 220.92
+        },
+        {
+          "word": "click",
+          "start": 221.26,
+          "end": 221.46
+        },
+        {
+          "word": "animate,",
+          "start": 221.46,
+          "end": 221.76
+        },
+        {
+          "word": "and",
+          "start": 222.22,
+          "end": 222.38
+        },
+        {
+          "word": "look",
+          "start": 222.38,
+          "end": 222.5
+        },
+        {
+          "word": "at",
+          "start": 222.5,
+          "end": 222.64
+        },
+        {
+          "word": "these.",
+          "start": 222.64,
+          "end": 222.98
+        },
+        {
+          "word": "For",
+          "start": 223.4,
+          "end": 223.56
+        },
+        {
+          "word": "reels",
+          "start": 223.56,
+          "end": 223.84
+        }
+      ]
+    },
+    {
+      "start": 223.84,
+      "end": 228.72,
+      "text": "you want the aggressive ones. Pop, tumble, breathe, I'm using pop. Click it once, and",
+      "words": [
+        {
+          "word": "you",
+          "start": 223.84,
+          "end": 224.0
+        },
+        {
+          "word": "want",
+          "start": 224.0,
+          "end": 224.16
+        },
+        {
+          "word": "the",
+          "start": 224.16,
+          "end": 224.3
+        },
+        {
+          "word": "aggressive",
+          "start": 224.3,
+          "end": 224.6
+        },
+        {
+          "word": "ones.",
+          "start": 224.6,
+          "end": 224.98
+        },
+        {
+          "word": "Pop,",
+          "start": 225.5,
+          "end": 225.64
+        },
+        {
+          "word": "tumble,",
+          "start": 225.82,
+          "end": 225.94
+        },
+        {
+          "word": "breathe,",
+          "start": 226.18,
+          "end": 226.38
+        },
+        {
+          "word": "I'm",
+          "start": 226.6,
+          "end": 226.72
+        },
+        {
+          "word": "using",
+          "start": 226.72,
+          "end": 226.94
+        },
+        {
+          "word": "pop.",
+          "start": 226.94,
+          "end": 227.2
+        },
+        {
+          "word": "Click",
+          "start": 227.7,
+          "end": 227.82
+        },
+        {
+          "word": "it",
+          "start": 227.82,
+          "end": 227.96
+        },
+        {
+          "word": "once,",
+          "start": 227.96,
+          "end": 228.2
+        },
+        {
+          "word": "and",
+          "start": 228.54,
+          "end": 228.72
+        }
+      ]
+    },
+    {
+      "start": 228.72,
+      "end": 233.96,
+      "text": "it applies to the page. Do the same on every slide. Skip the gentle fades, gentle reads",
+      "words": [
+        {
+          "word": "it",
+          "start": 228.72,
+          "end": 228.8
+        },
+        {
+          "word": "applies",
+          "start": 228.8,
+          "end": 229.08
+        },
+        {
+          "word": "to",
+          "start": 229.08,
+          "end": 229.28
+        },
+        {
+          "word": "the",
+          "start": 229.28,
+          "end": 229.4
+        },
+        {
+          "word": "page.",
+          "start": 229.4,
+          "end": 229.66
+        },
+        {
+          "word": "Do",
+          "start": 230.24,
+          "end": 230.36
+        },
+        {
+          "word": "the",
+          "start": 230.36,
+          "end": 230.52
+        },
+        {
+          "word": "same",
+          "start": 230.52,
+          "end": 230.74
+        },
+        {
+          "word": "on",
+          "start": 230.74,
+          "end": 230.94
+        },
+        {
+          "word": "every",
+          "start": 230.94,
+          "end": 231.18
+        },
+        {
+          "word": "slide.",
+          "start": 231.18,
+          "end": 231.54
+        },
+        {
+          "word": "Skip",
+          "start": 232.02,
+          "end": 232.24
+        },
+        {
+          "word": "the",
+          "start": 232.24,
+          "end": 232.42
+        },
+        {
+          "word": "gentle",
+          "start": 232.42,
+          "end": 232.66
+        },
+        {
+          "word": "fades,",
+          "start": 232.66,
+          "end": 233.0
+        },
+        {
+          "word": "gentle",
+          "start": 233.46,
+          "end": 233.68
+        },
+        {
+          "word": "reads",
+          "start": 233.68,
+          "end": 233.96
+        }
+      ]
+    },
+    {
+      "start": 233.96,
+      "end": 239.96,
+      "text": "as slow, and slow gets scrolled. Now, timing. Each slide's got a duration on it. Click the",
+      "words": [
+        {
+          "word": "as",
+          "start": 233.96,
+          "end": 234.16
+        },
+        {
+          "word": "slow,",
+          "start": 234.16,
+          "end": 234.5
+        },
+        {
+          "word": "and",
+          "start": 234.86,
+          "end": 235.06
+        },
+        {
+          "word": "slow",
+          "start": 235.06,
+          "end": 235.28
+        },
+        {
+          "word": "gets",
+          "start": 235.28,
+          "end": 235.48
+        },
+        {
+          "word": "scrolled.",
+          "start": 235.48,
+          "end": 235.9
+        },
+        {
+          "word": "Now,",
+          "start": 236.5,
+          "end": 236.74
+        },
+        {
+          "word": "timing.",
+          "start": 237.04,
+          "end": 237.24
+        },
+        {
+          "word": "Each",
+          "start": 237.62,
+          "end": 237.8
+        },
+        {
+          "word": "slide's",
+          "start": 237.8,
+          "end": 238.18
+        },
+        {
+          "word": "got",
+          "start": 238.18,
+          "end": 238.32
+        },
+        {
+          "word": "a",
+          "start": 238.32,
+          "end": 238.46
+        },
+        {
+          "word": "duration",
+          "start": 238.46,
+          "end": 238.78
+        },
+        {
+          "word": "on",
+          "start": 238.78,
+          "end": 239.04
+        },
+        {
+          "word": "it.",
+          "start": 239.04,
+          "end": 239.26
+        },
+        {
+          "word": "Click",
+          "start": 239.64,
+          "end": 239.8
+        },
+        {
+          "word": "the",
+          "start": 239.8,
+          "end": 239.96
+        }
+      ]
+    },
+    {
+      "start": 239.96,
+      "end": 246.26,
+      "text": "little clock. Hook slide. One and a half seconds, no longer. Content slides. Two to two and",
+      "words": [
+        {
+          "word": "little",
+          "start": 239.96,
+          "end": 240.06
+        },
+        {
+          "word": "clock.",
+          "start": 240.06,
+          "end": 240.56
+        },
+        {
+          "word": "Hook",
+          "start": 241.12,
+          "end": 241.22
+        },
+        {
+          "word": "slide.",
+          "start": 241.22,
+          "end": 241.52
+        },
+        {
+          "word": "One",
+          "start": 242.04,
+          "end": 242.14
+        },
+        {
+          "word": "and",
+          "start": 242.14,
+          "end": 242.26
+        },
+        {
+          "word": "a",
+          "start": 242.26,
+          "end": 242.36
+        },
+        {
+          "word": "half",
+          "start": 242.36,
+          "end": 242.5
+        },
+        {
+          "word": "seconds,",
+          "start": 242.5,
+          "end": 242.68
+        },
+        {
+          "word": "no",
+          "start": 243.04,
+          "end": 243.74
+        },
+        {
+          "word": "longer.",
+          "start": 243.74,
+          "end": 244.14
+        },
+        {
+          "word": "Content",
+          "start": 244.66,
+          "end": 244.9
+        },
+        {
+          "word": "slides.",
+          "start": 244.9,
+          "end": 245.24
+        },
+        {
+          "word": "Two",
+          "start": 245.68,
+          "end": 245.82
+        },
+        {
+          "word": "to",
+          "start": 245.82,
+          "end": 245.96
+        },
+        {
+          "word": "two",
+          "start": 245.96,
+          "end": 246.1
+        },
+        {
+          "word": "and",
+          "start": 246.1,
+          "end": 246.26
+        }
+      ]
+    },
+    {
+      "start": 246.26,
+      "end": 250.32,
+      "text": "a half seconds each. That feels brutally fast while you're editing and exactly right when",
+      "words": [
+        {
+          "word": "a",
+          "start": 246.26,
+          "end": 246.3
+        },
+        {
+          "word": "half",
+          "start": 246.3,
+          "end": 246.48
+        },
+        {
+          "word": "seconds",
+          "start": 246.48,
+          "end": 246.74
+        },
+        {
+          "word": "each.",
+          "start": 246.74,
+          "end": 247.02
+        },
+        {
+          "word": "That",
+          "start": 247.42,
+          "end": 247.56
+        },
+        {
+          "word": "feels",
+          "start": 247.56,
+          "end": 247.78
+        },
+        {
+          "word": "brutally",
+          "start": 247.78,
+          "end": 248.18
+        },
+        {
+          "word": "fast",
+          "start": 248.18,
+          "end": 248.52
+        },
+        {
+          "word": "while",
+          "start": 248.52,
+          "end": 248.74
+        },
+        {
+          "word": "you're",
+          "start": 248.74,
+          "end": 248.9
+        },
+        {
+          "word": "editing",
+          "start": 248.9,
+          "end": 249.18
+        },
+        {
+          "word": "and",
+          "start": 249.18,
+          "end": 249.46
+        },
+        {
+          "word": "exactly",
+          "start": 249.46,
+          "end": 249.84
+        },
+        {
+          "word": "right",
+          "start": 249.84,
+          "end": 250.14
+        },
+        {
+          "word": "when",
+          "start": 250.14,
+          "end": 250.32
+        }
+      ]
+    },
+    {
+      "start": 250.32,
+      "end": 255.24,
+      "text": "you're scrolling. One last page before we export. Duplicate your hook slide one more",
+      "words": [
+        {
+          "word": "you're",
+          "start": 250.32,
+          "end": 250.48
+        },
+        {
+          "word": "scrolling.",
+          "start": 250.48,
+          "end": 250.82
+        },
+        {
+          "word": "One",
+          "start": 251.36,
+          "end": 251.6
+        },
+        {
+          "word": "last",
+          "start": 251.6,
+          "end": 251.84
+        },
+        {
+          "word": "page",
+          "start": 251.84,
+          "end": 252.1
+        },
+        {
+          "word": "before",
+          "start": 252.1,
+          "end": 252.42
+        },
+        {
+          "word": "we",
+          "start": 252.42,
+          "end": 252.6
+        },
+        {
+          "word": "export.",
+          "start": 252.6,
+          "end": 253.0
+        },
+        {
+          "word": "Duplicate",
+          "start": 253.62,
+          "end": 253.96
+        },
+        {
+          "word": "your",
+          "start": 253.96,
+          "end": 254.14
+        },
+        {
+          "word": "hook",
+          "start": 254.14,
+          "end": 254.32
+        },
+        {
+          "word": "slide",
+          "start": 254.32,
+          "end": 254.6
+        },
+        {
+          "word": "one",
+          "start": 254.6,
+          "end": 255.02
+        },
+        {
+          "word": "more",
+          "start": 255.02,
+          "end": 255.24
+        }
+      ]
+    },
+    {
+      "start": 255.24,
+      "end": 260.12,
+      "text": "time and tweak it into a cover. This page never plays in the reel. It's the frame people",
+      "words": [
+        {
+          "word": "time",
+          "start": 255.24,
+          "end": 255.58
+        },
+        {
+          "word": "and",
+          "start": 255.58,
+          "end": 256.16
+        },
+        {
+          "word": "tweak",
+          "start": 256.16,
+          "end": 256.4
+        },
+        {
+          "word": "it",
+          "start": 256.4,
+          "end": 256.54
+        },
+        {
+          "word": "into",
+          "start": 256.54,
+          "end": 256.74
+        },
+        {
+          "word": "a",
+          "start": 256.74,
+          "end": 256.92
+        },
+        {
+          "word": "cover.",
+          "start": 256.92,
+          "end": 257.1
+        },
+        {
+          "word": "This",
+          "start": 257.6,
+          "end": 257.8
+        },
+        {
+          "word": "page",
+          "start": 257.8,
+          "end": 258.06
+        },
+        {
+          "word": "never",
+          "start": 258.06,
+          "end": 258.32
+        },
+        {
+          "word": "plays",
+          "start": 258.32,
+          "end": 258.62
+        },
+        {
+          "word": "in",
+          "start": 258.62,
+          "end": 258.8
+        },
+        {
+          "word": "the",
+          "start": 258.8,
+          "end": 258.92
+        },
+        {
+          "word": "reel.",
+          "start": 258.92,
+          "end": 259.12
+        },
+        {
+          "word": "It's",
+          "start": 259.4,
+          "end": 259.48
+        },
+        {
+          "word": "the",
+          "start": 259.48,
+          "end": 259.62
+        },
+        {
+          "word": "frame",
+          "start": 259.62,
+          "end": 259.88
+        },
+        {
+          "word": "people",
+          "start": 259.88,
+          "end": 260.12
+        }
+      ]
+    },
+    {
+      "start": 260.12,
+      "end": 265.12,
+      "text": "see on your profile grid. Same hook text, but shrink it a touch and pull it dead center",
+      "words": [
+        {
+          "word": "see",
+          "start": 260.12,
+          "end": 260.4
+        },
+        {
+          "word": "on",
+          "start": 260.4,
+          "end": 260.54
+        },
+        {
+          "word": "your",
+          "start": 260.54,
+          "end": 260.68
+        },
+        {
+          "word": "profile",
+          "start": 260.68,
+          "end": 261.04
+        },
+        {
+          "word": "grid.",
+          "start": 261.04,
+          "end": 261.76
+        },
+        {
+          "word": "Same",
+          "start": 262.3,
+          "end": 262.6
+        },
+        {
+          "word": "hook",
+          "start": 262.6,
+          "end": 262.82
+        },
+        {
+          "word": "text,",
+          "start": 262.82,
+          "end": 263.1
+        },
+        {
+          "word": "but",
+          "start": 263.34,
+          "end": 263.44
+        },
+        {
+          "word": "shrink",
+          "start": 263.44,
+          "end": 263.7
+        },
+        {
+          "word": "it",
+          "start": 263.7,
+          "end": 263.84
+        },
+        {
+          "word": "a",
+          "start": 263.84,
+          "end": 263.96
+        },
+        {
+          "word": "touch",
+          "start": 263.96,
+          "end": 264.1
+        },
+        {
+          "word": "and",
+          "start": 264.1,
+          "end": 264.3
+        },
+        {
+          "word": "pull",
+          "start": 264.3,
+          "end": 264.48
+        },
+        {
+          "word": "it",
+          "start": 264.48,
+          "end": 264.6
+        },
+        {
+          "word": "dead",
+          "start": 264.6,
+          "end": 264.78
+        },
+        {
+          "word": "center",
+          "start": 264.78,
+          "end": 265.12
+        }
+      ]
+    },
+    {
+      "start": 265.12,
+      "end": 267.58,
+      "text": "because the grid crops reels to a square.",
+      "words": [
+        {
+          "word": "because",
+          "start": 265.12,
+          "end": 265.7
+        },
+        {
+          "word": "the",
+          "start": 265.7,
+          "end": 265.94
+        },
+        {
+          "word": "grid",
+          "start": 265.94,
+          "end": 266.2
+        },
+        {
+          "word": "crops",
+          "start": 266.2,
+          "end": 266.54
+        },
+        {
+          "word": "reels",
+          "start": 266.54,
+          "end": 266.92
+        },
+        {
+          "word": "to",
+          "start": 266.92,
+          "end": 267.1
+        },
+        {
+          "word": "a",
+          "start": 267.1,
+          "end": 267.22
+        },
+        {
+          "word": "square.",
+          "start": 267.22,
+          "end": 267.58
+        }
+      ]
+    },
+    {
+      "start": 268.22,
+      "end": 269.82,
+      "text": "30 seconds now saves your profile",
+      "words": [
+        {
+          "word": "30",
+          "start": 268.22,
+          "end": 268.28
+        },
+        {
+          "word": "seconds",
+          "start": 268.28,
+          "end": 268.54
+        },
+        {
+          "word": "now",
+          "start": 268.54,
+          "end": 268.94
+        },
+        {
+          "word": "saves",
+          "start": 268.94,
+          "end": 269.26
+        },
+        {
+          "word": "your",
+          "start": 269.26,
+          "end": 269.44
+        },
+        {
+          "word": "profile",
+          "start": 269.44,
+          "end": 269.82
+        }
+      ]
+    },
+    {
+      "start": 269.82,
+      "end": 272.12,
+      "text": "from looking like a row of decapitated sentences.",
+      "words": [
+        {
+          "word": "from",
+          "start": 269.82,
+          "end": 270.04
+        },
+        {
+          "word": "looking",
+          "start": 270.04,
+          "end": 270.28
+        },
+        {
+          "word": "like",
+          "start": 270.28,
+          "end": 270.46
+        },
+        {
+          "word": "a",
+          "start": 270.46,
+          "end": 270.62
+        },
+        {
+          "word": "row",
+          "start": 270.62,
+          "end": 270.8
+        },
+        {
+          "word": "of",
+          "start": 270.8,
+          "end": 270.96
+        },
+        {
+          "word": "decapitated",
+          "start": 270.96,
+          "end": 271.54
+        },
+        {
+          "word": "sentences.",
+          "start": 271.54,
+          "end": 272.12
+        }
+      ]
+    },
+    {
+      "start": 273.3,
+      "end": 275.78,
+      "text": "Export, share, top right, download.",
+      "words": [
+        {
+          "word": "Export,",
+          "start": 273.3,
+          "end": 273.3
+        },
+        {
+          "word": "share,",
+          "start": 274.06,
+          "end": 274.14
+        },
+        {
+          "word": "top",
+          "start": 274.62,
+          "end": 274.74
+        },
+        {
+          "word": "right,",
+          "start": 274.74,
+          "end": 275.0
+        },
+        {
+          "word": "download.",
+          "start": 275.46,
+          "end": 275.78
+        }
+      ]
+    },
+    {
+      "start": 276.64,
+      "end": 278.06,
+      "text": "And here's the bit people miss.",
+      "words": [
+        {
+          "word": "And",
+          "start": 276.64,
+          "end": 276.72
+        },
+        {
+          "word": "here's",
+          "start": 276.72,
+          "end": 277.2
+        },
+        {
+          "word": "the",
+          "start": 277.2,
+          "end": 277.32
+        },
+        {
+          "word": "bit",
+          "start": 277.32,
+          "end": 277.46
+        },
+        {
+          "word": "people",
+          "start": 277.46,
+          "end": 277.68
+        },
+        {
+          "word": "miss.",
+          "start": 277.68,
+          "end": 278.06
+        }
+      ]
+    },
+    {
+      "start": 279.22,
+      "end": 281.54,
+      "text": "File type, mp4 video, not PNG.",
+      "words": [
+        {
+          "word": "File",
+          "start": 279.22,
+          "end": 279.3
+        },
+        {
+          "word": "type,",
+          "start": 279.3,
+          "end": 279.58
+        },
+        {
+          "word": "mp4",
+          "start": 279.74,
+          "end": 280.14
+        },
+        {
+          "word": "video,",
+          "start": 280.14,
+          "end": 280.5
+        },
+        {
+          "word": "not",
+          "start": 280.98,
+          "end": 281.1
+        },
+        {
+          "word": "PNG.",
+          "start": 281.1,
+          "end": 281.54
+        }
+      ]
+    },
+    {
+      "start": 282.14,
+      "end": 284.22,
+      "text": "Or you lose every animation you just set.",
+      "words": [
+        {
+          "word": "Or",
+          "start": 282.14,
+          "end": 282.42
+        },
+        {
+          "word": "you",
+          "start": 282.42,
+          "end": 282.62
+        },
+        {
+          "word": "lose",
+          "start": 282.62,
+          "end": 282.8
+        },
+        {
+          "word": "every",
+          "start": 282.8,
+          "end": 283.06
+        },
+        {
+          "word": "animation",
+          "start": 283.06,
+          "end": 283.4
+        },
+        {
+          "word": "you",
+          "start": 283.4,
+          "end": 283.68
+        },
+        {
+          "word": "just",
+          "start": 283.68,
+          "end": 283.86
+        },
+        {
+          "word": "set.",
+          "start": 283.86,
+          "end": 284.22
+        }
+      ]
+    },
+    {
+      "start": 285.02,
+      "end": 286.62,
+      "text": "Quality 1080, download it.",
+      "words": [
+        {
+          "word": "Quality",
+          "start": 285.02,
+          "end": 285.02
+        },
+        {
+          "word": "1080,",
+          "start": 285.02,
+          "end": 285.4
+        },
+        {
+          "word": "download",
+          "start": 285.92,
+          "end": 286.22
+        },
+        {
+          "word": "it.",
+          "start": 286.22,
+          "end": 286.62
+        }
+      ]
+    },
+    {
+      "start": 287.28,
+      "end": 288.08,
+      "text": "Canva's done its job.",
+      "words": [
+        {
+          "word": "Canva's",
+          "start": 287.28,
+          "end": 287.46
+        },
+        {
+          "word": "done",
+          "start": 287.46,
+          "end": 287.62
+        },
+        {
+          "word": "its",
+          "start": 287.62,
+          "end": 287.8
+        },
+        {
+          "word": "job.",
+          "start": 287.8,
+          "end": 288.08
+        }
+      ]
+    },
+    {
+      "start": 288.24,
+      "end": 289.76,
+      "text": "It's given us a clean branded animation.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 288.24,
+          "end": 288.32
+        },
+        {
+          "word": "given",
+          "start": 288.32,
+          "end": 288.46
+        },
+        {
+          "word": "us",
+          "start": 288.46,
+          "end": 288.62
+        },
+        {
+          "word": "a",
+          "start": 288.62,
+          "end": 288.74
+        },
+        {
+          "word": "clean",
+          "start": 288.74,
+          "end": 288.98
+        },
+        {
+          "word": "branded",
+          "start": 288.98,
+          "end": 289.24
+        },
+        {
+          "word": "animation.",
+          "start": 289.24,
+          "end": 289.76
+        }
+      ]
+    },
+    {
+      "start": 290.26,
+      "end": 293.14,
+      "text": "But a Canva export on its own still feels like a slideshow.",
+      "words": [
+        {
+          "word": "But",
+          "start": 290.26,
+          "end": 290.48
+        },
+        {
+          "word": "a",
+          "start": 290.48,
+          "end": 290.56
+        },
+        {
+          "word": "Canva",
+          "start": 290.56,
+          "end": 290.86
+        },
+        {
+          "word": "export",
+          "start": 290.86,
+          "end": 291.22
+        },
+        {
+          "word": "on",
+          "start": 291.22,
+          "end": 291.44
+        },
+        {
+          "word": "its",
+          "start": 291.44,
+          "end": 291.56
+        },
+        {
+          "word": "own",
+          "start": 291.56,
+          "end": 291.86
+        },
+        {
+          "word": "still",
+          "start": 291.86,
+          "end": 292.12
+        },
+        {
+          "word": "feels",
+          "start": 292.12,
+          "end": 292.4
+        },
+        {
+          "word": "like",
+          "start": 292.4,
+          "end": 292.64
+        },
+        {
+          "word": "a",
+          "start": 292.64,
+          "end": 292.74
+        },
+        {
+          "word": "slideshow.",
+          "start": 292.74,
+          "end": 293.14
+        }
+      ]
+    },
+    {
+      "start": 293.7,
+      "end": 295.68,
+      "text": "CapCut is where it starts feeling like a reel.",
+      "words": [
+        {
+          "word": "CapCut",
+          "start": 293.7,
+          "end": 294.16
+        },
+        {
+          "word": "is",
+          "start": 294.16,
+          "end": 294.28
+        },
+        {
+          "word": "where",
+          "start": 294.28,
+          "end": 294.44
+        },
+        {
+          "word": "it",
+          "start": 294.44,
+          "end": 294.56
+        },
+        {
+          "word": "starts",
+          "start": 294.56,
+          "end": 294.76
+        },
+        {
+          "word": "feeling",
+          "start": 294.76,
+          "end": 295.08
+        },
+        {
+          "word": "like",
+          "start": 295.08,
+          "end": 295.32
+        },
+        {
+          "word": "a",
+          "start": 295.32,
+          "end": 295.46
+        },
+        {
+          "word": "reel.",
+          "start": 295.46,
+          "end": 295.68
+        }
+      ]
+    },
+    {
+      "start": 296.6,
+      "end": 301.36,
+      "text": "Open CapCut, New Project, and drag your Canva MP4 straight into the timeline.",
+      "words": [
+        {
+          "word": "Open",
+          "start": 296.6,
+          "end": 296.78
+        },
+        {
+          "word": "CapCut,",
+          "start": 296.78,
+          "end": 297.32
+        },
+        {
+          "word": "New",
+          "start": 297.72,
+          "end": 297.84
+        },
+        {
+          "word": "Project,",
+          "start": 297.84,
+          "end": 298.24
+        },
+        {
+          "word": "and",
+          "start": 298.86,
+          "end": 298.96
+        },
+        {
+          "word": "drag",
+          "start": 298.96,
+          "end": 299.22
+        },
+        {
+          "word": "your",
+          "start": 299.22,
+          "end": 299.4
+        },
+        {
+          "word": "Canva",
+          "start": 299.4,
+          "end": 299.7
+        },
+        {
+          "word": "MP4",
+          "start": 299.7,
+          "end": 300.28
+        },
+        {
+          "word": "straight",
+          "start": 300.28,
+          "end": 300.58
+        },
+        {
+          "word": "into",
+          "start": 300.58,
+          "end": 300.84
+        },
+        {
+          "word": "the",
+          "start": 300.84,
+          "end": 301.02
+        },
+        {
+          "word": "timeline.",
+          "start": 301.02,
+          "end": 301.36
+        }
+      ]
+    },
+    {
+      "start": 302.02,
+      "end": 303.64,
+      "text": "First job, check the frame.",
+      "words": [
+        {
+          "word": "First",
+          "start": 302.02,
+          "end": 302.16
+        },
+        {
+          "word": "job,",
+          "start": 302.16,
+          "end": 302.46
+        },
+        {
+          "word": "check",
+          "start": 302.96,
+          "end": 303.12
+        },
+        {
+          "word": "the",
+          "start": 303.12,
+          "end": 303.32
+        },
+        {
+          "word": "frame.",
+          "start": 303.32,
+          "end": 303.64
+        }
+      ]
+    },
+    {
+      "start": 304.36,
+      "end": 309.3,
+      "text": "Ratio button says 916, and because we designed at reel size, it should drop in perfectly.",
+      "words": [
+        {
+          "word": "Ratio",
+          "start": 304.36,
+          "end": 304.36
+        },
+        {
+          "word": "button",
+          "start": 304.36,
+          "end": 304.58
+        },
+        {
+          "word": "says",
+          "start": 304.58,
+          "end": 304.94
+        },
+        {
+          "word": "916,",
+          "start": 304.94,
+          "end": 305.96
+        },
+        {
+          "word": "and",
+          "start": 306.52,
+          "end": 306.64
+        },
+        {
+          "word": "because",
+          "start": 306.64,
+          "end": 306.86
+        },
+        {
+          "word": "we",
+          "start": 306.86,
+          "end": 307.04
+        },
+        {
+          "word": "designed",
+          "start": 307.04,
+          "end": 307.36
+        },
+        {
+          "word": "at",
+          "start": 307.36,
+          "end": 307.54
+        },
+        {
+          "word": "reel",
+          "start": 307.54,
+          "end": 307.76
+        },
+        {
+          "word": "size,",
+          "start": 307.76,
+          "end": 308.12
+        },
+        {
+          "word": "it",
+          "start": 308.22,
+          "end": 308.3
+        },
+        {
+          "word": "should",
+          "start": 308.3,
+          "end": 308.44
+        },
+        {
+          "word": "drop",
+          "start": 308.44,
+          "end": 308.7
+        },
+        {
+          "word": "in",
+          "start": 308.7,
+          "end": 308.92
+        },
+        {
+          "word": "perfectly.",
+          "start": 308.92,
+          "end": 309.3
+        }
+      ]
+    },
+    {
+      "start": 309.92,
+      "end": 311.76,
+      "text": "No black bars, no cropping.",
+      "words": [
+        {
+          "word": "No",
+          "start": 309.92,
+          "end": 310.14
+        },
+        {
+          "word": "black",
+          "start": 310.14,
+          "end": 310.46
+        },
+        {
+          "word": "bars,",
+          "start": 310.46,
+          "end": 310.8
+        },
+        {
+          "word": "no",
+          "start": 311.16,
+          "end": 311.32
+        },
+        {
+          "word": "cropping.",
+          "start": 311.32,
+          "end": 311.76
+        }
+      ]
+    },
+    {
+      "start": 312.66,
+      "end": 317.46,
+      "text": "Now music, and this is the part that separates people who edit reels from people who post slideshows,",
+      "words": [
+        {
+          "word": "Now",
+          "start": 312.66,
+          "end": 312.8
+        },
+        {
+          "word": "music,",
+          "start": 312.8,
+          "end": 313.08
+        },
+        {
+          "word": "and",
+          "start": 313.52,
+          "end": 313.66
+        },
+        {
+          "word": "this",
+          "start": 313.66,
+          "end": 313.78
+        },
+        {
+          "word": "is",
+          "start": 313.78,
+          "end": 313.9
+        },
+        {
+          "word": "the",
+          "start": 313.9,
+          "end": 314.04
+        },
+        {
+          "word": "part",
+          "start": 314.04,
+          "end": 314.22
+        },
+        {
+          "word": "that",
+          "start": 314.22,
+          "end": 314.42
+        },
+        {
+          "word": "separates",
+          "start": 314.42,
+          "end": 314.8
+        },
+        {
+          "word": "people",
+          "start": 314.8,
+          "end": 315.14
+        },
+        {
+          "word": "who",
+          "start": 315.14,
+          "end": 315.32
+        },
+        {
+          "word": "edit",
+          "start": 315.32,
+          "end": 315.52
+        },
+        {
+          "word": "reels",
+          "start": 315.52,
+          "end": 315.92
+        },
+        {
+          "word": "from",
+          "start": 315.92,
+          "end": 316.14
+        },
+        {
+          "word": "people",
+          "start": 316.14,
+          "end": 316.42
+        },
+        {
+          "word": "who",
+          "start": 316.42,
+          "end": 316.62
+        },
+        {
+          "word": "post",
+          "start": 316.62,
+          "end": 316.86
+        },
+        {
+          "word": "slideshows,",
+          "start": 316.86,
+          "end": 317.46
+        }
+      ]
+    },
+    {
+      "start": 318.1,
+      "end": 319.42,
+      "text": "we're going to edit to a beat.",
+      "words": [
+        {
+          "word": "we're",
+          "start": 318.1,
+          "end": 318.46
+        },
+        {
+          "word": "going",
+          "start": 318.46,
+          "end": 318.58
+        },
+        {
+          "word": "to",
+          "start": 318.58,
+          "end": 318.76
+        },
+        {
+          "word": "edit",
+          "start": 318.76,
+          "end": 318.9
+        },
+        {
+          "word": "to",
+          "start": 318.9,
+          "end": 319.1
+        },
+        {
+          "word": "a",
+          "start": 319.1,
+          "end": 319.24
+        },
+        {
+          "word": "beat.",
+          "start": 319.24,
+          "end": 319.42
+        }
+      ]
+    },
+    {
+      "start": 319.94,
+      "end": 325.24,
+      "text": "Grab the sound you want. CapCut's library is fine for editing. But remember what I",
+      "words": [
+        {
+          "word": "Grab",
+          "start": 319.94,
+          "end": 320.42
+        },
+        {
+          "word": "the",
+          "start": 320.42,
+          "end": 320.62
+        },
+        {
+          "word": "sound",
+          "start": 320.62,
+          "end": 320.8
+        },
+        {
+          "word": "you",
+          "start": 320.8,
+          "end": 320.98
+        },
+        {
+          "word": "want.",
+          "start": 320.98,
+          "end": 321.28
+        },
+        {
+          "word": "CapCut's",
+          "start": 321.98,
+          "end": 322.3
+        },
+        {
+          "word": "library",
+          "start": 322.3,
+          "end": 322.56
+        },
+        {
+          "word": "is",
+          "start": 322.56,
+          "end": 322.9
+        },
+        {
+          "word": "fine",
+          "start": 322.9,
+          "end": 323.18
+        },
+        {
+          "word": "for",
+          "start": 323.18,
+          "end": 323.4
+        },
+        {
+          "word": "editing.",
+          "start": 323.4,
+          "end": 323.7
+        },
+        {
+          "word": "But",
+          "start": 324.58,
+          "end": 324.66
+        },
+        {
+          "word": "remember",
+          "start": 324.66,
+          "end": 324.92
+        },
+        {
+          "word": "what",
+          "start": 324.92,
+          "end": 325.12
+        },
+        {
+          "word": "I",
+          "start": 325.12,
+          "end": 325.24
+        }
+      ]
+    },
+    {
+      "start": 325.24,
+      "end": 330.5,
+      "text": "said about export at the end, because we are not keeping this audio. It's scaffolding.",
+      "words": [
+        {
+          "word": "said",
+          "start": 325.24,
+          "end": 325.4
+        },
+        {
+          "word": "about",
+          "start": 325.4,
+          "end": 325.62
+        },
+        {
+          "word": "export",
+          "start": 325.62,
+          "end": 326.06
+        },
+        {
+          "word": "at",
+          "start": 326.06,
+          "end": 326.36
+        },
+        {
+          "word": "the",
+          "start": 326.36,
+          "end": 326.56
+        },
+        {
+          "word": "end,",
+          "start": 326.56,
+          "end": 326.9
+        },
+        {
+          "word": "because",
+          "start": 327.5,
+          "end": 327.74
+        },
+        {
+          "word": "we",
+          "start": 327.74,
+          "end": 327.94
+        },
+        {
+          "word": "are",
+          "start": 327.94,
+          "end": 328.04
+        },
+        {
+          "word": "not",
+          "start": 328.04,
+          "end": 328.22
+        },
+        {
+          "word": "keeping",
+          "start": 328.22,
+          "end": 328.48
+        },
+        {
+          "word": "this",
+          "start": 328.48,
+          "end": 328.74
+        },
+        {
+          "word": "audio.",
+          "start": 328.74,
+          "end": 329.12
+        },
+        {
+          "word": "It's",
+          "start": 329.8,
+          "end": 330.02
+        },
+        {
+          "word": "scaffolding.",
+          "start": 330.02,
+          "end": 330.5
+        }
+      ]
+    },
+    {
+      "start": 331.54,
+      "end": 336.64,
+      "text": "Right-click the track and hit Beat Detection. CapCut marks the beats as little dots on the",
+      "words": [
+        {
+          "word": "Right",
+          "start": 331.54,
+          "end": 331.82
+        },
+        {
+          "word": "-click",
+          "start": 331.82,
+          "end": 332.02
+        },
+        {
+          "word": "the",
+          "start": 332.02,
+          "end": 332.24
+        },
+        {
+          "word": "track",
+          "start": 332.24,
+          "end": 332.58
+        },
+        {
+          "word": "and",
+          "start": 332.58,
+          "end": 333.2
+        },
+        {
+          "word": "hit",
+          "start": 333.2,
+          "end": 333.42
+        },
+        {
+          "word": "Beat",
+          "start": 333.42,
+          "end": 333.6
+        },
+        {
+          "word": "Detection.",
+          "start": 333.6,
+          "end": 334.0
+        },
+        {
+          "word": "CapCut",
+          "start": 334.74,
+          "end": 335.0
+        },
+        {
+          "word": "marks",
+          "start": 335.0,
+          "end": 335.3
+        },
+        {
+          "word": "the",
+          "start": 335.3,
+          "end": 335.48
+        },
+        {
+          "word": "beats",
+          "start": 335.48,
+          "end": 335.66
+        },
+        {
+          "word": "as",
+          "start": 335.66,
+          "end": 335.88
+        },
+        {
+          "word": "little",
+          "start": 335.88,
+          "end": 336.06
+        },
+        {
+          "word": "dots",
+          "start": 336.06,
+          "end": 336.34
+        },
+        {
+          "word": "on",
+          "start": 336.34,
+          "end": 336.52
+        },
+        {
+          "word": "the",
+          "start": 336.52,
+          "end": 336.64
+        }
+      ]
+    },
+    {
+      "start": 336.64,
+      "end": 342.68,
+      "text": "audio. Now split your Canva clip so every slide change lands on a beat. Select the clip,",
+      "words": [
+        {
+          "word": "audio.",
+          "start": 336.64,
+          "end": 337.02
+        },
+        {
+          "word": "Now",
+          "start": 338.04,
+          "end": 338.1
+        },
+        {
+          "word": "split",
+          "start": 338.1,
+          "end": 338.48
+        },
+        {
+          "word": "your",
+          "start": 338.48,
+          "end": 338.66
+        },
+        {
+          "word": "Canva",
+          "start": 338.66,
+          "end": 338.98
+        },
+        {
+          "word": "clip",
+          "start": 338.98,
+          "end": 339.16
+        },
+        {
+          "word": "so",
+          "start": 339.16,
+          "end": 339.36
+        },
+        {
+          "word": "every",
+          "start": 339.36,
+          "end": 339.6
+        },
+        {
+          "word": "slide",
+          "start": 339.6,
+          "end": 339.92
+        },
+        {
+          "word": "change",
+          "start": 339.92,
+          "end": 340.32
+        },
+        {
+          "word": "lands",
+          "start": 340.32,
+          "end": 340.64
+        },
+        {
+          "word": "on",
+          "start": 340.64,
+          "end": 340.88
+        },
+        {
+          "word": "a",
+          "start": 340.88,
+          "end": 341.02
+        },
+        {
+          "word": "beat.",
+          "start": 341.02,
+          "end": 341.18
+        },
+        {
+          "word": "Select",
+          "start": 342.0,
+          "end": 342.24
+        },
+        {
+          "word": "the",
+          "start": 342.24,
+          "end": 342.46
+        },
+        {
+          "word": "clip,",
+          "start": 342.46,
+          "end": 342.68
+        }
+      ]
+    },
+    {
+      "start": 343.18,
+      "end": 349.34,
+      "text": "playhead on the beat, split. When the visual hits the beat, the reel feels expensive. It's",
+      "words": [
+        {
+          "word": "playhead",
+          "start": 343.18,
+          "end": 343.46
+        },
+        {
+          "word": "on",
+          "start": 343.46,
+          "end": 343.58
+        },
+        {
+          "word": "the",
+          "start": 343.58,
+          "end": 343.7
+        },
+        {
+          "word": "beat,",
+          "start": 343.7,
+          "end": 343.98
+        },
+        {
+          "word": "split.",
+          "start": 344.44,
+          "end": 344.68
+        },
+        {
+          "word": "When",
+          "start": 345.62,
+          "end": 345.84
+        },
+        {
+          "word": "the",
+          "start": 345.84,
+          "end": 345.98
+        },
+        {
+          "word": "visual",
+          "start": 345.98,
+          "end": 346.22
+        },
+        {
+          "word": "hits",
+          "start": 346.22,
+          "end": 346.46
+        },
+        {
+          "word": "the",
+          "start": 346.46,
+          "end": 346.64
+        },
+        {
+          "word": "beat,",
+          "start": 346.64,
+          "end": 346.88
+        },
+        {
+          "word": "the",
+          "start": 347.46,
+          "end": 347.5
+        },
+        {
+          "word": "reel",
+          "start": 347.5,
+          "end": 347.66
+        },
+        {
+          "word": "feels",
+          "start": 347.66,
+          "end": 347.96
+        },
+        {
+          "word": "expensive.",
+          "start": 347.96,
+          "end": 348.44
+        },
+        {
+          "word": "It's",
+          "start": 349.1,
+          "end": 349.34
+        }
+      ]
+    },
+    {
+      "start": 349.34,
+      "end": 352.44,
+      "text": "It's a 5 minute job and it's the single biggest upgrade you can make.",
+      "words": [
+        {
+          "word": "It's",
+          "start": 349.34,
+          "end": 349.34
+        },
+        {
+          "word": "a",
+          "start": 349.34,
+          "end": 349.42
+        },
+        {
+          "word": "5",
+          "start": 349.42,
+          "end": 349.66
+        },
+        {
+          "word": "minute",
+          "start": 349.66,
+          "end": 349.8
+        },
+        {
+          "word": "job",
+          "start": 349.8,
+          "end": 350.18
+        },
+        {
+          "word": "and",
+          "start": 350.18,
+          "end": 350.48
+        },
+        {
+          "word": "it's",
+          "start": 350.48,
+          "end": 350.68
+        },
+        {
+          "word": "the",
+          "start": 350.68,
+          "end": 350.84
+        },
+        {
+          "word": "single",
+          "start": 350.84,
+          "end": 351.12
+        },
+        {
+          "word": "biggest",
+          "start": 351.12,
+          "end": 351.42
+        },
+        {
+          "word": "upgrade",
+          "start": 351.42,
+          "end": 351.8
+        },
+        {
+          "word": "you",
+          "start": 351.8,
+          "end": 352.0
+        },
+        {
+          "word": "can",
+          "start": 352.0,
+          "end": 352.12
+        },
+        {
+          "word": "make.",
+          "start": 352.12,
+          "end": 352.44
+        }
+      ]
+    },
+    {
+      "start": 353.24,
+      "end": 357.3,
+      "text": "If there's any voiceover or talking in your reel, captions are not optional.",
+      "words": [
+        {
+          "word": "If",
+          "start": 353.24,
+          "end": 353.34
+        },
+        {
+          "word": "there's",
+          "start": 353.34,
+          "end": 353.58
+        },
+        {
+          "word": "any",
+          "start": 353.58,
+          "end": 353.74
+        },
+        {
+          "word": "voiceover",
+          "start": 353.74,
+          "end": 354.28
+        },
+        {
+          "word": "or",
+          "start": 354.28,
+          "end": 354.62
+        },
+        {
+          "word": "talking",
+          "start": 354.62,
+          "end": 355.06
+        },
+        {
+          "word": "in",
+          "start": 355.06,
+          "end": 355.26
+        },
+        {
+          "word": "your",
+          "start": 355.26,
+          "end": 355.42
+        },
+        {
+          "word": "reel,",
+          "start": 355.42,
+          "end": 355.62
+        },
+        {
+          "word": "captions",
+          "start": 356.22,
+          "end": 356.5
+        },
+        {
+          "word": "are",
+          "start": 356.5,
+          "end": 356.64
+        },
+        {
+          "word": "not",
+          "start": 356.64,
+          "end": 356.84
+        },
+        {
+          "word": "optional.",
+          "start": 356.84,
+          "end": 357.3
+        }
+      ]
+    },
+    {
+      "start": 357.82,
+      "end": 359.36,
+      "text": "Most people watch with the sound off.",
+      "words": [
+        {
+          "word": "Most",
+          "start": 357.82,
+          "end": 357.96
+        },
+        {
+          "word": "people",
+          "start": 357.96,
+          "end": 358.24
+        },
+        {
+          "word": "watch",
+          "start": 358.24,
+          "end": 358.5
+        },
+        {
+          "word": "with",
+          "start": 358.5,
+          "end": 358.7
+        },
+        {
+          "word": "the",
+          "start": 358.7,
+          "end": 358.84
+        },
+        {
+          "word": "sound",
+          "start": 358.84,
+          "end": 359.08
+        },
+        {
+          "word": "off.",
+          "start": 359.08,
+          "end": 359.36
+        }
+      ]
+    },
+    {
+      "start": 360.04,
+      "end": 361.94,
+      "text": "Text, auto captions, generate.",
+      "words": [
+        {
+          "word": "Text,",
+          "start": 360.04,
+          "end": 360.24
+        },
+        {
+          "word": "auto",
+          "start": 360.76,
+          "end": 360.88
+        },
+        {
+          "word": "captions,",
+          "start": 360.88,
+          "end": 361.38
+        },
+        {
+          "word": "generate.",
+          "start": 361.92,
+          "end": 361.94
+        }
+      ]
+    },
+    {
+      "start": 362.74,
+      "end": 365.18,
+      "text": "CapCut transcribes the whole thing in about 10 seconds.",
+      "words": [
+        {
+          "word": "CapCut",
+          "start": 362.74,
+          "end": 362.96
+        },
+        {
+          "word": "transcribes",
+          "start": 362.96,
+          "end": 363.52
+        },
+        {
+          "word": "the",
+          "start": 363.52,
+          "end": 363.68
+        },
+        {
+          "word": "whole",
+          "start": 363.68,
+          "end": 363.86
+        },
+        {
+          "word": "thing",
+          "start": 363.86,
+          "end": 364.12
+        },
+        {
+          "word": "in",
+          "start": 364.12,
+          "end": 364.28
+        },
+        {
+          "word": "about",
+          "start": 364.28,
+          "end": 364.48
+        },
+        {
+          "word": "10",
+          "start": 364.48,
+          "end": 364.76
+        },
+        {
+          "word": "seconds.",
+          "start": 364.76,
+          "end": 365.18
+        }
+      ]
+    },
+    {
+      "start": 365.82,
+      "end": 368.08,
+      "text": "Then style them once and it applies everywhere.",
+      "words": [
+        {
+          "word": "Then",
+          "start": 365.82,
+          "end": 365.94
+        },
+        {
+          "word": "style",
+          "start": 365.94,
+          "end": 366.24
+        },
+        {
+          "word": "them",
+          "start": 366.24,
+          "end": 366.42
+        },
+        {
+          "word": "once",
+          "start": 366.42,
+          "end": 366.66
+        },
+        {
+          "word": "and",
+          "start": 366.66,
+          "end": 367.22
+        },
+        {
+          "word": "it",
+          "start": 367.22,
+          "end": 367.32
+        },
+        {
+          "word": "applies",
+          "start": 367.32,
+          "end": 367.62
+        },
+        {
+          "word": "everywhere.",
+          "start": 367.62,
+          "end": 368.08
+        }
+      ]
+    },
+    {
+      "start": 368.78,
+      "end": 371.48,
+      "text": "Pick a caption preset, but change the colors to yours.",
+      "words": [
+        {
+          "word": "Pick",
+          "start": 368.78,
+          "end": 368.92
+        },
+        {
+          "word": "a",
+          "start": 368.92,
+          "end": 369.12
+        },
+        {
+          "word": "caption",
+          "start": 369.12,
+          "end": 369.34
+        },
+        {
+          "word": "preset,",
+          "start": 369.34,
+          "end": 369.76
+        },
+        {
+          "word": "but",
+          "start": 370.12,
+          "end": 370.3
+        },
+        {
+          "word": "change",
+          "start": 370.3,
+          "end": 370.56
+        },
+        {
+          "word": "the",
+          "start": 370.56,
+          "end": 370.76
+        },
+        {
+          "word": "colors",
+          "start": 370.76,
+          "end": 370.96
+        },
+        {
+          "word": "to",
+          "start": 370.96,
+          "end": 371.24
+        },
+        {
+          "word": "yours.",
+          "start": 371.24,
+          "end": 371.48
+        }
+      ]
+    },
+    {
+      "start": 372.34,
+      "end": 376.44,
+      "text": "I'm matching the yellow from the Canva design so the whole reel feels like one thing.",
+      "words": [
+        {
+          "word": "I'm",
+          "start": 372.34,
+          "end": 372.6
+        },
+        {
+          "word": "matching",
+          "start": 372.6,
+          "end": 372.88
+        },
+        {
+          "word": "the",
+          "start": 372.88,
+          "end": 373.04
+        },
+        {
+          "word": "yellow",
+          "start": 373.04,
+          "end": 373.24
+        },
+        {
+          "word": "from",
+          "start": 373.24,
+          "end": 373.52
+        },
+        {
+          "word": "the",
+          "start": 373.52,
+          "end": 373.7
+        },
+        {
+          "word": "Canva",
+          "start": 373.7,
+          "end": 374.0
+        },
+        {
+          "word": "design",
+          "start": 374.0,
+          "end": 374.3
+        },
+        {
+          "word": "so",
+          "start": 374.3,
+          "end": 374.6
+        },
+        {
+          "word": "the",
+          "start": 374.6,
+          "end": 374.74
+        },
+        {
+          "word": "whole",
+          "start": 374.74,
+          "end": 374.94
+        },
+        {
+          "word": "reel",
+          "start": 374.94,
+          "end": 375.2
+        },
+        {
+          "word": "feels",
+          "start": 375.2,
+          "end": 375.54
+        },
+        {
+          "word": "like",
+          "start": 375.54,
+          "end": 375.82
+        },
+        {
+          "word": "one",
+          "start": 375.82,
+          "end": 376.1
+        },
+        {
+          "word": "thing.",
+          "start": 376.1,
+          "end": 376.44
+        }
+      ]
+    },
+    {
+      "start": 376.44,
+      "end": 379.7,
+      "text": "bump the size, drag them to the lower third,",
+      "words": [
+        {
+          "word": "bump",
+          "start": 376.44,
+          "end": 377.4
+        },
+        {
+          "word": "the",
+          "start": 377.4,
+          "end": 377.62
+        },
+        {
+          "word": "size,",
+          "start": 377.62,
+          "end": 378.02
+        },
+        {
+          "word": "drag",
+          "start": 378.32,
+          "end": 378.56
+        },
+        {
+          "word": "them",
+          "start": 378.56,
+          "end": 378.74
+        },
+        {
+          "word": "to",
+          "start": 378.74,
+          "end": 378.88
+        },
+        {
+          "word": "the",
+          "start": 378.88,
+          "end": 379.02
+        },
+        {
+          "word": "lower",
+          "start": 379.02,
+          "end": 379.2
+        },
+        {
+          "word": "third,",
+          "start": 379.2,
+          "end": 379.7
+        }
+      ]
+    },
+    {
+      "start": 380.1,
+      "end": 382.3,
+      "text": "once it's inside that safe zone we talked about,",
+      "words": [
+        {
+          "word": "once",
+          "start": 380.1,
+          "end": 380.26
+        },
+        {
+          "word": "it's",
+          "start": 380.26,
+          "end": 380.5
+        },
+        {
+          "word": "inside",
+          "start": 380.5,
+          "end": 380.92
+        },
+        {
+          "word": "that",
+          "start": 380.92,
+          "end": 381.16
+        },
+        {
+          "word": "safe",
+          "start": 381.16,
+          "end": 381.4
+        },
+        {
+          "word": "zone",
+          "start": 381.4,
+          "end": 381.6
+        },
+        {
+          "word": "we",
+          "start": 381.6,
+          "end": 381.74
+        },
+        {
+          "word": "talked",
+          "start": 381.74,
+          "end": 381.96
+        },
+        {
+          "word": "about,",
+          "start": 381.96,
+          "end": 382.3
+        }
+      ]
+    },
+    {
+      "start": 382.88,
+      "end": 386.36,
+      "text": "and turn on the word-by-word animation so they pop as they're spoken.",
+      "words": [
+        {
+          "word": "and",
+          "start": 382.88,
+          "end": 383.36
+        },
+        {
+          "word": "turn",
+          "start": 383.36,
+          "end": 383.52
+        },
+        {
+          "word": "on",
+          "start": 383.52,
+          "end": 383.68
+        },
+        {
+          "word": "the",
+          "start": 383.68,
+          "end": 383.82
+        },
+        {
+          "word": "word",
+          "start": 383.82,
+          "end": 383.98
+        },
+        {
+          "word": "-by",
+          "start": 383.98,
+          "end": 384.18
+        },
+        {
+          "word": "-word",
+          "start": 384.18,
+          "end": 384.46
+        },
+        {
+          "word": "animation",
+          "start": 384.46,
+          "end": 384.82
+        },
+        {
+          "word": "so",
+          "start": 384.82,
+          "end": 385.16
+        },
+        {
+          "word": "they",
+          "start": 385.16,
+          "end": 385.36
+        },
+        {
+          "word": "pop",
+          "start": 385.36,
+          "end": 385.56
+        },
+        {
+          "word": "as",
+          "start": 385.56,
+          "end": 385.78
+        },
+        {
+          "word": "they're",
+          "start": 385.78,
+          "end": 386.0
+        },
+        {
+          "word": "spoken.",
+          "start": 386.0,
+          "end": 386.36
+        }
+      ]
+    },
+    {
+      "start": 387.3,
+      "end": 389.62,
+      "text": "Before you move on, actually read them.",
+      "words": [
+        {
+          "word": "Before",
+          "start": 387.3,
+          "end": 387.52
+        },
+        {
+          "word": "you",
+          "start": 387.52,
+          "end": 387.68
+        },
+        {
+          "word": "move",
+          "start": 387.68,
+          "end": 387.86
+        },
+        {
+          "word": "on,",
+          "start": 387.86,
+          "end": 388.2
+        },
+        {
+          "word": "actually",
+          "start": 388.68,
+          "end": 389.02
+        },
+        {
+          "word": "read",
+          "start": 389.02,
+          "end": 389.3
+        },
+        {
+          "word": "them.",
+          "start": 389.3,
+          "end": 389.62
+        }
+      ]
+    },
+    {
+      "start": 390.3,
+      "end": 392.46,
+      "text": "Auto captions are about 95% right,",
+      "words": [
+        {
+          "word": "Auto",
+          "start": 390.3,
+          "end": 390.42
+        },
+        {
+          "word": "captions",
+          "start": 390.42,
+          "end": 390.8
+        },
+        {
+          "word": "are",
+          "start": 390.8,
+          "end": 390.96
+        },
+        {
+          "word": "about",
+          "start": 390.96,
+          "end": 391.18
+        },
+        {
+          "word": "95",
+          "start": 391.18,
+          "end": 391.78
+        },
+        {
+          "word": "%",
+          "start": 391.78,
+          "end": 392.14
+        },
+        {
+          "word": "right,",
+          "start": 392.14,
+          "end": 392.46
+        }
+      ]
+    },
+    {
+      "start": 393.04,
+      "end": 396.38,
+      "text": "and the 5% it misses is always the word that matters.",
+      "words": [
+        {
+          "word": "and",
+          "start": 393.04,
+          "end": 393.24
+        },
+        {
+          "word": "the",
+          "start": 393.24,
+          "end": 393.34
+        },
+        {
+          "word": "5",
+          "start": 393.34,
+          "end": 393.58
+        },
+        {
+          "word": "%",
+          "start": 393.58,
+          "end": 393.86
+        },
+        {
+          "word": "it",
+          "start": 393.86,
+          "end": 394.02
+        },
+        {
+          "word": "misses",
+          "start": 394.02,
+          "end": 394.32
+        },
+        {
+          "word": "is",
+          "start": 394.32,
+          "end": 395.08
+        },
+        {
+          "word": "always",
+          "start": 395.08,
+          "end": 395.42
+        },
+        {
+          "word": "the",
+          "start": 395.42,
+          "end": 395.6
+        },
+        {
+          "word": "word",
+          "start": 395.6,
+          "end": 395.82
+        },
+        {
+          "word": "that",
+          "start": 395.82,
+          "end": 395.98
+        },
+        {
+          "word": "matters.",
+          "start": 395.98,
+          "end": 396.38
+        }
+      ]
+    },
+    {
+      "start": 397.18,
+      "end": 399.28,
+      "text": "Your brand name, the product, the price.",
+      "words": [
+        {
+          "word": "Your",
+          "start": 397.18,
+          "end": 397.48
+        },
+        {
+          "word": "brand",
+          "start": 397.48,
+          "end": 397.74
+        },
+        {
+          "word": "name,",
+          "start": 397.74,
+          "end": 398.02
+        },
+        {
+          "word": "the",
+          "start": 398.36,
+          "end": 398.52
+        },
+        {
+          "word": "product,",
+          "start": 398.52,
+          "end": 398.78
+        },
+        {
+          "word": "the",
+          "start": 398.98,
+          "end": 398.98
+        },
+        {
+          "word": "price.",
+          "start": 398.98,
+          "end": 399.28
+        }
+      ]
+    },
+    {
+      "start": 400.04,
+      "end": 402.62,
+      "text": "Click any caption on the timeline and fix the text right there.",
+      "words": [
+        {
+          "word": "Click",
+          "start": 400.04,
+          "end": 400.16
+        },
+        {
+          "word": "any",
+          "start": 400.16,
+          "end": 400.36
+        },
+        {
+          "word": "caption",
+          "start": 400.36,
+          "end": 400.66
+        },
+        {
+          "word": "on",
+          "start": 400.66,
+          "end": 400.86
+        },
+        {
+          "word": "the",
+          "start": 400.86,
+          "end": 400.98
+        },
+        {
+          "word": "timeline",
+          "start": 400.98,
+          "end": 401.28
+        },
+        {
+          "word": "and",
+          "start": 401.28,
+          "end": 401.48
+        },
+        {
+          "word": "fix",
+          "start": 401.48,
+          "end": 401.64
+        },
+        {
+          "word": "the",
+          "start": 401.64,
+          "end": 401.8
+        },
+        {
+          "word": "text",
+          "start": 401.8,
+          "end": 402.0
+        },
+        {
+          "word": "right",
+          "start": 402.0,
+          "end": 402.26
+        },
+        {
+          "word": "there.",
+          "start": 402.26,
+          "end": 402.62
+        }
+      ]
+    },
+    {
+      "start": 402.62,
+      "end": 406.0,
+      "text": "A typo in a caption reads, as careless.",
+      "words": [
+        {
+          "word": "A",
+          "start": 402.62,
+          "end": 403.56
+        },
+        {
+          "word": "typo",
+          "start": 403.56,
+          "end": 403.86
+        },
+        {
+          "word": "in",
+          "start": 403.86,
+          "end": 404.06
+        },
+        {
+          "word": "a",
+          "start": 404.06,
+          "end": 404.18
+        },
+        {
+          "word": "caption",
+          "start": 404.18,
+          "end": 404.42
+        },
+        {
+          "word": "reads,",
+          "start": 404.42,
+          "end": 404.84
+        },
+        {
+          "word": "as",
+          "start": 405.44,
+          "end": 405.54
+        },
+        {
+          "word": "careless.",
+          "start": 405.54,
+          "end": 406.0
+        }
+      ]
+    },
+    {
+      "start": 406.72,
+      "end": 408.16,
+      "text": "And careless doesn't get shared.",
+      "words": [
+        {
+          "word": "And",
+          "start": 406.72,
+          "end": 406.94
+        },
+        {
+          "word": "careless",
+          "start": 406.94,
+          "end": 407.26
+        },
+        {
+          "word": "doesn't",
+          "start": 407.26,
+          "end": 407.6
+        },
+        {
+          "word": "get",
+          "start": 407.6,
+          "end": 407.76
+        },
+        {
+          "word": "shared.",
+          "start": 407.76,
+          "end": 408.16
+        }
+      ]
+    },
+    {
+      "start": 409.02,
+      "end": 412.22,
+      "text": "Even with pop animations, static slides need camera energy.",
+      "words": [
+        {
+          "word": "Even",
+          "start": 409.02,
+          "end": 409.2
+        },
+        {
+          "word": "with",
+          "start": 409.2,
+          "end": 409.38
+        },
+        {
+          "word": "pop",
+          "start": 409.38,
+          "end": 409.62
+        },
+        {
+          "word": "animations,",
+          "start": 409.62,
+          "end": 410.08
+        },
+        {
+          "word": "static",
+          "start": 410.76,
+          "end": 410.94
+        },
+        {
+          "word": "slides",
+          "start": 410.94,
+          "end": 411.28
+        },
+        {
+          "word": "need",
+          "start": 411.28,
+          "end": 411.52
+        },
+        {
+          "word": "camera",
+          "start": 411.52,
+          "end": 411.84
+        },
+        {
+          "word": "energy.",
+          "start": 411.84,
+          "end": 412.22
+        }
+      ]
+    },
+    {
+      "start": 412.88,
+      "end": 414.66,
+      "text": "Here's the 30-second version of a punch-in.",
+      "words": [
+        {
+          "word": "Here's",
+          "start": 412.88,
+          "end": 413.08
+        },
+        {
+          "word": "the",
+          "start": 413.08,
+          "end": 413.2
+        },
+        {
+          "word": "30",
+          "start": 413.2,
+          "end": 413.46
+        },
+        {
+          "word": "-second",
+          "start": 413.46,
+          "end": 413.66
+        },
+        {
+          "word": "version",
+          "start": 413.66,
+          "end": 413.98
+        },
+        {
+          "word": "of",
+          "start": 413.98,
+          "end": 414.14
+        },
+        {
+          "word": "a",
+          "start": 414.14,
+          "end": 414.26
+        },
+        {
+          "word": "punch",
+          "start": 414.26,
+          "end": 414.42
+        },
+        {
+          "word": "-in.",
+          "start": 414.42,
+          "end": 414.66
+        }
+      ]
+    },
+    {
+      "start": 415.08,
+      "end": 419.8,
+      "text": "Play head at the start of a slide, select the clip, open the scale keyframe, click the",
+      "words": [
+        {
+          "word": "Play",
+          "start": 415.08,
+          "end": 415.28
+        },
+        {
+          "word": "head",
+          "start": 415.28,
+          "end": 415.44
+        },
+        {
+          "word": "at",
+          "start": 415.44,
+          "end": 415.56
+        },
+        {
+          "word": "the",
+          "start": 415.56,
+          "end": 415.7
+        },
+        {
+          "word": "start",
+          "start": 415.7,
+          "end": 415.9
+        },
+        {
+          "word": "of",
+          "start": 415.9,
+          "end": 416.0
+        },
+        {
+          "word": "a",
+          "start": 416.0,
+          "end": 416.12
+        },
+        {
+          "word": "slide,",
+          "start": 416.12,
+          "end": 416.42
+        },
+        {
+          "word": "select",
+          "start": 416.76,
+          "end": 417.04
+        },
+        {
+          "word": "the",
+          "start": 417.04,
+          "end": 417.26
+        },
+        {
+          "word": "clip,",
+          "start": 417.26,
+          "end": 417.46
+        },
+        {
+          "word": "open",
+          "start": 417.82,
+          "end": 418.1
+        },
+        {
+          "word": "the",
+          "start": 418.1,
+          "end": 418.26
+        },
+        {
+          "word": "scale",
+          "start": 418.26,
+          "end": 418.48
+        },
+        {
+          "word": "keyframe,",
+          "start": 418.48,
+          "end": 419.02
+        },
+        {
+          "word": "click",
+          "start": 419.4,
+          "end": 419.62
+        },
+        {
+          "word": "the",
+          "start": 419.62,
+          "end": 419.8
+        }
+      ]
+    },
+    {
+      "start": 419.8,
+      "end": 424.36,
+      "text": "diamond, jump to the end of the slide, scale it up to about 108%.",
+      "words": [
+        {
+          "word": "diamond,",
+          "start": 419.8,
+          "end": 420.12
+        },
+        {
+          "word": "jump",
+          "start": 420.7,
+          "end": 420.88
+        },
+        {
+          "word": "to",
+          "start": 420.88,
+          "end": 421.04
+        },
+        {
+          "word": "the",
+          "start": 421.04,
+          "end": 421.14
+        },
+        {
+          "word": "end",
+          "start": 421.14,
+          "end": 421.32
+        },
+        {
+          "word": "of",
+          "start": 421.32,
+          "end": 421.44
+        },
+        {
+          "word": "the",
+          "start": 421.44,
+          "end": 421.58
+        },
+        {
+          "word": "slide,",
+          "start": 421.58,
+          "end": 421.88
+        },
+        {
+          "word": "scale",
+          "start": 422.32,
+          "end": 422.54
+        },
+        {
+          "word": "it",
+          "start": 422.54,
+          "end": 422.68
+        },
+        {
+          "word": "up",
+          "start": 422.68,
+          "end": 422.8
+        },
+        {
+          "word": "to",
+          "start": 422.8,
+          "end": 422.94
+        },
+        {
+          "word": "about",
+          "start": 422.94,
+          "end": 423.18
+        },
+        {
+          "word": "108%.",
+          "start": 423.18,
+          "end": 424.36
+        }
+      ]
+    },
+    {
+      "start": 424.98,
+      "end": 425.22,
+      "text": "That's it.",
+      "words": [
+        {
+          "word": "That's",
+          "start": 424.84,
+          "end": 425.08
+        },
+        {
+          "word": "it.",
+          "start": 425.08,
+          "end": 425.22
+        }
+      ]
+    },
+    {
+      "start": 425.68,
+      "end": 427.18,
+      "text": "A slow push-in on every slide.",
+      "words": [
+        {
+          "word": "A",
+          "start": 425.68,
+          "end": 425.84
+        },
+        {
+          "word": "slow",
+          "start": 425.84,
+          "end": 426.08
+        },
+        {
+          "word": "push",
+          "start": 426.08,
+          "end": 426.3
+        },
+        {
+          "word": "-in",
+          "start": 426.3,
+          "end": 426.44
+        },
+        {
+          "word": "on",
+          "start": 426.44,
+          "end": 426.58
+        },
+        {
+          "word": "every",
+          "start": 426.58,
+          "end": 426.82
+        },
+        {
+          "word": "slide.",
+          "start": 426.82,
+          "end": 427.18
+        }
+      ]
+    },
+    {
+      "start": 428.1,
+      "end": 429.08,
+      "text": "Subtle, constant motion.",
+      "words": [
+        {
+          "word": "Subtle,",
+          "start": 428.1,
+          "end": 428.1
+        },
+        {
+          "word": "constant",
+          "start": 428.3,
+          "end": 428.68
+        },
+        {
+          "word": "motion.",
+          "start": 428.68,
+          "end": 429.08
+        }
+      ]
+    },
+    {
+      "start": 430.32,
+      "end": 430.78,
+      "text": "Transitions.",
+      "words": [
+        {
+          "word": "Transitions.",
+          "start": 430.32,
+          "end": 430.78
+        }
+      ]
+    },
+    {
+      "start": 430.78,
+      "end": 434.26,
+      "text": "1. Pick one. I use a fast glitch or a whip.",
+      "words": [
+        {
+          "word": "1.",
+          "start": 430.78,
+          "end": 431.44
+        },
+        {
+          "word": "Pick",
+          "start": 432.16,
+          "end": 432.28
+        },
+        {
+          "word": "one.",
+          "start": 432.28,
+          "end": 432.6
+        },
+        {
+          "word": "I",
+          "start": 432.96,
+          "end": 433.08
+        },
+        {
+          "word": "use",
+          "start": 433.08,
+          "end": 433.2
+        },
+        {
+          "word": "a",
+          "start": 433.2,
+          "end": 433.36
+        },
+        {
+          "word": "fast",
+          "start": 433.36,
+          "end": 433.54
+        },
+        {
+          "word": "glitch",
+          "start": 433.54,
+          "end": 433.78
+        },
+        {
+          "word": "or",
+          "start": 433.78,
+          "end": 433.98
+        },
+        {
+          "word": "a",
+          "start": 433.98,
+          "end": 434.1
+        },
+        {
+          "word": "whip.",
+          "start": 434.1,
+          "end": 434.26
+        }
+      ]
+    },
+    {
+      "start": 435.0,
+      "end": 438.78,
+      "text": "And put it only on the beat drop. The moment your hook slide smashes into the",
+      "words": [
+        {
+          "word": "And",
+          "start": 435.0,
+          "end": 435.18
+        },
+        {
+          "word": "put",
+          "start": 435.18,
+          "end": 435.3
+        },
+        {
+          "word": "it",
+          "start": 435.3,
+          "end": 435.42
+        },
+        {
+          "word": "only",
+          "start": 435.42,
+          "end": 435.64
+        },
+        {
+          "word": "on",
+          "start": 435.64,
+          "end": 435.84
+        },
+        {
+          "word": "the",
+          "start": 435.84,
+          "end": 435.96
+        },
+        {
+          "word": "beat",
+          "start": 435.96,
+          "end": 436.14
+        },
+        {
+          "word": "drop.",
+          "start": 436.14,
+          "end": 436.38
+        },
+        {
+          "word": "The",
+          "start": 437.02,
+          "end": 437.12
+        },
+        {
+          "word": "moment",
+          "start": 437.12,
+          "end": 437.3
+        },
+        {
+          "word": "your",
+          "start": 437.3,
+          "end": 437.54
+        },
+        {
+          "word": "hook",
+          "start": 437.54,
+          "end": 437.7
+        },
+        {
+          "word": "slide",
+          "start": 437.7,
+          "end": 437.94
+        },
+        {
+          "word": "smashes",
+          "start": 437.94,
+          "end": 438.36
+        },
+        {
+          "word": "into",
+          "start": 438.36,
+          "end": 438.62
+        },
+        {
+          "word": "the",
+          "start": 438.62,
+          "end": 438.78
+        }
+      ]
+    },
+    {
+      "start": 438.78,
+      "end": 442.94,
+      "text": "content, a reel with 5 different transitions looks like a wedding video from 2011.",
+      "words": [
+        {
+          "word": "content,",
+          "start": 438.78,
+          "end": 439.16
+        },
+        {
+          "word": "a",
+          "start": 439.64,
+          "end": 439.76
+        },
+        {
+          "word": "reel",
+          "start": 439.76,
+          "end": 439.92
+        },
+        {
+          "word": "with",
+          "start": 439.92,
+          "end": 440.14
+        },
+        {
+          "word": "5",
+          "start": 440.14,
+          "end": 440.36
+        },
+        {
+          "word": "different",
+          "start": 440.36,
+          "end": 440.66
+        },
+        {
+          "word": "transitions",
+          "start": 440.66,
+          "end": 441.14
+        },
+        {
+          "word": "looks",
+          "start": 441.14,
+          "end": 441.36
+        },
+        {
+          "word": "like",
+          "start": 441.36,
+          "end": 441.56
+        },
+        {
+          "word": "a",
+          "start": 441.56,
+          "end": 441.68
+        },
+        {
+          "word": "wedding",
+          "start": 441.68,
+          "end": 441.86
+        },
+        {
+          "word": "video",
+          "start": 441.86,
+          "end": 442.2
+        },
+        {
+          "word": "from",
+          "start": 442.2,
+          "end": 442.44
+        },
+        {
+          "word": "2011.",
+          "start": 442.44,
+          "end": 442.94
+        }
+      ]
+    },
+    {
+      "start": 443.78,
+      "end": 449.58,
+      "text": "One transition, used once, looks intentional. Last trick before export, and this is the",
+      "words": [
+        {
+          "word": "One",
+          "start": 443.78,
+          "end": 444.04
+        },
+        {
+          "word": "transition,",
+          "start": 444.04,
+          "end": 444.46
+        },
+        {
+          "word": "used",
+          "start": 444.84,
+          "end": 445.08
+        },
+        {
+          "word": "once,",
+          "start": 445.08,
+          "end": 445.46
+        },
+        {
+          "word": "looks",
+          "start": 445.8,
+          "end": 446.06
+        },
+        {
+          "word": "intentional.",
+          "start": 446.06,
+          "end": 446.6
+        },
+        {
+          "word": "Last",
+          "start": 447.48,
+          "end": 447.7
+        },
+        {
+          "word": "trick",
+          "start": 447.7,
+          "end": 447.92
+        },
+        {
+          "word": "before",
+          "start": 447.92,
+          "end": 448.22
+        },
+        {
+          "word": "export,",
+          "start": 448.22,
+          "end": 448.66
+        },
+        {
+          "word": "and",
+          "start": 449.16,
+          "end": 449.2
+        },
+        {
+          "word": "this",
+          "start": 449.2,
+          "end": 449.32
+        },
+        {
+          "word": "is",
+          "start": 449.32,
+          "end": 449.44
+        },
+        {
+          "word": "the",
+          "start": 449.44,
+          "end": 449.58
+        }
+      ]
+    },
+    {
+      "start": 449.58,
+      "end": 454.82,
+      "text": "one almost nobody uses, make it loop. Take your last slide and make its final frame",
+      "words": [
+        {
+          "word": "one",
+          "start": 449.58,
+          "end": 449.8
+        },
+        {
+          "word": "almost",
+          "start": 449.8,
+          "end": 450.42
+        },
+        {
+          "word": "nobody",
+          "start": 450.42,
+          "end": 450.86
+        },
+        {
+          "word": "uses,",
+          "start": 450.86,
+          "end": 451.26
+        },
+        {
+          "word": "make",
+          "start": 451.68,
+          "end": 451.9
+        },
+        {
+          "word": "it",
+          "start": 451.9,
+          "end": 452.06
+        },
+        {
+          "word": "loop.",
+          "start": 452.06,
+          "end": 452.24
+        },
+        {
+          "word": "Take",
+          "start": 452.84,
+          "end": 453.02
+        },
+        {
+          "word": "your",
+          "start": 453.02,
+          "end": 453.2
+        },
+        {
+          "word": "last",
+          "start": 453.2,
+          "end": 453.4
+        },
+        {
+          "word": "slide",
+          "start": 453.4,
+          "end": 453.7
+        },
+        {
+          "word": "and",
+          "start": 453.7,
+          "end": 453.9
+        },
+        {
+          "word": "make",
+          "start": 453.9,
+          "end": 454.06
+        },
+        {
+          "word": "its",
+          "start": 454.06,
+          "end": 454.22
+        },
+        {
+          "word": "final",
+          "start": 454.22,
+          "end": 454.48
+        },
+        {
+          "word": "frame",
+          "start": 454.48,
+          "end": 454.82
+        }
+      ]
+    },
+    {
+      "start": 454.82,
+      "end": 460.04,
+      "text": "visually identical to your first frame. Same background, same layout. When the reel restarts,",
+      "words": [
+        {
+          "word": "visually",
+          "start": 454.82,
+          "end": 455.2
+        },
+        {
+          "word": "identical",
+          "start": 455.2,
+          "end": 455.6
+        },
+        {
+          "word": "to",
+          "start": 455.6,
+          "end": 455.94
+        },
+        {
+          "word": "your",
+          "start": 455.94,
+          "end": 456.12
+        },
+        {
+          "word": "first",
+          "start": 456.12,
+          "end": 456.32
+        },
+        {
+          "word": "frame.",
+          "start": 456.32,
+          "end": 456.68
+        },
+        {
+          "word": "Same",
+          "start": 457.32,
+          "end": 457.46
+        },
+        {
+          "word": "background,",
+          "start": 457.46,
+          "end": 457.8
+        },
+        {
+          "word": "same",
+          "start": 458.04,
+          "end": 458.16
+        },
+        {
+          "word": "layout.",
+          "start": 458.16,
+          "end": 458.46
+        },
+        {
+          "word": "When",
+          "start": 459.08,
+          "end": 459.22
+        },
+        {
+          "word": "the",
+          "start": 459.22,
+          "end": 459.34
+        },
+        {
+          "word": "reel",
+          "start": 459.34,
+          "end": 459.54
+        },
+        {
+          "word": "restarts,",
+          "start": 459.54,
+          "end": 460.04
+        }
+      ]
+    },
+    {
+      "start": 460.04,
+      "end": 464.66,
+      "text": "there's no seam. People watch it twice without noticing, your average watch time",
+      "words": [
+        {
+          "word": "there's",
+          "start": 460.04,
+          "end": 460.4
+        },
+        {
+          "word": "no",
+          "start": 460.4,
+          "end": 460.58
+        },
+        {
+          "word": "seam.",
+          "start": 460.58,
+          "end": 460.96
+        },
+        {
+          "word": "People",
+          "start": 461.58,
+          "end": 461.78
+        },
+        {
+          "word": "watch",
+          "start": 461.78,
+          "end": 462.06
+        },
+        {
+          "word": "it",
+          "start": 462.06,
+          "end": 462.24
+        },
+        {
+          "word": "twice",
+          "start": 462.24,
+          "end": 462.46
+        },
+        {
+          "word": "without",
+          "start": 462.46,
+          "end": 462.74
+        },
+        {
+          "word": "noticing,",
+          "start": 462.74,
+          "end": 463.22
+        },
+        {
+          "word": "your",
+          "start": 463.66,
+          "end": 463.84
+        },
+        {
+          "word": "average",
+          "start": 463.84,
+          "end": 464.14
+        },
+        {
+          "word": "watch",
+          "start": 464.14,
+          "end": 464.38
+        },
+        {
+          "word": "time",
+          "start": 464.38,
+          "end": 464.66
+        }
+      ]
+    },
+    {
+      "start": 464.66,
+      "end": 469.28,
+      "text": "doubles, and watch time is the metric Instagram actually ranks on. Export",
+      "words": [
+        {
+          "word": "doubles,",
+          "start": 464.66,
+          "end": 465.04
+        },
+        {
+          "word": "and",
+          "start": 465.54,
+          "end": 465.68
+        },
+        {
+          "word": "watch",
+          "start": 465.68,
+          "end": 465.92
+        },
+        {
+          "word": "time",
+          "start": 465.92,
+          "end": 466.16
+        },
+        {
+          "word": "is",
+          "start": 466.16,
+          "end": 466.32
+        },
+        {
+          "word": "the",
+          "start": 466.32,
+          "end": 466.46
+        },
+        {
+          "word": "metric",
+          "start": 466.46,
+          "end": 466.72
+        },
+        {
+          "word": "Instagram",
+          "start": 466.72,
+          "end": 467.2
+        },
+        {
+          "word": "actually",
+          "start": 467.2,
+          "end": 467.62
+        },
+        {
+          "word": "ranks",
+          "start": 467.62,
+          "end": 467.9
+        },
+        {
+          "word": "on.",
+          "start": 467.9,
+          "end": 468.32
+        },
+        {
+          "word": "Export",
+          "start": 469.06,
+          "end": 469.28
+        }
+      ]
+    },
+    {
+      "start": 469.28,
+      "end": 474.84,
+      "text": "settings 1080p, 60 frames a second, bitrate on high, and now the thing I",
+      "words": [
+        {
+          "word": "settings",
+          "start": 469.28,
+          "end": 469.64
+        },
+        {
+          "word": "1080p,",
+          "start": 469.64,
+          "end": 470.88
+        },
+        {
+          "word": "60",
+          "start": 471.28,
+          "end": 471.56
+        },
+        {
+          "word": "frames",
+          "start": 471.56,
+          "end": 471.76
+        },
+        {
+          "word": "a",
+          "start": 471.76,
+          "end": 471.94
+        },
+        {
+          "word": "second,",
+          "start": 471.94,
+          "end": 472.24
+        },
+        {
+          "word": "bitrate",
+          "start": 472.66,
+          "end": 472.94
+        },
+        {
+          "word": "on",
+          "start": 472.94,
+          "end": 473.22
+        },
+        {
+          "word": "high,",
+          "start": 473.22,
+          "end": 473.5
+        },
+        {
+          "word": "and",
+          "start": 473.92,
+          "end": 474.08
+        },
+        {
+          "word": "now",
+          "start": 474.08,
+          "end": 474.34
+        },
+        {
+          "word": "the",
+          "start": 474.34,
+          "end": 474.52
+        },
+        {
+          "word": "thing",
+          "start": 474.52,
+          "end": 474.68
+        },
+        {
+          "word": "I",
+          "start": 474.68,
+          "end": 474.84
+        }
+      ]
+    },
+    {
+      "start": 474.84,
+      "end": 479.86,
+      "text": "promised you at the start. Before you hit export, mute the music track. Yes, delete",
+      "words": [
+        {
+          "word": "promised",
+          "start": 474.84,
+          "end": 475.08
+        },
+        {
+          "word": "you",
+          "start": 475.08,
+          "end": 475.28
+        },
+        {
+          "word": "at",
+          "start": 475.28,
+          "end": 475.4
+        },
+        {
+          "word": "the",
+          "start": 475.4,
+          "end": 475.56
+        },
+        {
+          "word": "start.",
+          "start": 475.56,
+          "end": 475.8
+        },
+        {
+          "word": "Before",
+          "start": 476.58,
+          "end": 476.8
+        },
+        {
+          "word": "you",
+          "start": 476.8,
+          "end": 476.96
+        },
+        {
+          "word": "hit",
+          "start": 476.96,
+          "end": 477.14
+        },
+        {
+          "word": "export,",
+          "start": 477.14,
+          "end": 477.5
+        },
+        {
+          "word": "mute",
+          "start": 477.94,
+          "end": 478.04
+        },
+        {
+          "word": "the",
+          "start": 478.04,
+          "end": 478.2
+        },
+        {
+          "word": "music",
+          "start": 478.2,
+          "end": 478.44
+        },
+        {
+          "word": "track.",
+          "start": 478.44,
+          "end": 478.8
+        },
+        {
+          "word": "Yes,",
+          "start": 479.2,
+          "end": 479.36
+        },
+        {
+          "word": "delete",
+          "start": 479.66,
+          "end": 479.86
+        }
+      ]
+    },
+    {
+      "start": 479.86,
+      "end": 484.14,
+      "text": "it or mute it. Here's why. If you bake a song into your file, Instagram hears it",
+      "words": [
+        {
+          "word": "it",
+          "start": 479.86,
+          "end": 480.02
+        },
+        {
+          "word": "or",
+          "start": 480.02,
+          "end": 480.22
+        },
+        {
+          "word": "mute",
+          "start": 480.22,
+          "end": 480.4
+        },
+        {
+          "word": "it.",
+          "start": 480.4,
+          "end": 480.76
+        },
+        {
+          "word": "Here's",
+          "start": 480.9,
+          "end": 481.1
+        },
+        {
+          "word": "why.",
+          "start": 481.1,
+          "end": 481.38
+        },
+        {
+          "word": "If",
+          "start": 481.76,
+          "end": 481.92
+        },
+        {
+          "word": "you",
+          "start": 481.92,
+          "end": 482.0
+        },
+        {
+          "word": "bake",
+          "start": 482.0,
+          "end": 482.18
+        },
+        {
+          "word": "a",
+          "start": 482.18,
+          "end": 482.32
+        },
+        {
+          "word": "song",
+          "start": 482.32,
+          "end": 482.5
+        },
+        {
+          "word": "into",
+          "start": 482.5,
+          "end": 482.72
+        },
+        {
+          "word": "your",
+          "start": 482.72,
+          "end": 482.88
+        },
+        {
+          "word": "file,",
+          "start": 482.88,
+          "end": 483.16
+        },
+        {
+          "word": "Instagram",
+          "start": 483.38,
+          "end": 483.7
+        },
+        {
+          "word": "hears",
+          "start": 483.7,
+          "end": 483.96
+        },
+        {
+          "word": "it",
+          "start": 483.96,
+          "end": 484.14
+        }
+      ]
+    },
+    {
+      "start": 484.14,
+      "end": 489.38,
+      "text": "as just your audio. But trending audio only helps your reach if it's added",
+      "words": [
+        {
+          "word": "as",
+          "start": 484.14,
+          "end": 484.36
+        },
+        {
+          "word": "just",
+          "start": 484.36,
+          "end": 484.78
+        },
+        {
+          "word": "your",
+          "start": 484.78,
+          "end": 485.46
+        },
+        {
+          "word": "audio.",
+          "start": 485.46,
+          "end": 485.9
+        },
+        {
+          "word": "But",
+          "start": 486.66,
+          "end": 486.94
+        },
+        {
+          "word": "trending",
+          "start": 486.94,
+          "end": 487.32
+        },
+        {
+          "word": "audio",
+          "start": 487.32,
+          "end": 487.66
+        },
+        {
+          "word": "only",
+          "start": 487.66,
+          "end": 487.88
+        },
+        {
+          "word": "helps",
+          "start": 487.88,
+          "end": 488.14
+        },
+        {
+          "word": "your",
+          "start": 488.14,
+          "end": 488.32
+        },
+        {
+          "word": "reach",
+          "start": 488.32,
+          "end": 488.54
+        },
+        {
+          "word": "if",
+          "start": 488.54,
+          "end": 488.92
+        },
+        {
+          "word": "it's",
+          "start": 488.92,
+          "end": 489.1
+        },
+        {
+          "word": "added",
+          "start": 489.1,
+          "end": 489.38
+        }
+      ]
+    },
+    {
+      "start": 489.38,
+      "end": 495.34,
+      "text": "inside Instagram. That's how the algorithm files your reel under that sound. So, export",
+      "words": [
+        {
+          "word": "inside",
+          "start": 489.38,
+          "end": 489.74
+        },
+        {
+          "word": "Instagram.",
+          "start": 489.74,
+          "end": 490.24
+        },
+        {
+          "word": "That's",
+          "start": 490.94,
+          "end": 491.26
+        },
+        {
+          "word": "how",
+          "start": 491.26,
+          "end": 491.38
+        },
+        {
+          "word": "the",
+          "start": 491.38,
+          "end": 491.5
+        },
+        {
+          "word": "algorithm",
+          "start": 491.5,
+          "end": 491.86
+        },
+        {
+          "word": "files",
+          "start": 491.86,
+          "end": 492.28
+        },
+        {
+          "word": "your",
+          "start": 492.28,
+          "end": 492.5
+        },
+        {
+          "word": "reel",
+          "start": 492.5,
+          "end": 492.66
+        },
+        {
+          "word": "under",
+          "start": 492.66,
+          "end": 492.98
+        },
+        {
+          "word": "that",
+          "start": 492.98,
+          "end": 493.24
+        },
+        {
+          "word": "sound.",
+          "start": 493.24,
+          "end": 493.62
+        },
+        {
+          "word": "So,",
+          "start": 494.36,
+          "end": 494.46
+        },
+        {
+          "word": "export",
+          "start": 495.04,
+          "end": 495.34
+        }
+      ]
+    },
+    {
+      "start": 495.34,
+      "end": 500.98,
+      "text": "silent or voiceover only. Then add the trending version of the track in the Instagram app",
+      "words": [
+        {
+          "word": "silent",
+          "start": 495.34,
+          "end": 495.82
+        },
+        {
+          "word": "or",
+          "start": 495.82,
+          "end": 496.52
+        },
+        {
+          "word": "voiceover",
+          "start": 496.52,
+          "end": 497.02
+        },
+        {
+          "word": "only.",
+          "start": 497.02,
+          "end": 497.42
+        },
+        {
+          "word": "Then",
+          "start": 498.06,
+          "end": 498.28
+        },
+        {
+          "word": "add",
+          "start": 498.28,
+          "end": 498.58
+        },
+        {
+          "word": "the",
+          "start": 498.58,
+          "end": 498.76
+        },
+        {
+          "word": "trending",
+          "start": 498.76,
+          "end": 499.06
+        },
+        {
+          "word": "version",
+          "start": 499.06,
+          "end": 499.36
+        },
+        {
+          "word": "of",
+          "start": 499.36,
+          "end": 499.6
+        },
+        {
+          "word": "the",
+          "start": 499.6,
+          "end": 499.72
+        },
+        {
+          "word": "track",
+          "start": 499.72,
+          "end": 499.98
+        },
+        {
+          "word": "in",
+          "start": 499.98,
+          "end": 500.14
+        },
+        {
+          "word": "the",
+          "start": 500.14,
+          "end": 500.24
+        },
+        {
+          "word": "Instagram",
+          "start": 500.24,
+          "end": 500.68
+        },
+        {
+          "word": "app",
+          "start": 500.68,
+          "end": 500.98
+        }
+      ]
+    },
+    {
+      "start": 500.98,
+      "end": 506.1,
+      "text": "when you post. You get the beat synced edit and the algorithm credit. That's the whole",
+      "words": [
+        {
+          "word": "when",
+          "start": 500.98,
+          "end": 501.16
+        },
+        {
+          "word": "you",
+          "start": 501.16,
+          "end": 501.3
+        },
+        {
+          "word": "post.",
+          "start": 501.3,
+          "end": 501.6
+        },
+        {
+          "word": "You",
+          "start": 502.1,
+          "end": 502.28
+        },
+        {
+          "word": "get",
+          "start": 502.28,
+          "end": 502.42
+        },
+        {
+          "word": "the",
+          "start": 502.42,
+          "end": 502.58
+        },
+        {
+          "word": "beat",
+          "start": 502.58,
+          "end": 502.8
+        },
+        {
+          "word": "synced",
+          "start": 502.8,
+          "end": 503.2
+        },
+        {
+          "word": "edit",
+          "start": 503.2,
+          "end": 503.46
+        },
+        {
+          "word": "and",
+          "start": 503.46,
+          "end": 503.96
+        },
+        {
+          "word": "the",
+          "start": 503.96,
+          "end": 504.08
+        },
+        {
+          "word": "algorithm",
+          "start": 504.08,
+          "end": 504.52
+        },
+        {
+          "word": "credit.",
+          "start": 504.52,
+          "end": 504.88
+        },
+        {
+          "word": "That's",
+          "start": 505.5,
+          "end": 505.78
+        },
+        {
+          "word": "the",
+          "start": 505.78,
+          "end": 505.9
+        },
+        {
+          "word": "whole",
+          "start": 505.9,
+          "end": 506.1
+        }
+      ]
+    },
+    {
+      "start": 506.1,
+      "end": 511.62,
+      "text": "trick. And when you do post it, the reel we just built plus the trending audio at low",
+      "words": [
+        {
+          "word": "trick.",
+          "start": 506.1,
+          "end": 506.42
+        },
+        {
+          "word": "And",
+          "start": 506.92,
+          "end": 507.02
+        },
+        {
+          "word": "when",
+          "start": 507.02,
+          "end": 507.12
+        },
+        {
+          "word": "you",
+          "start": 507.12,
+          "end": 507.3
+        },
+        {
+          "word": "do",
+          "start": 507.3,
+          "end": 507.44
+        },
+        {
+          "word": "post",
+          "start": 507.44,
+          "end": 507.78
+        },
+        {
+          "word": "it,",
+          "start": 507.78,
+          "end": 508.02
+        },
+        {
+          "word": "the",
+          "start": 508.4,
+          "end": 508.5
+        },
+        {
+          "word": "reel",
+          "start": 508.5,
+          "end": 508.7
+        },
+        {
+          "word": "we",
+          "start": 508.7,
+          "end": 508.88
+        },
+        {
+          "word": "just",
+          "start": 508.88,
+          "end": 509.02
+        },
+        {
+          "word": "built",
+          "start": 509.02,
+          "end": 509.4
+        },
+        {
+          "word": "plus",
+          "start": 509.4,
+          "end": 509.86
+        },
+        {
+          "word": "the",
+          "start": 509.86,
+          "end": 510.06
+        },
+        {
+          "word": "trending",
+          "start": 510.06,
+          "end": 510.34
+        },
+        {
+          "word": "audio",
+          "start": 510.34,
+          "end": 510.74
+        },
+        {
+          "word": "at",
+          "start": 510.74,
+          "end": 511.34
+        },
+        {
+          "word": "low",
+          "start": 511.34,
+          "end": 511.62
+        }
+      ]
+    },
+    {
+      "start": 511.62,
+      "end": 516.16,
+      "text": "volume under your voiceover, a cover frame that's readable as a thumbnail, and your",
+      "words": [
+        {
+          "word": "volume",
+          "start": 511.62,
+          "end": 512.06
+        },
+        {
+          "word": "under",
+          "start": 512.06,
+          "end": 512.26
+        },
+        {
+          "word": "your",
+          "start": 512.26,
+          "end": 512.46
+        },
+        {
+          "word": "voiceover,",
+          "start": 512.46,
+          "end": 513.02
+        },
+        {
+          "word": "a",
+          "start": 513.46,
+          "end": 513.68
+        },
+        {
+          "word": "cover",
+          "start": 513.68,
+          "end": 513.84
+        },
+        {
+          "word": "frame",
+          "start": 513.84,
+          "end": 514.2
+        },
+        {
+          "word": "that's",
+          "start": 514.2,
+          "end": 514.44
+        },
+        {
+          "word": "readable",
+          "start": 514.44,
+          "end": 514.66
+        },
+        {
+          "word": "as",
+          "start": 514.66,
+          "end": 514.96
+        },
+        {
+          "word": "a",
+          "start": 514.96,
+          "end": 515.08
+        },
+        {
+          "word": "thumbnail,",
+          "start": 515.08,
+          "end": 515.4
+        },
+        {
+          "word": "and",
+          "start": 515.78,
+          "end": 516.04
+        },
+        {
+          "word": "your",
+          "start": 516.04,
+          "end": 516.16
+        }
+      ]
+    },
+    {
+      "start": 516.16,
+      "end": 518.3,
+      "text": "hook line repeated as the first line of the caption.",
+      "words": [
+        {
+          "word": "hook",
+          "start": 516.16,
+          "end": 516.32
+        },
+        {
+          "word": "line",
+          "start": 516.32,
+          "end": 516.54
+        },
+        {
+          "word": "repeated",
+          "start": 516.54,
+          "end": 516.9
+        },
+        {
+          "word": "as",
+          "start": 516.9,
+          "end": 517.1
+        },
+        {
+          "word": "the",
+          "start": 517.1,
+          "end": 517.28
+        },
+        {
+          "word": "first",
+          "start": 517.28,
+          "end": 517.44
+        },
+        {
+          "word": "line",
+          "start": 517.44,
+          "end": 517.72
+        },
+        {
+          "word": "of",
+          "start": 517.72,
+          "end": 517.84
+        },
+        {
+          "word": "the",
+          "start": 517.84,
+          "end": 517.94
+        },
+        {
+          "word": "caption.",
+          "start": 517.94,
+          "end": 518.3
+        }
+      ]
+    },
+    {
+      "start": 519.26,
+      "end": 521.92,
+      "text": "Quick checklist before this thing goes anywhere near your profile.",
+      "words": [
+        {
+          "word": "Quick",
+          "start": 519.26,
+          "end": 519.34
+        },
+        {
+          "word": "checklist",
+          "start": 519.34,
+          "end": 519.76
+        },
+        {
+          "word": "before",
+          "start": 519.76,
+          "end": 520.12
+        },
+        {
+          "word": "this",
+          "start": 520.12,
+          "end": 520.34
+        },
+        {
+          "word": "thing",
+          "start": 520.34,
+          "end": 520.54
+        },
+        {
+          "word": "goes",
+          "start": 520.54,
+          "end": 520.74
+        },
+        {
+          "word": "anywhere",
+          "start": 520.74,
+          "end": 521.06
+        },
+        {
+          "word": "near",
+          "start": 521.06,
+          "end": 521.26
+        },
+        {
+          "word": "your",
+          "start": 521.26,
+          "end": 521.48
+        },
+        {
+          "word": "profile.",
+          "start": 521.48,
+          "end": 521.92
+        }
+      ]
+    },
+    {
+      "start": 522.48,
+      "end": 524.2,
+      "text": "Run every reel through these five.",
+      "words": [
+        {
+          "word": "Run",
+          "start": 522.48,
+          "end": 522.62
+        },
+        {
+          "word": "every",
+          "start": 522.62,
+          "end": 522.96
+        },
+        {
+          "word": "reel",
+          "start": 522.96,
+          "end": 523.24
+        },
+        {
+          "word": "through",
+          "start": 523.24,
+          "end": 523.5
+        },
+        {
+          "word": "these",
+          "start": 523.5,
+          "end": 523.74
+        },
+        {
+          "word": "five.",
+          "start": 523.74,
+          "end": 524.2
+        }
+      ]
+    },
+    {
+      "start": 524.78,
+      "end": 526.96,
+      "text": "One, does something move in the first second?",
+      "words": [
+        {
+          "word": "One,",
+          "start": 524.78,
+          "end": 525.1
+        },
+        {
+          "word": "does",
+          "start": 525.54,
+          "end": 525.64
+        },
+        {
+          "word": "something",
+          "start": 525.64,
+          "end": 525.88
+        },
+        {
+          "word": "move",
+          "start": 525.88,
+          "end": 526.2
+        },
+        {
+          "word": "in",
+          "start": 526.2,
+          "end": 526.36
+        },
+        {
+          "word": "the",
+          "start": 526.36,
+          "end": 526.46
+        },
+        {
+          "word": "first",
+          "start": 526.46,
+          "end": 526.66
+        },
+        {
+          "word": "second?",
+          "start": 526.66,
+          "end": 526.96
+        }
+      ]
+    },
+    {
+      "start": 527.44,
+      "end": 529.22,
+      "text": "Two, does it make sense on mute?",
+      "words": [
+        {
+          "word": "Two,",
+          "start": 527.44,
+          "end": 527.7
+        },
+        {
+          "word": "does",
+          "start": 528.04,
+          "end": 528.2
+        },
+        {
+          "word": "it",
+          "start": 528.2,
+          "end": 528.32
+        },
+        {
+          "word": "make",
+          "start": 528.32,
+          "end": 528.48
+        },
+        {
+          "word": "sense",
+          "start": 528.48,
+          "end": 528.72
+        },
+        {
+          "word": "on",
+          "start": 528.72,
+          "end": 528.98
+        },
+        {
+          "word": "mute?",
+          "start": 528.98,
+          "end": 529.22
+        }
+      ]
+    },
+    {
+      "start": 529.72,
+      "end": 531.94,
+      "text": "Three, is every word inside the safe zone?",
+      "words": [
+        {
+          "word": "Three,",
+          "start": 529.72,
+          "end": 530.0
+        },
+        {
+          "word": "is",
+          "start": 530.32,
+          "end": 530.5
+        },
+        {
+          "word": "every",
+          "start": 530.5,
+          "end": 530.72
+        },
+        {
+          "word": "word",
+          "start": 530.72,
+          "end": 530.98
+        },
+        {
+          "word": "inside",
+          "start": 530.98,
+          "end": 531.3
+        },
+        {
+          "word": "the",
+          "start": 531.3,
+          "end": 531.48
+        },
+        {
+          "word": "safe",
+          "start": 531.48,
+          "end": 531.66
+        },
+        {
+          "word": "zone?",
+          "start": 531.66,
+          "end": 531.94
+        }
+      ]
+    },
+    {
+      "start": 532.48,
+      "end": 534.86,
+      "text": "Four, does the ending loop back to the start?",
+      "words": [
+        {
+          "word": "Four,",
+          "start": 532.48,
+          "end": 532.84
+        },
+        {
+          "word": "does",
+          "start": 533.2,
+          "end": 533.4
+        },
+        {
+          "word": "the",
+          "start": 533.4,
+          "end": 533.54
+        },
+        {
+          "word": "ending",
+          "start": 533.54,
+          "end": 533.84
+        },
+        {
+          "word": "loop",
+          "start": 533.84,
+          "end": 534.1
+        },
+        {
+          "word": "back",
+          "start": 534.1,
+          "end": 534.34
+        },
+        {
+          "word": "to",
+          "start": 534.34,
+          "end": 534.48
+        },
+        {
+          "word": "the",
+          "start": 534.48,
+          "end": 534.58
+        },
+        {
+          "word": "start?",
+          "start": 534.58,
+          "end": 534.86
+        }
+      ]
+    },
+    {
+      "start": 535.42,
+      "end": 539.1,
+      "text": "Five, is the music added in Instagram not baked into the file?",
+      "words": [
+        {
+          "word": "Five,",
+          "start": 535.42,
+          "end": 535.82
+        },
+        {
+          "word": "is",
+          "start": 536.22,
+          "end": 536.38
+        },
+        {
+          "word": "the",
+          "start": 536.38,
+          "end": 536.52
+        },
+        {
+          "word": "music",
+          "start": 536.52,
+          "end": 536.76
+        },
+        {
+          "word": "added",
+          "start": 536.76,
+          "end": 537.08
+        },
+        {
+          "word": "in",
+          "start": 537.08,
+          "end": 537.24
+        },
+        {
+          "word": "Instagram",
+          "start": 537.24,
+          "end": 537.66
+        },
+        {
+          "word": "not",
+          "start": 537.66,
+          "end": 538.1
+        },
+        {
+          "word": "baked",
+          "start": 538.1,
+          "end": 538.36
+        },
+        {
+          "word": "into",
+          "start": 538.36,
+          "end": 538.62
+        },
+        {
+          "word": "the",
+          "start": 538.62,
+          "end": 538.8
+        },
+        {
+          "word": "file?",
+          "start": 538.8,
+          "end": 539.1
+        }
+      ]
+    },
+    {
+      "start": 539.64,
+      "end": 541.08,
+      "text": "Five yeses and you post it.",
+      "words": [
+        {
+          "word": "Five",
+          "start": 539.64,
+          "end": 539.82
+        },
+        {
+          "word": "yeses",
+          "start": 539.82,
+          "end": 540.22
+        },
+        {
+          "word": "and",
+          "start": 540.22,
+          "end": 540.4
+        },
+        {
+          "word": "you",
+          "start": 540.4,
+          "end": 540.52
+        },
+        {
+          "word": "post",
+          "start": 540.52,
+          "end": 540.74
+        },
+        {
+          "word": "it.",
+          "start": 540.74,
+          "end": 541.08
+        }
+      ]
+    },
+    {
+      "start": 541.08,
+      "end": 545.26,
+      "text": "Any no, and you now know exactly which two minutes of this video to rewatch.",
+      "words": [
+        {
+          "word": "Any",
+          "start": 541.08,
+          "end": 541.74
+        },
+        {
+          "word": "no,",
+          "start": 541.74,
+          "end": 542.04
+        },
+        {
+          "word": "and",
+          "start": 542.44,
+          "end": 542.58
+        },
+        {
+          "word": "you",
+          "start": 542.58,
+          "end": 542.68
+        },
+        {
+          "word": "now",
+          "start": 542.68,
+          "end": 542.88
+        },
+        {
+          "word": "know",
+          "start": 542.88,
+          "end": 543.06
+        },
+        {
+          "word": "exactly",
+          "start": 543.06,
+          "end": 543.4
+        },
+        {
+          "word": "which",
+          "start": 543.4,
+          "end": 543.68
+        },
+        {
+          "word": "two",
+          "start": 543.68,
+          "end": 543.9
+        },
+        {
+          "word": "minutes",
+          "start": 543.9,
+          "end": 544.06
+        },
+        {
+          "word": "of",
+          "start": 544.06,
+          "end": 544.26
+        },
+        {
+          "word": "this",
+          "start": 544.26,
+          "end": 544.4
+        },
+        {
+          "word": "video",
+          "start": 544.4,
+          "end": 544.66
+        },
+        {
+          "word": "to",
+          "start": 544.66,
+          "end": 544.86
+        },
+        {
+          "word": "rewatch.",
+          "start": 544.86,
+          "end": 545.26
+        }
+      ]
+    },
+    {
+      "start": 546.26,
+      "end": 547.26,
+      "text": "So that's the full system.",
+      "words": [
+        {
+          "word": "So",
+          "start": 546.26,
+          "end": 546.26
+        },
+        {
+          "word": "that's",
+          "start": 546.26,
+          "end": 546.54
+        },
+        {
+          "word": "the",
+          "start": 546.54,
+          "end": 546.62
+        },
+        {
+          "word": "full",
+          "start": 546.62,
+          "end": 546.84
+        },
+        {
+          "word": "system.",
+          "start": 546.84,
+          "end": 547.26
+        }
+      ]
+    },
+    {
+      "start": 548.06,
+      "end": 553.6,
+      "text": "Canva for a branded animated base, hook, value, loop, cap cut for the beat sync, the captions,",
+      "words": [
+        {
+          "word": "Canva",
+          "start": 548.06,
+          "end": 548.2
+        },
+        {
+          "word": "for",
+          "start": 548.2,
+          "end": 548.36
+        },
+        {
+          "word": "a",
+          "start": 548.36,
+          "end": 548.48
+        },
+        {
+          "word": "branded",
+          "start": 548.48,
+          "end": 548.7
+        },
+        {
+          "word": "animated",
+          "start": 548.7,
+          "end": 549.1
+        },
+        {
+          "word": "base,",
+          "start": 549.1,
+          "end": 549.5
+        },
+        {
+          "word": "hook,",
+          "start": 550.06,
+          "end": 550.1
+        },
+        {
+          "word": "value,",
+          "start": 550.36,
+          "end": 550.56
+        },
+        {
+          "word": "loop,",
+          "start": 550.9,
+          "end": 551.04
+        },
+        {
+          "word": "cap",
+          "start": 551.76,
+          "end": 551.78
+        },
+        {
+          "word": "cut",
+          "start": 551.78,
+          "end": 551.98
+        },
+        {
+          "word": "for",
+          "start": 551.98,
+          "end": 552.18
+        },
+        {
+          "word": "the",
+          "start": 552.18,
+          "end": 552.28
+        },
+        {
+          "word": "beat",
+          "start": 552.28,
+          "end": 552.44
+        },
+        {
+          "word": "sync,",
+          "start": 552.44,
+          "end": 552.7
+        },
+        {
+          "word": "the",
+          "start": 553.1,
+          "end": 553.22
+        },
+        {
+          "word": "captions,",
+          "start": 553.22,
+          "end": 553.6
+        }
+      ]
+    },
+    {
+      "start": 554.02,
+      "end": 557.98,
+      "text": "the punch ins, and the silent export that keeps the algorithm on your side.",
+      "words": [
+        {
+          "word": "the",
+          "start": 554.02,
+          "end": 554.12
+        },
+        {
+          "word": "punch",
+          "start": 554.12,
+          "end": 554.34
+        },
+        {
+          "word": "ins,",
+          "start": 554.34,
+          "end": 554.56
+        },
+        {
+          "word": "and",
+          "start": 554.94,
+          "end": 555.04
+        },
+        {
+          "word": "the",
+          "start": 555.04,
+          "end": 555.16
+        },
+        {
+          "word": "silent",
+          "start": 555.16,
+          "end": 555.5
+        },
+        {
+          "word": "export",
+          "start": 555.5,
+          "end": 555.96
+        },
+        {
+          "word": "that",
+          "start": 555.96,
+          "end": 556.48
+        },
+        {
+          "word": "keeps",
+          "start": 556.48,
+          "end": 556.68
+        },
+        {
+          "word": "the",
+          "start": 556.68,
+          "end": 556.9
+        },
+        {
+          "word": "algorithm",
+          "start": 556.9,
+          "end": 557.2
+        },
+        {
+          "word": "on",
+          "start": 557.2,
+          "end": 557.5
+        },
+        {
+          "word": "your",
+          "start": 557.5,
+          "end": 557.66
+        },
+        {
+          "word": "side.",
+          "start": 557.66,
+          "end": 557.98
+        }
+      ]
+    },
+    {
+      "start": 558.58,
+      "end": 559.66,
+      "text": "Total cost, nothing.",
+      "words": [
+        {
+          "word": "Total",
+          "start": 558.58,
+          "end": 558.74
+        },
+        {
+          "word": "cost,",
+          "start": 558.74,
+          "end": 559.08
+        },
+        {
+          "word": "nothing.",
+          "start": 559.44,
+          "end": 559.66
+        }
+      ]
+    },
+    {
+      "start": 560.68,
+      "end": 561.26,
+      "text": "Total time.",
+      "words": [
+        {
+          "word": "Total",
+          "start": 560.68,
+          "end": 560.9
+        },
+        {
+          "word": "time.",
+          "start": 560.9,
+          "end": 561.26
+        }
+      ]
+    },
+    {
+      "start": 561.88,
+      "end": 563.66,
+      "text": "About 15 minutes once you've done it twice.",
+      "words": [
+        {
+          "word": "About",
+          "start": 561.88,
+          "end": 562.1
+        },
+        {
+          "word": "15",
+          "start": 562.1,
+          "end": 562.48
+        },
+        {
+          "word": "minutes",
+          "start": 562.48,
+          "end": 562.74
+        },
+        {
+          "word": "once",
+          "start": 562.74,
+          "end": 562.96
+        },
+        {
+          "word": "you've",
+          "start": 562.96,
+          "end": 563.2
+        },
+        {
+          "word": "done",
+          "start": 563.2,
+          "end": 563.3
+        },
+        {
+          "word": "it",
+          "start": 563.3,
+          "end": 563.44
+        },
+        {
+          "word": "twice.",
+          "start": 563.44,
+          "end": 563.66
+        }
+      ]
+    },
+    {
+      "start": 564.2,
+      "end": 569.64,
+      "text": "If you want the Canva side to go deeper, labels, avatars, full designs, the playlist on screen",
+      "words": [
+        {
+          "word": "If",
+          "start": 564.2,
+          "end": 564.34
+        },
+        {
+          "word": "you",
+          "start": 564.34,
+          "end": 564.46
+        },
+        {
+          "word": "want",
+          "start": 564.46,
+          "end": 564.6
+        },
+        {
+          "word": "the",
+          "start": 564.6,
+          "end": 564.76
+        },
+        {
+          "word": "Canva",
+          "start": 564.76,
+          "end": 565.06
+        },
+        {
+          "word": "side",
+          "start": 565.06,
+          "end": 565.28
+        },
+        {
+          "word": "to",
+          "start": 565.28,
+          "end": 565.44
+        },
+        {
+          "word": "go",
+          "start": 565.44,
+          "end": 565.6
+        },
+        {
+          "word": "deeper,",
+          "start": 565.6,
+          "end": 565.94
+        },
+        {
+          "word": "labels,",
+          "start": 566.78,
+          "end": 566.78
+        },
+        {
+          "word": "avatars,",
+          "start": 567.02,
+          "end": 567.38
+        },
+        {
+          "word": "full",
+          "start": 567.58,
+          "end": 567.72
+        },
+        {
+          "word": "designs,",
+          "start": 567.72,
+          "end": 568.14
+        },
+        {
+          "word": "the",
+          "start": 568.66,
+          "end": 568.82
+        },
+        {
+          "word": "playlist",
+          "start": 568.82,
+          "end": 569.06
+        },
+        {
+          "word": "on",
+          "start": 569.06,
+          "end": 569.34
+        },
+        {
+          "word": "screen",
+          "start": 569.34,
+          "end": 569.64
+        }
+      ]
+    },
+    {
+      "start": 569.64,
+      "end": 574.82,
+      "text": "has you covered. Subscribe if this saved you some guesswork and I'll see you in the next one.",
+      "words": [
+        {
+          "word": "has",
+          "start": 569.64,
+          "end": 569.88
+        },
+        {
+          "word": "you",
+          "start": 569.88,
+          "end": 570.12
+        },
+        {
+          "word": "covered.",
+          "start": 570.12,
+          "end": 570.5
+        },
+        {
+          "word": "Subscribe",
+          "start": 571.42,
+          "end": 571.44
+        },
+        {
+          "word": "if",
+          "start": 571.44,
+          "end": 571.64
+        },
+        {
+          "word": "this",
+          "start": 571.64,
+          "end": 571.78
+        },
+        {
+          "word": "saved",
+          "start": 571.78,
+          "end": 572.02
+        },
+        {
+          "word": "you",
+          "start": 572.02,
+          "end": 572.24
+        },
+        {
+          "word": "some",
+          "start": 572.24,
+          "end": 572.48
+        },
+        {
+          "word": "guesswork",
+          "start": 572.48,
+          "end": 573.42
+        },
+        {
+          "word": "and",
+          "start": 573.42,
+          "end": 573.78
+        },
+        {
+          "word": "I'll",
+          "start": 573.78,
+          "end": 573.92
+        },
+        {
+          "word": "see",
+          "start": 573.92,
+          "end": 574.08
+        },
+        {
+          "word": "you",
+          "start": 574.08,
+          "end": 574.18
+        },
+        {
+          "word": "in",
+          "start": 574.18,
+          "end": 574.3
+        },
+        {
+          "word": "the",
+          "start": 574.3,
+          "end": 574.38
+        },
+        {
+          "word": "next",
+          "start": 574.38,
+          "end": 574.58
+        },
+        {
+          "word": "one.",
+          "start": 574.58,
+          "end": 574.82
+        }
+      ]
+    }
+  ]
+}

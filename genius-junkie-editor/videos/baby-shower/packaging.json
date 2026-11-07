@@ -1,0 +1,66 @@
+{
+  "slug": "baby-shower",
+  "slateNumber": "S3 #3",
+  "voice": "Kokoro bm_fable",
+  "runtime": "9:15",
+  "titles": {
+    "A": "How to Make Baby Shower Invitations in Canva 2026 (Print at Home, A6)",
+    "B": "Canva Party Printables — Invitations, Tags and Table Numbers at Home",
+    "C": "Your Printer Is Shrinking Your Invitations — Here Is the Setting"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "baby shower invitations canva",
+    "how to make baby shower invitations",
+    "canva invitations",
+    "party printables canva",
+    "print at home invitations",
+    "canva tutorial 2026",
+    "a6 invitation",
+    "diy invitations",
+    "favour tags",
+    "table numbers",
+    "print actual size",
+    "canva print",
+    "invitation template",
+    "baby shower diy",
+    "printable invitations",
+    "genius junkie"
+  ],
+  "adBreaks": [
+    "3:27.3",
+    "6:42.0"
+  ],
+  "product": {
+    "name": "Party Printables Kit",
+    "price": "£4.99",
+    "slug": "party-printables-kit"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-invite-actual-size": {
+      "title": "Your printer is shrinking your invitations #shorts",
+      "description": "Every print dialog defaults to some version of \"Fit\" — Fit to page, Fit to printable area, Shrink oversized pages, Scale to fit. It shrinks your design so it sits inside the area the printer can physically reach, by a few percent. That is enough that a card no longer fits the envelopes you already bought.\n\nSet page sizing to Actual size, or 100%, or Custom scale 100. Then prove it: print one sheet and measure a card with a ruler. An A6 card is one hundred and five millimetres wide. If it measures a hundred and one, the dialog is still scaling and no amount of redesigning will fix it.\n\nFull tutorial on the channel — the four-up sheet, the paper weights and the trimming.",
+      "publishAt": "2026-10-04T12:00:00.000Z"
+    },
+    "promo-invite-four-up": {
+      "title": "Your printer cannot do full bleed — so cut through it #shorts",
+      "description": "Home printers have a non-printable margin of roughly three to six millimetres, so a card designed edge to edge comes out with a white border round it. The way round it costs nothing: lay four A6 cards on one A4 sheet — they tile it exactly, because A6 is defined as a quarter of A4.\n\nLeave white all round the OUTSIDE of the block, so the printer's dead zone lands on empty paper. Let the artwork TOUCH between the cards. Then cut down the shared line, and the colour runs right to the edge. You have just given yourself full bleed on a printer that cannot do full bleed.\n\nFull tutorial on the channel.",
+      "publishAt": "2026-10-05T12:00:00.000Z"
+    },
+    "promo-the-cut-gives-you-away": {
+      "title": "The cut is what gives a homemade invitation away #shorts",
+      "description": "Not the design — the edge. Put the scissors down: a steel rule and a craft knife on a cutting mat beat them every time, because the blade follows the metal and your hand cannot wobble. Three light passes, not one heavy one, which drags the card and tears the last centimetre. Cut the long lines all the way across first, then the short ones.\n\n▶️ Full tutorial: https://youtu.be/pSjrdby45ck\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-04T19:00:00.000Z",
+      "youtubeId": "wrR8yMV28HE"
+    },
+    "promo-punch-after-cut": {
+      "title": "Punch the hole after you cut, not before #shorts",
+      "description": "Favour tags are about 5 by 9 cm, eight or ten to an A4 sheet — same margin, same actual size, same trim as the invitations. Punch the hole after you cut or the trim goes straight through it. Table numbers are A6 printed both sides so they read from either seat, and thank-you cards are the same card with different words.\n\n▶️ Full tutorial: https://youtu.be/pSjrdby45ck\n📄 Free checklist: https://geniusjunkie.net/get-print-checklist/\n🎨 Template packs: https://geniusjunkie.net/templates/",
+      "publishAt": "2026-10-05T19:00:00.000Z",
+      "youtubeId": "fGn-T-1vPok"
+    }
+  },
+  "publishAt": "2026-10-03T17:00:00.000Z"
+}

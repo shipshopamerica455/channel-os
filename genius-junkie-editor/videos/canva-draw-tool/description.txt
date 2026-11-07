@@ -1,0 +1,55 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+Every Canva draw tutorial shows you the four brushes. Almost none of them
+mention the limit that silently stops your drawings being saved — and that is
+the one that actually costs people an afternoon.
+
+⚠️ **Canva has a stroke limit of 1 MB per design.** Not per page — per design.
+Every stroke is stored as a path, and once they add up past 1 MB, Canva stops
+SAVING your drawings. It does not stop you drawing: the brush still works, the
+strokes still appear on your screen, they are simply not being written to the
+file. You find out when you refresh and everything past the limit is gone. It's
+in Canva's own help pages. The fix takes ten seconds — when a page is finished,
+duplicate the design and carry on in the copy. Each design gets a fresh 1 MB.
+
+✏️ And the trick almost nobody finds: **draw the shape, then hold still for one
+second before you lift.** Canva snaps it into a clean one. It works on
+rectangles, arrows, triangles, circles, stars, lines, hearts and diamonds. Lift
+straight away and nothing happens, which is exactly why people never discover
+it. It's the fastest way to annotate a screenshot in Canva.
+
+In this tutorial: where the tool actually lives (Tools, not Elements — and not
+in a Doc), what each of the four brushes is for, the Shift key, drawing a
+sticker from scratch, tracing over a photo, what the eraser can't do, the
+colour row that keeps a set consistent, and how to export it as something you
+can sell on the free plan.
+
+📄 STICKER + ILLUSTRATION STARTER KIT (the editable Canva sticker sheet with cut
+lines and safe margins, a tracing page, a brush-test page and a palette page —
+plus the brush settings cheat sheet, the full shape-assist list, the stroke
+budget planner and the sticker checklist):
+https://geniusjunkie.net/sticker-illustration-kit/ — £4.99
+🎓 Or FREE with the Template Club (every pack + all future releases):
+https://geniusjunkie.net/template-club/
+
+CHAPTERS
+0:01 What we're building
+0:32 Why you cannot find it
+1:11 The four tools
+1:49 Settings and the Shift key
+2:23 Drawing the first sticker
+3:09 The limit nobody mentions
+4:01 Draw badly, pause, get a perfect shape
+4:56 Tracing a photo
+5:47 The eraser, honestly
+6:25 The colour row
+7:10 Exporting, and the Pro wall
+7:43 The checklist
+8:08 The pack
+8:26 Outro
+
+TOOLS
+Canva (the free plan is enough) — no graphics tablet, no stylus
+
+#canva #canvatutorial #drawing #stickers #canvadraw

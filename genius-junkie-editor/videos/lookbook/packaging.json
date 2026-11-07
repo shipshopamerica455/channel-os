@@ -1,0 +1,70 @@
+{
+  "slug": "lookbook",
+  "slateNumber": 19,
+  "voice": "kokoro bm_fable (local, free)",
+  "runtime": "8:30",
+  "titles": {
+    "A": "How to Make a Lookbook in Canva 2026 \u2014 Print-Ready A4 (Bleed + Colour)",
+    "B": "Canva Lookbook Tutorial \u2014 Spreads, Bleed and the Export Settings",
+    "C": "Your Canva Lookbook Will Print Duller Than Your Screen"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "canva lookbook",
+    "how to make a lookbook in canva",
+    "lookbook template canva",
+    "canva print settings",
+    "cmyk canva",
+    "rgb vs cmyk",
+    "canva bleed crop marks",
+    "pdf print canva",
+    "fashion lookbook design",
+    "product catalogue canva",
+    "canva tutorial 2026",
+    "print ready pdf canva",
+    "lookbook layout",
+    "canva pro cmyk",
+    "design for print",
+    "catalogue template"
+  ],
+  "adBreaks": [
+    "3:17.4",
+    "6:02.3"
+  ],
+  "product": {
+    "name": "Lookbook Kit",
+    "price": "\u00a34.99",
+    "url": "https://geniusjunkie.net/lookbook-kit/"
+  },
+  "cutaways": [
+    "printed-lookbook",
+    "print-shop",
+    "colour-swatches-print",
+    "product-shoot",
+    "buyer-email"
+  ],
+  "shorts": {
+    "promo-look-colour": {
+      "title": "Canva hides the print colour setting behind Pro #shorts",
+      "description": "Screens make colour with light, printers make it with ink, and they cannot reach the same colours. Canva's PDF Print export offers an RGB or CMYK choice \u2014 but the same help page lists CMYK colour profile options among the features restricted to Pro. On a free plan your print file leaves in RGB and the print shop's software decides what your brand colours become. Neon orange, electric blue and lime collapse. Deep teal, burgundy and charcoal barely move.\n\nFull tutorial and the \u00a34.99 Lookbook Kit: https://geniusjunkie.net/lookbook-kit/\n\n#canva #printdesign #cmyk #lookbook #canvatips",
+      "publishAt": "2026-09-26T12:00:00.000Z"
+    },
+    "promo-look-bleed": {
+      "title": "The free Canva checkbox that stops the white line #shorts",
+      "description": "A guillotine is accurate to about a millimetre. One millimetre of drift on a page with a coloured background leaves a thin white stripe down the edge \u2014 and it is not the printer being careless. Run your background past the edge of the canvas and tick Crop marks and bleed at download. Unlike the colour profile, this one is free on any plan.\n\nFull tutorial and the \u00a34.99 Lookbook Kit: https://geniusjunkie.net/lookbook-kit/\n\n#canva #printdesign #bleed #lookbook #canvatips",
+      "publishAt": "2026-09-27T12:00:00.000Z"
+    },
+    "promo-look-dpi": {
+      "title": "Your photos will print soft \u2014 the 5-second check #shorts",
+      "description": "\u25b6\ufe0f FULL TUTORIAL: https://youtu.be/9M9z_fbDVFQ\n\nPrint renders at 300 dots per inch, roughly four times the detail a screen needs. So a photo that looks perfect in the Canva editor can print soft, and you do not find out until the box arrives.\n\nThe check takes five seconds per image: zoom the editor to 100% and look at the photo at actual size. If it is soft there, it is worse on paper.\n\nShooting the products yourself? Shoot bigger than you think \u2014 you can always throw pixels away. Using supplied images? Ask for the print versions, not the ones off the website. And never scale a small photo up to fill a page: enlarging does not add detail, it just makes the softness bigger.\n\n#canva #printdesign #dpi #lookbook #canvatips",
+      "publishAt": "2026-09-26T19:00:00.000Z"
+    },
+    "promo-look-proof": {
+      "title": "Every print shop offers this \u2014 almost nobody asks #shorts",
+      "description": "\u25b6\ufe0f FULL TUTORIAL: https://youtu.be/9M9z_fbDVFQ\n\nBefore a print shop runs fifty copies, ask one question: can I see a proof?\n\nA proof is a single printed copy before the full run. It costs a little, and it is the only way to see the actual colour on the actual paper before you have paid for the whole job. Screens make colour with light and printers make it with ink \u2014 they cannot reach the same colours, and a proof is where you find that out cheaply instead of expensively.\n\nEvery print shop offers this. Almost nobody asks.\n\n#canva #printdesign #printshop #lookbook #canvatips",
+      "publishAt": "2026-09-27T19:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-09-25T17:00:00.000Z"
+}

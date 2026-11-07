@@ -1,0 +1,55 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+On Etsy nobody reads anything until a picture has already earned the click.
+Your listing photos are doing more work than your description, your tags and
+your price put together — and there's a crop happening to your first photo
+that most sellers have never noticed.
+
+In this tutorial we build a complete ten-image listing set in Canva: the hero
+that survives the crop, the mockups that make a digital file feel like an
+object, the scale shot that prevents returns, and the information cards that
+answer questions before they're asked. No camera, no studio.
+
+⚠️ The one thing to know: Etsy's search results crop your FIRST photo to
+**5:4 — 570 × 456 px**, taking the middle and throwing away the top and
+bottom. Upload the recommended 2000 × 2000 square and the version buyers
+actually see is a bad crop of it. Everything essential has to live inside the
+middle 5:4 band.
+
+🖼 ETSY LISTING IMAGE KIT (the 10-slot Canva template with the safe band
+already marked, information cards, mockup pages and the sizes chart):
+https://geniusjunkie.net/etsy-listing-image-kit/ — £4.99
+🎓 Or FREE with the Template Club (every pack + all future releases):
+https://geniusjunkie.net/template-club/
+
+CHAPTERS
+0:00 What we're building
+0:35 What each photo is for
+1:08 The crop nobody mentions
+1:44 Canvas setup and the safe band
+2:18 The hero shot
+3:02 Mockups without a camera
+3:43 If you sell physical things
+4:37 The scale shot
+5:13 The information cards
+5:54 The last slots and the video
+6:35 The template system
+7:10 The mistakes that cost clicks
+7:39 The checklist
+8:04 The shortcut
+8:20 Wrap up
+
+SPECS MENTIONED
+· Minimum 2000 px on the shortest side (below that, Etsy's zoom won't engage)
+· Safe sizes: 2000 × 2000 (1:1) or 2700 × 2025 (4:3)
+· Search results crop the first photo to 5:4 — 570 × 456 px
+· 10 images + 1 video per listing · JPG / PNG / GIF · video 5–15 s
+· Listings with fewer than five photos measurably underperform
+· Export JPEG at ~90% quality
+
+Note on file size: reported caps disagree across sources, so this video gives
+the safe practice rather than a number — JPEG at ~90% keeps a 2000 px image
+comfortably under a megabyte.
+
+#etsyseller #canvatutorial #etsytips

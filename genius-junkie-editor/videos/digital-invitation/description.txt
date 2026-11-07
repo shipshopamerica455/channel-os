@@ -1,0 +1,62 @@
+Most clickable digital invitations stop being clickable the moment you send
+them — you tap the envelope in the group chat, and nothing opens.
+
+Canva's own help page says why: "Hyperlinks will not work on PNGs, JPGs, MP4s,
+etc., or when you post your design on social media." And saving the invitation
+as a picture or a video and dropping it into the chat is exactly how most people
+send one.
+
+This builds it the way that keeps the tap working: a small free Canva website —
+an envelope page, the opened card, a details page — with the envelope linked to
+the next page, published on Canva's free address, and sent as a LINK.
+
+📄 FREE — The Digital Invitation Send Card: where the tap survives and where it
+dies (in Canva's own words), the three-page build, the publishing steps and the
+seven checks, on one page:
+https://geniusjunkie.net/get-digital-invitation-send-card/
+
+💌 Party & Event Printables Kit — the printed side that goes with the day (place
+cards, menu, thank-you cards):
+https://geniusjunkie.net/party-printables-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 Why the tap dies when you send it
+0:37 The free send card, and three principles
+1:14 Start from a website, not a poster
+1:54 Page one — the envelope
+2:31 Make it open — link the envelope to page two
+3:15 THE TRAP — same design, sent two ways
+4:17 Page three — the details page
+4:55 Check it as a phone
+5:30 Publish it free — two limits to know
+6:11 Sending it — the link, the PDF, the teaser
+6:51 One build for every event
+7:25 The seven checks
+7:55 The send card, and the printed side
+8:21 Close
+
+WHERE THE TAP SURVIVES (Canva Help Centre, "Add hyperlinks")
+· "Links remain clickable by downloading your design as a PDF or by presenting it."
+· "Hyperlinks will only work if you download your design as a PDF (except
+  flattened PDFs)."
+· "Hyperlinks will not work on PNGs, JPGs, MP4s, etc., or when you post your
+  design on social media."
+· "For videos, hyperlinks are only clickable in the Presenter window while on
+  Presenter view."
+
+CANVA WEBSITES (Canva Help Centre)
+· Each page publishes as "a separate scrollable page on the same website".
+· Link a page under Link → "Pages in this document".
+· The free web address needs a design made from a WEBSITE template; mobile-site
+  and link-in-bio designs publish to a canva.link address only.
+· "Canva Free users can have up to five live websites on the free domain."
+· Canva Free publishes up to 10 sections per page.
+Verified 28 October 2026.
+
+NOT CLAIMED IN THIS VIDEO: the exact free-domain suffix, whether a view-only
+share link keeps links clickable, how any messaging app previews a link, or the
+price of any Canva plan or domain.
+
+#canva #digitalinvitation #canvatutorial #partyinvitation #weddinginvitation

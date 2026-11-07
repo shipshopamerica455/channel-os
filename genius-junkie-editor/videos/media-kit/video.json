@@ -1,0 +1,150 @@
+{
+  "slug": "media-kit",
+  "topic": "Slate 2 #3 — Media kit for sponsorships (bumped ahead of rows 1–2)",
+  "shotDir": "long-12",
+  "project": "gj-long-12",
+  "composition": "Long12Kit",
+  "thumb": "GJThumb12",
+  "promos": [
+    "PromoKitMaths",
+    "PromoKitSubs"
+  ],
+  "promoNames": {
+    "PromoKitMaths": "promo-sponsor-maths",
+    "PromoKitSubs": "promo-not-subscribers"
+  },
+  "adAfter": [
+    "05-page-one",
+    "08-page-three"
+  ],
+  "images": [
+    {
+      "name": "creator-desk",
+      "prompt": "a creator at a tidy desk reviewing something on a laptop in a bright home studio, plants and shelves softly out of focus behind, warm daylight, photographic, no readable screen text"
+    },
+    {
+      "name": "phone-email",
+      "prompt": "close-up of hands holding a phone showing an inbox, a coffee cup and notebook on the desk beside, warm window light, shallow depth of field, photographic, no readable screen text"
+    },
+    {
+      "name": "handshake-meeting",
+      "prompt": "two people shaking hands across a small table in a bright modern office, laptops and notebooks between them, soft daylight, shallow depth of field, photographic, no readable text"
+    },
+    {
+      "name": "printed-document",
+      "prompt": "a small stack of printed documents on a wooden desk beside a pen and a cup of coffee, one page slightly fanned out, warm side light, photographic, no readable text"
+    },
+    {
+      "name": "world-map-desk",
+      "prompt": "a softly lit desk from above with a small globe, a notebook and a pen, warm neutral tones, shallow depth of field, clean editorial photography, no readable text"
+    },
+    {
+      "name": "thumb-hero",
+      "prompt": "a laptop on a warm neutral desk seen at a slight angle beside a printed document and a pen, bright soft daylight from the left, generous empty space on the left of the frame, clean editorial product photography, no readable screen text"
+    }
+  ],
+  "product": {
+    "name": "Media Kit + Rate Card",
+    "description": "Editable 3-page Canva media kit (number cards, audience charts, rates table) plus the sponsorship pricing calculator, the five-numbers worksheet and the email scripts (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "mediakit",
+    "slug": "media-kit-rate-card",
+    "stripeProduct": "prod_V4cB5NTuwuamC5",
+    "stripePrice": "price_1U4SwuLqu5srzOz9ZfoMfGw5",
+    "stripe": "https://buy.stripe.com/dRm6oIfvJ2L90VS2vJaR20c",
+    "canvaDesign": "DAHSTVlOGY0"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-08-26T17:00:00.000Z",
+  "timeline": {
+    "total": 533.98,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-what-a.mp3": 36.85,
+      "03-the-five.mp3": 77.875,
+      "04-canvas-setup.mp3": 119.975,
+      "05-page-one.mp3": 157.45,
+      "06-the-arithmetic.mp3": 209.575,
+      "07-page-two.mp3": 267.55,
+      "08-page-three.mp3": 315.075,
+      "09-the-sentence.mp3": 355.9,
+      "10-sending-it.mp3": 394.8,
+      "11-the-mistakes.mp3": 432.95,
+      "12-the-checklist.mp3": 466.4,
+      "13-the-shortcut.mp3": 493.675,
+      "14-outro.mp3": 510.525
+    },
+    "adWindows": [
+      [
+        208.18,
+        209.58
+      ],
+      [
+        354.5,
+        355.9
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-what-a.mp3",
+        "at": 36.85
+      },
+      {
+        "file": "03-the-five.mp3",
+        "at": 77.875
+      },
+      {
+        "file": "04-canvas-setup.mp3",
+        "at": 119.975
+      },
+      {
+        "file": "05-page-one.mp3",
+        "at": 157.45
+      },
+      {
+        "file": "06-the-arithmetic.mp3",
+        "at": 209.575
+      },
+      {
+        "file": "07-page-two.mp3",
+        "at": 267.55
+      },
+      {
+        "file": "08-page-three.mp3",
+        "at": 315.075
+      },
+      {
+        "file": "09-the-sentence.mp3",
+        "at": 355.9
+      },
+      {
+        "file": "10-sending-it.mp3",
+        "at": 394.8
+      },
+      {
+        "file": "11-the-mistakes.mp3",
+        "at": 432.95
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 466.4
+      },
+      {
+        "file": "13-the-shortcut.mp3",
+        "at": 493.675
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 510.525
+      }
+    ]
+  }
+}

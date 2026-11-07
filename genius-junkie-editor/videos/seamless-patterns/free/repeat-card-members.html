@@ -1,0 +1,49 @@
+<p>The offset arithmetic, the marketplace spec, and the seam test. One page. Verified 5 October 2026.</p>
+
+<p><strong><a href="https://geniusjunkie.net/content/files/free/seamless-patterns/canva-seamless-repeat-card.pdf">⬇ Download the Repeat Card (PDF)</a></strong></p>
+
+<h2>The one rule</h2>
+<p><strong>The canvas edge is a CROP, not a wrap.</strong> Anything pushed past the edge is cut there and nothing continues on the other side. So every element touching an edge needs a twin, placed by <em>typed</em> coordinates — Canva Help Centre: X and Y are the distance in pixels from the top-left corner, set under <strong>Position → Advanced</strong>.</p>
+<pre>crosses the RIGHT edge   →   twin at  X − canvas width
+crosses the BOTTOM edge  →   twin at  Y − canvas height</pre>
+<p>Mirror it for the left and top edges (X + width, Y + height). <strong>The other coordinate must stay identical</strong> — change both and the seam moves rather than going.</p>
+<p><strong>A motif in a corner needs FOUR copies:</strong> the original, one at X−width, one at Y−height, and one with both. Miss the fourth and you get a seam at every corner point, which is the most noticeable kind there is.</p>
+
+<h2>The seam test — the only honest check</h2>
+<p>You cannot judge a seam inside Canva: no tile preview, no offset preview, no wrap mode. Export the tile as a PNG, make a second design at exactly <strong>twice</strong> the tile size, and drop the PNG in four times — typed, not dragged:</p>
+<pre>X = 0     Y = 0        X = tile  Y = 0
+X = 0     Y = tile     X = tile  Y = tile</pre>
+<p>Then look at the two joins. Fix it in the <strong>original</strong>, export again, re-test — never patch the proof sheet.</p>
+<ul>
+<li>A hairline of white at a join → the background does not overhang the canvas edge.</li>
+<li>A motif sliced in half → no twin, or the twin's other coordinate was changed.</li>
+<li>A light-to-dark band → a gradient background; its dark end meets the next tile's light end.</li>
+</ul>
+
+<h2>The spec — Spoonflower, as an example</h2>
+<blockquote>Your files should be a JPG or PNG, saved at your preferred print dimensions and 150 DPI, and under 40 MB.</blockquote>
+<p>They convert everything to 150 DPI on upload, so the <strong>physical repeat size is your decision and the resolution is not</strong>. They print in sRGB, not CMYK — and Canva works in RGB anyway, so there is nothing to change.</p>
+<blockquote>Be sure any background colors in your file extend to the edge of the file, otherwise the design will look broken up into separate squares as opposed to a seamless repeating layout.</blockquote>
+<pre>inches × 150 = pixels</pre>
+<ul>
+<li>2 in repeat → <strong>300 × 300 px</strong></li>
+<li>8 in repeat → <strong>1200 × 1200 px</strong></li>
+<li>12 in repeat → <strong>1800 × 1800 px</strong></li>
+</ul>
+<p>Other marketplaces differ — check your own spec page.</p>
+
+<h2>Seven checks before you list it</h2>
+<ul>
+<li>The background covers the whole canvas and overhangs every side</li>
+<li>Every edge-crossing motif has an exact twin — typed, not dragged</li>
+<li>Every corner motif has all four copies</li>
+<li><strong>You have tiled it two by two and looked at BOTH joins</strong></li>
+<li>The pixels match the physical repeat at your marketplace's DPI</li>
+<li>It is under their file size ceiling</li>
+<li>Every motif came from a Canva search filtered to Free</li>
+</ul>
+<p><em>The fourth is the only one that actually proves the first three. Arithmetic is a claim; tiling it is the evidence.</em></p>
+
+<hr>
+<p>Sources: Canva Help Centre, "Move elements in your design"; Spoonflower support.</p>
+<p><strong><a href="https://geniusjunkie.net/seamless-pattern-kit/">Want the arithmetic already done? The Seamless Pattern Kit →</a></strong></p>

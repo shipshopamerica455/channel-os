@@ -1,0 +1,155 @@
+{
+  "slug": "coloring-book",
+  "topic": "How to Make a Coloring Book in Canva for Amazon KDP",
+  "shotDir": "long-25",
+  "project": "gj-coloring-book",
+  "composition": "ColoringBook",
+  "thumb": "GJThumb25",
+  "promos": [
+    "PromoColorLineWeight",
+    "PromoColorScaling",
+    "PromoColorBleed",
+    "PromoColorExport"
+  ],
+  "promoNames": {
+    "PromoColorLineWeight": "promo-color-line-weight",
+    "PromoColorScaling": "promo-color-scaling",
+    "PromoColorBleed": "promo-color-bleed",
+    "PromoColorExport": "promo-color-export"
+  },
+  "adAfter": [
+    "06-the-trap",
+    "09-building-a"
+  ],
+  "images": [
+    {
+      "name": "one-star-review",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of a person's hands holding a printed coloring book open on a kitchen table, morning light from a window, shallow depth of field, the page showing faint broken grey line art, a cup of tea just out of focus behind, disappointed quiet mood, no readable text"
+    },
+    {
+      "name": "broken-lines-print",
+      "after": "S06",
+      "prompt": "Extreme macro photograph of a freshly printed page of black line art on white paper, the fine lines visibly broken and dotted where the ink failed, paper fibre texture visible, soft daylight, shallow depth of field, no readable text"
+    },
+    {
+      "name": "markers-bleed",
+      "after": "S08",
+      "prompt": "Overhead photograph of a coloring book page part-finished in bright felt-tip marker, several markers scattered around, the colour visibly soaking through the paper, warm domestic table surface, soft natural light, shallow depth of field, no readable text"
+    },
+    {
+      "name": "proof-copy-arrives",
+      "after": "S11",
+      "prompt": "Photographic shot of a cardboard delivery envelope opened on a desk with a single paperback coloring book sliding out, warm afternoon light, shallow depth of field, hopeful mood, no readable text or logos"
+    },
+    {
+      "name": "child-colouring",
+      "after": "S14",
+      "prompt": "Warm photographic image of a child's hands colouring a bold-lined flower drawing with chunky crayons, bright clean daylight, shallow depth of field, joyful and calm, face not visible, no readable text"
+    }
+  ],
+  "product": {
+    "name": "KDP Coloring Book Interior Pack",
+    "price": "£4.99",
+    "existing": "kdp-interior-pack",
+    "note": "Sells the ALREADY-BUILT kdp-interior-pack — no new pack build. Add the coloring-book Canva template (8.625 x 11.25 in, guides at 0.375 in gutter and outer margin, blank-back spread)."
+  },
+  "freeAsset": {
+    "name": "KDP Coloring Book Spec Card",
+    "note": "NEW one-pager, not carved out of the pack: line-weight floor, bleed arithmetic, inside-margin table by page count, DPI, the two export checkboxes."
+  },
+  "publishAt": "2026-09-29T17:00:00.000Z",
+  "timeline": {
+    "total": 508.45,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 34.575,
+      "03-trim-size.mp3": 65.65,
+      "04-the-bleed.mp3": 104.6,
+      "05-margins-and.mp3": 144.8,
+      "06-the-trap.mp3": 188.975,
+      "07-the-fix.mp3": 234.4,
+      "08-page-count.mp3": 272.475,
+      "09-building-a.mp3": 313.625,
+      "10-exporting-where.mp3": 351.25,
+      "11-what-to.mp3": 393.625,
+      "12-the-cover.mp3": 429.675,
+      "13-the-four.mp3": 460.575,
+      "14-close.mp3": 484.525
+    },
+    "adWindows": [
+      [
+        233,
+        234.4
+      ],
+      [
+        349.85,
+        351.25
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 34.575
+      },
+      {
+        "file": "03-trim-size.mp3",
+        "at": 65.65
+      },
+      {
+        "file": "04-the-bleed.mp3",
+        "at": 104.6
+      },
+      {
+        "file": "05-margins-and.mp3",
+        "at": 144.8
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 188.975
+      },
+      {
+        "file": "07-the-fix.mp3",
+        "at": 234.4
+      },
+      {
+        "file": "08-page-count.mp3",
+        "at": 272.475
+      },
+      {
+        "file": "09-building-a.mp3",
+        "at": 313.625
+      },
+      {
+        "file": "10-exporting-where.mp3",
+        "at": 351.25
+      },
+      {
+        "file": "11-what-to.mp3",
+        "at": 393.625
+      },
+      {
+        "file": "12-the-cover.mp3",
+        "at": 429.675
+      },
+      {
+        "file": "13-the-four.mp3",
+        "at": 460.575
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 484.525
+      }
+    ]
+  },
+  "promoPublishAt": {
+    "promo-color-line-weight": "2026-09-30T12:00:00.000Z",
+    "promo-color-scaling": "2026-09-30T19:00:00.000Z",
+    "promo-color-bleed": "2026-10-01T12:00:00.000Z",
+    "promo-color-export": "2026-10-01T19:00:00.000Z"
+  }
+}

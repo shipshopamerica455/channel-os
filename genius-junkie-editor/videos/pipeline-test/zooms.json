@@ -1,0 +1,62 @@
+{
+  "input": "master.mp4",
+  "duration": 19.523991,
+  "width": 1280,
+  "height": 720,
+  "settings": {
+    "hold": 3.5,
+    "max_zoom": 1.75,
+    "margin": 0.3,
+    "transition": 0.55
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.5,
+      "crop": [
+        0.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "reason": "wide",
+      "zoom": 1.0
+    },
+    {
+      "start": 3.5,
+      "end": 7.0,
+      "crop": [
+        0.0,
+        0.0,
+        0.5714,
+        0.5714
+      ],
+      "reason": "focus",
+      "zoom": 1.75
+    },
+    {
+      "start": 7.0,
+      "end": 14.0,
+      "crop": [
+        0.3921,
+        0.3912,
+        0.5714,
+        0.5714
+      ],
+      "reason": "focus",
+      "zoom": 1.75
+    },
+    {
+      "start": 14.0,
+      "end": 19.524,
+      "crop": [
+        0.1268,
+        0.2244,
+        0.5714,
+        0.5714
+      ],
+      "reason": "focus",
+      "zoom": 1.75
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+Almost every problem teachers hit with Canva is one confusion, and it happens in
+about week two: you make a good worksheet, you copy the link, you paste it into
+Google Classroom — and thirty students open the SAME file. Student four deletes
+a text box and it vanishes off everybody's screen, including the two who had
+already finished.
+
+That is not a bug. A share link shares one design.
+
+🎯 **Share is for colleagues. Assign is for students.**
+Edit, comment and view all point at the same file — right for co-planning with
+another teacher, wrong for a class. **Assign** (the button in the top corner of
+the editor, or Share → Assign) gives every student **their own copy**, and their
+copy comes back to you when they submit it.
+
+⏱️ **Two numbers Canva documents that catch people out:**
+· the assignment **link** stays active for **30 days** (and there is a
+  Deactivate link button)
+· the assignment **code** expires in **4 hours** — so a code you set up the
+  night before is dead by first period. Generate codes in the lesson; use the
+  link for anything you plan ahead.
+
+📥 **What the student does:** opens it, works in their own copy, presses Send to
+teacher. Warn them about one behaviour or you will get a hand up every time —
+**after they submit, their design becomes read-only**. If they need to change
+something you request changes and they Resubmit; if they just want to keep
+experimenting, Make a copy leaves the submission untouched.
+
+✅ **Marking:** everything lands on Classwork as a status list, not an inbox —
+Not submitted · To review · Done · Resubmission requested. Set your classes up
+and you can filter by class. Feedback can be sticker comments dropped straight
+onto the design, which younger classes actually read.
+
+🏫 **If your school lives in an LMS** you do not have to leave it. Canva
+integrates with Canvas, Schoology, D2L, Moodle, Blackboard, Google Classroom and
+Microsoft Teams. Google Classroom takes up to 20 classes at once. One gotcha:
+to assign the same design on a *different* platform, Canva says make a new copy
+of it first.
+
+🚩 **Check you are eligible before you build on it.** Canva Education is free and
+worldwide, but the list is narrower than people assume. Not eligible, in Canva's
+own words: qualified teachers not currently in a teaching position, public
+librarians, preschool and daycare, colleges and universities and their staff,
+adult and further education, extracurricular organisations, parents, and
+homeschool educators who are not licensed or employed by a K-12 institution.
+
+🔑 **And if you are on that list, you can still get the important half.** Share →
+Template link: "anyone with the link can use this design as a template" — so
+every learner opens their own copy on a free account. You lose Classwork and
+submissions, not the teaching.
+
+⏳ **The thing that actually saves a term:** build six reusable shells once — a
+do-now, an exit ticket, a vocabulary page, a comparison grid, a labelled diagram
+and a reading response — with no subject content in any of them. Then Tuesday is
+typing this week's words into a page that already exists, and pressing Assign.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎁 **The Classroom Kit — £4.99**
+The six editable Canva activity shells from this video, with the answer boxes
+already built as real empty boxes and the furniture already locked. Plus the
+eligibility and set-up sheet, the assign-and-collect walkthrough, a parental
+consent letter for under-13s you can send as is, and a term of do-now and
+exit-ticket prompts.
+👉 https://geniusjunkie.net/classroom-kit/
+
+📦 Every pack we make, plus the ones that never go public:
+👉 https://geniusjunkie.net/template-club/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏱️ CHAPTERS
+0:00 Thirty students, one file
+0:35 Share, or Assign
+1:12 Can you actually get Canva Education?
+2:07 Getting set up (and consent for under-13s)
+2:51 Building the activity
+3:42 The Assign button, and the two expiries
+4:26 What the student sees
+5:06 Marking without thirty tabs
+5:46 If your school lives in an LMS
+6:36 Six shells, reused all term
+7:17 If you are not eligible
+7:58 The checklist
+8:31 The kit
+8:58 Outro
+
+Every Canva rule quoted here is from Canva's own Help Centre, checked 19 August
+2026. Canva changes things — if a number no longer matches, believe Canva.
+
+#canvaforteachers #canvaforeducation #teachertips #canvatutorial #edtech

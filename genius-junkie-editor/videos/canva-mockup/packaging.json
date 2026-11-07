@@ -1,0 +1,93 @@
+{
+  "slug": "canva-mockup",
+  "slateNumber": "S8 #4",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:58",
+  "titles": {
+    "A": "How to Make a Mockup in Canva (with a Scrolling Video for Etsy)",
+    "B": "Canva Mockup Tutorial — the Phone Photo and the Etsy Listing Video, Built to Etsy's Rules",
+    "C": "Etsy Mutes Your Scrolling Mockup Video (and It's Twice Too Long)"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make a mockup in canva",
+    "canva mockup tutorial",
+    "canva mockups",
+    "canva phone mockup",
+    "etsy listing video",
+    "etsy listing video size",
+    "scrolling mockup video",
+    "canva scrolling mockup",
+    "etsy video requirements",
+    "canva animation",
+    "canva create an animation",
+    "etsy seller tips",
+    "digital product mockup",
+    "canva tutorial 2026",
+    "etsy digital products"
+  ],
+  "adBreaks": [
+    "3:10.6",
+    "6:19.9"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-21",
+    "source": "QUESTION-BANK.md + vidIQ keyword research",
+    "monthlySearches": 11563,
+    "competition": 6.8,
+    "growthPct": 169,
+    "note": "Measured on the broad 'canva mockup tutorial'. The exact 'canva scrolling mockup video' query is <750/mo, so the title leads with the broad job. GJ's own Etsy mockups video lC4Eo8R1Ngg took 27 views; the 2026 cohort averages ~44, so the catalogue check cannot separate rows."
+  },
+  "product": {
+    "name": "Etsy Listing Image Kit",
+    "price": "£4.99",
+    "slug": "etsy-listing-image-kit",
+    "existing": true,
+    "note": "ALREADY BUILT, verified live 21 Oct 2026. COMMERCE NOT RUN. Honest fit: the listing PHOTO layouts this video sits alongside, never 'a listing video template'."
+  },
+  "freeAsset": {
+    "name": "Etsy Listing Video Card",
+    "slug": "get-etsy-listing-video-card",
+    "status": "LIVE — published and verified gated 21 Oct 2026"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-mk-muted": {
+      "composition": "PromoMkMuted",
+      "title": "Etsy mutes your mockup video #shorts",
+      "voSlice": "191.95-216.2",
+      "description": "Here is the scrolling mockup most people make: a phone-shaped video, 9 by 16, the tall screenshot scrolling slowly for thirty seconds, a nice music track underneath.\n\nNow hold it against Etsy's own help page. A listing video may be 3–15 seconds long — thirty is twice the limit. It will not contain any audio once uploaded — the music is gone. And the aspect ratio should be 2:1 or 1:2 — 9 by 16 is neither.\n\nLength, sound and shape: all three fail. Build it at 1080 × 2160 instead.\n\n📄 Free Etsy listing video card: https://geniusjunkie.net/get-etsy-listing-video-card/\n🖼 Etsy Listing Image Kit: https://geniusjunkie.net/etsy-listing-image-kit/",
+      "publishAt": "2026-11-06T12:00:00.000Z",
+      "id": "8SRPIxneNDE"
+    },
+    "promo-mk-ten": {
+      "composition": "PromoMkTen",
+      "title": "The scrolling mockup, built to Etsy's rules #shorts",
+      "voSlice": "216.39-243.4",
+      "description": "The same scrolling mockup, rebuilt to Etsy's rules. A custom size of 1080 × 2160 — exactly 1:2, and the shape of a phone screen anyway.\n\nThe scroll is ten seconds, and that is not a choice: Canva's help page says each animation can only be ten seconds long at the maximum. Two seconds of the cover before it starts, two seconds of the last page after it stops — fourteen seconds, inside Etsy's fifteen, and no music at all.\n\nThe words on screen do the talking, because on Etsy they are the only thing that will.\n\n📄 Free Etsy listing video card: https://geniusjunkie.net/get-etsy-listing-video-card/\n🖼 Etsy Listing Image Kit: https://geniusjunkie.net/etsy-listing-image-kit/",
+      "publishAt": "2026-11-06T19:00:00.000Z",
+      "id": "4UnVR1LEarI"
+    },
+    "promo-mk-silent": {
+      "composition": "PromoMkSilent",
+      "title": "Nobody hears your Etsy listing video #shorts",
+      "voSlice": "345.1-367.8",
+      "description": "Etsy removes the audio from listing videos, so watch yours with the sound off and ask what a shopper actually learns.\n\nPut the important facts on screen as text — how many pages, what size, that it is editable in Canva. One short line at a time, big enough to read on a phone held at arm's length.\n\nAnd put the first line on the very first frame. Shoppers are scrolling past dozens of listings, and whatever is on screen in the first second is all most of them will ever see.\n\n📄 Free Etsy listing video card: https://geniusjunkie.net/get-etsy-listing-video-card/\n🖼 Etsy Listing Image Kit: https://geniusjunkie.net/etsy-listing-image-kit/",
+      "publishAt": "2026-11-07T12:00:00.000Z",
+      "id": "PixtURPaos8"
+    },
+    "promo-mk-two": {
+      "composition": "PromoMkTwo",
+      "title": "Etsy gives you two listing videos. Use both #shorts",
+      "voSlice": "423.2-445.9",
+      "description": "Etsy's own help page: you can add up to two videos per listing. Almost everyone adds one or none.\n\nMake the second one do a different job. The first is the scroll — what is inside. The second is what happens after they buy: the template opening in Canva, a name being typed in, a colour being changed. Proof that it is editable, which is the question every digital buyer is really asking.\n\nBuild it the same way: 1:2, under fifteen seconds, silent, text on screen.\n\n📄 Free Etsy listing video card: https://geniusjunkie.net/get-etsy-listing-video-card/\n🖼 Etsy Listing Image Kit: https://geniusjunkie.net/etsy-listing-image-kit/",
+      "publishAt": "2026-11-07T19:00:00.000Z",
+      "id": "67tY_5WaIPM"
+    }
+  },
+  "publishAt": "2026-10-25T17:00:00.000Z",
+  "schedulingNote": "SCHEDULED at Annieth's instruction (22 Oct). Long-form uploaded 22 Oct, public 25 Oct 17:00 UTC. Its 4 Shorts follow after the wedding Shorts (shared 10,000-unit daily quota).",
+  "postUploadNote": "Record ids by hand (the uploaders do not write them back), then `node remotion-shorts/gj-link-shorts.mjs \"<this folder>\"`.",
+  "longformId": "G2XlGdRZu7Y"
+}

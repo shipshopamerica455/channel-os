@@ -1,0 +1,87 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+A scrapbook is a stack of photos and a lot of decisions. Two of those decisions
+are made before you place a single picture, and both of them are permanent.
+
+📐 **Decide the page size first.** The scrapbook standard is 12 × 12 inches —
+that is what physical albums and page protectors are built around. If it is only
+ever going on a screen or through a home printer, use 8.5 × 11 or A4 instead,
+because a twelve-inch square page will not come out of a desktop printer without
+being shrunk. Start in inches and let Canva do the pixel maths.
+
+🚪 **The Canva design is the master copy, forever — not the PDF.** Canva's help
+centre is explicit about what happens if you try to bring an exported album back
+in: "the pages become individual images in an A4 document. It doesn't become a
+page of editable text." So an exported scrapbook is a photograph of your work,
+not your work. Keep the design and name it properly.
+
+🚩 **The one almost nobody knows:** cropping in Canva is hiding, not deleting.
+The photo is whole underneath and the crop is a window over it. Canva documents
+what that means on export — "the PDF format will include the original image…
+someone could use a third-party tool (for example, a PDF editor) to get the
+full, uncropped image from your PDF export."
+
+In a family album that is not a design problem, it is a privacy one. You cropped
+a partner out. You cropped a stranger's child out of the beach shot. All of it
+is still in the file you just emailed to eleven people, and nothing on screen
+tells you.
+
+✅ **The fix is one checkbox:** Share → Download → tick **Flatten PDF**. Canva:
+flattening "converts the file into a static image, preventing editing in
+software like Adobe Acrobat". Two costs to know about — the file gets bigger,
+and accessibility tagging is removed, so leave it unticked if the document has
+to work with a screen reader.
+
+🖨️ **Exporting:** PDF Print is 300 dpi with bleed, crop marks and the colour
+profile choice — that is the print-shop file. PDF Standard is 96 dpi and much
+smaller — that is the one you send family. Bleed ON for a shop, OFF for a home
+printer. On Canva Pro, Advanced settings → "download pages as separate files"
+gives you a zip with one PDF per page, which is what most printers actually want.
+
+📚 **Limits worth knowing:** images upload under 50 MB and no more than 250
+million total pixels; a Canva Free folder holds 200 items and Pro holds 1000 (a
+long family archive hits that cap well before it hits the 5 GB storage limit);
+and a design maxes out at 350 pages — past that Canva's own advice is to build a
+second design and merge the downloads.
+
+⏱️ **And the part that saves the most time:** build six layouts, not twenty
+pages. Delete the photos out of a finished spread, keep the frames, the text box
+and the spacing, and duplicate it. The next album is an evening, not a weekend,
+and every page matches because the geometry never moved.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎁 **The Scrapbook + Photo Book Kit — £4.99**
+The editable Canva scrapbook from this video: 12 × 12 for print and a US Letter
+home-printable version, a cover, and six layout pages already aligned and
+spaced. Plus the layout recipes sheet, the photo prep guide, the export
+checklist, a print-shop brief you can send as is, and a journaling prompt bank.
+👉 https://geniusjunkie.net/scrapbook-photo-book-kit/
+
+📦 Every pack we make, plus the ones that never go public:
+👉 https://geniusjunkie.net/template-club/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⏱️ CHAPTERS
+0:00 The two things in the file you did not mean to send
+0:40 The two rules
+1:23 Choosing the page size
+2:09 Getting the photos in (and the real limits)
+2:52 Building a spread
+3:47 Cropping is hiding, not deleting
+4:34 The checkbox that closes it
+5:18 How big a scrapbook can get
+5:52 Exporting it properly
+6:42 Make the second one take an evening
+7:24 If you are making these for other people
+8:02 The checklist
+8:36 The kit
+9:01 Outro
+
+Every Canva limit quoted in this video is from Canva's own Help Centre, checked
+19 August 2026. Canva changes things — if a number no longer matches, believe
+Canva.
+
+#canva #digitalscrapbooking #scrapbook #canvatutorial #photobook

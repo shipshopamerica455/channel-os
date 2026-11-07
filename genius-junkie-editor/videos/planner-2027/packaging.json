@@ -1,0 +1,79 @@
+{
+  "slug": "planner-2027",
+  "slateNumber": "S5 #1",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:26",
+  "titles": {
+    "A": "How to Make a Printable Planner in Canva to Sell on Etsy (2027)",
+    "B": "Canva Printable Planner — US Letter + A4, and How to Deliver It",
+    "C": "You Sent Your Etsy Buyers the Wrong Canva Link"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make a planner in canva",
+    "canva printable planner",
+    "printable planner etsy",
+    "canva planner tutorial",
+    "2027 planner printable",
+    "canva template link",
+    "sell canva templates etsy",
+    "canva planner 2027",
+    "digital planner canva",
+    "weekly planner printable",
+    "monthly planner canva",
+    "canva us letter a4",
+    "canva pdf print",
+    "etsy digital products",
+    "canva tutorial 2026"
+  ],
+  "adBreaks": [
+    "3:39.5",
+    "5:48.2"
+  ],
+  "product": {
+    "name": "2027 Calendar Kit",
+    "price": "£4.99",
+    "slug": "2027-calendar-kit",
+    "existing": true,
+    "note": "ALREADY BUILT and verified live. No new pack, and DO NOT run commerce — it would mint a duplicate Stripe product alongside the kit's existing link."
+  },
+  "freeAsset": {
+    "name": "Printable Planner Delivery Checklist",
+    "slug": "get-planner-delivery-checklist",
+    "status": "to build"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-plan-link": {
+      "composition": "PromoPlanLink",
+      "title": "Two Canva links. One hands over your master file #shorts",
+      "voSlice": "182.4-212.0",
+      "description": "Canva's Template link means each buyer gets their own copy.\n\nThe edit link is the other one, and Canva's own words are that it \"lets people make changes without signing up or logging in to Canva\". They appear as guests — in YOUR design. There is only one of it.\n\nTwelve buyers, one file. The first person who deletes a page deletes it for everyone, including the master you would need to fix it.\n\nCheck the URL says /template before you send it.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free delivery checklist: https://geniusjunkie.net/get-planner-delivery-checklist/\n🗓 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-10-04T19:00:00.000Z"
+    },
+    "promo-plan-see-all": {
+      "composition": "PromoPlanSeeAll",
+      "title": "The Canva template link is hidden behind See all #shorts",
+      "voSlice": "221.3-242.0",
+      "description": "Share, then — and this is the bit people miss — if you do not see Template link, click See all. It is behind that. Then Create template link.\n\nAnd Canva says creating a template link is only available on Pro, Teams, Enterprise, Education and Nonprofits. On the free plan the option is not there at all.\n\nOne more: delete a template link and Canva makes the URL inactive. Every buyer you have ever had is holding that link.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free delivery checklist: https://geniusjunkie.net/get-planner-delivery-checklist/\n🗓 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-10-05T19:00:00.000Z"
+    },
+    "promo-plan-dates": {
+      "composition": "PromoPlanDates",
+      "title": "Never reuse last year's planner file #shorts",
+      "voSlice": "265.6-289.0",
+      "description": "The weekdays move. The first of January 2027 is a Friday — in 2026 it was a Thursday. Change the year on last year's file and every single date is wrong.\n\nThree checks on every month: the 1st lands on the right weekday, the last day is right, and February has 28 days. 2027 is not a leap year.\n\nIt takes a minute and it prevents the one mistake buyers always spot.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free delivery checklist: https://geniusjunkie.net/get-planner-delivery-checklist/\n🗓 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-10-06T12:00:00.000Z"
+    },
+    "promo-plan-sizes": {
+      "composition": "PromoPlanSizes",
+      "title": "US Letter and A4 are not the same page #shorts",
+      "voSlice": "60.6-80.0",
+      "description": "American buyers print on US Letter — eight and a half by eleven inches. Everywhere else prints on A4 — two hundred and ten by two hundred and ninety seven millimetres. A4 is narrower and taller.\n\nA planner built only on Letter prints with a white stripe down one side and the bottom cut off, for half your customers.\n\nBuild both. Every listing, two files.\n\n▶️ Full tutorial: {LONGFORM_URL}\n📄 Free delivery checklist: https://geniusjunkie.net/get-planner-delivery-checklist/\n🗓 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-10-07T12:00:00.000Z"
+    }
+  },
+  "publishAt": "2026-10-03T17:00:00.000Z",
+  "schedulingNote": "Not scheduled. Ask before setting a date."
+}

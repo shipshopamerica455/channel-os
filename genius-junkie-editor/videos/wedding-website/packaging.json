@@ -1,0 +1,93 @@
+{
+  "slug": "wedding-website",
+  "slateNumber": "S8 #1",
+  "voice": "Kokoro bm_fable",
+  "runtime": "9:04",
+  "titles": {
+    "A": "How to Make a Wedding Website in Canva (Free, 2027)",
+    "B": "Canva Wedding Website — the RSVP Form, the Phone View and the Free Address",
+    "C": "Your Canva RSVP Form Is Sending Responses to the Wrong Person"
+  },
+  "recommended": "A",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make a wedding website in canva",
+    "canva wedding website",
+    "wedding website canva free",
+    "canva website tutorial",
+    "how to create website in canva",
+    "canva rsvp",
+    "wedding rsvp google form",
+    "canva website mobile view",
+    "publish canva website",
+    "canva site free domain",
+    "wedding website template",
+    "digital wedding invitation",
+    "canva code countdown",
+    "canva tutorial 2027",
+    "diy wedding website"
+  ],
+  "adBreaks": [
+    "3:25.6",
+    "6:20.6"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-19",
+    "source": "QUESTION-BANK.md (vidIQ question index + outliers + outlier comments)",
+    "monthlySearches": 12616,
+    "competition": 17.3,
+    "growthPct": 233,
+    "note": "Opens slate 8. A 420-sub channel took 40,949 views in the lane. The catalogue check is AMBIGUOUS: GJ's only prior website video (u232vOZGdtg, Apr 2026) took 21 views under a money-query title. If this one also dies, the lane is dead."
+  },
+  "product": {
+    "name": "Party & Event Printables Kit",
+    "price": "£4.99",
+    "slug": "party-printables-kit",
+    "existing": true,
+    "note": "ALREADY BUILT, verified live 19 Oct 2026. COMMERCE NOT RUN. Honest fit, stated in the close: the PRINTED side the site sits alongside (the card the QR code goes on), never 'a wedding website template'. Recommended follow-on: a Canva Website Kit for S8 #1-#3."
+  },
+  "freeAsset": {
+    "name": "Canva Wedding Website Checklist",
+    "slug": "get-wedding-website-checklist",
+    "status": "LIVE — published and verified gated 19 Oct 2026"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-ww-mistake": {
+      "composition": "PromoWwMistake",
+      "title": "Your guests are filling in YOUR form #shorts",
+      "voSlice": "211.41-233.85",
+      "description": "Google Forms, a new form: name, attending, number of guests, dietary requirements. Copy the link, put it on the RSVP button in Canva, publish. It works — a guest taps it, fills it in, submits.\n\nNow look where that reply went. My Google Forms, my Responses tab. Google's own help page says it directly: \"form owners can download and delete existing responses.\" I made the form, so I own every reply.\n\nBuilt it for a friend, or selling it as a template? Every guest list ends up in your account — and the couple cannot see one reply. They need a copy, not a share.\n\n📄 Free wedding website checklist: https://geniusjunkie.net/get-wedding-website-checklist/\n💌 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-10-29T12:00:00.000Z",
+      "id": "KjsCn5-fTDE"
+    },
+    "promo-ww-inbox": {
+      "composition": "PromoWwInbox",
+      "title": "Fifty weddings. One inbox. #shorts",
+      "voSlice": "233.88-253.6",
+      "description": "If it is my own wedding, that is fine — I made the form, so the replies are mine.\n\nIf I built it for my sister, every one of her guests is now in my account, and she cannot see a single reply.\n\nAnd if I sell it as a template, it is worse. Every couple who buys it is sending their guests to my form. Fifty weddings, one inbox.\n\nSharing the form does not fix it — that only gives them access to mine. The fix is a copy: their own form, owned by them, collecting their own replies.\n\n📄 Free wedding website checklist: https://geniusjunkie.net/get-wedding-website-checklist/\n💌 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-10-29T19:00:00.000Z",
+      "id": "E8kBnLpBsBk"
+    },
+    "promo-ww-copy": {
+      "composition": "PromoWwCopy",
+      "title": "Change one word in the form link #shorts",
+      "voSlice": "270.51-295.7",
+      "description": "Selling a wedding website template? A Google Docs Editors community guide describes a neat trick: take the form's address and change the end of it to /copy. Anyone who opens that link is asked to make their own copy — and that copy is theirs to edit.\n\nThat is a community guide rather than an official Google page, so test it yourself before you rely on it.\n\nAnd whichever way you go, put the link on a button rather than relying on an embedded form. Then test it on the published site, on a phone, before a single guest sees it.\n\n📄 Free wedding website checklist: https://geniusjunkie.net/get-wedding-website-checklist/\n💌 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-10-30T12:00:00.000Z",
+      "id": "wPqQBnlXhgk"
+    },
+    "promo-ww-phone": {
+      "composition": "PromoWwPhone",
+      "title": "Resize on mobile is not enough #shorts",
+      "voSlice": "300.52-324.0",
+      "description": "In Canva's publishing settings there is a switch called Resize on mobile, and Canva's help says it optimises the site for phones and tablets. Turn it on — then do not trust it.\n\nPreview the site in mobile view and go through every page, top to bottom. You are looking for text that has moved, text that has shrunk to nothing, and buttons too small to tap.\n\nDesktop layouts are wide and phones are narrow, so anything placed side by side has to stack — and the stacking is where things go wrong.\n\n📄 Free wedding website checklist: https://geniusjunkie.net/get-wedding-website-checklist/\n💌 Party & Event Printables Kit: https://geniusjunkie.net/party-printables-kit/",
+      "publishAt": "2026-10-30T19:00:00.000Z",
+      "id": "FHnnVbVNpeo"
+    }
+  },
+  "publishAt": "2026-10-23T17:00:00.000Z",
+  "schedulingNote": "SCHEDULED at Annieth's instruction (19 Oct). Long-form uploaded 19 Oct, public 23 Oct 17:00 UTC. Its 4 Shorts follow on a later morning — shared 10,000-unit daily quota.",
+  "postUploadNote": "Record ids by hand (the uploaders do not write them back), then `node remotion-shorts/gj-link-shorts.mjs \"<this folder>\"`.",
+  "longformId": "_t5x6pKl_pE"
+}

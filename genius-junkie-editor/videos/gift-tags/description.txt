@@ -1,0 +1,55 @@
+Bulk Create will happily put thirty names on thirty gift tags — and print them on
+thirty sheets of card.
+
+Canva's own help page says each row of your names list makes one page, and when
+you print, one page is one sheet of paper. The fix is ten name columns instead of
+one, so each row fills a whole sheet: thirty names become three rows, and three
+sheets.
+
+This builds a sheet of ten printable gift tags in Canva — the grid, the safe
+border, the cut lines, the names — prints it at the right size, and gets all ten
+tags out of it with five cuts. Free plan route included.
+
+🏷 FREE — Gift Tag Names Sheet + Cutting Guide: the ten-column names sheet ready
+for Bulk Create, and the five cuts on one page:
+https://geniusjunkie.net/get-gift-tag-names-sheet/
+
+🎁 Printable Gift Tag Kit — 36 finished designs (24 Christmas, 12 all-year), ten to
+a sheet in Letter and A4, cut lines on, no Canva plan needed:
+https://geniusjunkie.net/printable-gift-tag-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 30 names, 30 sheets of card
+0:34 The free names sheet, and three principles
+1:05 Start with the paper — Letter or A4, a 2 × 5 grid
+1:46 Design one tag first — the safe border
+2:25 One tag into ten, and the cut lines
+3:08 THE TRAP — one row, one page
+4:07 The names list
+4:47 No Bulk Create? The free way
+5:23 Download and print — 100%, not Fit to page
+6:07 Five cuts
+6:42 All year — the sheet is the system
+7:13 The seven checks
+7:38 The free names sheet, and the kit
+8:05 Close
+
+THE LAYOUT (ours)
+· Page = your paper: Letter 8.5 × 11 in, or A4
+· File → Rulers and guides → Add guides → Custom: 2 columns, 5 rows
+· Tags: 4.25 × 2.2 in on Letter, 105 × 59.4 mm on A4
+· Everything about 8 mm (1/3 in) inside each tag — home printers lose 3–6 mm per side
+· Pale grey cut lines on the inside guides only — guides don't print
+
+CANVA (Canva Help Centre, read 2 November 2026)
+· Bulk Create: "Each row creates one version of your design." With "1 design with
+  multiple pages", that is a separate page for each row.
+· "For text, add a separate text box for each field." Up to 150 data fields.
+· Bulk Create is available on Canva Pro, Teams, Business, Enterprise, Education
+  and Nonprofit — not Canva Free.
+· Crop marks "only appear in exported PDFs" (PDF Print, off by default) — they mark
+  the page edge, which on this layout is already a cut edge.
+
+#canva #gifttags #canvatutorial #christmas2026 #bulkcreate

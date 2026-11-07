@@ -1,0 +1,153 @@
+{
+  "slug": "wallpapers",
+  "topic": "#8 Phone & Desktop Wallpapers",
+  "shotDir": "long-19",
+  "project": "gj-long-19",
+  "composition": "Long19Wall",
+  "thumb": "GJThumb19",
+  "promos": [
+    "PromoWallCrop",
+    "PromoWallSafeZone",
+    "PromoWallClock",
+    "PromoWallLicence"
+  ],
+  "promoNames": {
+    "PromoWallCrop": "promo-wall-crop",
+    "PromoWallSafeZone": "promo-wall-safezone",
+    "PromoWallClock": "promo-clock-eats-subject",
+    "PromoWallLicence": "promo-cannot-sell-stock"
+  },
+  "adAfter": [
+    "05-building-the",
+    "09-if-you"
+  ],
+  "images": [
+    {
+      "name": "phone-morning",
+      "prompt": "Photograph of a person's hands holding a smartphone at a bright kitchen table in morning light, the screen glowing but its content not legible, coffee cup and a notebook beside it, face not visible, warm natural daylight, shallow depth of field, candid documentary style, no legible text"
+    },
+    {
+      "name": "desk-monitor",
+      "prompt": "Photograph of a tidy home-office desk with a wide computer monitor switched on, warm daylight from a window to the left, plant and keyboard in frame, no people, no legible text on the screen, shallow depth of field, bright and clean documentary style"
+    },
+    {
+      "name": "phone-lockscreen-hand",
+      "prompt": "Close photograph of a hand holding a phone at arm's length in bright outdoor daylight, screen visible but content not legible, blurred green park background, candid, shallow depth of field, no faces, no legible text"
+    },
+    {
+      "name": "colour-swatches",
+      "prompt": "Overhead photograph of paper colour swatch cards fanned out on a pale wooden desk beside a phone and a pencil, soft even daylight, muted pastel and jewel tones, crisp and tidy, shallow depth of field, no legible text"
+    },
+    {
+      "name": "seller-laptop",
+      "prompt": "Photograph over the shoulder of someone working at a laptop at a small desk in a bright room, a mug beside them, face not visible, calm focused mood, warm daylight, shallow depth of field, documentary style, no legible text on the screen"
+    }
+  ],
+  "product": {
+    "name": "Wallpaper Kit",
+    "description": "Two editable Canva wallpaper templates already at the sizes that survive \u2014 phone at 1440 x 3120 and desktop at 3840 x 2160 \u2014 with the clock, icon and dock safe zones marked as deletable guides, plus the size cheat sheet for every current phone and monitor, the safe-zone map, the export settings, six palette recipes, the twelve-month set planner and a plain-English page on what Canva's licence lets you sell (Genius Junkie)",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "wallpaper",
+    "slug": "wallpaper-kit",
+    "stripeProduct": "prod_V8l5PYCAbPRChe",
+    "stripePrice": "price_1U8TZBLqu5srzOz9josmoRck",
+    "stripe": "https://buy.stripe.com/6oUaEY97lfxV5c8c6jaR20j",
+    "canvaDesign": "DAHTV7ERFBA",
+    "canvaEditUrl": "https://www.canva.com/design/DAHTV7ERFBA/edit",
+    "canvaDesignDesktop": "DAHTV349v7Q",
+    "canvaEditUrlDesktop": "https://www.canva.com/design/DAHTV349v7Q/edit"
+  },
+  "pages": {
+    "landing": "landing.html",
+    "thankYou": "thanks.html"
+  },
+  "publishAt": "2026-09-23T17:00:00.000Z",
+  "timeline": {
+    "total": 528.93,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-why-it.mp3": 34.65,
+      "03-the-sizes.mp3": 68.8,
+      "04-setting-up.mp3": 111.775,
+      "05-building-the.mp3": 146.95,
+      "06-the-safe.mp3": 191.325,
+      "07-exporting-it.mp3": 236.125,
+      "08-the-desktop.mp3": 278.025,
+      "09-if-you.mp3": 318.975,
+      "10-making-it.mp3": 368,
+      "11-setting-it.mp3": 406.475,
+      "12-the-checklist.mp3": 441.8,
+      "13-the-pack.mp3": 474.175,
+      "14-outro.mp3": 502.625
+    },
+    "adWindows": [
+      [
+        189.93,
+        191.33
+      ],
+      [
+        366.6,
+        368
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-why-it.mp3",
+        "at": 34.65
+      },
+      {
+        "file": "03-the-sizes.mp3",
+        "at": 68.8
+      },
+      {
+        "file": "04-setting-up.mp3",
+        "at": 111.775
+      },
+      {
+        "file": "05-building-the.mp3",
+        "at": 146.95
+      },
+      {
+        "file": "06-the-safe.mp3",
+        "at": 191.325
+      },
+      {
+        "file": "07-exporting-it.mp3",
+        "at": 236.125
+      },
+      {
+        "file": "08-the-desktop.mp3",
+        "at": 278.025
+      },
+      {
+        "file": "09-if-you.mp3",
+        "at": 318.975
+      },
+      {
+        "file": "10-making-it.mp3",
+        "at": 368
+      },
+      {
+        "file": "11-setting-it.mp3",
+        "at": 406.475
+      },
+      {
+        "file": "12-the-checklist.mp3",
+        "at": 441.8
+      },
+      {
+        "file": "13-the-pack.mp3",
+        "at": 474.175
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 502.625
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+Bulk Create turns a spreadsheet into finished designs — fifty names, one click.
+But almost everybody runs it, gets one enormous fifty-page file back, and then
+spends an hour working out which page belongs to which person.
+
+There is one setting that fixes that completely, and it is hidden underneath the
+Continue button, which is why almost nobody finds it.
+
+⚙️ **Advanced options** → set **Output** to **Individual designs**, and **Name
+each page using** to your name column. You get a folder of fifty separate files,
+each named after the person it belongs to. The default — "1 design with multiple
+pages" — is what gives you the fifty-page document.
+
+🧱 And the thing that decides whether Bulk Create works at all: it connects one
+data field to one element, so **everything that changes between certificates has
+to be its own separate text box**. Type "Awarded to ______" as a single box and
+you cannot connect just the blank half — Canva has no way to reach inside it.
+
+💷 Honest bit up front: **Bulk Create is a Canva Pro feature, and desktop only.**
+BUT Canva for Education is free for verified K-12 teachers and includes the Pro
+feature set, so Bulk Create is included — verify with a school email at
+canva.com/education. Without it the template still works; you fill names in by
+hand.
+
+📏 The real limits, from Canva's docs: up to **150 data fields**, and up to
+**300 rows** per run from a Canva Sheet. A whole school hits that ceiling — split
+it by year group.
+
+📄 CERTIFICATE + BULK CREATE KIT (the editable Canva certificate with the
+placeholder boxes already separated, centred and fixed width, plus the data
+sheet headings, the placeholder guide, the bulk-create checklist and a wording
+bank): https://geniusjunkie.net/certificate-bulk-create-kit/ — £4.99
+🎓 Or FREE with the Template Club (every pack + all future releases):
+https://geniusjunkie.net/template-club/
+
+CHAPTERS
+0:01 The fifty-page file problem
+0:36 The honest bit — Pro, desktop, and free for teachers
+1:14 How Bulk Create actually thinks
+1:54 Designing the certificate
+2:34 Building the placeholders properly
+3:27 The setting nobody finds
+4:24 The data (and the two real limits)
+5:12 Connecting, and checking
+5:55 Photos and logos
+6:39 Generating, and what you get
+7:24 Sending them out
+8:02 The checklist
+8:35 The kit
+8:54 Outro
+
+TOOLS
+Canva (Pro or Canva for Education for Bulk Create) · any spreadsheet
+
+#canva #bulkcreate #certificates #canvatutorial #teachers

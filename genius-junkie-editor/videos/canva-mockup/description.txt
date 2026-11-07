@@ -1,0 +1,70 @@
+The scrolling phone mockup most Etsy sellers make breaks Etsy's own rules three
+ways at once — the wrong shape, twice too long, and the music is stripped out.
+
+Etsy's help page is specific: a listing video "may be 3-15 seconds long and will
+not contain any audio once uploaded", and "the video aspect ratio should be 2:1
+or 1:2". The usual mockup is a 9:16 phone video, thirty seconds, set to music.
+And Canva's mockups download as pictures, not videos — so the moving version has
+to be built separately.
+
+This builds both properly: the mockup PHOTO in Canva, then a scrolling listing
+video at 1080 × 2160, inside Canva's ten-second animation limit, designed to make
+sense with the sound off.
+
+📄 FREE — The Etsy Listing Video Card: Etsy's video rules quoted, Canva's
+ten-second limit, the size to build at and the seven checks, on one page:
+https://geniusjunkie.net/get-etsy-listing-video-card/
+
+🖼 Etsy Listing Image Kit — the listing photo layouts this video is designed to
+sit alongside:
+https://geniusjunkie.net/etsy-listing-image-kit/
+
+🗂 All template packs & the Template Club: https://geniusjunkie.net/templates/
+
+WHAT THIS COVERS
+0:00 The mockup that breaks Etsy's rules
+0:38 The free card, and three principles
+1:08 Step one — the mockup photo
+1:51 Which phone to pick
+2:31 Step two — the tall image that scrolls
+3:11 THE TRAP — hold it against Etsy's own page
+4:04 Step three — making the scroll
+4:58 Optional — putting a phone around it
+5:40 It was made with the sound on
+6:21 The export — three numbers to check
+6:59 Two videos per listing, not one
+7:37 One template, every listing
+8:09 The seven checks
+8:36 Close
+
+THE BUILD, IN ONE LINE
+Page 1080 × 2160 (exactly 1:2) · the tall screenshot stretched to full width ·
+Animate → Create an Animation, drag up, hold Shift to keep it straight · two
+seconds of the cover, ten seconds of scroll, two seconds of the last page = 14
+seconds · no music · every fact written on screen, the first line on the first
+frame · download as MP4 Video.
+
+ETSY'S RULES (Etsy Help, "How to Add Listing Videos")
+· "Your video may be 3-15 seconds long and will not contain any audio once
+  uploaded to your listing."
+· "The video aspect ratio should be 2:1 or 1:2."
+· "While the minimum video resolution is 500px, the ideal video resolution is at
+  least 1080px." Maximum file size 100 MB.
+· "You can add up to 2 videos per listing."
+· Listing videos "can also help improve how your listings appear in Etsy search"
+  — Etsy's claim, not mine.
+
+CANVA (Canva Help Centre)
+· "Each animation can only be 10 seconds long at the maximum."
+· Animated designs download "as videos or GIFs".
+· Mockups: Elements → Mockups → Smartphones; Edit → Apply changes; download as
+  PDF, SVG, JPG or PNG — stills only.
+· Some mockups and animations are Pro — check the label on each one.
+Verified 21 October 2026.
+
+NOT CLAIMED IN THIS VIDEO: what Etsy does to a video that is not 1:2 or 2:1,
+how much a listing video lifts sales, Etsy's fees, or which mockups are free.
+None of that was checked against the platform's own page, so none of it is
+stated.
+
+#canva #etsy #etsyseller #canvatutorial #mockup

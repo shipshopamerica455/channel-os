@@ -1,0 +1,94 @@
+{
+  "slug": "christmas-cards",
+  "slateNumber": "Christmas #1 (seasonal insert)",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:51",
+  "titles": {
+    "A": "How to Make Christmas Cards in Canva (2026)",
+    "B": "How to Make Christmas Photo Cards in Canva (Print-Ready 5×7)",
+    "C": "Canva's Free Shipping Will Make Your Christmas Cards Late (Order By This Date)"
+  },
+  "recommended": "B",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make christmas cards in canva",
+    "christmas card canva",
+    "christmas photo card",
+    "canva christmas card",
+    "canva print",
+    "canva print christmas cards",
+    "christmas card order by date",
+    "5x7 christmas card",
+    "folded christmas card canva",
+    "canva bleed",
+    "canva margins",
+    "photo christmas cards 2026",
+    "canva tutorial 2026",
+    "diy christmas cards",
+    "holiday cards canva"
+  ],
+  "adBreaks": [
+    "3:10.3",
+    "6:16.6"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-28",
+    "source": "CHRISTMAS-SLATE.md (vidIQ keyword research + rival view histories)",
+    "monthlySearches": 5747,
+    "competition": 21,
+    "growthPct": null,
+    "note": "'how to make christmas card using canva'. Rival history: ~86% of a Christmas-card video's season lands 1–25 Dec; a video live by ~2–5 Nov has 4 weeks to index."
+  },
+  "product": {
+    "name": "2027 Calendar Kit",
+    "price": "£4.99",
+    "slug": "2027-calendar-kit",
+    "existing": true,
+    "note": "EXISTING pack, live (200, 29 Oct). COMMERCE NOT RUN. Honest fit: the other photo gift people order the same week — never 'Christmas card templates'."
+  },
+  "freeAsset": {
+    "name": "2026 Christmas Card Order-By Calendar",
+    "slug": "get-christmas-card-order-by-calendar",
+    "status": "LIVE — published 29 Oct 2026; members page verified gated"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-xc-late": {
+      "composition": "PromoXcLate",
+      "title": "Free shipping is the slow one #shorts",
+      "voSlice": "191.65-220.4",
+      "description": "Here's the Christmas card order most people place. Design done on 25 November, into the cart, free economy shipping.\n\nCanva's folded cards page lists economy as free, 11–20 days — with 1–2 business days of production on top. Count business days: Thanksgiving is a holiday, weekends don't count. The cards land in the middle of December or later, and you still have to write and post them.\n\nThe post office's own last date for First-Class Mail to arrive by Christmas is 17 December. That is the line.\n\n📅 Free Christmas card order-by calendar: https://geniusjunkie.net/get-christmas-card-order-by-calendar/\n🗓 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-11-04T12:00:00.000Z",
+      "id": "iYTt7JGPzAc"
+    },
+    "promo-xc-dates": {
+      "composition": "PromoXcDates",
+      "title": "The date to order your Christmas cards by #shorts",
+      "voSlice": "220.59-243.0",
+      "description": "Give yourself a week to write the cards, so they need to be in your hands by Friday 11 December. Count back:\n\nFree economy shipping — order by Tuesday 10 November.\nStandard — by Friday 20 November.\nExpress — by Wednesday 2 December.\n\nThose are our sums from Canva's own numbers. Order before 5 pm, because Canva says a later order can add a day — and the delivery date at checkout is the one that counts.\n\n📅 Free Christmas card order-by calendar: https://geniusjunkie.net/get-christmas-card-order-by-calendar/\n🗓 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-11-04T19:00:00.000Z",
+      "id": "me_LoFnClEg"
+    },
+    "promo-xc-uk": {
+      "composition": "PromoXcUk",
+      "title": "UK Christmas cards: the last posting dates #shorts",
+      "voSlice": "243.21-255.67",
+      "description": "In the UK, Royal Mail's last posting date for Christmas 2026 is Friday 18 December for 2nd Class, and Monday 21 December for 1st Class.\n\nAnd whatever the calendar says, Canva's help page says the most accurate delivery date is the one shown at checkout. Look at it before you pay.\n\n📅 Free Christmas card order-by calendar: https://geniusjunkie.net/get-christmas-card-order-by-calendar/\n🗓 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-11-05T19:00:00.000Z",
+      "id": "yCLoEtDv5xA"
+    },
+    "promo-xc-bleed": {
+      "composition": "PromoXcBleed",
+      "title": "Two lines every printed card needs #shorts",
+      "voSlice": "150.0-174.0",
+      "description": "Before you order printed cards from Canva, turn on the guides: File → Rulers and guides → Show margins, then File → Settings → Show print bleed.\n\nCanva's help page: keep text and logos inside the margin; extend backgrounds to the bleed, not text. The bleed is 0.125 in (3.175 mm) on every side, and Canva says it cannot be adjusted.\n\nPhoto out to the bleed. Words inside the margin.\n\n📅 Free Christmas card order-by calendar: https://geniusjunkie.net/get-christmas-card-order-by-calendar/\n🗓 2027 Calendar Kit: https://geniusjunkie.net/2027-calendar-kit/",
+      "publishAt": "2026-11-05T12:00:00.000Z",
+      "id": "DOkLi6LBUwU"
+    }
+  },
+  "publishAt": "2026-11-02T17:00:00.000Z",
+  "schedulingNote": "NOT SCHEDULED — ask Annieth. Suggest public 2 Nov 17:00 UTC (two days after the invitation; ~4 weeks to index before the 1–25 Dec peak). Shorts from 4 Nov (invitation Shorts hold 2–3 Nov).",
+  "postUploadNote": "Record ids by hand (the uploaders do not write them back), then `node remotion-shorts/gj-link-shorts.mjs \"<this folder>\"`.",
+  "longformId": "-GwCg6_NeWs",
+  "publishedTitle": "B"
+}

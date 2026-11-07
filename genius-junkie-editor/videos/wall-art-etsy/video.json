@@ -1,0 +1,139 @@
+{
+  "slug": "wall-art-etsy",
+  "topic": "#7 Printable Wall Art → Etsy",
+  "shotDir": "long-8",
+  "project": "gj-long-8",
+  "composition": "Long8Art",
+  "thumb": "GJThumb8",
+  "promos": [
+    "PromoArtDpi",
+    "PromoArtRatios"
+  ],
+  "promoNames": {
+    "PromoArtDpi": "promo-dpi-trap",
+    "PromoArtRatios": "promo-five-ratios"
+  },
+  "adAfter": [
+    "05-design",
+    "09-packaging"
+  ],
+  "images": [
+    {
+      "name": "gallery-wall",
+      "prompt": "a styled neutral living room wall with three framed abstract prints in thin oak frames hung as a gallery set, warm beige and terracotta tones, soft daylight, interior photography"
+    },
+    {
+      "name": "frames-stack",
+      "prompt": "a stack of empty picture frames in assorted sizes leaning against a wall on a wooden floor, warm neutral tones, soft window light, photographic"
+    },
+    {
+      "name": "printing",
+      "prompt": "close-up of a home inkjet printer feeding out a sheet of matte art paper with abstract terracotta shapes, warm desk light, photographic"
+    },
+    {
+      "name": "framing-hands",
+      "prompt": "close-up of hands placing a printed art sheet into a wooden picture frame on a table, warm natural light, photographic"
+    },
+    {
+      "name": "laptop-etsy",
+      "prompt": "over-the-shoulder shot of a person at a laptop in a bright home studio managing an online shop, plants and prints behind, photographic"
+    }
+  ],
+  "product": {
+    "name": "Wall Art Starter Pack",
+    "description": "3-piece printable wall art set at all five Etsy ratios, 300 DPI + editable Canva template",
+    "amount": 499,
+    "currency": "gbp",
+    "folder": "wallart",
+    "slug": "wall-art-starter-pack",
+    "stripe": "https://buy.stripe.com/6oU9AU6Zd5XlcEAdanaR208"
+  },
+  "publishAt": "2026-08-16T17:00:00Z",
+  "timeline": {
+    "total": 522.55,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-sells.mp3": 31.9,
+      "03-ratios.mp3": 69.675,
+      "04-canvas.mp3": 112.275,
+      "05-design.mp3": 151.675,
+      "06-dpi.mp3": 199,
+      "07-licence.mp3": 256.35,
+      "08-mockup.mp3": 298,
+      "09-packaging.mp3": 330.9,
+      "10-listing.mp3": 376.35,
+      "11-scale.mp3": 418.55,
+      "12-checklist.mp3": 451.85,
+      "13-cta.mp3": 479.925,
+      "14-outro.mp3": 496.05
+    },
+    "adWindows": [
+      [
+        197.6,
+        199
+      ],
+      [
+        374.95,
+        376.35
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-sells.mp3",
+        "at": 31.9
+      },
+      {
+        "file": "03-ratios.mp3",
+        "at": 69.675
+      },
+      {
+        "file": "04-canvas.mp3",
+        "at": 112.275
+      },
+      {
+        "file": "05-design.mp3",
+        "at": 151.675
+      },
+      {
+        "file": "06-dpi.mp3",
+        "at": 199
+      },
+      {
+        "file": "07-licence.mp3",
+        "at": 256.35
+      },
+      {
+        "file": "08-mockup.mp3",
+        "at": 298
+      },
+      {
+        "file": "09-packaging.mp3",
+        "at": 330.9
+      },
+      {
+        "file": "10-listing.mp3",
+        "at": 376.35
+      },
+      {
+        "file": "11-scale.mp3",
+        "at": 418.55
+      },
+      {
+        "file": "12-checklist.mp3",
+        "at": 451.85
+      },
+      {
+        "file": "13-cta.mp3",
+        "at": 479.925
+      },
+      {
+        "file": "14-outro.mp3",
+        "at": 496.05
+      }
+    ]
+  }
+}

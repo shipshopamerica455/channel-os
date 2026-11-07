@@ -1,0 +1,88 @@
+{
+  "slug": "gift-tags",
+  "slateNumber": "Christmas #2 (seasonal insert)",
+  "voice": "Kokoro bm_fable",
+  "runtime": "8:31",
+  "titles": {
+    "A": "How to Make Gift Tags in Canva (Printable, 2026)",
+    "B": "How to Make Printable Christmas Gift Tags in Canva (10 Per Sheet)",
+    "C": "Canva Bulk Create Puts Every Gift Tag on Its Own Sheet (Here's the Fix)"
+  },
+  "recommended": "B",
+  "descriptionFile": "description.txt",
+  "tags": [
+    "how to make gift tags in canva",
+    "printable gift tags",
+    "christmas gift tags canva",
+    "gift tags canva",
+    "canva bulk create",
+    "bulk create gift tags",
+    "printable christmas gift tags",
+    "diy gift tags",
+    "gift tag template",
+    "canva printables",
+    "10 per sheet",
+    "canva tutorial 2026",
+    "print at home canva",
+    "christmas tags",
+    "canva free"
+  ],
+  "adBreaks": [
+    "3:07.0",
+    "6:06.0"
+  ],
+  "demandProbe": {
+    "measured": "2026-10-28",
+    "source": "CHRISTMAS-SLATE.md (vidIQ + rival view histories)",
+    "note": "All tag phrases <750/mo, comp 8–23 — thin keyword data. Case rests on rivals: Creative DIY Printable Page of TAGS 57,250 / 913 subs, evergreen."
+  },
+  "product": {
+    "name": "Printable Gift Tag Kit",
+    "price": "£4.99",
+    "slug": "printable-gift-tag-kit",
+    "new": true
+  },
+  "freeAsset": {
+    "name": "Gift Tag Names Sheet + Cutting Guide",
+    "slug": "get-gift-tag-names-sheet"
+  },
+  "cutaways": 5,
+  "shorts": {
+    "promo-gt-trap": {
+      "composition": "PromoGtTrap",
+      "title": "30 names. 30 sheets of card. #shorts",
+      "voSlice": "190.9-216.2",
+      "description": "You make one gift tag, open Bulk Create, add thirty names in one column and click Create. Thirty tags, every name right.\n\nThen look at the page count: thirty. Canva's help page says each row of your data creates one version of your design — one page — and your printer treats every page as a sheet of paper. Thirty sheets of card, one little tag on each.\n\nThe fix: ten name columns, one row per sheet.\n\n🏷 Free names sheet + cutting guide: https://geniusjunkie.net/get-gift-tag-names-sheet/\n🎁 Printable Gift Tag Kit: https://geniusjunkie.net/printable-gift-tag-kit/",
+      "publishAt": "2026-11-08T12:00:00Z",
+      "id": "Lkg9alyDwTA"
+    },
+    "promo-gt-fix": {
+      "composition": "PromoGtFix",
+      "title": "Ten name columns, not one #shorts",
+      "voSlice": "216.3-246.4",
+      "description": "Your sheet already has ten tags on it, so give it ten name boxes and ten name columns: Name 1 to Name 10.\n\nEach row is now one SHEET, not one tag. Connect Name 1 to the first tag, Name 2 to the second, and so on round the sheet. Click Create: thirty names, three rows, three sheets of card.\n\nCanva's help page allows up to 150 data fields, so ten is nowhere near the limit.\n\n🏷 Free names sheet + cutting guide: https://geniusjunkie.net/get-gift-tag-names-sheet/\n🎁 Printable Gift Tag Kit: https://geniusjunkie.net/printable-gift-tag-kit/",
+      "publishAt": "2026-11-08T19:00:00Z",
+      "id": "tu0zJKvJiWQ"
+    },
+    "promo-gt-fit": {
+      "composition": "PromoGtFit",
+      "title": "Fit to page shrinks every tag #shorts",
+      "voSlice": "345.2-356.9",
+      "description": "In the print window, set the scale to 100% — or Actual size. Not Fit to page. Fit to page shrinks the whole sheet, and every gift tag with it.\n\nThen print one copy on plain paper first, and hold it against your card before you load it.\n\n🏷 Free names sheet + cutting guide: https://geniusjunkie.net/get-gift-tag-names-sheet/\n🎁 Printable Gift Tag Kit: https://geniusjunkie.net/printable-gift-tag-kit/",
+      "publishAt": "2026-11-09T12:00:00Z",
+      "id": "ntMcyr6NnbE"
+    },
+    "promo-gt-free": {
+      "composition": "PromoGtFree",
+      "title": "No Bulk Create on Canva Free? Do this #shorts",
+      "voSlice": "287.0-322.7",
+      "description": "Bulk Create isn't on Canva Free — Canva's help page lists Pro, Teams, Business, Enterprise, Education and Nonprofit.\n\nYou can still make every tag: the sheet, the grid, the ten tags and the cut lines are all free. Type the ten names, duplicate the page, type the next ten. Thirty names is three pages and about ten minutes. Bulk Create earns its keep at two hundred names, not thirty.\n\n🏷 Free names sheet + cutting guide: https://geniusjunkie.net/get-gift-tag-names-sheet/\n🎁 Printable Gift Tag Kit: https://geniusjunkie.net/printable-gift-tag-kit/",
+      "publishAt": "2026-11-09T19:00:00Z",
+      "id": "md1O0BWE1xY"
+    }
+  },
+  "publishAt": "2026-11-06T17:00:00Z",
+  "chosenTitle": "B",
+  "longformId": "WJDepscGEG8",
+  "publishedTitle": "How to Make Printable Christmas Gift Tags in Canva (10 Per Sheet)"
+}

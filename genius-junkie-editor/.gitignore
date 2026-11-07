@@ -1,0 +1,41 @@
+# renders and per-project working files are disposable; plan files are not
+videos/**/*.mp4
+videos/**/*.mov
+videos/**/audio.wav
+videos/**/.chunks/
+videos/**/.frame-*.png
+videos/**/.polished.mp4
+!assets/**
+
+# The paid-kit path prefix is the only thing protecting the kit PDFs, and this
+# repo has a PUBLIC GitHub remote. Never commit it.
+pipeline/kit-base.json
+
+# The Canva template share links ARE the paid product — a link is the whole
+# grant. Same rule as kit-base.json: never commit it to this PUBLIC remote.
+pipeline/canva-links.json
+
+# ---- the paid kits themselves ---------------------------------------------
+# These PDFs and PNGs ARE the £4.99 product. The server hides them behind an
+# unguessable path; committing them to this PUBLIC remote would hand them over
+# from the other end, and no secret scanner would flag it, because they are
+# files rather than credentials. 134 PDFs, 8 PNGs.
+# The makers beside them stay tracked — product/*.py and product/*.md are the
+# source, they regenerate the PDFs, and they no longer hold any Canva link.
+# `videos/*/free/*.pdf` is deliberately NOT here: the free rung is a giveaway,
+# so publishing it costs nothing.
+videos/**/product/*.pdf
+videos/**/product/*.png
+
+# ---- voice-over and music beds --------------------------------------------
+# Both are regenerable: vo/ is Kokoro reading script.md, bed.wav is `gj music`.
+# The beds run 94-100 MB each — at or over GitHub's 100 MB per-file limit, so
+# they would fail the push rather than bloat it. 576 mp3s + 6 beds ≈ 600 MB.
+videos/**/vo/*.mp3
+videos/**/bed.wav
+voice-bakeoff/*.wav
+voice-bakeoff/*.mp3
+
+# ---- python bytecode -------------------------------------------------------
+__pycache__/
+*.pyc

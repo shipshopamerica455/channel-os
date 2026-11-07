@@ -1,0 +1,45 @@
+📄 FREE — The Canva Print Checklist — Bleed, DPI, and the export setting that quietly halves your resolution.
+https://geniusjunkie.net/get-print-checklist/
+
+Almost every wallpaper template you'll find is 1080 x 1920 — sixteen by nine. Your phone isn't. It's nineteen-and-a-half by nine, and it will never letterbox a wallpaper: it scales the image until the HEIGHT fills the screen, lets the width overhang, and crops the overhang.
+
+That costs you about 18% of the width on an iPhone 16 Pro or a Galaxy S25, and over 20% on a Pixel 9 — and what's left is upscaled, so it's softer than you made it.
+
+This is the whole build, at the sizes that survive, for phone and desktop — plus the safe zone nobody shows you, the export settings, and the licence rule that matters if you plan to sell a pack.
+
+📐 THE WALLPAPER KIT — £4.99
+Two editable Canva templates already at the right sizes (phone 1440 x 3120, desktop 3840 x 2160) with the clock, icon and dock safe zones marked as deletable guides. Plus the size cheat sheet for every current phone and monitor, the safe-zone map, the export settings, six palette recipes, the twelve-month set planner, and a plain-English page on what Canva's licence does and doesn't let you sell.
+→ https://geniusjunkie.net/wallpaper-kit/
+
+THE TWO NUMBERS
+Phone: 1440 x 3120 (19.5:9)
+Desktop: 3840 x 2160 (4K — divides cleanly to 2560x1440 and 1920x1080)
+
+Design at those and every device scales DOWN. Downscaling looks clean. Upscaling never does.
+
+CHAPTERS
+0:00 The wallpaper that loses its edges
+0:34 Why it crops — 1.78 against 2.17
+1:08 The sizes that actually work
+1:51 Setting up the canvas
+2:26 Building the phone one
+3:11 The safe zone
+3:56 Exporting it
+4:38 The desktop version, without rebuilding it
+5:18 If you plan to sell these
+6:08 Making it a set
+6:46 Setting it, and what still goes wrong
+7:21 The checklist
+7:54 The pack
+8:22 What to take away
+
+SOURCES
+Canva's wallpaper page: https://www.canva.com/create/wallpapers/
+Canva's commercial-use licence: https://www.canva.com/help/licenses-copyright-legal-commercial-use/
+Device resolutions: Apple tech specs, Samsung, GSMArena (checked August 2026)
+
+MORE FROM GENIUS JUNKIE
+Wall art you can actually sell: https://geniusjunkie.net/wall-art-starter-pack/
+Every template we make: https://geniusjunkie.net/template-club/
+
+#canva #canvatutorial #wallpaper #phonewallpaper #canvatips

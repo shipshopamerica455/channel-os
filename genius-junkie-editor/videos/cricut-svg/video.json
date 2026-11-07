@@ -1,0 +1,150 @@
+{
+  "slug": "cricut-svg",
+  "topic": "How to Make SVG Files in Canva for Cricut",
+  "shotDir": "long-32",
+  "project": "gj-cricut-svg",
+  "composition": "CricutSVG",
+  "thumb": "GJThumb32",
+  "promos": [
+    "PromoCutRefused",
+    "PromoCutVector",
+    "PromoCutPaths",
+    "PromoCutWeld"
+  ],
+  "promoNames": {
+    "PromoCutRefused": "promo-cut-refused",
+    "PromoCutVector": "promo-cut-vector",
+    "PromoCutPaths": "promo-cut-paths",
+    "PromoCutWeld": "promo-cut-weld"
+  },
+  "adAfter": [
+    "05-building-one",
+    "09-text-and"
+  ],
+  "images": [
+    {
+      "name": "cut-vinyl",
+      "after": "S01",
+      "prompt": "Warm photographic close-up of freshly cut vinyl lettering being weeded on a cutting mat in a bright craft room, tweezers lifting a small offcut, soft daylight, shallow depth of field, tactile and satisfying, design indistinct and unreadable, no readable text"
+    },
+    {
+      "name": "failed-cut",
+      "after": "S06",
+      "prompt": "Photographic shot of a person sitting back from a laptop beside a cutting machine in low evening light, posture suggesting a small defeat, face not visible, shallow depth of field, muted and quiet, no readable text"
+    },
+    {
+      "name": "torn-detail",
+      "after": "S08",
+      "prompt": "Macro photograph of a thin cut vinyl shape tearing as it is lifted from the backing sheet, raking side light, very shallow depth of field, fragile and detailed, no readable text"
+    },
+    {
+      "name": "sticker-sheet",
+      "after": "S10",
+      "prompt": "Warm photographic overhead of a printed sticker sheet on a wooden desk beside a home printer and a cutting machine, a hand peeling one sticker, late afternoon light, shallow depth of field, cheerful and crafty, designs indistinct, no readable text"
+    },
+    {
+      "name": "finished-makes",
+      "after": "S14",
+      "prompt": "Photographic shot of finished vinyl-decorated items on a shelf in a small home craft studio — a tumbler, a tote, a framed sign — warm evening lamp light, shallow depth of field, a small business at rest, designs indistinct, no readable text"
+    }
+  ],
+  "product": {
+    "name": "Sticker & Illustration Kit",
+    "price": "£4.99",
+    "existing": "sticker-illustration-kit",
+    "note": "ALREADY BUILT (verified live, 200). NARROW HONEST FIT, stated in the script: an editable Canva sticker sheet with cut lines and safe margins — it contains NO SVG files, so it does NOT serve the SVG-cutting job this video is mostly about. It serves the OTHER job the video covers, Print Then Cut sticker sheets, and the close says exactly that. DO NOT run commerce. THIRD consecutive video pointing at this pack — the catalogue is short of packs, and a real SVG/cut-file pack is the obvious gap."
+  },
+  "freeAsset": {
+    "name": "Canva → Cricut Export Card",
+    "slug": "get-cricut-export-card",
+    "note": "NEW one-pager: Cricut's unsupported-items list quoted verbatim, the 5,000-path ceiling, the six accepted file types and which upload as a single layer, the scale-up vector test, the SVG-is-Pro note, the weld rule and its one-way warning, colour-equals-layers, and the seven pre-export checks."
+  },
+  "publishAt": "2026-10-13T17:00:00.000Z",
+  "timeline": {
+    "total": 557.7,
+    "offsets": {
+      "01-hook.mp3": 1.2,
+      "02-the-free.mp3": 44.751,
+      "03-what-design.mp3": 77.176,
+      "04-the-test.mp3": 122.076,
+      "05-building-one.mp3": 162.076,
+      "06-the-trap.mp3": 202.726,
+      "07-the-export.mp3": 256.426,
+      "08-the-five.mp3": 299.951,
+      "09-text-and.mp3": 341.001,
+      "10-the-other.mp3": 391.226,
+      "11-layers-and.mp3": 430.676,
+      "12-keeping-the.mp3": 469.176,
+      "13-the-checks.mp3": 502.626,
+      "14-close.mp3": 533.726
+    },
+    "adWindows": [
+      [
+        201.33,
+        202.73
+      ],
+      [
+        389.83,
+        391.23
+      ]
+    ],
+    "sections": [
+      {
+        "file": "01-hook.mp3",
+        "at": 1.2
+      },
+      {
+        "file": "02-the-free.mp3",
+        "at": 44.751
+      },
+      {
+        "file": "03-what-design.mp3",
+        "at": 77.176
+      },
+      {
+        "file": "04-the-test.mp3",
+        "at": 122.076
+      },
+      {
+        "file": "05-building-one.mp3",
+        "at": 162.076
+      },
+      {
+        "file": "06-the-trap.mp3",
+        "at": 202.726
+      },
+      {
+        "file": "07-the-export.mp3",
+        "at": 256.426
+      },
+      {
+        "file": "08-the-five.mp3",
+        "at": 299.951
+      },
+      {
+        "file": "09-text-and.mp3",
+        "at": 341.001
+      },
+      {
+        "file": "10-the-other.mp3",
+        "at": 391.226
+      },
+      {
+        "file": "11-layers-and.mp3",
+        "at": 430.676
+      },
+      {
+        "file": "12-keeping-the.mp3",
+        "at": 469.176
+      },
+      {
+        "file": "13-the-checks.mp3",
+        "at": 502.626
+      },
+      {
+        "file": "14-close.mp3",
+        "at": 533.726
+      }
+    ]
+  }
+}
